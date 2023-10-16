@@ -1,0 +1,303 @@
+[
+    {
+        "question" : "A person buys a pen from a wholesaler at Rs. 10 for 20 pens. He sells those pens at Rs. 10 for 15 pens. Find his profit percent.",
+        "answer" : "33.334%"
+    },
+    {
+        "question" : "A dealer incurs a loss of 5 % if he sells an article for Rs. 1805. What price must he sell the article so as to gain 5 % on that article? ",
+        "answer" : "Rs. 1995 "
+    },
+    {
+        "question" : " If the cost price of an article is 67 % of the selling price, what is the profit percent? ",
+        "answer" : "49.25 %"
+    },
+    {
+        "question" : " A shopkeeper purchased two varieties of rice, 80 KG at Rs. 13.50 per KG and 120 KG at Rs. 16 per KG. The shopkeeper being greedy, mixed the two varieties of rice and sold the mixture at a gain of 16 %. Find the per KG selling price of the mixture.",
+        "answer" : "Rs. 17.40"
+    },
+    {
+        "question" : "A seller claims to sell at cost price but gives 750 gm for each KG. Find his gain percent. ",
+        "answer" : "33.334 %"
+    },
+    {
+        "question" : "A man sold two watches at the same price, one at a 10 % profit and the other at a 10 % loss. Find his overall gain or loss percentage. ",
+        "answer" : "Let the selling price of each watch be Rs. 99 S => Total SP = Rs. 198 S CP of first watch = SP – Profit = Rs. 99 S- 10 % of CP = Rs. 90 S CP of second watch = SP + Loss = Rs. 99 S + 10 % of CP = Rs. 110 S => Total CP = Rs. 90 S + 110 S = Rs. 200 S => Loss = Total CP – Total SP = 200 – 198 = Rs. 2 S Therefore, loss percent = (Loss / CP) x 100 = (2 S / 200 S) x 100 % = 1 %"
+    },
+    {
+        "question" : "A shopkeeper gives two successive discounts of 20 % and 10 % on surplus stock. Further, he also gives a 5 % extra discount on cash payments. If a person buys a shirt from the surplus stock and pays in cash, what overall discount percent will he get on the shirt? ",
+        "answer" : "31.60 % "
+    },
+    {
+        "question" : "A dealer wants to mark the price of an article such that by offering a 5 % discount, he is able to get 33 % profit. Find the percent of CP above which the article should be marked. ",
+        "answer" : "40 %"
+    },
+    {
+        "question" : "The cost price of 12 books is equal to the selling price of 10 books. The gain percent is :",
+        "answer" : "20 %"
+    },
+    {
+        "question" : "If the loss% on article is 15%. Then the ratio of cost price and selling price will be",
+        "answer" : "CP : SP = 20 : 17"
+    },
+    {
+        "question" : "Ram goes from place P to Q to buy an article costing 20% less at Q. Although he spends Rs 200 on travelling, still he gains Rs 200 compared to buying at P. His profit percent is:",
+        "answer" : "10%"
+    },
+    {
+        "question" : "The price of a TV and a refrigerator set are in ratio 3:5. If the refrigerator cost Rs 4400 more than the TV set, then the price of the TV is",
+        "answer" : "Rs 6600"
+    },
+    {
+        "question" : "A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 20% loss whereas the shop sale into 20% profit. The entire transaction resulted in:",
+        "answer" : "1/12 lakh"
+    },
+    {
+        "question" : "A shopkeeper sells a chair at a profit of 20%. If he had bought the table at 10% less cost and sold for Rs 60 more, he would have gained 40%. The cost price of the chair is:",
+        "answer" : "Rs 1000"
+    },
+    {
+        "question" : "By selling a bicycle of Rs 3360 a shopkeeper gain 12%. If the profit is reduced to 8%, then the selling price will be",
+        "answer" : "Rs 3240"
+    },
+    {
+        "question" : "A man purchased an article of Rs 2500 and sold it at 40% above the cost price. If he has to pay Rs 250 as tax on it his net profit percentage will be:",
+        "answer" : "30%"
+    },
+    {
+        "question" : "A sells an item to B at a profit of 25%. B sells it to C at a profit of 20%. If C pays Rs 900 for it, the cost price of the bicycle for A is :",
+        "answer" : "600"
+    },
+    {
+        "question" : "A increase of 20% in the price of apple enabled a purchaser to obtain 4 apple less of Rs 72. The price of 16 apple before increase was :",
+        "answer" : "24 apples = Rs 72 ; 1 apple = Rs 3 ; 16 apples = Rs 48"
+    },
+    {
+        "question" : "By selling 100 oranges, a shopkeeper gains the selling price of 20 oranges. His gain percent is",
+        "answer" : "25%"
+    },
+    {
+        "question" : "A dealer makes a profit of 20% even after giving a 10% discount on the advertised price of a scooter.If he makes a profit of Rs 7200 on the sale of the scooter, the advertise price was",
+        "answer" : "Rs. 48000"
+    },
+    {
+        "question" : "A shopkeeper allows a discount of 22% on the marked price. How much above the cost price must he mark his goods as to gain 17%?",
+        "answer" : "50%"
+    },
+    {
+        "question" : "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
+        "answer" : "(300 / 5500) * 100"
+    },
+    {
+        "question" : "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+        "answer" : "16"
+    },
+    {
+        "question" : "If selling price is doubled, the profit triples. Find the profit percent.",
+        "answer" : "100"
+    },
+    {
+        "question" : "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+        "answer" : "70%"
+    },
+    {
+        "question" : "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+        "answer" : "5"
+    },
+    {
+        "question" : "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+        "answer" : "2000"
+    },
+    {
+        "question" : "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+        "answer" : "Rs.72"
+    },
+    {
+        "question" : "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+        "answer" : "Rs.1190"
+    },
+    {
+        "question" : "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
+        "answer" : "5.6"
+    },
+    {
+        "question" : "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
+        "answer" : "44%"
+    },
+    {
+        "question" : "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
+        "answer" : "Rs.60"
+    },
+    {
+        "question" : "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
+        "answer" : "Rs.25,300"
+    },
+    {
+        "question" : "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
+        "answer" : "(100/7)%"
+    },
+    {
+        "question" : "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
+        "answer" : "(100/17)%"
+    },
+    {
+        "question" : "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+        "answer" : "5%"
+    },
+    {
+        "question" : "A  shopkeeper sold an article for Rs. 2500. If the cost price of the article is 2000, find the profit percent.",
+        "answer" : "25%"
+    },
+    {
+        "question" : "A man purchases a TV for Rs. 8000 and sells it at 10% loss. What is the selling price of T.V?",
+        "answer" : "Rs.7200"
+    },
+    {
+        "question" : "Ramesh bought a chair for Rs. 1540 and sold it to Suresh. If Ramesh earned a profit of 25%, find the selling price of chair.",
+        "answer" : "Rs.1925"
+    },
+    {
+        "question" : "A shopkeeper purchases a table and sells it for Rs. 4200. If he incurs a loss of 20%, find the cost price of table.",
+        "answer" : "Rs.5250"
+    },
+    {
+        "question" : "Suresh bought a cell phone from a shop. If he sells it at Rs. 8400 to Mahesh and earns a profit of 12%, find the price at which Suresh bought the cell phone.",
+        "answer" : "Rs.7500"
+    },
+    {
+        "question" : "A shopkeeper bought a watch for Rs. 1200. At what price should he sell the watch to earn a profit of 25% ?",
+        "answer" : "Rs.1500"
+    },
+    {
+        "question" : "Mohan bought an article at 25% less of the marked price and sold it at 15% more than the marked price. Find the profit earned by him.",
+        "answer" : "53.3%"
+    },
+    {
+        "question" : "If the cost price of 120 mangoes is equal to the selling price of 100 mangoes, what is the profit percent in this transaction?",
+        "answer" : "20%"
+    },
+    {
+        "question" : "After selling 140 apples a fruit seller earns a profit equal to S.P. of 20 apples. His profit percentage is:",
+        "answer" : "16.7%"
+    },
+    {
+        "question" : "he cost price of 30 articles is equal to the selling price of 25 articles. What is the profit percentage in this transaction?",
+        "answer" : "20%"
+    },
+    {
+        "question" : "A man earns a profit of 20% on selling price. Find the profit percent on the cost price.",
+        "answer" : "25%"
+    },
+    {
+        "question" : "The owner of the cell phone shop charges 23% more than the cost price. If a customer paid 7011 for a cell phone, find the cost price of the cell phone.",
+        "answer" : "5700"
+    },
+    {
+        "question" : "The profit percent gained if an object is sold at Rs 464 is equals to the loss percent when the object is sold at Rs 436. Find the cost price of this object?",
+        "answer" : "450"
+    },
+    {
+        "question" : "A shopkeeper sells an article for Rs 78 and earns double the profit that he would have earned on selling this article for Rs 69. Find the C.P of this article",
+        "answer" : "60"
+    },
+    {
+        "question" : "By selling an object for Rs 900, a man earns a profit that is double the loss incurred when the object is sold for Rs 450. If he sells it at a profit of 20%, find the selling price of this object.",
+        "answer" : "720"
+    },
+    {
+        "question" : "By selling a property for Rs 45000 a person incurs a loss of 10%. Find the selling price to gain the profit of 15 %?",
+        "answer" : "57500"
+    },
+    {
+        "question" : "A person purchases some article at the rate of 4 articles for rupees 5 and sells them at the rate of 5 articles for rupees 4. Find the total profit or loss in %.",
+        "answer" : "20% loss"
+    },
+    {
+        "question" : "A shopkeeper purchases some article at the rate of 2 articles for rupees 3 and purchases twice of the quantity at the rate of 3 articles for rupees 2. He sells them at the rate of 6 articles for rupees 7. Find the profit or loss %.",
+        "answer" : "23.52% profit"
+    },
+    {
+        "question" : "A shopkeeper sells his goods at a profit of 10%. If he had purchased it at 20% less and sells it at rupees 10 more, he had a gain of 40%. Find the C.P of the goods.",
+        "answer" : "500"
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    },
+    {
+        "question" : "",
+        "answer" : ""
+    }
+
+]
