@@ -220,84 +220,188 @@
         "answer" : "500"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "The C.P of an article is equaled to the profit %, and a shopkeeper sells it in Rs 56. Find the C.P of the article.",
+        "answer" : "C.P = Profit% = 40"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "The marked price of a radio is Rs 480. The owner allows a discount of 10% and still earns the profit of 8%. If no discount is allowed, find his gain percent?",
+        "answer" : "20%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "5% more is gained by selling a cow for Rs 1010 than by selling it for Rs 1000. What is the C.P of the cow?",
+        "answer" : "Rs 200"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "A dishonest milkman sells milk at cost price, but he mixes water and earns 16(2/3) % profit. Find the ratio of mixture and milk in the mixture.",
+        "answer" : "7:8"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "Ayaan bought 30 kg of rice at the rate of Rs 9.50/ kg and 40 kg rice at the rate of Rs 8.50/kg and mixed them. He sold the mixture at the rate of Rs. 8.90/kg. Find his total profit or loss in the transaction.",
+        "answer" : "Rs 2 loss"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "If a retail seller buys 30 pencils at the marked price of 27 pens, find the profit percent.",
+        "answer" : "11(1/9)%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "If selling price is doubled, the profit triples. Find the profit percent ?",
+        "answer" : "100%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+        "answer" : "5%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "By selling 45 lemons for Rs 40, a man loses 20%. How many should he sell for Rs 24 to gain 20% in the transaction ?",
+        "answer" : "18"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "If the cost price of 12 pens is equal to the selling price of 8 pens, the gain percent is ?",
+        "answer" : "50%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "A milkman purchases the milk at Rs. x per litre and sells it at Rs. 2x per litre still he mixes 2 litres water with every 6 litres of pure milk. What is the profit percentage?",
+        "answer" : "166.66%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "If books bought at prices ranging from Rs. 200 to Rs. 350 are sold at prices ranging from Rs. 300 to Rs. 425, what is the greatest possible profit that might be made in selling eight books ?",
+        "answer" : "1800"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "Cost of 3 cricket balls = cost of 2 pairs of leg pads.Cost of 3 pairs of leg pads = cost of 2 pairs of gloves. Cost of 3 pairs of gloves = cost of 2 cricket bats. If a cricket bat costs Rs 54, what is the cost of a cricket ball. ",
+        "answer" : "Rs. 16"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
+        "answer" : "Rs.2000"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "If the cost price is 25% of selling price. Then what is the profit percent.",
+        "answer" : "300%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "Tarun got 30% concession on the labelled price of an article and sold it for Rs. 8750 with 25% profit on the price he bought. What was the labelled price ?",
+        "answer" : "10000"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "A Shopkeeper sells two articles at Rs.1000 each, making a profit of 20% on the first article and a loss of 20% on the second article. Find the net Profit or loss that he makes? ",
+        "answer" : "4%"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "A person incurs a loss of 5% be selling a watch for Rs. 1140. At what price should the watch be sold to earn 5% profit.",
+        "answer" : "Rs.1260"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "By selling an article at Rs.800, a shopkeeper makes a profit of 25%.At what price should he sell the article so as to make a loss of 25%?",
+        "answer" : "Rs.480"
     },
     {
-        "question" : "",
-        "answer" : ""
+        "question" : "What profit percent is made by selling an article at a certain price, if by selling at 2/3rd of that price, there would be a loss of 20% ?",
+        "answer" : "20%"
+    },
+    {
+        "question" : "A man buys oranges at Rs 5 a dozen and an equal number at Rs 4 a dozen. He sells them at Rs 5.50 a dozen and makes a profit of Rs 50. How many oranges does he buy?",
+        "answer" : "50 dozens"
+    },
+    {
+        "question" : "Due to reduction of 25% in price of oranges a customer can purchase 4 oranges more for Rs. 16. what is original price of an orange?",
+        "answer" : "Rs. 1.33"
+    },
+    {
+        "question" : "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is ?",
+        "answer" : "Rs.60"
+    },
+    {
+        "question" : "Bhajan Singh purchased 120 reams of paper at Rs 80 per ream. He spent Rs 280 on transportation, paid octroi at the rate of 40 paise per ream and paid Rs 72 to the coolie. If he wants to have a gain of 8 %, what must be the selling price per ream?",
+        "answer" : "90"
+    },
+    {
+        "question" : "In a scheme, a pack of three soaps with MRP Rs.45 is available for Rs.42. If it still gives a profit of 5% to the shopkeeper, then the cost price of the pack is ?",
+        "answer" : "40"
+    },
+    {
+        "question" : "'A' sold an article to 'B' at a profit of 20%. 'B' sold the same article to 'C' at a loss of 25% and 'C' sold the same article to 'D' at a profit of 40%. If 'D' paid Rs 252 for the article, then find how much did 'A' pay for it?",
+        "answer" : "Rs.200"
+    },
+    {
+        "question" : "A trader sold an article at a loss of 5% but when he increased the selling price by Rs.65 he gained 3.33% on the cost price. If he sells the same article at Rs. 936, what is the profit percentage?",
+        "answer" : "20%"
+    },
+    {
+        "question" : "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+        "answer" : "16"
+    },
+    {
+        "question" : "Every year before the festive season,a shopkeeper increases the price of the product by 35% and then introduce two successive discount of 10% and 15% respectively.what is percentage loss and percentage gain ?",
+        "answer" : "3.27 % gain"
+    },
+    {
+        "question" : "The sale price of an article including the sales tax is Rs. 616. The rate of sales tax is 10%. If the shopkeeper has made a profit of 12%, then the cost price of the article is :",
+        "answer" : "Rs.500"
+    },
+    {
+        "question" : "A shopkeeper sells one-third of his goods at a profit of 10%, another one-third at a profit of 20%, and the rest at a loss of 6%.What is his overall profit percentage ?",
+        "answer" : "8%"
+    },
+    {
+        "question" : "If goods be purchased for Rs.450 and 1/3 is sold at a loss of 10%. At what gain % should the remainder is sold to has to gain 20% on the whole transaction?",
+        "answer" : "35%"
+    },
+    {
+        "question" : "A dealer sold two of his cattle for Rs. 500 each. On one of them he lost 10% on the other, he gained 10%. His gain or loss percent in the entire transaction was:",
+        "answer" : "1% loss"
+    },
+    {
+        "question" : "If the manufacturer gains 10 %, the wholesale dealer 15 % and the retailer 25 %, then find the cost of production of a table if the retail price was Rs 1265",
+        "answer" : "Rs.800"
+    },
+    {
+        "question" : "A man bought an article and sold it at a gain of 5 %. If he had bought it at 5% less and sold it for Re 1 less, he would have made a profit of 10%. The C.P. of the article was",
+        "answer" : "Rs.200"
+    },
+    {
+        "question" : "The profit earned by selling an article for Rs. 832 is equal to the loss incurred when the same article is sold for Rs. 448. What should be the sale price for making 50% profit ?",
+        "answer" : "Rs.960"
+    },
+    {
+        "question" : "The cash difference between the selling prices of an article at a profit of 4% and 6% is Rs 3. The ratio of two selling prices is",
+        "answer" : "52:53"
+    },
+    {
+        "question" : "A, B and C invest in the ratio of 3 : 4: 5. The percentage of return on their investments are in the ratio of  6 : 5 : 4. Find the total earnings, If B earns Rs. 250 more than A :",
+        "answer" : "Rs. 7250"
+    },
+    {
+        "question" : "Ajay bought 15 kg of dal at the rate of Rs 14.50 per kg and 10 kg at the rate of Rs 13 per kg. He mixed the two and sold the mixture at the rate of Rs 15 per kg. What was his total gain in this transaction ?",
+        "answer" : "Rs 27.50"
+    },
+    {
+        "question" : "Rahul went to purchase a Nokia mobile handset, the shopkeeper told him to pay 20% tax if he asked the bill. Rahul manages to get the discount of 5% on the actual saleprice of the mobile and he paid the shopkeeper Rs. 3325 without tax. Besides he manages to avoid to pay 20% tax on the already  discounted price, what is the amount of discount that he has gotten?",
+        "answer" : "Rs 875"
+    },
+    {
+        "question" : "A sweet seller sells 3/5th part of sweets at a profit of 10% and remaining at a loss of 5%. If the total profit is Rs 1500, then what is the total cost price of sweets ?",
+        "answer" : "Rs.37,500"
+    },
+    {
+        "question" : "In what ratio should water and wine be mixed so that after selling the mixture at the cost price a profit of 33.33% is made?",
+        "answer" : "1:3"
+    },
+    {
+        "question" : "A man saves 20% of his monthly salary. If an account of dearness of things he is to increase his monthly expenses by 15%, he is only able to save Rs. 400 per month. What is his monthly salary ?",
+        "answer" : "Rs. 5000"
+    },
+    {
+        "question" : "If the selling price of a mat is five times the discount offered and if the percentage of discount is equal to the percentage profit, find the ratio of the discount offered to the cost price.",
+        "answer" : "7:30"
+    },
+    {
+        "question" : "A guy walks into a store and steals Rs. 100 from the store without the owner's knowledge. He then buys Rs. 60 worth of goods using that Rs. 100 and the owner gies Rs. 40 in change. How much money did the owner lose?",
+        "answer" : "Rs.100"
+    },
+    {
+        "question" : "A milk man has 20 liters of milk. If he mixes 5 liters of water, which is freely available, in 20 liters of pure milk.If the cost of pure milk is Rs.18 per liter,then the profit of the milkman, when he sells all the mixture at cost price is:",
+        "answer" : "25%"
     }
 
 ]
