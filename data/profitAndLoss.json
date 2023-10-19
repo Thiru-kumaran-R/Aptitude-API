@@ -402,6 +402,69 @@
     {
         "question" : "A milk man has 20 liters of milk. If he mixes 5 liters of water, which is freely available, in 20 liters of pure milk.If the cost of pure milk is Rs.18 per liter,then the profit of the milkman, when he sells all the mixture at cost price is:",
         "answer" : "25%"
+    },
+    {
+        "question" : "A person sold two cows each for Rs.9900. If he gained 10% on one and lost 20% on the other, then which of the following is true?",
+        "answer" : " Net loss = 2475 - 900 = 1575"
+    },
+    {
+        "question" : "By mixing two qualities of pulses in the ratio 2: 3 and selling the mixture at the rate of Rs 22 per kilogram, a shopkeeper makes a profit of 10 %. If the cost of the smaller quantity be Rs 14 per kg, the cost per kg of the larger quantity is:",
+        "answer" : "Rs.24"
+    },
+    {
+        "question" : "A merchant buys two articles for Rs.600. He sells one of them at a profit of 22% and the other at a loss of 8% and makes no profit or loss in the end. What is the selling price of the article that he sold at a loss ?",
+        "answer" : "Rs. 404.80"
+    },
+    {
+        "question" : "A retailer buys a radio for Rs 225. His overhead expenses are Rs 15. He sellis the radio for Rs 300. The profit percent of the retailer is",
+        "answer" : "25%"
+    },
+    {
+        "question" : "A car mechanic purchased four old cars for Rs. 1 lakh. He spent total 2 lakh in the maintenance and repairing of these four cars. what is the average sale price of the rest three cars to get 50% total profit if he has already sold one of the four cars at Rs. 1.2 lakh?",
+        "answer" : "1.1 lakh"
+    },
+    {
+        "question" : "A man buys an item at Rs. 1200 and sells it at the loss of 20 percent. Then what is the selling price of that item",
+        "answer" : "Rs. 960"
+    },
+    {
+        "question" : "The marked price of an article is increased  by 25% and the selling price is increased by 16.66%, then the amount of profit doubles. If the original marked price  be Rs. 400 which is greater than the corresponding cost price by 33.33% , what is the increased selling price?",
+        "answer" : "420"
+    },
+    {
+        "question" : "If the cost price of a certain object doubles, then the loss gets tripled of what it was initially. The initial loss % was ?",
+        "answer" : "50 %"
+    },
+    {
+        "question" : "A shopkeeper fixes the marked price of an item 35% above its cost price. The percentage of discount allowed to gain 8% is",
+        "answer" : "20%"
+    },
+    {
+        "question" : "A seller uses 840 gm in place of 1 kg to sell his goods. Find his actual profit/loss % When he sells his article on 4% loss on cost price ?",
+        "answer" : "14.28 % profit"
+    },
+    {
+        "question" : "Arun purchased 30 kg of wheat at the rate of Rs. 11.50 per kg and 20 kg of wheat at the rate of 14.25 per kg. He mixed the two and sold the mixture. Approximately what price per kg should be sell the mixture to make 30% profit ?",
+        "answer" : "Rs. 16.30"
+    },
+    {
+        "question" : "The ratio of the cost price and selling price of a shirt is 32 : 37. What is the profit percentage?",
+        "answer" : "15.63"
+    },
+    {
+        "question" : "K purchased a table for Rs.11,000 and sold it for Rs.13,500. What is his gain in percentage?",
+        "answer" : "22.7%"
+    },
+    {
+        "question" : "A shopkeeper sold a mobile phone for Rs. 12000. Had he offered discount of 10% on the selling price, there would be a loss of 4%. What is the cost price of that Mobile phone?",
+        "answer" : "Rs. 11,250"
+    },
+    {
+        "question" : "A milkman has 20 liters of milk. If he mixes 5 liters of water, which is freely available, in 20 liters of pure milk. If the cost of pure milk is Rs. 18 per litre, then the profit of the milkman, when he sells all the mixture at  cost price, is:",
+        "answer" : "25%"
+    },
+    {
+        "question" : "Two successive discounts of 5% and 15% are given by Rakesh on a table. If the marked price of the table is Rs 2000, then what is the value (in Rs) of discount",
+        "answer" : "Rs.385"
     }
-
 ]
