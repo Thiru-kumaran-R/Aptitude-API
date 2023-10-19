@@ -1,0 +1,418 @@
+[
+    {
+        "question" : "A's age after 15 years would be equal to 5 times his age 5 years ago. Find his age 3 years hence.",
+        "answer" : "13 years"
+    },
+    {
+        "question" : "The product of the ages of A and B is 240. If twice the age of B is more than A’s age by 4 years, what was B’s age 2 years ago?",
+        "answer" : "10 years"
+    },
+    {
+        "question" : " The present age of a mother is 3 years more than three times the age of her daughter. Three years hence, the mother’s age will be 10 years more than twice the age of the daughter. Find the present age of the mother.",
+        "answer" : "33 years"
+    },
+    {
+        "question" : "The ratio of present ages of A and B is 6 : 7. Five years hence, this ratio would become 7 : 8. Find the present age of A and B.",
+        "answer" : "35 years"
+    },
+    {
+        "question" : "Sum of the age of 4 children born at interval of 4 years is 36. What is the age of youngest child?",
+        "answer" : "3 years"
+    },
+    {
+        "question" : "A is 5 years older than B who is thrice as old as C. If the total of ages of A, B and C is 40, then how old is C ?",
+        "answer" : "5"
+    },
+    {
+        "question" : "Present age of Vinod and Ashok are in ratio of 3:4 respectively. After 5 years, the ratio of their ages becomes 7:9 respectively. What is Ashok’s present age is ?",
+        "answer" : "40 years"
+    },
+    {
+        "question" : "At present father’s age is thrice of son’s age. After 15 years father’s age will be double of son’s age. What is son’s present age?",
+        "answer" : "15 years"
+    },
+    {
+        "question" : "At present father’s age is thrice of son’s age. After 15 years father’s age will be double of son’s age. What is son’s present age?",
+        "answer" : "15 years"
+    },
+    {
+        "question" : "At present, the ratio between ages of Ram and Shyam is 6:5 respectively. After 7 years, Shyam’s age will be 32 years. What is the present age of Ram?",
+        "answer" : "30"
+    },
+    {
+        "question" : "The present ages of A, B and C are in proportions 4:5:9. Nine years ago, sum of their ages was 45 years. Find their present ages in years",
+        "answer" : "16, 20, 36"
+    },
+    {
+        "question" : "A person’s present age is one third of the age of his mother. After 12 years, his age will be one half of the age of his mother. What is present age of his mother?",
+        "answer" : "36"
+    },
+    {
+        "question" : "A is as older than B as he is younger than C.If the sum of ages of B and C is 68 years. What is the present age of A?",
+        "answer" : "34 years"
+    },
+    {
+        "question" : "After 15 years, Paul’s age will be 5 times his age 5 years back. Find out his present age.",
+        "answer" : "10 years"
+    },
+    {
+        "question" : "Sam is 16 years older than Peter. If 6 years back, Sam's age was 3 times Peter's age, what are their present ages?",
+        "answer" : "14 and 30 years"
+    },
+    {
+        "question" : "Cooper's present age is 3 years more than thrice Max's present age. After 3 years, Cooper's age will 10 years more than twice Max's age. What is Cooper's present age?",
+        "answer" : "33 years"
+    },
+    {
+        "question" : "The age of a father was 4 times his son’s age 8 years back. After 8 years, the father will be twice as old as his son. Find out the present ages of father and son.",
+        "answer" : "16 and 40 years"
+    },
+    {
+        "question" : "6:7 is the ratio of Michael's and Rosan‘s ages one year back. The ratio will become 7:8 in four years. Calculate the present age of Rosan.",
+        "answer" : "36 years"
+    },
+    {
+        "question" : "5 years ago age of Ram was 50 % less than Shyam’s age. If the ratio of Shyam’s present age to Ram’s present age 4:3. What will be Ram’s age after 7.5 years?",
+        "answer" : "15 years"
+    },
+    {
+        "question" : "5 years ago the ratio of Shyam’s age to Ram’s age is 3:2. If Ram’s present age is 25% less than Shyam’s present age. What will be Ram’s age after 10 years?",
+        "answer" : "25 years"
+    },
+    {
+        "question" : "Meena will be 5 times his age 5 years back, after 15 years. What is the present age of Meena?",
+        "answer" : "10 years"
+    },
+    {
+        "question" : "boy is older than girl by 7 years. If the ratio of ages of boy:girl is 9:7, what is the age of boy?",
+        "answer" : "31.5 years"
+    },
+    {
+        "question" : "The present ages of Ram and Shyam are in the ratio 6:7. If Shyam is 4 years older than Ram, after 4 years what will be the ratio of their ages?",
+        "answer" : "7:8"
+    },
+    {
+        "question" : "If difference of ages of Ram and Shyam is 16 years. If 6 year ago, the Ram’s age is 3 times as old the Shyam, What are Ram and Shyam's respective present ages?",
+        "answer" : "14,30"
+    },
+    {
+        "question" : "The sum of the ages of a mother and daughter is 45 years. 5 years ago, the product of their ages was 30 times the daughter's age at that time. What is the present age of mother?",
+        "answer" : "35"
+    },
+    {
+        "question" : "The sum of the ages of a mother and daughter is 45 years. 5 years ago, the product of their ages was 30 times the daughter's age at that time. What is the present age of daughter?",
+        "answer" : "10"
+    },
+    {
+        "question" : "Ram age was half of Shaym’s age, 10 years ago. If the ratio of their present ages is 3:5, what is the sum of their ages at present?",
+        "answer" : "80"
+    },
+    {
+        "question" : "The Sum of ages of Seeta and Geeta is 12 years less than the sum of ages of Geeta and Ina. By how many years Ina is older than Seeta?",
+        "answer" : "12"
+    },
+    {
+        "question" : "The ages of A and B differ by 16 years. 6 years ago, the elder one was 3 times as old as the younger one. What is present ages of the elder person?",
+        "answer" : "30"
+    },
+    {
+        "question" : "Ram and Shyam’s ages are in the ratio between 4:3. After 6 Years age of Ram will be 26 years. What is present age of Shyam?",
+        "answer" : "15"
+    },
+    {
+        "question" : "A father said his son , ' I was as old as you are at present at the time of your birth '. If the father age is 38 now, the son age 5 years back was :",
+        "answer" : "14"
+    },
+    {
+        "question" : "In 10 years, A will be twice as old as B was 10 years ago. If A is now 9 years older than B, the present age of B is :",
+        "answer" : "39"
+    },
+    {
+        "question" : "The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A ?",
+        "answer" : "12"
+    },
+    {
+        "question" : "The ratio of the present ages of P and Q is 3 : 4. Five years ago, the ratio of their ages was 5 : 7. Find their present ages.",
+        "answer" : "40"
+    },
+    {
+        "question" : "The age of a man is 4 times of his son. Five years ago, the man was nine times old as his son was at that time. The present age of man is?",
+        "answer" : "8"
+    },
+    {
+        "question" : "The sum of the present ages of a father and his son is 60 years. five years ago, father's age was four times the age of the son. so now the son's age will be:",
+        "answer" : "15"
+    },
+    {
+        "question" : "Rajeev's age after 15 years will be 5 times his age 5 years back. What is the present age of rajeev?",
+        "answer" : "10"
+    },
+    {
+        "question" : "The average age of a group of 10 students is 15 years. When 5 more students join the group, the average age increase by 1 year. The average age of the new students is?",
+        "answer" : "18 years"
+    },
+    {
+        "question" : "The sum of the present ages of two persons A and B is 60. If the age of A is twice that of B, find the sum of their ages 5 years hence.",
+        "answer" : "70"
+    },
+    {
+        "question" : "'I am five times as old as you were, when I was as old as you are', said a man to his son. Find out their present ages, if the sum of their ages is 64 years ?",
+        "answer" : " Father = 40; Son =24"
+    },
+    {
+        "question" : "What is the age of Teja? A: Four years ago, Raju was as old as Teja is at present.B: Sita’s present age is two times of Raju’s present age.C: The average age of Teja and Sita is 19 years.",
+        "answer" : "Teja = 10yrs"
+    },
+    {
+        "question" : "The average age of a class is 15.8 years. The average age of the boys in the class is 16.4 years and that of the girls is 15.4 years. What is the ratio of boys to girls in the class ?",
+        "answer" : "2:3"
+    },
+    {
+        "question" : "If 6 years are subtracted from the present age of Arun and the remainder is divided by 18, then the present age of his grandson Gokul is obtained. If Gokul is 2 years younger to Madan whose age is 5 years, then what is the age of Arun ?",
+        "answer" : "60 years"
+    },
+    {
+        "question" : "A person's present age is two-fifth of the age of his mother. After 8 years, he will be one-half of the age of his mother. How old is the mother at present ?",
+        "answer" : "40 yrs"
+    },
+    {
+        "question" : "The ages of Krish and Vaibhav are in the proportion of 3 : 5. After 9 years, the proportion of their ages will be 3 : 4. Then the current age of Vaibhav is:",
+        "answer" : "15 yrs"
+    },
+    {
+        "question" : "The ratio of the father's age to the son's age is 3 : 1. The product of their ages is 147. The ratio of their ages after 5 years will be?",
+        "answer" : "13 : 6"
+    },
+    {
+        "question" : "The present average age of a family of five members is 26 years. If the present age of the youngest member in the family is ten years, then what was the average age of the family at the time of the birth of the youngest member ? (Assume no death occurred in the family since the birth of the youngest)",
+        "answer" : " 20 years"
+    },
+    {
+        "question" : "Eight years ago, Ajay's age was 4/3 times that of Vijay. Eight years hence, Ajay's age will be 6/5 times that of Vijay. What is the present age of Ajay ?",
+        "answer" : "40 yrs"
+    },
+    {
+        "question" : "he ages of X and Y are in the proportion of 6:5 and total of their ages is 44 years. The proportion of their ages after 8 years will be",
+        "answer" : "8:7"
+    },
+    {
+        "question" : "Ten years ago A was half of B in age. If the ratio of their present ages is 3 : 4, what will be the total of their present ages",
+        "answer" : "35"
+    },
+    {
+        "question" : "Ratio of the ages of Mahesh and Nilesh is 5 : x. Mahesh is 18 years younger to Ramesh. After nine years Ramesh will be 47 years old. If the difference between the ages of Mahesh and Nilesh is same as the age of Ramesh, what is the value of x ?",
+        "answer" : "14.5"
+    },
+    {
+        "question" : "Mother’s age today is thrice as her daughter’s. After 10 years it would be just double. How old is the daughter today ?",
+        "answer" : "10 years"
+    },
+    {
+        "question" : "The ratio of the ages of Maala and Kala is 4 : 3. The total of their ages is 2.8 decades. The proportion of their ages after 0.8 decades will be [1 Decade = 10 years]",
+        "answer" : "6:5"
+    },
+    {
+        "question" : "Raju got married 8years ago. His present age is 6/5 times his age at the time of his marriage  Raju's sister was 10years younger to him at the time of his marriage. The present age of Raju's sister is  ?",
+        "answer" : "38"
+    },
+    {
+        "question" : "Six years ago Anita was P times as old as Ben was. If Anita is now 17 years old, how old is Ben now in terms of P ?",
+        "answer" : "11/P + 6"
+    },
+    {
+        "question" : "The age of a person is thrice the total ages of his 2 daughters. 0.5 decades hence, his age will be twice of the total ages of his daughters. Then what is the father’s current age? [0.5 Decades = 5 Years]",
+        "answer" : "45 years"
+    },
+    {
+        "question" : "A man's current age is 2/5 of the age of his father. After 8 years, he will be 1/2 of the age of his father. What is the age of father at now ?",
+        "answer" : "40"
+    },
+    {
+        "question" : "Sum of the ages of Rajesh, Suresh, Mahesh and Dinesh is 76 years. 7 years hence, their age ratio is 7:6:5:8. Find Mahesh’s present age ?",
+        "answer" : "13 years"
+    },
+    {
+        "question" : "Sachin is younger than Rahul by 7 years. If the ratio of their ages is 7:9, find the age of Sachin",
+        "answer" : " 24.5"
+    },
+    {
+        "question" : "The average age of 80 boys in a class is 15. The average age of group of 15 boys in the class is 16 and the average of another 25 boys in the class is 14. What is the average age of the remaining boys in the class ?",
+        "answer" : "15.25 yrs"
+    },
+    {
+        "question" : "The Average age of 12 men is decreased by one year when two of them having ages 28 years and 32 years are replaced by two women of same age . The age of a women is?",
+        "answer" : "24 years"
+    },
+    {
+        "question" : "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?",
+        "answer" : "41"
+    },
+    {
+        "question" : "A man is 24 years older than his son. In two years, his age will be twice the age of his son. The present age of his son is",
+        "answer" : "22"
+    },
+    {
+        "question" : "Proportion of Yuvaraj’s age to Ganguly’s age is 4:3. Yuvaraj willl be 26 years old after 6 years. What is the age of Ganguly now ?",
+        "answer" : "15 years"
+    },
+    {
+        "question" : "Ten years ago, Kumar was thrice as old as Sailesh was but 10 years hence, he will be only twice as old. Find Kumar’s present age ?",
+        "answer" : "70 years"
+    },
+    {
+        "question" : "If two times of the daughter’s age in years is included to the mother’s age, the total is 70 and if two times of the mother’s age is included to the daughter’s age, the total is 95. So the Mother’s age is,",
+        "answer" : " 40"
+    },
+    {
+        "question" : "0.1 decates ago, Vijaya was quadrice as old as her daughter Simran. 0.6 decades hence, Vijaya’s age will beat her daughter’s age by 0.9 decades. The proportion of the current ages of Vijaya and Simran is : [ 0.1 Decates =1 Year; quadrice = 4 times]",
+        "answer" : "13;4"
+    },
+    {
+        "question" : "A is three times as old as B. C was twice-as old as A four years ago. In four years' time, A will be 31. What are the present ages of B and C ?",
+        "answer" : "9, 50"
+    },
+    {
+        "question" : "The average age of A and B, 2 years ago was 26. If the age of A, 5 years hence is 40 yrs, and B is 5 years younger to C, then find the difference between the age of A and C?",
+        "answer" : "9 yrs"
+    },
+    {
+        "question" : "When Ram was born, his father was 32 years older than his brother and his mother was 25 years older than his sister. If Ram's brother is 6 years older than Ram and his mother is 3 years younger than his father, how old was Ram's sister when Ram was born ?",
+        "answer" : "10 years"
+    },
+    {
+        "question" : "The sum of the ages of 5 children born at the intervals of 3 years each is 50 years. what is the age of the youngest child ?",
+        "answer" : "4"
+    },
+    {
+        "question" : "The ages of Anushka, Kajal and Charu latha together are 57 years. Bharti is thrice as old as Anushka and Charu latha is 12 years older than Anushka. Then, the respective age of Anushka, Kajal and Charu latha is ?",
+        "answer" : "9, 27, 21"
+    },
+    {
+        "question" : "Today is Varun's birthday. One year, from today he will be twice as old as he was 12 years ago. How old is Varun today ?",
+        "answer" : "25 years"
+    },
+    {
+        "question" : "Ten years ago, Karan was thrice as old as Shiva was but 10 years hence, he will be only twice as old. Find Shiva’s present age ?",
+        "answer" : "30 years"
+    },
+    {
+        "question" : "The average age of a couple is 24 years when they were married five years ago but now the average age of the husband, wife and child is 20 years(the child was born during the interval). What is the present age of the child ?",
+        "answer" : "2 yrs"
+    },
+    {
+        "question" : "The age of Sohail, Afzal and Bilal are 17,16 and 12 respectively. If the age of Aslam also included the average of the ages is increased by 5. What is the age of Aslam?",
+        "answer" : "35"
+    },
+    {
+        "question" : "At present, the ratio between the ages of Arun and Harish is 4:3. After 6 years, Arun's age will be 26 years. What is the age of Harish at present ?",
+        "answer" : "15 years"
+    },
+    {
+        "question" : "8 years ago Rama's mother was five times older than her daughter. After 8 years the mother will be twice older than her daughter . Find the present age of Rama?",
+        "answer" : "40/3 years"
+    },
+    {
+        "question" : "When Raj Tarun was born, his father was 32 years older than his brother and his mother was 25 years older than his sister. If Raj Tarun's brother is 6 years older than Raj Tarun and his mother is 3 years younger than his father, how old was Raj Tarun's sister when Raj Tarun was born ?",
+        "answer" : "10"
+    },
+    {
+        "question" : "Rajan's present age is three times his daughter's and nine-thirteenth of his mother's present age. The sum of the present ages of all three of them is 125 years. What is the difference between the present ages of Rajan's daughter and Rajan's mather ?",
+        "answer" : "50 years"
+    },
+    {
+        "question" : "A is two years older than B who is twice as old as C. If the total of the ages of A, B and C be 27, then how old is B ?",
+        "answer" : "10 yrs"
+    },
+    {
+        "question" : "Anu's present age is 9 years more than that of what Raj's age will be after five years. Raj's present age is seven years more than that of what Renu's age was 4 years ago. Renu's present age is 19 years. What will be Anu's age after 5 years ?",
+        "answer" : "41 years"
+    },
+    {
+        "question" : "If Riya's age is four times the age of Siya and if Riya's age is 24 yrs , find the age difference between Riya and Siya ? ",
+        "answer" : "18 yrs"
+    },
+    {
+        "question" : "Hari Ram’s present age is three times his son’s present age and two fifth of his father’s present age. The average of the present age of all of them is 46 years. What is the difference between Hari Ram’s son’s present age and Hari Ram’s father’s present age? ",
+        "answer" : "78 yrs"
+    },
+    {
+        "question" : "The average age of a couple was 26 years at the time of marriage. After 11 years of marriage, the average age of the family with 3 children become 19 years. The average age of the children is",
+        "answer" : "7 years"
+    },
+    {
+        "question" : "The ratio of Karthik’s and Kalyan’s ages is 4: 5. If the difference between the present age of Kalyan and the age of Karthik 5 years hence is 3 years, then what is the total of present ages of Karthik and Kalyan?",
+        "answer" : " 72 years"
+    },
+    {
+        "question" : "The average of the ages of Sumit, Krishna and Rishabh is 43 years and the average of the ages of Sumit, Rishabh and Rohit is 49 years. If Rohit is 54 years old, what is Krishna'a age ? ",
+        "answer" : "36 yrs"
+    },
+    {
+        "question" : "A woman says, 'If you reverse my own age, the figures represent my husband's age. He is, of course, senior to me and the difference between our ages is one-eleventh of their sum.' The woman's husband age is ?",
+        "answer" : "54"
+    },
+    {
+        "question" : "Sony is one-fifth the age of her mother 15 years ago and Sony’s brother is three-fifth the age of his mother 10 years ago. If the sum of Sony and her brother’s ages is 31 then how old is Sony's mother ? ",
+        "answer" : "50"
+    },
+    {
+        "question" : "Avanthi’s age is 1/6th of her father’s age. Her father’s age will be twice of Kapil’s age after 10 years. If Kapil’s eighth birthday was celebrated two years ago, then what is Avanthi’s present age ?",
+        "answer" : "5 years"
+    },
+    {
+        "question" : "A man said to his son, 'I was two-thirds of your present age when you were born'. IIf the present age of the man is 48 years, find the present age of the son",
+        "answer" : "28.8 years"
+    },
+    {
+        "question" : "Average age of 4 daughters of a family is 12 years. The average age of daughters and their parents is 26 years. If the mother is 4 years older than the father, then what is the age (in years) of the father?",
+        "answer" : "52"
+    },
+    {
+        "question" : "One-third of Poojitha's age three years ago plus one-half of her age two years from now is twenty years. How old is she now?",
+        "answer" : "24 yrs"
+    },
+    {
+        "question" : "John is 15 years younger than Jill, 12 years ago, Jill's age was 1.5 times that of John. Jill is now ___ years old",
+        "answer" : "57"
+    },
+    {
+        "question" : "The difference between the ages of mother and son was 21 when mother's age was 43. If father is elder by 3 years to mother, what will be the difference between the ages of son and father when father attains 50 years?",
+        "answer" : "24"
+    },
+    {
+        "question" : "A year ago Akash's father's age was 9 times that of Akash. After 3 years his father's age will be 5 times hat of his age. How old will Akash be next year?",
+        "answer" : "6 years"
+    },
+    {
+        "question" : "Monica's father was 38 years of age when she was born while her mother was 36 years old when her sister four years younger to her was born. What is the difference between the ages of her parents?",
+        "answer" : "6 years"
+    },
+    {
+        "question" : "Average age of 4 daughters of a family is 12 years. The average age of daughters and their parents is 26 years. If the mother is 4 years older than the father, then what is the age (in years) of the father?",
+        "answer" : "52"
+    },
+    {
+        "question" : "One-third of Poojitha's age three years ago plus one-half of her age two years from now is twenty years. How old is she now?",
+        "answer" : "24 yrs"
+    },
+    {
+        "question" : "Present age of R and S are in the ratio of 3 : 2 respectively. If the present age of H is 117 years and R’s present age is 4/13 of H’s present age, then after how many years the ages of R and S would be in the ratio of 15 : 11?",
+        "answer" : "9"
+    },
+    {
+        "question" : "Average age of 5 students of a school is 14 years. The average age of students and their Mathematics and science teachers is 30 years. If the age of science teacher is 6 years more than the age of Mathematics teacher, then what is the age (in years) of Mathematics teacher?",
+        "answer" : "67"
+    },
+    {
+        "question" : "What is the age of the eldest sister if, the sum of ages of 5 sisters born at the intervals of 3 years each is 50 years?",
+        "answer" : "16 years"
+    },
+    {
+        "question" : "Tom's father is thrice as old as Tom. 10 years ago Tom's father's age was 7 times his age. What is Tom's current age?",
+        "answer" : "14 years"
+    },
+    {
+        "question" : "Present age of Ashok is twice the present age of Kishan. After 7 years the Kishan’s age will be 4 times of the Kartik’s present age. If Kartik celebrated his 9thbirthday 3 years ago, then what will be the present age (in years) of Ashok?",
+        "answer" : "82"
+    }
+]
