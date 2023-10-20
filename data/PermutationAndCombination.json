@@ -1,0 +1,466 @@
+[
+    {
+        "question" : "How many words can be formed by using 3 letters from the word “DELHI”",
+        "answer" : "60"
+    },
+    {
+        "question" : "How many words can be formed by using the letters from the word “DRIVER” such that all the vowels are always together?",
+        "answer" : "120"
+    },
+    {
+        "question" : "In how many ways, can we select a team of 4 students from a given choice of 15?",
+        "answer" : "1365"
+    },
+    {
+        "question" : "In how many ways can a group of 5 members be formed by selecting 3 boys out of 6 boys and 2 girls out of 5 girls?",
+        "answer" : "200"
+    },
+    {
+        "question" : "How many words can be formed by using the letters from the word “DRIVER” such that all the vowels are never together?",
+        "answer" : "240"
+    },
+    {
+        "question" : "How many number greater than ten thousand can be formed from the digits 0, 1, 2, 3, 4 without repetition ? ",
+        "answer" : "96"
+    },
+    {
+        "question" : "In how many ways can 4 boys and 4 girls be seated around a circular table so that no two boys are in adjacent positions? ",
+        "answer" : "3! x 4! "
+    },
+    {
+        "question" : "Out of the 11 points in a plane, 4 are collinear. How many straight line can be formed ? ",
+        "answer" : "50"
+    },
+    {
+        "question" : "Twenty people attend a party and shake hands with one another.In how many ways hand shake is possible? ",
+        "answer" : "190"
+    },
+    {
+        "question" : "How many different sums of money can be formed from the four type of notes Rs 10, Rs 20, Rs 50 and Rs 100 ?",
+        "answer" : "15"
+    },
+    {
+        "question" : "Five chocolates of different flavours are to be distributed in three different children such that any child get at least 1 chocolate. What is the maximum number of different ways in which this can be distributed?",
+        "answer" : "150"
+    },
+    {
+        "question" : "Ram and his wife Sita both have five friends each. Ram has 2 boys and 3 girls. Sita has 3 boys and 2 girls. In how many maximum number of different ways can they invite 2 boys and 2 girls such that two of them are Ram’s friend and two are Sita’s friend?",
+        "answer" : "46"
+    },
+    {
+        "question" : "In how many ways can 4 notebooks can be distributed to 5 students if each can get any number of notebooks? ",
+        "answer" : "5^4 ways. "
+    },
+    {
+        "question" : "How many batting orders are possible for the Indian cricket team if there is a squad of 16 to choose from such that Virat Kohli and Rohit Sharma are always chosen? ",
+        "answer" : "14C9 . 11! "
+    },
+    {
+        "question" : "How many motor vehicle registration numbers plates can be formed for the state Haryana having code like (HR 12Q 8702) with the digits 0, 1, 2, 3, 4, 5, 6 and contains consonant at the alphabetical place(No digits being repeated).",
+        "answer" : "95760"
+    },
+    {
+        "question" : "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+        "answer" : "756"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+        "answer" : "720"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
+        "answer" : "50400"
+    },
+    {
+        "question" : "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+        "answer" : "25200"
+    },
+    {
+        "question" : "In how many ways can the letters of the word 'LEADER' be arranged?",
+        "answer" : "360"
+    },
+    {
+        "question" : "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+        "answer" : "209"
+    },
+    {
+        "question" : "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+        "answer" : "20"
+    },
+    {
+        "question" : "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
+        "answer" : "11760"
+    },
+    {
+        "question" : "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+        "answer" : "64"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+        "answer" : "36"
+    },
+    {
+        "question" : "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+        "answer" : "63"
+    },
+    {
+        "question" : "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
+        "answer" : "5040"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?",
+        "answer" : "120960"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
+        "answer" : "720"
+    },
+    {
+        "question" : "In what ways the letters of the word 'RUMOUR' can be arranged?",
+        "answer" : "230"
+    },
+    {
+        "question" : "In what ways the letters of the word 'PUZZLE' can be arranged to form the different new words so that the vowels always come together?",
+        "answer" : "120"
+    },
+    {
+        "question" : "In what ways can a group of 6 boys and 2 girls be made out of the total of 7 boys and 3 girls?",
+        "answer" : "21"
+    },
+    {
+        "question" : "Out of a group of 7 boys and 6 girls, five boys are selected to form a team so that at least 3 boys are there on the team. In how many ways can it be done?",
+        "answer" : "756"
+    },
+    {
+        "question" : "A box contains 2 red balls, 3 black balls, and 4 white balls. Find the number of ways by which 3 balls can be drawn from the box in which at least 1 black ball should be present",
+        "answer" : "64"
+    },
+    {
+        "question" : "Out of 7 constants and 4 vowels, how many words of 3 constants and 2 vowels can be formed?",
+        "answer" : "25200"
+    },
+    {
+        "question" : "How much 4-digit number can be formed from the digits 2, 3, 4, 5, 6, and 7 which are divisible by 5 in such a way that digits should not repeat.",
+        "answer" : "60"
+    },
+    {
+        "question" : "In what ways the letters of the word 'CRICKET' can be arranged to form the different new words so that the vowels always come together?",
+        "answer" : "120"
+    },
+    {
+        "question" : "In what ways the letters of the word ?MACHINE? can be arranged so that the vowels occupy only the odd positions?",
+        "answer" : "576"
+    },
+    {
+        "question" : "In what ways the letters of the word ?ACTORS? can arrange so that the vowels occupy only the even positions?",
+        "answer" : "144"
+    },
+    {
+        "question" : "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+        "answer" : "25200"
+    },
+    {
+        "question" : "Find the value of 'n' for which the nth term of two AP'S: 15,12,9.... and -15,-13,-11...... are equal?",
+        "answer" : " n = 29/5"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+        "answer" : "720"
+    },
+    {
+        "question" : "A committee of 5 persons is to be formed from 6 men and 4 women. In how many ways can this be done when at least 2 women are included ?",
+        "answer" : "186"
+    },
+    {
+        "question" : "How many arrangements can be made out of the letters of the word COMMITTEE, taken all at a time, such that the four vowels do not come together?",
+        "answer" : "43200"
+    },
+    {
+        "question" : "A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?",
+        "answer" : "1260"
+    },
+    {
+        "question" : "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
+        "answer" : "63"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
+        "answer" : "720"
+    },
+    {
+        "question" : "12 people at a party shake hands once with everyone else in the room.How many handshakes took place?",
+        "answer" : "66"
+    },
+    {
+        "question" : "In the below word how many words are there in which R and W are at the end positions? RAINBOW",
+        "answer" : "240"
+    },
+    {
+        "question" : "If the letters of the word SACHIN are arranged in all possible ways and these words are written out as in dictionary, then the word ‘SACHIN’ appears at serial number :",
+        "answer" : "601"
+    },
+    {
+        "question" : "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
+        "answer" : "5040"
+    },
+    {
+        "question" : "How many integers, greater than 999 but not greater than 4000, can be formed with the digits 0, 1, 2, 3 and 4, if repetition of digits is allowed?",
+        "answer" : "376"
+    },
+    {
+        "question" : "The Indian Cricket team consists of 16 players. It includes 2 wicket keepers and 5 bowlers. In how many ways can a cricket eleven be selected if we have to select 1 wicket keeper and atleast 4 bowlers?",
+        "answer" : "1092"
+    },
+    {
+        "question" : "When four fair dice are rolled simultaneously, in how many outcomes will at least one of the dice show 3?",
+        "answer" : "671"
+    },
+    {
+        "question" : "How many 7 digit numbers can be formed using the digits 1, 2, 0, 2, 4, 2, 4?",
+        "answer" : "360"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+        "answer" : "36"
+    },
+    {
+        "question" : "From 5 consonants and 4 vowels, how many words can be formed using 3 consonants and 2 vowels ?",
+        "answer" : "7200"
+    },
+    {
+        "question" : "A letter lock consists of three rings each marked with six different letters. The number of distinct unsuccessful attempts to open the lock is at the most  ?",
+        "answer" : "215"
+    },
+    {
+        "question" : "In how many ways can 4 girls and 5 boys be arranged in a row so that all the four girls are together ?",
+        "answer" : "17280"
+    },
+    {
+        "question" : "If the letters of the word CHASM are rearranged to form 5 letter words such that none of the word repeat and the results arranged in ascending order as in a dictionary what is the rank of the word CHASM ?",
+        "answer" : "32"
+    },
+    {
+        "question" : "How many lines can you draw using 3 non collinear (not in a single line) points A, B and C on a plane?",
+        "answer" : "3"
+    },
+    {
+        "question" : "In how many ways can 5 different toys be packed in 3 identical boxes such that no box is empty, if any of the boxes may hold all of the toys ?",
+        "answer" : "25"
+    },
+    {
+        "question" : "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
+        "answer" : "11760"
+    },
+    {
+        "question" : "In a Plane there are 37 straight lines, of which 13 pass through the point A and 11 pass through the point B. Besides, no three lines pass through one point, no lines passes through both points A and B , and no two are parallel. Find the number of points of intersection of the straight lines.",
+        "answer" : "535"
+    },
+    {
+        "question" : "How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters ?",
+        "answer" : " 5 ^ 10"
+    },
+    {
+        "question" : "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+        "answer" : "756"
+    },
+    {
+        "question" : "5 men and 4 women are to be seated in a row so that the women occupy the even places . How many such arrangements are possible?",
+        "answer" : "2880"
+    },
+    {
+        "question" : "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+        "answer" : "209"
+    },
+    {
+        "question" : "How many arrangements of the letters of the word ‘BENGALI’ can be made if the vowels are to occupy only odd places.",
+        "answer" : "576"
+    },
+    {
+        "question" : "There are 7 non-collinear points. How many triangles can be drawn by joining these points?",
+        "answer" : "35"
+    },
+    {
+        "question" : "How many different four letter words can be formed (the words need not be meaningful using the letters of the word 'MEDITERRANEAN' such that the first letter is E and the last letter is R?",
+        "answer" : "59"
+    },
+    {
+        "question" : "A polygon has 44 diagonals, then the number of its sides are ?",
+        "answer" : "11"
+    },
+    {
+        "question" : "In a box, there are 5 black pens, 3 white pens and 4 red pens. In how many ways can 2 black pens, 2 white pens and 2 red pens can be chosen?",
+        "answer" : "180"
+    },
+    {
+        "question" : "A team of 8 students goes on an excursion, in two cars, of which one can seat 5 and the other only 4. In how many ways can they travel?",
+        "answer" : "126"
+    },
+    {
+        "question" : "How many parallelograms will be formed if 7 parallel horizontal lines intersect 6 parallel vertical lines?",
+        "answer" : "315"
+    },
+    {
+        "question" : "How many 6-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 and 7 so that the digits should not repeat and the second last digit is even ?",
+        "answer" : "720"
+    },
+    {
+        "question" : "There are 6 bowlers and 9 batsmen in a cricket club. In how many ways can a team of 11 be selected so that the team contains at least 4 bowlers?",
+        "answer" : "1170"
+    },
+    {
+        "question" : "Find the number of subsets of the set {1,2,3,4,5,6,7,8,9,10,11} having 4 elements.",
+        "answer" : "330"
+    },
+    {
+        "question" : "Suppose 7 students are staying in a hall in a hostel and they are allotted 7 beds. Among them, Parvin does not want a bed next to Anju because Anju snores. Then, in how many ways can you allot the beds?",
+        "answer" : "3600"
+    },
+    {
+        "question" : "How many arrangements can be made out of the letters of the word DRAUGHT, the vowels never beings separated?",
+        "answer" : "1440"
+    },
+    {
+        "question" : "There are 4 books on fairy tales, 5 novels and 3 plays. In how many ways can you arrange these so that books on fairy tales are together, novels are together and plays are together and in the order, books on fairytales, novels and plays ?",
+        "answer" : "17280"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'THERAPY' be arranged so that the vowels never come together?",
+        "answer" : "3600"
+    },
+    {
+        "question" : "There are 5 novels and 4 biographies. In how many ways can 4 novels and 2 biographies can be arranged on a shelf ?",
+        "answer" : "21600"
+    },
+    {
+        "question" : "The number of ways in which 8 distinct toys can be distributed among 5 children?",
+        "answer" : "5^8"
+    },
+    {
+        "question" : "How many different words can be made using the letters of the word ' HALLUCINATION ' if all constants are together?",
+        "answer" : "1587600"
+    },
+    {
+        "question" : "How many necklace of 12 beads each can be made from 18 beads of different colours?",
+        "answer" : "18!(6 x 24)"
+    },
+    {
+        "question" : "A coach must choose five starters from a team of 12 players. How many different ways can the coach choose the starters ?",
+        "answer" : "729"
+    },
+    {
+        "question" : "The number of ways that 8 beads of different colours be strung as a necklace is ",
+        "answer" : "2520"
+    },
+    {
+        "question" : "There are three rooms in a Hotel: one single, one double and one for four persons. How many ways are there to house seven persons in these rooms ?",
+        "answer" : "105"
+    },
+    {
+        "question" : "12 points lie on a circle. How many cyclic quadrilaterals can be drawn by using these points?",
+        "answer" : "495"
+    },
+    {
+        "question" : "Consider the word ROTOR. Whichever way you read it, from left to right or from right to left, you get the same word. Such a word is known as palindrome. Find the maximum possible number of 5-letter palindromes.",
+        "answer" : "17576"
+    },
+    {
+        "question" : "In how many ways can the letters of the word 'PROBLEM' be rearranged to make 7 letter words such that none of the letters repeat?",
+        "answer" : "7!"
+    },
+    {
+        "question" : "Find the total numbers greater than 4000 that can be formed with digits 2, 3, 4, 5, 6 no digit being repeated in any number ?",
+        "answer" : "192"
+    },
+    {
+        "question" : "A group consists of 4 men, 6 women and 5 children. In how many ways can 2 men , 3 women and 1 child selected from the given group ?",
+        "answer" : "600"
+    },
+    {
+        "question" : "f nC10=nC12 then,find n.",
+        "answer" : "22"
+    },
+    {
+        "question" : "In how many ways can 5 letters be posted in 4 letter boxes?",
+        "answer" : "1024"
+    },
+    {
+        "question" : "If repetition of the digits is allowed, then the number of even natural numbers having three digits is :",
+        "answer" : "450"
+    },
+    {
+        "question" : "How many arrangements of the letters of the word ‘BENGALI’ can be made if the vowels are never together.",
+        "answer" : "720"
+    },
+    {
+        "question" : "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+        "answer" : "64"
+    },
+    {
+        "question" : "Compute the sum of 4 digit numbers which can be formed with the four digits 1,3,5,7, if each digit is used only once in each arrangement.",
+        "answer" : "106656"
+    },
+    {
+        "question" : "In How many ways is it possible to make a selection by taking any number of 15 fruits, namely 3 oranges, 5 apples and 7 mangoes?",
+        "answer" : "191"
+    },
+    {
+        "question" : "If there are 15 dots on a circle,how many triangles can be formed?",
+        "answer" : "455"
+    },
+    {
+        "question" : "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are picked at random, what is the probability that they are either blue or yellow ?",
+        "answer" : "2/21"
+    },
+    {
+        "question" : "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together",
+        "answer" : "50400"
+    },
+    {
+        "question" : "There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?",
+        "answer" : "2 x 18!"
+    },
+    {
+        "question" : "In how many ways can an animal trainer arrange 5 lions and 4 tigers in a row so that no two lions are together?",
+        "answer" : "2880"
+    },
+    {
+        "question" : "A Committee of 5 persons is to be formed from a group of 6 gentlemen and 4 ladies. In how many ways can this be done if the committee is to be included atleast one lady?",
+        "answer" : "246"
+    },
+    {
+        "question" : "Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it?",
+        "answer" : "720"
+    },
+    {
+        "question" : "How many alphabets need to be there in a language if one were to make 1 million distinct 3 digit initials using the alphabets of the language?",
+        "answer" : "100"
+    },
+    {
+        "question" : "In how many ways can the letters of the word ABACUS be rearranged such that the vowels always appear together?",
+        "answer" : "(4! x 3!) / 2!"
+    },
+    {
+        "question" : "From a total of six men and four ladies a committee of three is to be formed. If Mrs. X is not willing to join the committee in which Mr. Y is a member, whereas Mr.Y is willing to join the committee only if Mrs Z is included, how many such committee are possible?",
+        "answer" : "91"
+    },
+    {
+        "question" : "A Group consists of 4 couples in which each of the  4 persons have one wife each. In how many ways could they be arranged in a straight line such that the men and women occupy alternate positions?",
+        "answer" : "1152"
+    },
+    {
+        "question" : "How many 3 letters words can be formed using the letters of the words hexagon?",
+        "answer" : "210"
+    },
+    {
+        "question" : "Suppose you can travel from a place A to a place B by 3 buses, from place B to place C by 4 buses, from place C to place D by 2 buses and from place D to place E by 3 buses. In how many ways can you travel ?from A to E?",
+        "answer" : "72"
+    },
+    {
+        "question" : "How many ways are there to select a subcommittee of 7 members from among a committee of 17?",
+        "answer" : "19448"
+    },
+    {
+        "question" : "A Group consists of 4 couples in which each of the  4 persons have one wife each. In how many ways could they be arranged in a straight line such that the men and women occupy alternate positions?",
+        "answer" : "1152"
+    }
+]

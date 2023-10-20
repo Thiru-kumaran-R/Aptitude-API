@@ -10,4 +10,6 @@ router.get("/MixtureAndAlligation", aptitudeController.getMixtureAndAlligation);
 
 router.get("/ProfitAndLoss", aptitudeController.getProfitAndLoss)
 
+router.get("/Age" , aptitudeController.getAge);
+
 module.exports = router;
