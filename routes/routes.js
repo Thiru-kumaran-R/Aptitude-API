@@ -12,4 +12,8 @@ router.get("/ProfitAndLoss", aptitudeController.getProfitAndLoss)
 
 router.get("/Age" , aptitudeController.getAge);
 
+router.get("/PermutationAndCombination", aptitudeController.getPermutationAndCombination);
+
+router.get("/SpeedTimeDistance", aptitudeController.getSpeedTimeDistance);
+
 module.exports = router;
