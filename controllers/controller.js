@@ -4,6 +4,7 @@ const profitAndLoss = require("../data/profitAndLoss.json");
 const age = require("../data/age.json");
 const permutationAndCombination = require("../data/PermutationAndCombination.json");
 const speedTimeDistance = require("../data/SpeedTimeDistance.json");
+const simpleInterest = require("../data/simpleInterest.json");
 
 exports.getBasics = (req, res, next) => {
     res.status(200).json(randomApt[(Math.round( Math.random() * (randomApt.length-1) ))]);
@@ -26,7 +27,9 @@ exports.getPermutationAndCombination = (req, res, next) => {
 }
 
 exports.getSpeedTimeDistance =(req, res, next) => {
-    res.status(200).json(
-        speedTimeDistance[ Math.round( Math.random() * speedTimeDistance.length - 1 ) ]
-    )
+    res.status(200).json( speedTimeDistance[ Math.round( Math.random() * speedTimeDistance.length - 1 ) ] )
+}
+
+exports.getSimpleInterest = (req, res, next) => {
+    res.status(200).json( simpleInterest[ Math.round(Math.random * (simpleInterest.length -1) ) ] )
 }

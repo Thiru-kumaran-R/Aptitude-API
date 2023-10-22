@@ -16,4 +16,6 @@ router.get("/PermutationAndCombination", aptitudeController.getPermutationAndCom
 
 router.get("/SpeedTimeDistance", aptitudeController.getSpeedTimeDistance);
 
+router.get("/SimpleInterest", aptitudeController.getSimpleInterest);
+
 module.exports = router;

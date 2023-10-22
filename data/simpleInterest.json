@@ -1,0 +1,454 @@
+[
+    {
+        "question" : "Find the SI on rupees 10000 deposited for 3 years at 5% per annum.",
+        "answer" : "Interest earn is rupees 1,500"
+    },
+    {
+        "question" : " Rajesh takes a loan of Rs 20000 from a bank for a period of 1 year. The rate of interest is 10% per annum. Find the simple interest and the total amount he has to pay at the end of a year.",
+        "answer" : "Rs 22,000"
+    },
+    {
+        "question" : "A person borrowed Rs 60,000 for 4 years at the rate of 2.5% per annum. Find the interest accumulated at the end of 4 years.",
+        "answer" : "Rs 6000 "
+    },
+    {
+        "question" : "A person pays Rs 8000 as an amount on the sum of Rs 6000 that he had borrowed for 3 years. What will be the rate of interest?",
+        "answer" : "Rate of interest R is 11.11 %"
+    },
+    {
+        "question" : " If the principal is Rs 50,000, and the rate of interest is 10% per annum for a period of 4 years. What will be the total amount?",
+        "answer" : "Rs 70000"
+    },
+    {
+        "question" : "If the principal amount is Rs 5000 and the time is 2 years and the simple interest is Rs 4000 what will be the rate of interest?",
+        "answer" : "Rate of Interest is 40 %."
+    },
+    {
+        "question" : "A sum amounts to Rs 1065 at simple interest rate of 7.5% per annum after 3 years. Find the sum.",
+        "answer" : "869.38"
+    },
+    {
+        "question" : "James deposits a sum of Rs 800 that will amount to Rs 920 in 3 years. However, the bank decides to increase the interest rate by 4%. What amount will he receive now?",
+        "answer" : "Rs 1016"
+    },
+    {
+        "question" : "What will be the simple interest on Rs 70,000 at 50/3 % per annum after 9 months?",
+        "answer" : "Rs 8750"
+    },
+    {
+        "question" : "Find out the simple interest if Harry invests an amount of Rs 15800 for 9 months at the rate of 25/4 % per annum. ",
+        "answer" : "Rs 740.63"
+    },
+    {
+        "question" : "After lending out an amount of Rs.9600 at a rate of 9/2 % per annum for a 1 year and 9 months, what was the S.I earned ? ",
+        "answer" : "756"
+    },
+    {
+        "question" : "Find the amount of S.I received by Ram after getting Rs.3360 at 25/4 % per annum for 9 months.",
+        "answer" : "157.5"
+    },
+    {
+        "question" : "Ram has an amount of Rs. 9000. How much time will it take to earn 1620 as S.I at a rate of 4.5% per annum?",
+        "answer" : "4"
+    },
+    {
+        "question" : "At what rate of SI, a sum of Rs.7000 amounts to Rs.7700 in 2 years?",
+        "answer" : "5%"
+    },
+    {
+        "question" : "Find the simple interest on Rs.300 for 6 months at 10% per annum.",
+        "answer" : "15"
+    },
+    {
+        "question" : "In what time will Rs.8500 pay an amount of Rs. 7267.50 as S.I at 4.5 per cent per annum?",
+        "answer" : "19"
+    },
+    {
+        "question" : "The SI on a sum is 1/4th of the principal, and the duration(in years) is equal to the rate per cent per annum. Find the rate per cent.",
+        "answer" : "5"
+    },
+    {
+        "question" : "The rate of interest for the first 2 yrs is 3% per annum, for the next 3 years is 8% per annum and for the period beyond 5 years 10% per annum. A person deposited some money 6 years back. Now he earns an interest of RS. 1520. What money did he deposit?",
+        "answer" : "3800"
+    },
+    {
+        "question" : "A sum of money doubles itself in 6 years at simple interest. What is the rate of interest?",
+        "answer" : "16.66"
+    },
+    {
+        "question" : "A certain amount was lent at a rate R for 2 yrs at SI. If it been put at 3% higher rate, it would have fetched Rs 300 more. Find the amount?",
+        "answer" : "5000"
+    },
+    {
+        "question" : "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+        "answer" : "Rs. 698"
+    },
+    {
+        "question" : "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+        "answer" : "Rs. 6400"
+    },
+    {
+        "question" : "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+        "answer" : "Rs. 8925"
+    },
+    {
+        "question" : "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+        "answer" : "4 years"
+    },
+    {
+        "question" : "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+        "answer" : "6"
+    },
+    {
+        "question" : "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
+        "answer" : "6%"
+    },
+    {
+        "question" : "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
+        "answer" : "10.25%"
+    },
+    {
+        "question" : "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+        "answer" : "10%"
+    },
+    {
+        "question" : "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+        "answer" : " 3.46%"
+    },
+    {
+        "question" : "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+        "answer" : "Rs. 15,000"
+    },
+    {
+        "question" : "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+        "answer" : "12%"
+    },
+    {
+        "question" : "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
+        "answer" : "2 : 3"
+    },
+    {
+        "question" : "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
+        "answer" : "Since the principal is not given, so data is inadequate."
+    },
+    {
+        "question" : "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6% p.a for 2 years. Find his gain in the transaction per year.",
+        "answer" : "Rs. 112.50"
+    },
+    {
+        "question" : "Rs. 800 becomes Rs. 956 in 3 years at a certain rate of simple interest. If the rate of interest is increased by 4%, what amount will Rs. 800 become in 3 years",
+        "answer" : "1052"
+    },
+    {
+        "question" : "In how many years Rs 150 will produce the same interest at 8% as Rs. 800 produce in 3 years at 9/2%",
+        "answer" : "9"
+    },
+    {
+        "question" : "A sum of money amounts to Rs 9800 after 5 years and Rs 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is",
+        "answer" : "12%"
+    },
+    {
+        "question" : "The rate of interest for the first 2 years is 4% per annum, for the next 3 years is 7.5% per annum and for the period beyond 5 years 12.5% per annum. If a man gets Rs 1075 as a simple interest for 6 years, how much money did he deposit?",
+        "answer" : "3000"
+    },
+    {
+        "question" : "Thiru took a loan at 10% p.a. S.I. After 4 years, he returned the principal along with the interest. If he returns in all Rs. 3500, what is the principal amount?",
+        "answer" : "2500"
+    },
+    {
+        "question" : "Find the simple interest on Rs 7000 at 50/3 % for 9 months",
+        "answer" : "875"
+    },
+    {
+        "question" : "Find the simple interest on the Rs. 2000 at 25/4% per annum for the period from 4th Feb 2005 to 18th April 2005",
+        "answer" : "25"
+    },
+    {
+        "question" : "If A lends Rs. 3500 to B at 10% p.a. and B lends the same sum to C at 11.5% p.a., then the gain of B (in Rs.) in a period of 3 years is",
+        "answer" : "157.5"
+    },
+    {
+        "question" : "At what rate percent per annum will the simple interest on a sum of money be 2/5 of the amount in 10 years",
+        "answer" : "4"
+    },
+    {
+        "question" : "A sum becomes five times of itself in 20 years. It will become 7 times itself in how many years?",
+        "answer" : "30"
+    },
+    {
+        "question" : "Some amount out of Rs. 7,000 was lent at 6% per annum and the remaining at 4% per annum. If the total simple interest from both the fractions in 5 years was Rs. 1600, the sum lent at 6% per annum was:",
+        "answer" : "2000"
+    },
+    {
+        "question" : "Thiru has invested Rs. 5000 for 2 years at the rate of 8%. How much more money he should invest at the rate of 15% to get the overall interest of 10%? (Assume Simple interest)",
+        "answer" : "2000"
+    },
+    {
+        "question" : "A sum of Rs. 1550 was lent partially at 5% and partially at 8% per annum simple interest. The total interest received after 4 years was Rs. 400. The ratio of the money lent at 5% to that lent at 8% is:",
+        "answer" : "16:15"
+    },
+    {
+        "question" : "What annual payment will discharge a debt of Rs.6450 due in 4 years at 5% simple interest?",
+        "answer" : "Rs.1500"
+    },
+    {
+        "question" : "A sum of Rs.6450 is borrowed at 5% simple interest and is paid back in 4 equal annual installments. What is amount of each installment?",
+        "answer" : "Rs.1800"
+    },
+    {
+        "question" : "What will be the simple interest on Rs. 80,000 at 16(2/3) % per annum for 9 months?",
+        "answer" : "10,000"
+    },
+    {
+        "question" : "Find the simple interest on Rs. 5000 at 6 % per annum for the period from 5th Feb to 19th April, 2015.",
+        "answer" : " Rs. 60"
+    },
+    {
+        "question" : "Suresh borrows Rs. 10,000 for 2 years at 4 % p.a. simple interest. He lends it to Ramesh at 6 % p.a. for 2 years. Find his gain in this transaction per year.",
+        "answer" : "Rs. 200"
+    },
+    {
+        "question" : "At what rate percent per annum will sum of money double in 20 years?",
+        "answer" : " 5 %"
+    },
+    {
+        "question" : "John took a loan of Rs. 1500 with simple interest for as many years as the rate of interest. If he paid Rs. 540 as interest at the end of loan period, what was the rate of interest?",
+        "answer" : "6 %"
+    },
+    {
+        "question" : " A sum of Rs. 12,000 amounts to Rs. 15,000 in 4 years at the rate of simple interest. Find the rate of interest.",
+        "answer" : "6.25 %"
+    },
+    {
+        "question" : "Nikhil borrowed some money at the rate of interest 5 % p.a. for first 2 years, 8 % p.a. for next 5 years and 10 % p.a. for a period beyond 7 years. If he pays total interest of Rs. 8000 at the end of 10 years, then find the money Nikhil borrowed.",
+        "answer" : " Rs. 10,000"
+    },
+    {
+        "question" : " A sum was put at simple interest at a certain rate for 2 years. Had it been put at 2 % higher rate, it would have fetched Rs. 400 more. Find the sum.",
+        "answer" : "10000"
+    },
+    {
+        "question" : "The S.I. on a certain sum of money for 4 years at 15 % per annum is Rs. 180 more than S.I. on same sum for 5 years at 10 % per annum. Find the sum.",
+        "answer" : " 1800"
+    },
+    {
+        "question" : "The difference between two numbers is 1550. If 8 % of one number is 10 % of the other number, then find the two numbers",
+        "answer" : "6200, 7750"
+    },
+    {
+        "question" : "Two numbers P and Q are such that, the sum of 2 % of P and Sum of 2 % of Q is two-third of the sum of 2 % of P and 6 % of Q. Find the ratio of P and Q.",
+        "answer" : "3 : 1"
+    },
+    {
+        "question" : "50 % of a number is 18 less than two-third of that number. Find the number.",
+        "answer" : "108"
+    },
+    {
+        "question" : "When 35 is subtracted from a number; it reduces to its 80 %. Find the four-fifth of that number.",
+        "answer" : "140"
+    },
+    {
+        "question" : "The value of lathe machine depreciates at the rate of 10 % per annum. If the cost of machine at present is Rs. 160,000, then what will be its worth after 2 years?",
+        "answer" : " Rs. 129,600"
+    },
+    {
+        "question" : "The value of Xerox machine depreciates at the rate of 10 % per annum. If the cost of machine at present is Rs. 75,000 then what was the value of machine before 2 years?",
+        "answer" : "Rs. 92,600"
+    },
+    {
+        "question" : "The current birth rate per thousand is 30, whereas corresponding death rate is 10 per thousand. Find the net growth rate in terms of population increase in percent.",
+        "answer" : "2 %"
+    },
+    {
+        "question" : "The total population of a city is 6500.The number of males and females increases by 5 % and 10 % respectively and consequently the population becomes 7000. Find the number of males in the village.",
+        "answer" : "3000"
+    },
+    {
+        "question" : "The present population of a country is 10 crores. If it rises to 17.28 crores during next 3 years, then find uniform rate of growth in population.",
+        "answer" : "20 %"
+    },
+    {
+        "question" : "The population of different trees in a field increased by 10 % in first year, increased by 8 % in second year and decreased by 10 % in third year. If at present the number of trees is 26730, then find the number of tress in the beginning.",
+        "answer" : "25000"
+    },
+    {
+        "question" : "The price of diesel increases by 50 %. Find by how much percent a truck owner must reduce his consumption in order to maintain the same budget?",
+        "answer" : "33.33 %"
+    },
+    {
+        "question" : "The price of rice falls by 15 %. By what percentage a person can increase the consumption of rice so that his overall budget does not change?",
+        "answer" : "17.64 %"
+    },
+    {
+        "question" : "In an examination, P scored 30 % marks and failed by 15 marks. Q scored 40 % marks and obtained 35 marks more than those required to pass. Find the pass percentage.",
+        "answer" : "33 %"
+    },
+    {
+        "question" : " In a science examination, the average obtained by entire class was 80 marks. If 10 % of students scored 92 marks and 20 % of students scored 90 marks, then what was the average of remaining students?",
+        "answer" : " 75.43"
+    },
+    {
+        "question" : "A student attempts x number of questions. He answers 15 correctly out of first 20 questions and of the remaining questions, he answers 1/3 correctly. If all questions have same credit and the student gets 50 % marks, then find the value of x.",
+        "answer" : "50"
+    },
+    {
+        "question" : "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
+        "answer" : "Rs.15000"
+    },
+    {
+        "question" : "At what rate percent per annum will a sum of money double in 8 years.",
+        "answer" : "12.5%"
+    },
+    {
+        "question" : "How much time will take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest  ?",
+        "answer" : "4 years"
+    },
+    {
+        "question" : "A certain sum of money amounts to Rs 1008 in 2 years and to Rs 1164 in 3 ½  years. Find the sum and the rate of interest.",
+        "answer" : "800, 13%"
+    },
+    {
+        "question" : "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+        "answer" : "698"
+    },
+    {
+        "question" : "What annual instalment will discharge a debt of Rs 1092 due in 3 years at 12% simple interest?",
+        "answer" : "Rs.325"
+    },
+    {
+        "question" : "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6(1/4) p.a for 2 years. Find his gain in the transaction per year",
+        "answer" : "Rs. 112.50"
+    },
+    {
+        "question" : "A sum was put at simple interest at a certain rate for 3 years. Had it been put at 2% higher rate, it would have fetched Rs 360 more. Find the sum.",
+        "answer" : " Rs.6000"
+    },
+    {
+        "question" : "Simple interest on a certain sum is 16/25 of the sum. Find the rate percent and time, If both are numerically equal.",
+        "answer" : "Rate = 8% and Time = 8 years."
+    },
+    {
+        "question" : "A father left a will of Rs.35 lakhs between his two daughters aged 8.5 and 16 such that they may get equal amounts when each of them reach the age of 21 years. The original amount of Rs.35 lakhs has been instructed to be invested at 10% p.a. simple interest. How much did the elder daughter get at the time of the will?",
+        "answer" : "21 lakhs"
+    },
+    {
+        "question" : "A sum of Rs.1550 was lent partly at 8% p.a. simple interest. The total interest received after 3 years was Rs.300. The ratio of the money lent at 5% to that lent at 8% is :",
+        "answer" : "16:15"
+    },
+    {
+        "question" : "In how many years will a sum of Rs.800 at 10% per annum compounded semi annually become Rs.926.10",
+        "answer" : "1.5"
+    },
+    {
+        "question" : "At what rate of compound interest per annum will a sum of rs.1200 becomes rs.1348.32 in 2 years",
+        "answer" : "66%"
+    },
+    {
+        "question" : "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
+        "answer" : "We need to know the S.I, principal and time to find the rate. Since the principal is not given, so data is inadequate."
+    },
+    {
+        "question" : "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
+        "answer" : "3.46%"
+    },
+    {
+        "question" : "Find: S.l. on Rs 6250 at 14% per annum for 146 days.",
+        "answer" : " Rs.350"
+    },
+    {
+        "question" : "A sum of money becomes 7/6 of itself in 3 years at a certain rate of simple interest. The rate per annum is ?",
+        "answer" : "50/9 %"
+    },
+    {
+        "question" : "A Certain sum of money an amounts to Rs 2500 in a span Of 5 years and further to Rs.3000 in a span of 7 years at simple interest The sum is ?",
+        "answer" : "Rs. 1250"
+    },
+    {
+        "question" : "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest",
+        "answer" : " 6%"
+    },
+    {
+        "question" : "The difference between the simple interest received from two different sources on Rs.1500 for 3 years is Rs.13.50. The difference between their rates of interest is",
+        "answer" : "0.3%"
+    },
+    {
+        "question" : "A man borrowed Rs 24000 from two money lenders. For one loan, he paid 15% per annum and for the other 18% per annum. At the end of one year, he paid Rs 4050. How much did he borrow at each rate ?",
+        "answer" : "Rs.15000"
+    },
+    {
+        "question" : "How long will it take for a sum of money to grow from Rs.1250 to Rs.10,000, if it is invested at 12.5% p.a simple interest?",
+        "answer" : "56years"
+    },
+    {
+        "question" : "A sum was put at simple interest at a certain rate for 10 years . Had it been put at 5% higher rate , it would have fetched Rs.600 more. What was the Sum?",
+        "answer" : " Rs.1200"
+    },
+    {
+        "question" : "The interest on a certain deposit at 4.5% p.a. is Rs. 202.50 in one year. How much will the additional interest in one year be on the same deposit at 5% p.a.  ?",
+        "answer" : "Rs. 22.5"
+    },
+    {
+        "question" : "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+        "answer" : " 12%"
+    },
+    {
+        "question" : "A person takes a loan of Rs. 200 at 5% simple interest. He returns Rs.100 at the end of one year. In order clear his dues at the end of 2 years, he would pay : ",
+        "answer" : "Rs. 115"
+    },
+    {
+        "question" : "Rs.1500 is divided into two parts such that if one part is invested at 6% and the other at 5% the whole annual interest from both the sum is Rs.85. How much was lent at 5% ?",
+        "answer" : "Rs. 500"
+    },
+    {
+        "question" : "A sum of money invested for a certain number of years at 8% p.a. simple interest grows to Rs.180. The same sum of money invested for the same number of years at 4% p.a. simple interest grows to Rs.120 only. For how many years was the sum invested?",
+        "answer" : "25years"
+    },
+    {
+        "question" : "If the C.I. on a sum for 2 years at 12 1/2 % per annum is Rs. 510, the S.I. on the same sum at the same rate for the same period of time is   ?",
+        "answer" : "Rs. 480"
+    },
+    {
+        "question" : "A sum of money triples itself in 8 years simple interest. Find the rate of percent per annum?",
+        "answer" : "25%"
+    },
+    {
+        "question" : "The simple interest on Rs. 25 for 4 months at the rate of 3 paise per rupee per month is :",
+        "answer" : " Rs. 3"
+    },
+    {
+        "question" : "The simple interest on Rs.10 for 4 months at the rate of 3 paise per month is",
+        "answer" : " 1.2 Paise"
+    },
+    {
+        "question" : "The simple interest on a sum of money will be Rs.600 after 10 years. If the principal is trebled after 5 years what will be the total interest at the end of the tenth year ?",
+        "answer" : " Rs. 1200"
+    },
+    {
+        "question" : "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
+        "answer" : "2:3"
+    },
+    {
+        "question" : "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+        "answer" : "4 years"
+    },
+    {
+        "question" : "An automobile financier claims to be lending money at S.I., but he includes the interest every six months for calculating the principal. If he is charging an interest of 8%, the effective rate of interest becomes ?",
+        "answer" : "8.16 %"
+    },
+    {
+        "question" : "An automobile financier claims to be lending money at simple interest, but he includesthe interest every six months for calculating the principal. If he is charging an interest of10%, the effective rate of interest becomes:",
+        "answer" : "10.25%"
+    },
+    {
+        "question" : "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of Interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+        "answer" : "6"
+    },
+    {
+        "question" : "A Rent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
+        "answer" : "10%"
+    },
+    {
+        "question" : "In what time will Rs. 1860 amount to Rs. 2641.20 at simple interest 12% per annum?",
+        "answer" : "3.5 years"
+    }
+]
