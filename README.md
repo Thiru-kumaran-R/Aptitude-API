@@ -14,7 +14,7 @@ Aptitude API is a free and open source API that generates aptitude questions bas
     
 ## API Reference
 
-#### Get all aptitude questions
+### Get all aptitude questions
 
 ```http
   GET /api/random
@@ -24,15 +24,31 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | **Required**. Your API key |
 
-#### Get questions on specific topic
+### Get questions only on Mixture and Alligation topic
 
 ```http
   GET /api/MixtureAndAlligation
 ```
 
-| Parameter | Type     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| `id`      | `string` | **Required**. Id of item to fetch |
+
+### Get questions only on Age topic
+
+```http
+  GET /api/Age
+```
+
+### Get questions only on Permutation and Combination topic
+
+```http
+  GET /api/PermutationAndCombination
+```
+
+
+### Get questions only on Profit and Loss topic
+
+```http
+  GET /api/ProfitAndLoss
+```
 
 
 
