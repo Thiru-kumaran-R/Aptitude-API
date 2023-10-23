@@ -18,4 +18,6 @@ router.get("/SpeedTimeDistance", aptitudeController.getSpeedTimeDistance);
 
 router.get("/SimpleInterest", aptitudeController.getSimpleInterest);
 
+router.get("/Calendar", aptitudeController.getCalendar);
+
 module.exports = router;
