@@ -4,11 +4,11 @@ const router = express.Router();
 
 const aptitudeController = require("../controllers/controller");
 
-router.get("/random", aptitudeController.getBasics);
+router.get("/random", aptitudeController.getRandom);
 
 router.get("/MixtureAndAlligation", aptitudeController.getMixtureAndAlligation);
 
-router.get("/ProfitAndLoss", aptitudeController.getProfitAndLoss)
+router.get("/ProfitAndLoss", aptitudeController.getProfitAndLoss);
 
 router.get("/Age" , aptitudeController.getAge);
 
@@ -19,5 +19,7 @@ router.get("/SpeedTimeDistance", aptitudeController.getSpeedTimeDistance);
 router.get("/SimpleInterest", aptitudeController.getSimpleInterest);
 
 router.get("/Calendar", aptitudeController.getCalendar);
+
+router.get("/PipesAndCisterns", aptitudeController.getPipesAndCistern);
 
 module.exports = router;

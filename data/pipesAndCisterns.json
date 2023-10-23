@@ -1,0 +1,450 @@
+[
+    {
+        "question" : "Two outlet pipes A and B are connected to a full tank. Pipe A alone can empty the tank in 10 minutes and pipe B alone can empty the tank in 30 minutes. If both are opened together, how much time will it take to empty the tank completely?",
+        "answer" : "7 minutes 30 seconds"
+    },
+    {
+        "question" : "Two pipes X and Y attached to a swimming pool can fill the pool in 20 minutes and 30 minutes respectively working alone. Both were opened together but due to malfunctioning of motor of pipe X, it had to be shut down after two minutes but Y continued to work till the swimming pool was filled completely. Find the total time taken to fill the pool.",
+        "answer" : "27"
+    },
+    {
+        "question" : "Three pipes A, B and C were opened to fill a cistern. Working alone, A, B and C require 12, 15 and 20 minutes respectively.After 4 minutes of working together, A got blocked and after another 1 minute, B also got blocked. C continued to work till the end and the cistern got completely filled. What is the total time taken to fill the cistern ?",
+        "answer" : "6 minutes 40 seconds"
+    },
+    {
+        "question" : "Three pipes A, B and C are connected to a tank. Working alone, they require 10 hours, 20 hours and 30 hours respectively. After some time, A is closed and after another 2 hours, B is also closed. C works for another 14 hours so that the tank gets filled completely. Find the time (in hours) after which pipe A was closed.",
+        "answer" : "2"
+    },
+    {
+        "question" : "Working alone, two pipes A and B require 9 hours and 6.25 hours more respectively to fill a pool than if they were working together. Find the total time taken to fill the pool if both were working together.",
+        "answer" : "7.5"
+    },
+    {
+        "question" : "Three pipes A, B and C were opened to fill a cistern. Working alone, A, B and C require 12, 15 and 20 minutes respectively. Another pipe D, which is a waste pipe, can empty the filled tank in 30 minutes working alone. What is the total time (in minutes) taken to fill the cistern if all the pipes are simultaneously opened ?",
+        "answer" : "6"
+    },
+    {
+        "question" : "Three pipes A, B and C were opened to fill a tank. Working alone, A, B and C require 10, 15 and 20 hours respectively. A was opened at 7 AM, B at 8 AM and C at 9 AM. At what time the tank would be completely filled, given that pipe C can only work for 3 hours at a stretch, and needs 1 hour standing time to work again.",
+        "answer" : "12 : 30 PM"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 10 hours and 30 hours respectively. Due to a leak in the tank, it takes 2.5 hours more to fill the tank. How much time would the leak alone will take to empty the tank ?",
+        "answer" : "30 hours"
+    },
+    {
+        "question" : "Two pipes A and B work alternatively with a third pipe C to fill a swimming pool. Working alone, A, B and C require 10, 20 and 15 hours respectively. Find the total time required to fill the pool.",
+        "answer" : "6 hours 54 minutes"
+    },
+    {
+        "question" : "Two pipes A and B are connected to drain out a water tank. A alone can drain out the tank in 20 hours and B can drain 20 liters per hour. Find the capacity of the water tank given that working together, they require 12 hours to completely drain out the tank",
+        "answer" : "600"
+    },
+    {
+        "question" : "Two friends A and B decided to work together and fill a pool of capacity 1000 liters. Using a bucket each, A fills at the rate of 4 liters every 3 minutes and B fills at 3 liters every 4 minute. What would be the total time required to fill the pool, given that they take a break of 3 minutes each time both of them put a bucket into the pool at the same instant ?",
+        "answer" : "9 hours 57 minutes"
+    },
+    {
+        "question" : "Two taps A and B can fill a tank in 10 hours and 15 hours respectively. If both the taps are opened together, the tank will be full in ?",
+        "answer" : "6 hr"
+    },
+    {
+        "question" : "To fill a cistern, pipes A, B and C take 15 minutes, 12 minute and 10 minutes respectively. The time in minutes that the three pipes together will take to fill the cistern is:",
+        "answer" : "4 min"
+    },
+    {
+        "question" : "Two pipes can fill a tank in 10 hours and 12 hours respectively, while third pipe empties the full tank in 20 hours. If all the three pipes operate simultaneously, in how much time the tank will be filled?",
+        "answer" : "7 hr. 30 min"
+    },
+    {
+        "question" : "A cistern can be filled in 9 hours but it takes 10 hours due to a leak in its bottom. If the cistern is full, then the time that the leak will take to empty it is:",
+        "answer" : "90 hr"
+    },
+    {
+        "question" : "Three pipes A, B and C can fill a tank from empty to full in 30 minutes, 20 minutes, and 10 minutes respectively. When the tank is empty, all the three pipes are opened. A, B and C discharge chemical solutions P,Q and R respectively. What is the proportion of the solution R in the liquid in the tank after 3 minutes?",
+        "answer" : "6/11"
+    },
+    {
+        "question" : "Pipes A and B can fill a tank in 5 and 6 hours respectively. Pipe C can empty it in 12 hours. If all the three pipes are opened together, then the tank will be filled in:",
+        "answer" : "60/17 hrs"
+    },
+    {
+        "question" : "A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 hours to fill the tank. The leak can drain all the water of the tank in:",
+        "answer" : "14 hrs"
+    },
+    {
+        "question" : "Two pipes A and B can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:",
+        "answer" : "9 min"
+    },
+    {
+        "question" : "A tank is filled by three pipes with uniform flow. The first two pipes operating simultaneously fill the tank in the same time during which the tank is filled by the third pipe alone. The second pipe fills the tank 5 hours faster than the first pipe and 4 hours slower than the third pipe. The time required by the first pipe is:",
+        "answer" : "15 hours"
+    },
+    {
+        "question" : "Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:",
+        "answer" : "120 gallons"
+    },
+    {
+        "question" : "A tank is filled in 5 hours by three pipes A, B and C. The pipe C is twice as fast as B and B is twice as fast as A. How much time will pipe A alone take to fill the tank?",
+        "answer" : "35 hours"
+    },
+    {
+        "question" : "Two pipes A and B together can fill a cistern in 4 hours. Had they been opened separately, then B would have taken 6 hours more than A to fill the cistern. How much time will be taken by A to fill the cistern separately?",
+        "answer" : "6 hours"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 20 and 30 minutes respectively. If both the pipes are used together, then how long will it take to fill the tank?",
+        "answer" : "12 min"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?",
+        "answer" : "14 min. 40 sec"
+    },
+    {
+        "question" : "One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill the tank in 36 minutes, then the slower pipe alone will be able to fill the tank in:",
+        "answer" : "144 min."
+    },
+    {
+        "question" : "A large tanker can be filled by two pipes A and B in 60 minutes and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half?",
+        "answer" : "30 min"
+    },
+    {
+        "question" : "A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",
+        "answer" : "3 hrs 45 min"
+    },
+    {
+        "question" : "Three taps A, B and C can fill a tank in 12, 15 and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, the tank will be full in:",
+        "answer" : "7 hours"
+    },
+    {
+        "question" : "Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",
+        "answer" : "14"
+    },
+    {
+        "question" : " It takes 6 hours for three pipes, X, Y and Z to fill a tank. When the three worked together for 2 hours, Z was closed and, X and Y filled the remaining tank in 7 hours. How many hours would it take Z alone to fill the tank?",
+        "answer" : "14 hours"
+    },
+    {
+        "question" : "It takes two pipes A and B, running together, to fill a tank in 6 minutes. It takes A 5 minutes less than B to fill the tank, then what will be the time taken by B alone to fill the tank?",
+        "answer" : "15 minutes"
+    },
+    {
+        "question" : "If two pipes can fill a tank in 24 and 20 minutes respectively and another pipe can empty 3 gallons of water per minute from that tank. When all the three pipes are working together, it takes 15 minutes to fill the tank. What is the capacity of the tank? ",
+        "answer" : "120 gallons"
+    },
+    {
+        "question" : "It takes 20 minutes for pipe A to fill the tank completely and it takes 30  minutes for pipe B to fill the tank completely. If both the inlets are opened together, then how much time will be taken to fill the tank completely? ",
+        "answer" : "12 minutes"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 15 minutes and 20 minutes respectively. Both the pipes are opened together but after 4 minutes, pipe A is turned off. What is the total time required to fill the tank?",
+        "answer" : "14 min. 40 sec."
+    },
+    {
+        "question" : "A water tank is two-fifth full.Pipe A can fill a tank in 10 minutes and pipe B can empty it in 6 minutes.If both the pipes are open,how long will it take to empty or fill the tank completely?",
+        "answer" : "6 min.to empty"
+    },
+    {
+        "question" : "A tap can fill a tank in 6 hours. After half the tank is filled, three more similar taps are opened. What is the total time taken to fill the tank completely?",
+        "answer" : " 3 hrs 45 min"
+    },
+    {
+        "question" : "A pump can fill a tank with water in 2 hours. Because of a leak, it took 2(1/3) hours to fill the tank. The leak can drain all the water of the tank in:",
+        "answer" : "14 hours"
+    },
+    {
+        "question" : "A cistern is normally filled in 8 hours but takes two hours longer to fill because of a leak in its bottom. If the cistern is full, the leak will empty it in    ?",
+        "answer" : " 20 hrs"
+    },
+    {
+        "question" : "Three pipes A, B and C can fill a tank in 6 hours. After working at it together for 2 hours, C is closed and A and B can fill the remaining part in 7 hours. The number of hours taken by C alone to fill the tank is:",
+        "answer" : "14"
+    },
+    {
+        "question" : "Three taps A,B and C can fill a tank in 12,15 and 20 hours respectively. If A is open all the time and B ,C are open for one hour each alternatively, the tank will be full in:",
+        "answer" : "7 hrs"
+    },
+    {
+        "question" : "Taps X and Y can fill a tank in 30 and 40 minutes respectively.Tap Z can empty the filled tank in 60 minutes.If all the three taps are kept open for one minute each,how much time will the taps take to fill the tank?",
+        "answer" : "24min"
+    },
+    {
+        "question" : "A cistern has a leak which would empty the cistern in 20 minutes. A tap is turned on which admits 4 liters a minute into the cistern, and it is emptied in 24 minutes. How many liters does the cistern hold ?",
+        "answer" : "480 lit"
+    },
+    {
+        "question" : "Two pipes can fill a tank in 20 and 24 minutes respectively and a waste pipe can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity of the tank is:",
+        "answer" : " 120 gallons"
+    },
+    {
+        "question" : "A large tanker can be filled by two pipes A and B in 60 and 40 minutes respectively. How many minutes will it take to fill the tanker from empty state if B is used for half the time and A and B fill it together for the other half ?",
+        "answer" : "30 min"
+    },
+    {
+        "question" : "12 buckets of water fill a tank when the capacity of each tank is 13.5 liters. How many buckets will be needed to fill the same tank,if the capacity of each bucket is 9 liters?",
+        "answer" : "18"
+    },
+    {
+        "question" : "Two pipes A and B can separately fill a cistern in 10 and 15 minutes respectively. A person opens both the pipes together when the cistern should have been was full he finds the waste pipe open. He then closes the waste pipe and in another 3 minutes the cistern was full. In what time can the waste pipe empty the cistern when fill  ?",
+        "answer" : "8.57 min"
+    },
+    {
+        "question" : "One fill pipe A is 3 times faster than second fill pipe B and takes 32 minutes less than the fill pipe B. When will the cistern be full if both pipes are opened together?",
+        "answer" : "12 minutes"
+    },
+    {
+        "question" : "Pipe A can fill a tank in 16 minutes and pipe B cam empty it in 24 minutes. If both the pipes are opened together after how many minutes should pipe B be closed, so that the tank is filled in 30 minutes  ?",
+        "answer" : "21 min"
+    },
+    {
+        "question" : "One pipe can fill a tank  three times as fast as another pipe. If together the two pipes can fill the tank in 36 min, then the slower alone will be able to fill the tank in:",
+        "answer" : "144 min"
+    },
+    {
+        "question" : "Water flows into a tank which is 200 m long and 150 m wide, through a pipe of cross-section (0.3m x 0.2m) at 20 km/h. In what time will the water level be 12m  ?",
+        "answer" : " 300 hrs"
+    },
+    {
+        "question" : "A and B can fill the tank in 60 min and 90 min. There is a leak at 3/4th of the height. If leak is opened alone, it takes 36 min to empty till 3/4th the height. Find the time taken to fill the tank if all of the taps and the leak are opened simultaneously.",
+        "answer" : "39"
+    },
+    {
+        "question" : "In what time would a cistern be filled by three pipes which diameters are 2 cm, 3 cm and 4 cm running together, when the largest alone can fill it is 58 minutes? The amount of water flowing in each pipe is proportional to the square of its diameter.",
+        "answer" : "32 min"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 15 min and 20 min respectively. Both the pipes are opened together but after 4 min, pipe A is turned off. What is the total time required to fill the tank ?",
+        "answer" : "14 min 40 sec."
+    },
+    {
+        "question" : "Three taps I, J and K can fill a tank in 20,30and 40 minutes respectively. All the taps are opened simultaneously and after 5 minutes tap A was closed and then after 6 minutes tab B was closed .At the moment a leak developed which can empty the full tank in 70 minutes. What is the total time taken for the completely full ?",
+        "answer" : "26.166 minutes"
+    },
+    {
+        "question" : "Two pipes A and B can fill a tank in 16 hrs and 12 hrs respectively. The capacity of the tank is 240 liters. Both the pipes are opened simultaneously and closed after 2 hrs. How much more water need to fill the tank?",
+        "answer" : "170 lit"
+    },
+    {
+        "question" : "There is an empty reservoir whose capacity is 30 litres. There is an inlet pipe which fills at 5 L/min and there is an outlet pipe which empties at 4 L/min. Both the pipes function alternately for 1 minute. Assuming that the inlet pipe is the first one to function, how much time will it take for the reservoir to be filled up to its capacity?",
+        "answer" : "51 min"
+    },
+    {
+        "question" : "Two pipes A and B can separately fill a cistern in 60 min and 75 min respectively. There is a third pipe in the bottom of the cistern to empty it. If all the three pipes are simultaneously opened, then the cistern is full in 50 min. In how much time, the third pipe alone can empty the cistern ?",
+        "answer" : "100 min"
+    },
+    {
+        "question" : "Pipe K fills a tank in 30 minutes. Pipe L can fill the same tank 5 times as fast as pipe K. If both the pipes were kept open when the tank is empty, how much time will it take for the tank to overflow ?",
+        "answer" : "5 minutes"
+    },
+    {
+        "question" : "A tap can fill a tank in 6 hours. After half the tank is filled three more similar taps are opened. What is the total time taken to fill the tank completely ?",
+        "answer" : "3 hrs 45 min"
+    },
+    {
+        "question" : "A Tank is normally filled in 9 hours but takes four hours longer to fill because of a leak in its bottom. If the tank is full, the leak will empty it in ?",
+        "answer" : " 29.25 hrs"
+    },
+    {
+        "question" : "A water tank in a village is normally filled in 8 hours but takes 2 hours longer to fill because of a leak in its bottom. If the tank is full, in how many hrs will the leak empty it ? ",
+        "answer" : "40 hrs"
+    },
+    {
+        "question" : "The ratio of efficiencies of two filling pipes is 4 : 5. There is a third emptying pipe which efficiency is two third of the average efficiency of first two filling pipes can empty a filled tank in 36 minutes. In how much time both the filling pipes can fill the tank when it is empty?",
+        "answer" : " 12 min"
+    },
+    {
+        "question" : "The capacity of a tank is 2400 m3.  A pump can be used both for filling and emptying the tank.  The emptying capacity of the pump is 10 m3/minute higher than its filling capacity. And also, the pump needs 8 minutes less to empty the tank than to fill it. Find the filling capacity of the pump.",
+        "answer" : "50 cub.m/min"
+    },
+    {
+        "question" : "A tank is filled in eight hours by three pipes K, L and M. Pipe K is twice as fast as pipe L, and L is twice as fast as M. How much time will pipe L alone take to fill the tank ?",
+        "answer" : "28 hrs"
+    },
+    {
+        "question" : "Two filling taps P and Q together can fill a tank with rate of 40 lit/min and 60 lit/min respectively in 8 min. If a waste tap can empty the filled tank in 32 min, then what is the rate of waste tap ?",
+        "answer" : "25 lit/min"
+    },
+    {
+        "question" : "Pipe A is an inlet pipe that can fill an empty cistern in 69 hours. Pipe B can drain the filled cistern in 46hours. When the cistern was filled the two pipes are opened one at a time for an hour each, starting withPipe B. how long will it take for the cistern to be empty?",
+        "answer" : " 11 days 7 hours"
+    },
+    {
+        "question" : "A water tank is filled in 5 hours by three pipes X, Y and Z the pipe Z is thrice as fast as Y and Y is twice as fast as X. How much time will pipe X alone take to fill the water tank?",
+        "answer" : "45 hrs"
+    },
+    {
+        "question" : "Pipes A and B can fill a cistern in 15 hours together. But ifthese pipes operate separately A takes 40 hours less than Bto fill the tank. In how many hours the pipe A will fill thecistern working alone?",
+        "answer" : "20"
+    },
+    {
+        "question" : "3 pipes when opened for 3 hours can fill 3 buckets. How many buckets can 2 pipes open for 2 hours approximately fill?",
+        "answer" : "4/3 bucket"
+    },
+    {
+        "question" : "A water tank has holes. The 1st hole alone empties the tank in 9 min and 2nd hole alone empties the tank in 6 min. If water leaks out at a constant rate, how many min does it take if both the holes together empty the tank?",
+        "answer" : " 3(3/5)"
+    },
+    {
+        "question" : "One pipe can fill a tank three times as fast as another pipe. If together the two pipes can fill tank in 36 min, then the slower pipe alone will be able to fill the tank in ?",
+        "answer" : "144 min"
+    },
+    {
+        "question" : "Two pipes, when working one at a time, can fill a cistern in 3 hhrs and 4 hrs, resp while a third pipe can drain the cistern empty in 8 hrs. All the three pipes were opened together when the cistern was 1/12 full. How long did it take for the cistern to be completely full?",
+        "answer" : "2 hrs"
+    },
+    {
+        "question" : "Two taps X and Y can fill a tank in 15 hours and 20 hours respectively. If the two taps are opened at 2 p.m., then at what time (in p.m.) should the tap X be closed to completely fill the tank at exactly 2 a.m.?",
+        "answer" : "8"
+    },
+    {
+        "question" : "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+        "answer" : " 12"
+    },
+    {
+        "question" : "A cistern has one inlet, L and one inlet, M. L takes 5 hours to fill the empty tank, when M is not open and M takes 8 hours to empty the full tank, if the tank is two fifth full, how much time will it take to fill the tank completely when both L and M are opened simultaneously? (in hours)",
+        "answer" : "8 hours"
+    },
+    {
+        "question" : "A swimming pool is filled in 10 hours by three tankers A, B and C. The tanker C is twice as fast as B and B is twice as fast as A. How much time will tanker A alone take to fill the swimming pool?",
+        "answer" : "70 hours"
+    },
+    {
+        "question" : "One pipe can fill an empty cistern in 4 hours while another can drain the cistern when full in 10 hours. Both the pipes were turned on when the cistern was half-empty. How long will it take for the cistern to be full?",
+        "answer" : " 3 hours 20 minutes"
+    },
+    {
+        "question" : "Two taps P and Q can fill a tank in 24 hours and 18 hours respectively. If the two taps are opened at 11 a.m., then at what time (in p.m.) should the tap P be closed to completely fill the tank at exactly 2 a.m.?",
+        "answer" : "3"
+    },
+    {
+        "question" : "One of the two inlet pipes works twice as efficiently as the other. The two, working alongside a drain pipe that can empty a cistern all by itself in 8 hours, can fill the empty cistern in 8 hours. How many hours will the less efficient inlet pipe take to fill the empty cistern by itself?",
+        "answer" : "12"
+    },
+    {
+        "question" : "Three pipe P, Q and R can fill a tank in 12 minutes, 18 minutesand 24 minutes respectively. The pipe R is closed 12 minutesbefore the tank is filled. In what time the tank is full?",
+        "answer" : "8 (4/13) hrs"
+    },
+    {
+        "question" : "Pipe A is an inlet pipe that can fill an empty cistern in 8.7 hours. Pipe B can drain a filled cistern in 5.8 hours. When the cistern was filled the two pipes are opened one at a time for an hour each, starting with Pipe B. How long will it take for the cistern to be empty?",
+        "answer" : "30 hours 48 minutes  "
+    },
+    {
+        "question" : "Two pipes X and Y can individually fill a tank in 48 and 72 min respectively. If they are opened simultaneously, how long will it take for the tank to fill? ",
+        "answer" : "28.8 min "
+    },
+    {
+        "question" : "A water tank is 2/5 th full. Inlet A can fill the tank in 12 minutes while an outlet pipe B can empty it in 6minutes. If both the pipes are open, how long will it take to empty or fill the tank completely?",
+        "answer" : " It empties in 4.8 min"
+    },
+    {
+        "question" : "Two pipes fill a tank when working individually in 25 and 40 hours, respectively while a third pipe can drain the filled tank in 16 hours. If all the three pipes are turned on at the same time when the tank is empty, how long will it take to fill the tank completely ?",
+        "answer" : "16 days 16 hours"
+    },
+    {
+        "question" : "A tank can be filled in 30 minutes. There is a leakage which can empty the tank in 90 minutes. Therefore, the tank will be filled in",
+        "answer" : "45 min"
+    },
+    {
+        "question" : "Two pipes X and Y can fill an empty tank in 16 hours and 20 hours respectively. Pipe Z alone can empty the completely filled tank in 25 hours. Firstly both pipes X and Y are opened and after 6 hours pipe Z is also opened. What will be the total time (in hours) taken to completely fill the tank?",
+        "answer" : "304/29"
+    },
+    {
+        "question" : "Sita's bucket has thrice the capacity as Ramu's bucket. It takes 60 turns for Sita's bucket to fill the empty drum. How many turns it will take for both the buckets of Sita's and Ramu's, having each turn together to fill the empty drum?",
+        "answer" : "45"
+    },
+    {
+        "question" : "Pipes A, B, and C are attached to an empty cistern. While the first two can fill the cistern in 4 and 10 hours, respectively, the third can drain the cistern, when filled, in 6 hours. If all the three pipes are opened simultaneously when the cistern is three-fifth full, how many hours will be needed to fill the cistern?",
+        "answer" : "24/11"
+    },
+    {
+        "question" : "Two pipes can fill a cistern in 28 and 21 hours respectively and an another pipe can empty 30 gallons of water per hour. All the three pipes working together can fill the empty cistern in 84 hours. What is the capacity (in gallons) of the cistern?",
+        "answer" : "420"
+    },
+    {
+        "question" : "Raghu's tanker can fill a cistern in 4 hours. After half the cistern is filled, three more similar tankers are opened. What is the total time taken to fillthe cistern completely?",
+        "answer" : "2h 30 min"
+    },
+    {
+        "question" : "Working together, pipes A and B can fill an empty tank in 10 hours. They worked together for 4 hours and then B stopped and A continued filling the tank till it was full. It took a total of 13 hours to fill the tank. How long would it take A to fill the empty tank alone?",
+        "answer" : "15 hours"
+    },
+    {
+        "question" : "Two valves P and B can fill a sump in 37.5 minutes and 45 minutes respectively. Both valves are opened. The sump will be filled in just 30 minutes, if valve B is turned off after",
+        "answer" : "9 min"
+    },
+    {
+        "question" : "Pipes A and C can fill an empty cistern in 32 and 48 hrs, respectively while Pipe B can drain the filled cistern in 24hrs. If the three pipes are turned on together when the cistern is empty, how many hrs will it take for the cistern to be 2/3 full?",
+        "answer" : "64"
+    },
+    {
+        "question" : "Pipes A and B, when working together, can fill an empty tank in 8 hours. If B is stopped after 2 hours, it will take a total of 11 hrs to fill the tank. How long would it take A to fill the empty tank alone?",
+        "answer" : "12 hrs"
+    },
+    {
+        "question" : "Two pipes namely A,B can fill a sump in 25 minutes and half an hour respectively and a pipe C can empty 3 gallons per minute. All the three pipes working together can fill the tank in 15 minutes. The capacity off the tank is",
+        "answer" : "450 gallons"
+    },
+    {
+        "question" : "Pipe A can empty a filled tank in 28 hours while Pipe B can fill the same tank, when empty in 35 hrs. If alternatively Pipes A and B are turned on for an hour each time, starting when the tank is full, how long will it take to empty the tank?",
+        "answer" : "271 hrs"
+    },
+    {
+        "question" : "Pipes A and B, when working together, can fill an empty tank in 24 hours. They work together for 8 hours and then B is stopped but A continued to work. It took a total of 28 hours to fill the tank. How long would it take A to fill the empty tank alone?",
+        "answer" : "30 hours"
+    },
+    {
+        "question" : "Pipe A can fill an empty cistern in 4 hours while along with Pipe B it can fill it up in 3 hours. Only Pipe A is turned on for an hour after which Pipe B is also turned on. How much total time will it take to fill up the cistern?",
+        "answer" : "3 hrs 15 min"
+    },
+    {
+        "question" : "Pipe A can fill an empty cistern in 5 hours while Pipe B lakes 6.25 hours to fill it. The two pipes are opened simultaneously when the cistern is empty, but Pipe B is turned off after some time as a result of which the cistern is filled in 3.4 hours. For how many hours was Pipe B open?",
+        "answer" : " 2"
+    },
+    {
+        "question" : "A pipe can fill a sump with water in 2 hours. Because of a leak, it took 2 2/3 hrs to fill the sump. The leak can drain all the water of the sump in",
+        "answer" : "8 hrs"
+    },
+    {
+        "question" : "Pipe C and D alone can fill a tank in 4 and 5 hours, respectively. If pipe C is closed after 3 hours and at the same time pipe D is opened. in how many hours will the tank get filled?",
+        "answer" : "1.25"
+    },
+    {
+        "question" : "Two pipes, when working one at a time can fill a cistern in 2 hrs and 3 hrs, respectively while a third pipe can drain the cistern empty in 6 hrs. All the three pipes were opened together when the cistern was 1/6 full. How long will it take for the cistern to be completely full?",
+        "answer" : " 1 hour 15 min"
+    },
+    {
+        "question" : "A pipe can fill a tank in 12 hours. By mistake another pipe that empties the tank is left open and the tank is filled in 16 hours. If the tank is fill, how much time will the second pipe take to empty it?",
+        "answer" : "48 hours"
+    },
+    {
+        "question" : "Pipes A, B and C are attached to an empty cistern. While the first two can fill the cistern in 4 and 10 hrs, respectively, the third can drain the cistern, when filled, in 6 hrs. If all the three pipes are opened simultaneously when the cistern is half-full, how many hours will be needed to fill the cistern?",
+        "answer" : " 30/11"
+    },
+    {
+        "question" : "A sump is filled by three tankers with uniform flow. The first two tankers operating simultaneously fill the sump in the same time during which the sump is filled by the third tanker alone. The second tanker fills the sump 5 hours faster than the first tanker and 4 hours slower than the third tanker. The time required by the first tanker is:",
+        "answer" : "15hours"
+    },
+    {
+        "question" : "Two pipes P and Q can fill an empty tank in 25 hours and 20 hours respectively. Pipe R alone can empty the completely filled tank in 50 hours. Firstly both the pipes P and Q are opened and after 8 hours pipe R is also opened. What will be the total time (in hours) taken to completely fill the tank?",
+        "answer" : "12"
+    },
+    {
+        "question" : "A flask has two holes. The 1st hole alone makes the flask empty in 9 minutes and 2nd hole alone makes the flask empty in 16 minutes. If water leaks out at a constant rate, how long in minutes does it take if both the holes together empty the flask?",
+        "answer" : "51925"
+    },
+    {
+        "question" : "A pump can fill a tank in 4 hrs, but due to a leak, the tank now gets filled in 5 hrs. How long will it take the leakage to empty the tank when it is full?",
+        "answer" : " 9 hrs"
+    },
+    {
+        "question" : "Pipes A and C can fill an empty cistern in 7 and 10.5 hours, respectively while Pipe B can drain the filled cistern in 5.25 hours. If the three pipes are turned on together when the cistern is empty, how many hours will it take for the cistern to be 2/3 full?",
+        "answer" : "14"
+    },
+    {
+        "question" : "A water tank has two holes. The 1st hole alone makes the tank empty in 3 min and 2nd hole alone makes the tank empty in 5 min. If water leaks out at a constant rate, how long in minutes does it take if both the holes together empty the tank?",
+        "answer" : "15/8"
+    },
+    {
+        "question" : "Pipe A can fill an empty cistern in 6 hours while along with Pipe B it can fill it up in 4 hours. Only Pipe B is on for an hour after which Pipe A is also turned on. How much time will it take in all to fill up the cistern?",
+        "answer" : "4 hrs"
+    }
+]
