@@ -1,0 +1,474 @@
+[
+    {
+        "question" : "Today is Monday. After 68 days, it will be:",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "The last day of a century cannot be:",
+        "answer" : "Thursday"
+    },
+    {
+        "question" : "What day on 23.04.1990?",
+        "answer" : "Monday"
+    },
+    {
+        "question" : "What day of week was it on 1989/05/11, if it was Monday on 1988/04/04, given the dates are in format : yyyy/dd/mm ?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "If 01/04/2013 is Monday, then what is the day on 30/11/2013?",
+        "answer" : "we can compare it with 29/04/2013, as it also had monday on that day find the remainder with number of days%7 number of days in april =30-29 =1 number of days in may =31 %7 =3 number of days in june =30 %7 =2 number of days in july =31 %7 =3 number of days in august =31 %7 =3 number of days in september =30 %7 =2 number of days in october =31 %7 =3 number of days in november =30 %7 =2 total count=1+3+2+3+3+2+3+2 = 19 %7 =5 Now we add 5 days in monday then it will be saturday. "
+    },
+    {
+        "question" : "If January 1, 2016 was a Friday, what day of the week will be on January 1, 2017?",
+        "answer" : "The year 2016 is the leap year which has 366 days i.e. 52 weeks and 2 more days. After each week, the day starts repetition. So the day on January 1, 2017 will be 2 days beyond Friday. That is Sunday."
+    },
+    {
+        "question" : "What was the day of the week on January 30, 1948?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "What was the day of the week on January 1, 2001?",
+        "answer" : "Monday"
+    },
+    {
+        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+        "answer" : "On 31st December, 2005 it was Saturday.vNumber of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days. On 31st December 2009, it was Thursday. Thus, on 1st Jan, 2010 it is Friday."
+    },
+    {
+        "question" : "What was the day of the week on 28th May, 2006?",
+        "answer" : "Given day is Sunday."
+    },
+    {
+        "question" : "What was the day of the week on 17th June, 1998?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "What will be the day of the week 15th August, 2010?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "Today is Monday. After 61 days, it will be:",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "On what dates of April, 2001 did Wednesday fall?",
+        "answer" : "4th, 11th, 18th, 25th"
+    },
+    {
+        "question" : "The last day of a century cannot be",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "January 1, 2008 is Tuesday. What day of the week lies on Jan 1, 2009?",
+        "answer" : "Thursday"
+    },
+    {
+        "question" : "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "What was the day on 15th august 1947 ?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "Today is Monday. After 61 days, it will be :",
+        "answer" : " Saturday"
+    },
+    {
+        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "The last day of a century cannot be",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "What was the day of the week on 28th May, 2006?",
+        "answer" : " Sunday"
+    },
+    {
+        "question" : "What was the day of the week on, 16th July, 1776?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "What will be the day of the week 15th August, 2010?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "How many weekends in a year?",
+        "answer" : "52"
+    },
+    {
+        "question" : "What was the day of the week on 17th June, 1998 ?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "On what dates of April, 2001 did Wednesday fall?",
+        "answer" : "4th,11th,18th,25th"
+    },
+    {
+        "question" : "How many days are there in x weeks x days?",
+        "answer" : "x weeks x days = (7x + x) days = 8x days."
+    },
+    {
+        "question" : "26 january 1950 which day of the week? A) Monday B) Wednesday C) Thursday D) Tuesday",
+        "answer" : "Thursday"
+    },
+    {
+        "question" : "How many leap years does 100 years have?",
+        "answer" : "24"
+    },
+    {
+        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "Which two months in a year have the same calendar?",
+        "answer" : "April, July"
+    },
+    {
+        "question" : "What is 90 days from today? Hints : Today is 20th January 2017, Sunday",
+        "answer" : "20th April, Saturday"
+    },
+    {
+        "question" : "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "The maximum gap between two successive leap year is?",
+        "answer" : "8"
+    },
+    {
+        "question" : "How many leap years do 300 years have?",
+        "answer" : "72"
+    },
+    {
+        "question" : "If today is Saturday, what will be the day 350 days from now  ?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "The calendar of the year 1897 can be used again in the year? A) 1908 B) 1901 C) 1903 D) 1926",
+        "answer" : "1903"
+    },
+    {
+        "question" : "The year next to 2005 will have the same calendar as that of the year 2005? A) 2016  B) 2022 C) 2011 D) None",
+        "answer" : "C) 2011"
+    },
+    {
+        "question" : "The second day of a month is Sunday, What will be the last day of the next month which has 31 days  ?",
+        "answer" : "Can't be determined"
+    },
+    {
+        "question" : "The calendar for the year 1993 will be same for the year",
+        "answer" : "1999"
+    },
+    {
+        "question" : "The calendar for the year 2007 will be the same for the year",
+        "answer" : "2018"
+    },
+    {
+        "question" : "The calendar for the year 2018 will be the same for the year",
+        "answer" : "2029"
+    },
+    {
+        "question" : "The day before yesterday, I was 25 years old, and next year I will turn 28. How is it possible?",
+        "answer" : "The day before yesterday(30 December 2016), I was 25 years old and next year(31 December 2018) I will be 28."
+    },
+    {
+        "question" : "On what dates of July.2004 did Monday fall?",
+        "answer" : "5th, 12th, 19th, 26th"
+    },
+    {
+        "question" : "Prove that any date in March of a year is the same day of the week corresponding date in November that year.",
+        "answer" : "Same day"
+    },
+    {
+        "question" : "If Aug 15th,2012 falls on Thursday then June 11th,2013 falls on which day ?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "If Feb 12th,1986 falls on Wednesday then Jan 1st,1987 falls on which day?",
+        "answer" : "Thursday"
+    },
+    {
+        "question" : "If Mar 18th,1994 falls on Friday then Feb 25th,1995 falls on which day?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "The calendar of the year 2024 can be used again in the year?",
+        "answer" : "2052"
+    },
+    {
+        "question" : "What was the day of the week on 16th August, 1947?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "If every seconds Saturday and all Sundays are holidays in a 30 days month beginning on Saturday, then how many working days are there in that month ? (Month starts from Saturday)",
+        "answer" : "23"
+    },
+    {
+        "question" : "The calendar for the year 1988 is same as which upcoming year ?",
+        "answer" : "2016"
+    },
+    {
+        "question" : "The year next to 2003 will have the same calendar as that of the year 2003?",
+        "answer" : "2014"
+    },
+    {
+        "question" : "If July 9th,2013 falls on Sunday then Jan 7th,2014 falls on which day?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "Given that on 9th August 2016 is Saturday. What was the day on 9th August 1616 ?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "Which year has 366 days?",
+        "answer" : "1200"
+    },
+    {
+        "question" : "If yesterday were tomorrow, then today would be Friday. What day is today?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "1.12.91 is the first Sunday. Which is the fourth Tuesday of December 91 ?",
+        "answer" : "24.12.91"
+    },
+    {
+        "question" : "Second & fourth Saturdays and every Sunday is a holiday. How many working days will be there in a month of 31 days beginning on a Friday ?",
+        "answer" : "24"
+    },
+    {
+        "question" : "On 17th March, 1997 Monday falls. What day of the week was it on 17th March, 1996?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "Suppose today is Friday, what day of the week will it be 65 days from now?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "If 5th March, 2005 is Monday, what was the day of the week on 5th March, 2004 ?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "The calendar of year 1989 was same as which year?",
+        "answer" : "1978"
+    },
+    {
+        "question" : "On 24th Nov, 2007 Thursday falls. What day of the week was it on 10th Nov, 2006 ?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "What was the day of the week on 28th May, 2006?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "How many seconds in 10 years?",
+        "answer" : "315360000 sec"
+    },
+    {
+        "question" : "The calendar of year 1939 is same as which year?",
+        "answer" : "1950"
+    },
+    {
+        "question" : "What was the day on 2nd Jan 1901 ?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "On what dates of April, 2001 did Wednesday fall ?",
+        "answer" : " 4th, 11th, 18th, 25th"
+    },
+    {
+        "question" : "Oct 1st 1994 falls on which day?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010 ?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "On 19th June, 1984 Monday falls. What day of the week was it on 19th June, 1985?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "How many days are there in k weeks k days ?",
+        "answer" : "k weeks k days = (7k + k) days = 8k days."
+    },
+    {
+        "question" : "What will be the day of the week 15th August, 2010?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "Aizaz was born on 5th January 2015, while Faiz was born 553days later. On which date was Faiz born?",
+        "answer" : "11th July 2016"
+    },
+    {
+        "question" : "If 4th december 1999 is Monday then what day is 3rd january 2000 ?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "What is two weeks from today? A) same day B) previous day C) next day D) None",
+        "answer" : "same day"
+    },
+    {
+        "question" : "On 1st Jan, 2005 Saturday falls. What day of the week was it on 1st Jan, 2006?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "What was the day on 16th June,1993?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "Which century year is a leap year? A) 1900 B) 1700 C) 1600 D) 1100",
+        "answer" : "C)  1600"
+    },
+    {
+        "question" : "1.12.91 is the first Tuesday. Which is the fourth Thursday of December 91  ?",
+        "answer" : "25.12.91"
+    },
+    {
+        "question" : "What day would it be on 1 September 2020?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "How old are you if you are born in 1995? Considering present year as 2018",
+        "answer" : "23"
+    },
+    {
+        "question" : "The calendar of the year 2006 was used before in the year? A) 1990 B) 1995 C) 2002 D) 2000",
+        "answer" : "B) 1995"
+    },
+    {
+        "question" : "In a year, Holi was enjoyed on 6th March 9 AM and Deepawali was celebrated on 11th November 8 PM. The total time interval (in hours) between the two was ?",
+        "answer" : "6011 hrs"
+    },
+    {
+        "question" : "What was the day on 31st Dec,2011 ?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006 ?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "How many days in 4 years?",
+        "answer" : "1460"
+    },
+    {
+        "question" : "The calendar for the year 2013 was the same as the year :",
+        "answer" : "2002"
+    },
+    {
+        "question" : "The calendar of year 1856 is same as which year?",
+        "answer" : "1884"
+    },
+    {
+        "question" : "What was the day on 9th May,2001?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "Which calendar was used again in the year 1856?",
+        "answer" : "1828"
+    },
+    {
+        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "What was the day of the week on 28th May, 2006?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "Which of the following years have 366 days?",
+        "answer" : "1984"
+    },
+    {
+        "question" : "What will be the day on 18th Feb,2016?",
+        "answer" : "Thursday"
+    },
+    {
+        "question" : "The last day of a century cannot be",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "What day would it be on 1 september 2020 ?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "How much does a clock lose per day, if its hands coincide ever 65 minutes ?",
+        "answer" : "1425/18 min"
+    },
+    {
+        "question" : "April 19th, 1986 falls on which day?",
+        "answer" : "Saturday"
+    },
+    {
+        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "What was the day on 25th Jan,1981?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "From the following years,which is not a leap year ?",
+        "answer" : "1863"
+    },
+    {
+        "question" : "What was the day of the week on 17th June, 1998?",
+        "answer" : "Wednesday"
+    },
+    {
+        "question" : "Which year will have the same calendar as that of 2005? A) 2009 B) 2010 C) 2011 D) 2008" ,
+        "answer" : "2011"
+    },
+    {
+        "question" : "Which of the following year is a leap year? A) 2500 B) 1700 C) 1900 D) 2400",
+        "answer" : "2400"
+    },
+    {
+        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+        "answer" : "Sunday"
+    },
+    {
+        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+        "answer" : "Friday"
+    },
+    {
+        "question" : "What day of the week was 29 June 2010 ?",
+        "answer" : "Tuesday"
+    },
+    {
+        "question" : "The calendar for the year 2007 will be the same for the year ?",
+        "answer" : "2018"
+    },
+    {
+        "question" : "5th January 2018 was a Friday. Which of the following years will also have 5th January on a Friday?",
+        "answer" : "2024"
+    }
+]

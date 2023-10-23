@@ -5,6 +5,7 @@ const age = require("../data/age.json");
 const permutationAndCombination = require("../data/PermutationAndCombination.json");
 const speedTimeDistance = require("../data/SpeedTimeDistance.json");
 const simpleInterest = require("../data/simpleInterest.json");
+const calendar = require("../data/calendars.json");
 
 exports.getBasics = (req, res, next) => {
     res.status(200).json(randomApt[(Math.round( Math.random() * (randomApt.length-1) ))]);
@@ -32,4 +33,8 @@ exports.getSpeedTimeDistance =(req, res, next) => {
 
 exports.getSimpleInterest = (req, res, next) => {
     res.status(200).json( simpleInterest[ Math.round(Math.random * (simpleInterest.length -1) ) ] )
+}
+
+exports.getCalendar = (req, res, next) => {
+    res.status(200).json( calendar[ Math.round( Math.random() * (calendar.length -1) ) ] )
 }
