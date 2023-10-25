@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Poppins&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    outline: none;
+    overflow-x: hidden;
+    background-color: #64CCC5;
+}
+
+
+header > nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: auto;
+}
+
+header > nav *{
+    display: inline;
+    margin: auto;
+    color: #A5F1E9;
+    cursor: pointer;
+}
+
+header > nav a{
+    font-size: 16px;
+    border-radius: 18px;
+    text-decoration: none;
+    transition: all 0.4s;
+}
+
+header > nav ul{
+    display: flex;
+    gap: 40px;
+}
+
+nav img{
+    height: 40px;
+    margin: 0 40px 0 0;
+}
+
+header > nav ul>a:hover{
+    font-size: 18px;
+    padding: 10px;
+    background-color: #35A29F;
+    border-radius: 28px;
+}
+
+#overview{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 5% 0;
+    height: 90vh;
+    width: auto;
+    
+}
+
+#overview h1{
+    font-size: 90px;
+    letter-spacing: 3px;
+    color: #35A29F;
+}
+
+#overview p{
+    margin : 0 10%;
+    text-align: justify;
+    font-size: 20px;
+    color: #A5F1E9;
+}
+
+#overview p span{
+    color : #35A29F ;
+}
+
+#api-endpoint{
+    width: 80%;
+}
+
+#api-endpoint h2{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: #35A29F;
+}
+
+.endpoints button{
+    display: inline-block;
+    height: 40px;
+    width: 60px;
+    border-radius: 10px;
+    border:none;
+    background-color: #35A29F;
+    color: #fff;
+    font-size: 18px;
+}
+
+.endpoints p{
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+}
+
+#guide{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+}
+
+
+#documentation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.request{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    border-radius: 18px;
+    background-color: #fff;
+}
+
+
+.request .top-bar>*{
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    margin: 14px 0 0 8px;
+    border-radius: 50%;
+    background-color: #333;
+    z-index: 333;
+}
+
+.response{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    border-radius: 18px;
+    background-color: #fff;
+}
+
+.response .top-bar>*{
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    margin: 14px 0 0 8px;
+    border-radius: 50%;
+    background-color: #333;
+    z-index: 333;
+}
+
+.top-bar .red{
+    background-color: #FF605C;
+}
+
+.top-bar .yellow{
+    background-color: #FFBD44;
+}
+
+.top-bar .green{
+    background-color: #00CA4E;
+}
+
+#documentation hr{
+    border-top: 1px solid #64CCC5;
+}
+
+.request pre{
+    margin : 30px 0;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+}
+
+.response code{
+    display: inline-block;
+    padding: 15px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 15px;
+}
+
+#contribution{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contribution-details{
+    height: 100%;
+    width: 80%;
+}
+
+.contribution-details h2{
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 3px;
+    color: #35A29F;
+    width: 100%;
+}
+
+#contribution  h3{
+    color: #A5F1E9;
+    font-size: 25px;
+}
+
+.cmd-line{
+    min-height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-radius: 18px;
+    border: none;
+    background-color: #333;
+}
+
+.cmd-line code{
+    margin: 0 20px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 18px;
+    color: #fff;
+}
+
+footer p{
+    font-weight: 900;
+    font-size: 20px;
+    color: #35A29F;
+    text-align: center;
+}
+
+footer span{
+    font-size: 20px;
+    animation: beat 2s linear infinite;
+}
+
+@keyframes beat {
+    0%{
+        font-size: 20px;
+    }
+    25%{
+        font-size: 12.5px;
+    }
+    50%{
+        font-size: 15px;
+    }
+    75%{
+        font-size: 17.5px;
+    }
+    100%{
+        font-size: 20px;
+    }
+}

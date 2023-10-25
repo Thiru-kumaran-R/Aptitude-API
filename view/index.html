@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../public/style.css">
+    <title>Aptitude API</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <h2>APTITUDE API</h2>
+
+            <ul>
+                <a href="#overview"><li> Overview </li></a>
+                <a href="#guide"><li> Documentation </li></a>
+                <a href="#contribution"><li> Contribution </li></a>
+            </ul>
+
+            <a href="https://github.com/thirukumaran05/Aptitude-API"><img src="../images/github-mark.png" alt=""></a>
+        </nav>
+    </header>
+
+    
+    <section id="overview">
+        <h1>APTITUDE API</h1>
+        <p>
+            Aptitude API is a free and open source API that generates aptitude questions based on your choice or randomly for each call. The topics that are currently available are : <span>Mixture and Alligation</span>
+            ,  <span>Profit and Loss</span> , <span>Pipes and Cisterns </span> , <span>Age</span> ,  <span>Permutation and Combination </span> , <span> Speed Time Distance</span> , <span>Simple Interest </span> , <span>Calendars</span>.
+            Each topic in this API contains <span>100+</span> questions.
+        </p>
+    </section>
+
+
+    <section id="guide">
+
+        <section id="api-endpoint">
+            <h2>API ENDPOINTS</h2>
+    
+            <div class="endpoints">
+                <button>GET</button>
+    
+                <p>/ Mixture and Alligation</p>
+            </div>
+
+            <div class="endpoints">
+                <button>URL</button>
+    
+                <p>/ Mixture and Alligation</p>
+            </div>
+    
+        </section>
+
+        <section id="documentation">
+
+            <div class="request">
+
+                <div class="top-bar">
+                    <div class="red"></div>
+                    <div class="yellow"></div>
+                    <div class="green"></div>
+                </div>
+
+                <hr>
+
+                <pre>
+    fetch('age')
+    .then(response => {
+        //handle response            
+        console.log(response);
+    })
+    .then(data => {
+        //handle data
+        console.log(data);
+    })
+    .catch(error => {
+        //handle error
+    });
+                </pre>
+
+            </div>
+
+            <div class="response">
+
+                <div class="top-bar">
+                    <div class="red"></div>
+                    <div class="yellow"></div>
+                    <div class="green"></div>
+                </div>
+
+                <hr>
+
+                <code>
+                    {
+                        <br>
+                        "question" : "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?",
+                        <br>
+                        
+                        "answer" : "41"
+                        <br>
+                    }
+                </code>
+
+            </div>
+        </section>
+
+    </section>
+
+    <section id="contribution">
+
+        <section class="contribution-details">
+
+            <h2>Contribution</h2>
+
+        <div class="fork">
+            <h3>Fork this Repository</h3>
+
+            <div class="cmd-line">
+                <code>gh repo fork https://github.com/thirukumaran05/Aptitude-API.git</code>
+            </div>
+        </div>
+
+        <br>
+
+        <h3>After adding new question or Fixing Errors</h3>
+
+        <br>
+
+        <div class="pull">
+            <h3>Pull this Repository</h3>
+
+            <div class="cmd-line">
+                <code>hub pull-request -b original-repo:main -h your-username:new-feature-branch -m "Description of your changes"</code>
+            </div>
+        </div>
+
+        </section>
+
+    </section>
+
+    <footer>
+        <p>Made with&nbsp;&nbsp; <span>🤍</span> &nbsp;&nbsp;by Thirukumaran</p>
+    </footer>
+    
+</body>
+</html>
