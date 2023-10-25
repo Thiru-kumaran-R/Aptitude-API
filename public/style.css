@@ -12,8 +12,9 @@ body{
 
 header > nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    margin: 20px 0;
     width: auto;
 }
 
@@ -52,8 +53,7 @@ header > nav ul>a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin: 5% 0;
-    height: 90vh;
+    height: 100vh;
     width: auto;
     
 }
@@ -73,6 +73,39 @@ header > nav ul>a:hover{
 
 #overview p span{
     color : #35A29F ;
+}
+
+#overview .cmdline{
+    margin: auto;
+    min-height: 60px;
+    width: 80%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    border-radius: 18px;
+    border: none;
+    background-color: #35A29F;
+}
+
+.cmdline  a{
+    text-decoration: none;
+    margin: 0 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border:none;
+    background-color: #A5F1E9;
+    color: #35A29F;
+    font-size: 18px;
+}
+
+.cmdline code{
+    font-family: 'JetBrains Mono', monospace;
+    margin: 0 auto;
+    color: #A5F1E9;
 }
 
 #api-endpoint{
@@ -99,8 +132,51 @@ header > nav ul>a:hover{
 
 .endpoints p{
     display: inline-block;
+    position: relative;
     color: #fff;
     font-size: 18px;
+}
+
+.endpoints p::before{
+    content: "/MixtureAndAlligation";
+    color: #fff;
+    animation: words 30s infinite ;
+}
+
+@keyframes words {
+    0%,13%{
+        content: "/ProfitAndLoss";
+    }
+    14%,26%{
+        content: "/Age";
+    }
+    27%,39%{
+        content: "/PermutationAndCombination";
+    }
+    40%,52%{
+        content: "/Calendars";
+    }
+    53%,66%{
+        content: "/PipesAndCistern";
+    }
+    67%,79%{
+        content: "/SimpleInterest";
+    }
+    80%,83%{
+        content: "/SpeedTimeDistance";
+    }
+    84%,100%{
+        content: "/random";
+    }
+}
+
+.endpoints p::after{
+    content: "";
+    position: absolute;
+    width: 3px;
+    height: 100%;
+    right: -10px;
+    background-color: #64CCC5;
 }
 
 #guide{
@@ -237,7 +313,7 @@ footer p{
     text-align: center;
 }
 
-footer span{
+/* footer span{
     font-size: 20px;
     animation: beat 2s linear infinite;
 }
@@ -258,4 +334,4 @@ footer span{
     100%{
         font-size: 20px;
     }
-}
+} */
