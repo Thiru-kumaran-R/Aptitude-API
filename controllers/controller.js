@@ -33,7 +33,7 @@ exports.getSpeedTimeDistance =(req, res, next) => {
 }
 
 exports.getSimpleInterest = (req, res, next) => {
-    res.status(200).json( simpleInterest[ Math.round(Math.random * (simpleInterest.length -1) ) ] )
+    res.status(200).json( simpleInterest[ Math.round( Math.random() * (simpleInterest.length - 1) ) ]);
 }
 
 exports.getCalendar = (req, res, next) => {
