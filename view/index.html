@@ -44,13 +44,13 @@
             <div class="endpoints">
                 <button>GET</button>
     
-                <p></p>
+                <p class="multiText"></p>
             </div>
 
             <div class="endpoints">
                 <button>URL</button>
     
-                <p></p>
+                <span> https://api.vercel.thirukumaran05 <p class="multiTexts"></p> </span>
             </div>
     
         </section>
@@ -68,7 +68,7 @@
                 <hr>
 
                 <pre>
-    fetch('age')
+    fetch('url')
     .then(response => {
         //handle response            
         console.log(response);
@@ -97,7 +97,7 @@
                 <code>
                     {
                         <br>
-                        "question" : "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?",
+                        "question" : "If Thiru was one-third as old as Raja 5 years back and Thiru is 17 years old now, How old is Raja now?",
                         <br>
                         
                         "answer" : "41"
@@ -146,5 +146,24 @@
         <p>Made with&nbsp;&nbsp; <span>🤍</span> &nbsp;&nbsp;by Thirukumaran</p>
     </footer>
     
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+    <script>
+        var typingEffect = new Typed(".multiText", {
+            strings : ["/Age", "/Calendars", "/MixtureAndAlligation", "/PermutationAndCombination", "/PipesAndCisterns", "/ProfitAndLoss", "/random", "/SimpleInterest", "/SpeedTimeDistance"] ,
+            loop : true,
+            typeSpeed : 200,
+            backSpeed : 200,
+            backDelay : 1900
+        })
+
+        var typingEffect = new Typed(".multiTexts", {
+            strings : ["/Age", "/Calendars", "/MixtureAndAlligation", "/PermutationAndCombination", "/PipesAndCisterns", "/ProfitAndLoss", "/random", "/SimpleInterest", "/SpeedTimeDistance"] ,
+            loop : true,
+            typeSpeed : 200,
+            backSpeed : 200,
+            backDelay : 1900
+        })
+    </script>
 </body>
 </html>

@@ -7,6 +7,10 @@ body{
     outline: none;
     overflow-x: hidden;
     background-color: #64CCC5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 
@@ -26,7 +30,7 @@ header > nav *{
 }
 
 header > nav a{
-    font-size: 16px;
+    font-size: 1rem;
     border-radius: 18px;
     text-decoration: none;
     transition: all 0.4s;
@@ -37,13 +41,8 @@ header > nav ul{
     gap: 40px;
 }
 
-nav img{
-    height: 40px;
-    margin: 0 40px 0 0;
-}
-
 header > nav ul>a:hover{
-    font-size: 18px;
+    font-size: 1.2rem;
     padding: 10px;
     background-color: #35A29F;
     border-radius: 28px;
@@ -53,13 +52,13 @@ header > nav ul>a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
-    width: auto;
-    
+    gap: 2rem;
+    height: 80vh;
+    width: 80%;
 }
 
 #overview h1{
-    font-size: 90px;
+    font-size: 5.6rem;
     letter-spacing: 3px;
     color: #35A29F;
 }
@@ -67,17 +66,18 @@ header > nav ul>a:hover{
 #overview p{
     margin : 0 10%;
     text-align: justify;
-    font-size: 20px;
+    font-size: 1.3rem;
     color: #A5F1E9;
 }
 
 #overview p span{
     color : #35A29F ;
+    font-size: 1.3rem;
 }
 
 #overview .cmdline{
-    margin: auto;
-    min-height: 60px;
+    margin-top: 5%;
+    min-height: 5vw; /* 60px */
     width: 80%;
     display: flex;
     justify-content: left;
@@ -93,17 +93,18 @@ header > nav ul>a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 40px;
-    width: 100px;
+    height: 4vh;
+    width: 6.5vw;
     border-radius: 10px;
     border:none;
     background-color: #A5F1E9;
     color: #35A29F;
-    font-size: 18px;
+    font-size: 1.2rem;
 }
 
 .cmdline code{
     font-family: 'JetBrains Mono', monospace;
+    font-size: 1.2rem;
     margin: 0 auto;
     color: #A5F1E9;
 }
@@ -114,7 +115,7 @@ header > nav ul>a:hover{
 
 #api-endpoint h2{
     text-align: center;
-    font-size: 50px;
+    font-size: 3.7rem;
     letter-spacing: 3px;
     color: #35A29F;
 }
@@ -127,57 +128,16 @@ header > nav ul>a:hover{
     border:none;
     background-color: #35A29F;
     color: #fff;
-    font-size: 18px;
+    font-size: 1.1rem;
 }
 
-.endpoints p{
+.endpoints p,span{
     display: inline-block;
     position: relative;
     color: #fff;
-    font-size: 18px;
+    font-size: 1.1rem;
 }
 
-.endpoints p::before{
-    content: "/MixtureAndAlligation";
-    color: #fff;
-    animation: words 30s infinite ;
-}
-
-@keyframes words {
-    0%,13%{
-        content: "/ProfitAndLoss";
-    }
-    14%,26%{
-        content: "/Age";
-    }
-    27%,39%{
-        content: "/PermutationAndCombination";
-    }
-    40%,52%{
-        content: "/Calendars";
-    }
-    53%,66%{
-        content: "/PipesAndCistern";
-    }
-    67%,79%{
-        content: "/SimpleInterest";
-    }
-    80%,83%{
-        content: "/SpeedTimeDistance";
-    }
-    84%,100%{
-        content: "/random";
-    }
-}
-
-.endpoints p::after{
-    content: "";
-    position: absolute;
-    width: 3px;
-    height: 100%;
-    right: -10px;
-    background-color: #64CCC5;
-}
 
 #guide{
     display: flex;
@@ -197,8 +157,8 @@ header > nav ul>a:hover{
 }
 
 .request{
-    height: 400px;
-    width: 400px;
+    height: 50vh;
+    width: 30vw;
     position: relative;
     border-radius: 18px;
     background-color: #fff;
@@ -216,8 +176,8 @@ header > nav ul>a:hover{
 }
 
 .response{
-    height: 400px;
-    width: 400px;
+    height: 50vh;
+    width: 30vw;
     position: relative;
     border-radius: 18px;
     background-color: #fff;
@@ -252,14 +212,14 @@ header > nav ul>a:hover{
 .request pre{
     margin : 30px 0;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 15px;
+    font-size: 1.05rem;
 }
 
 .response code{
     display: inline-block;
     padding: 15px;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 15px;
+    font-size: 1.05rem;
 }
 
 #contribution{
@@ -277,7 +237,7 @@ header > nav ul>a:hover{
 
 .contribution-details h2{
     text-align: center;
-    font-size: 50px;
+    font-size: 3.7rem;
     letter-spacing: 3px;
     color: #35A29F;
     width: 100%;
@@ -285,7 +245,7 @@ header > nav ul>a:hover{
 
 #contribution  h3{
     color: #A5F1E9;
-    font-size: 25px;
+    font-size: 1.5rem;
 }
 
 .cmd-line{
@@ -302,7 +262,7 @@ header > nav ul>a:hover{
 .cmd-line code{
     margin: 0 20px;
     font-family: 'JetBrains Mono', monospace;
-    font-size: 18px;
+    font-size: 1.1rem;
     color: #fff;
 }
 
@@ -312,26 +272,3 @@ footer p{
     color: #35A29F;
     text-align: center;
 }
-
-/* footer span{
-    font-size: 20px;
-    animation: beat 2s linear infinite;
-}
-
-@keyframes beat {
-    0%{
-        font-size: 20px;
-    }
-    25%{
-        font-size: 12.5px;
-    }
-    50%{
-        font-size: 15px;
-    }
-    75%{
-        font-size: 17.5px;
-    }
-    100%{
-        font-size: 20px;
-    }
-} */
