@@ -18,7 +18,7 @@ header > nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 20px 0;
+    margin: 1rem 0;
     width: auto;
 }
 
@@ -52,8 +52,7 @@ header > nav ul>a:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-    gap: 2rem;
-    height: 80vh;
+    height: 100vh;
     width: 80%;
 }
 
@@ -76,9 +75,9 @@ header > nav ul>a:hover{
 }
 
 #overview .cmdline{
-    margin-top: 5%;
-    min-height: 5vw; /* 60px */
-    width: 80%;
+    margin: auto;
+    padding: 0.5rem;
+    min-width: fit-content;
     display: flex;
     justify-content: left;
     align-items: center;
@@ -89,12 +88,12 @@ header > nav ul>a:hover{
 
 .cmdline  a{
     text-decoration: none;
-    margin: 0 40px;
+    margin-right: 0.5rem;
+    padding: 0.5rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 4vh;
-    width: 6.5vw;
+    width: fit-content;
     border-radius: 10px;
     border:none;
     background-color: #A5F1E9;
@@ -104,6 +103,7 @@ header > nav ul>a:hover{
 
 .cmdline code{
     font-family: 'JetBrains Mono', monospace;
+    width: fit-content;
     font-size: 1.2rem;
     margin: 0 auto;
     color: #A5F1E9;
@@ -209,8 +209,9 @@ header > nav ul>a:hover{
     border-top: 1px solid #64CCC5;
 }
 
-.request pre{
-    margin : 30px 0;
+.request code{
+    display: inline-block;
+    padding: 15px;
     font-family: 'JetBrains Mono', monospace;
     font-size: 1.05rem;
 }
@@ -268,7 +269,179 @@ header > nav ul>a:hover{
 
 footer p{
     font-weight: 900;
-    font-size: 20px;
+    font-size: 1.4rem;
     color: #35A29F;
     text-align: center;
+}
+
+@media (min-width: 550px) and (max-width : 920px ) and (orientation: portrait) {
+
+    header > nav a{
+        font-size: 0.9rem;
+        border-radius: 18px;
+        text-decoration: none;
+        transition: all 0.4s;
+    }
+
+    header > nav ul>a:hover{
+        font-size: 1rem;
+        padding: 10px;
+        background-color: #35A29F;
+        border-radius: 28px;
+    }
+
+    #overview h1{
+        text-align: center;
+        word-wrap: break-word;
+        font-size: 4.5rem;
+        letter-spacing: 3px;
+        color: #35A29F;
+    }
+
+    #overview p{
+        margin : 0 5%;
+        text-align: justify;
+        font-size: 1.1rem;
+        color: #A5F1E9;
+    }
+    
+    #overview p span{
+        color : #35A29F ;
+        font-size: 1.1rem;
+    }
+
+    #overview .cmdline{
+        margin: auto;
+        padding: 0.5rem;
+        min-width: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 18px;
+        border: none;
+        background-color: #35A29F;
+    }
+    
+    .cmdline  a{
+        text-decoration: none;
+        margin-right: 0.5rem;
+        padding: 0.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;
+        border-radius: 10px;
+        background-color: #A5F1E9;
+        color: #35A29F;
+        font-size: 1rem;
+    }
+    
+    .cmdline code{
+        font-family: 'JetBrains Mono', monospace;
+        width: fit-content;
+        font-size: 0.8rem;
+        margin: 0 auto;
+        color: #A5F1E9;
+    }
+
+    #api-endpoint{
+        width: 85%;
+    }
+    
+    #api-endpoint h2{
+        text-align: center;
+        font-size: 3rem;
+        letter-spacing: 3px;
+        color: #35A29F;
+    }
+    
+    .endpoints button{
+        display: inline-block;
+        height: 40px;
+        width: 60px;
+        border-radius: 10px;
+        border:none;
+        background-color: #35A29F;
+        color: #fff;
+        font-size: 1rem;
+    }
+    
+    .endpoints p,span{
+        display: inline-block;
+        width: fit-content;
+        position: relative;
+        color: #fff;
+        font-size: 1rem;
+    }
+
+    #documentation{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 85%;
+    }
+
+    .request{
+        height: 50vh;
+        width: 40vw;
+        position: relative;
+        border-radius: 18px;
+        background-color: #fff;
+    }
+    
+    .response{
+        height: 50vh;
+        width: 40vw;
+        position: relative;
+        border-radius: 18px;
+        background-color: #fff;
+    }
+
+    .contribution-details{
+        height: 100%;
+        width: 85%;
+    }
+    
+    .contribution-details h2{
+        text-align: center;
+        font-size: 3rem;
+        letter-spacing: 3px;
+        color: #35A29F;
+        width: 100%;
+    }
+    
+    #contribution  h3{
+        color: #A5F1E9;
+        font-size: 1.2rem;
+    }
+
+    #contribution  h3{
+        color: #A5F1E9;
+        font-size: 1.3rem;
+    }
+    
+    .cmd-line{
+        min-height: 80px;
+        width: 100%;
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        border-radius: 18px;
+        border: none;
+        background-color: #333;
+    }
+    
+    .cmd-line code{
+        margin: 0 20px;
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 1rem;
+        color: #fff;
+    }
+
+    footer p{
+        font-weight: 900;
+        font-size: 1.2rem;
+        color: #35A29F;
+        text-align: center;
+    }
 }
