@@ -472,17 +472,11 @@ footer p{
 
 @media (max-width : 668px ) and (orientation: portrait) {
     header > nav a{
+        display: none;
         font-size: 0.7rem;
         border-radius: 18px;
         text-decoration: none;
         transition: all 0.4s;
-    }
-
-    header > nav ul>a:hover{
-        font-size: 0.9rem;
-        padding: 10px;
-        background-color: #35A29F;
-        border-radius: 28px;
     }
 
     #overview{
