@@ -15,7 +15,7 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 ## API Servers
 
 ```bash
-https://aptitude-hc9zllp5h-thirukumarans-projects.vercel.app/
+  https://aptitude-api.vercel.app/
 ```
     
 ## API Reference
