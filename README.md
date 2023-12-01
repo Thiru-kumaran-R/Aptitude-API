@@ -10,13 +10,6 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 * Simple Interest
 * Calendars
 
-
-
-## API Servers
-
-```bash
-  https://aptitude-api.vercel.app/
-```
     
 ## API Reference
 
