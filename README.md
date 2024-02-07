@@ -10,6 +10,7 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 * Simple Interest
 * Calendars
 
+<<<<<<< HEAD
 
 
 ## API Servers
@@ -17,59 +18,61 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 ```bash
   https://aptitude-hc9zllp5h-thirukumarans-projects.vercel.app/
 ```
+=======
+>>>>>>> origin/main
     
 ## API Reference
 
 #### Get all aptitude questions
 
-```http
-  https://aptitude-api.vercel.app/random
+```bash
+ https://aptitude-api.vercel.app/random
 ```
 
 #### Get questions only on Mixture and Alligation topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/MixtureAndAlligation
 ```
 
 
 #### Get questions only on Age topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/Age
 ```
 
 #### Get questions only on Permutation and Combination topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/PermutationAndCombination
 ```
 
 
 #### Get questions only on Profit and Loss topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/ProfitAndLoss
 ```
 
 #### Get questions only on Pipes and Cisterns topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/PipesAndCisterns
 ```
 #### Get questions only on Speed Time Distance topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/SpeedTimeDistance
 ```
 #### Get questions only on Calendars topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/Calendar
 ```
 #### Get questions only on Simple Interest topic
 
-```http
+```bash
   https://aptitude-api.vercel.app/SimpleInterest
 ```
 

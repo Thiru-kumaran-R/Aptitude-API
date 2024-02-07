@@ -1,470 +1,476 @@
 [
     {
-        "question" : "A person buys a pen from a wholesaler at Rs. 10 for 20 pens. He sells those pens at Rs. 10 for 15 pens. Find his profit percent.",
-        "answer" : "33.334%"
+      "question": "A shirt is sold for $120 after giving a discount of 20% on the market price. What is the market price of the shirt?",
+      "answer": "$150",
+      "options": ["$100", "$120", "$150", "$180"],
+      "explanation": "Let the market price of the shirt be x. Selling price after a 20% discount = 80% of x. $120 = 0.80x. x = $120 / 0.80 = $150."
     },
     {
-        "question" : "A dealer incurs a loss of 5 % if he sells an article for Rs. 1805. What price must he sell the article so as to gain 5 % on that article? ",
-        "answer" : "Rs. 1995 "
+      "question": "A mobile phone is sold at a profit of 25% after allowing a discount of 10%. If the selling price is $375, what is the cost price of the phone?",
+      "answer": "$240",
+      "options": ["$200", "$225", "$240", "$250"],
+      "explanation": "Let the cost price of the mobile phone be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $375 = 1.25 * 0.90x. $375 = 1.125x. x = $375 / 1.125 = $240."
     },
     {
-        "question" : " If the cost price of an article is 67 % of the selling price, what is the profit percent? ",
-        "answer" : "49.25 %"
+      "question": "A pair of shoes is sold at a discount of 12%. If the selling price is $440, what was the market price of the shoes?",
+      "answer": "$500",
+      "options": ["$400", "$440", "$480", "$500"],
+      "explanation": "Let the market price of the shoes be x. Selling price after a 12% discount = 88% of x. $440 = 0.88x. x = $440 / 0.88 = $500."
     },
     {
-        "question" : " A shopkeeper purchased two varieties of rice, 80 KG at Rs. 13.50 per KG and 120 KG at Rs. 16 per KG. The shopkeeper being greedy, mixed the two varieties of rice and sold the mixture at a gain of 16 %. Find the per KG selling price of the mixture.",
-        "answer" : "Rs. 17.40"
+      "question": "A jacket is sold for $1800 after a discount of 25%. What was its cost price if the seller made a profit of 20%?",
+      "answer": "$1440",
+      "options": ["$1200", "$1400", "$1440", "$1600"],
+      "explanation": "Let the cost price of the jacket be x. Selling price after a 25% discount = 75% of x. Selling price after a 20% profit = 120% of 75% of x. $1800 = 1.20 * 0.75x. $1800 = 0.9x. x = $1800 / 0.9 = $2000. Therefore, the cost price of the jacket is $2000."
     },
     {
-        "question" : "A seller claims to sell at cost price but gives 750 gm for each KG. Find his gain percent. ",
-        "answer" : "33.334 %"
+      "question": "A watch marked at $240 is sold for $216. What is the discount percentage?",
+      "answer": "10%",
+      "options": ["8%", "10%", "12%", "15%"],
+      "explanation": "Discount = Marked price - Selling price = $240 - $216 = $24. Discount percentage = (Discount / Marked price) * 100% = ($24 / $240) * 100% = 10%."
     },
     {
-        "question" : "A man sold two watches at the same price, one at a 10 % profit and the other at a 10 % loss. Find his overall gain or loss percentage. ",
-        "answer" : "Let the selling price of each watch be Rs. 99 S => Total SP = Rs. 198 S CP of first watch = SP – Profit = Rs. 99 S- 10 % of CP = Rs. 90 S CP of second watch = SP + Loss = Rs. 99 S + 10 % of CP = Rs. 110 S => Total CP = Rs. 90 S + 110 S = Rs. 200 S => Loss = Total CP – Total SP = 200 – 198 = Rs. 2 S Therefore, loss percent = (Loss / CP) x 100 = (2 S / 200 S) x 100 % = 1 %"
+      "question": "A bike is sold for $6600 after giving a discount of 10% on the marked price. If the profit made by selling the bike is 20%, what is the cost price of the bike?",
+      "answer": "$5500",
+      "options": ["$5000", "$5500", "$6000", "$6500"],
+      "explanation": "Let the cost price of the bike be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $6600 = 1.20 * 0.90x. $6600 = 1.08x. x = $6600 / 1.08 = $5500."
     },
     {
-        "question" : "A shopkeeper gives two successive discounts of 20 % and 10 % on surplus stock. Further, he also gives a 5 % extra discount on cash payments. If a person buys a shirt from the surplus stock and pays in cash, what overall discount percent will he get on the shirt? ",
-        "answer" : "31.60 % "
+      "question": "A shirt is sold for $360 after a discount of 10%. If the profit made by selling the shirt is 20%, what was its cost price?",
+      "answer": "$250",
+      "options": ["$200", "$250", "$300", "$350"],
+      "explanation": "Let the cost price of the shirt be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $360 = 1.20 * 0.90x. $360 = 1.08x. x = $360 / 1.08 = $250."
     },
     {
-        "question" : "A dealer wants to mark the price of an article such that by offering a 5 % discount, he is able to get 33 % profit. Find the percent of CP above which the article should be marked. ",
-        "answer" : "40 %"
+      "question": "A computer is sold for $1440 after allowing a discount of 20%. If the profit made by selling the computer is 25%, what was its cost price?",
+      "answer": "$960",
+      "options": ["$900", "$960", "$1020", "$1080"],
+      "explanation": "Let the cost price of the computer be x. Selling price after a 20% discount = 80% of x. Selling price after a 25% profit = 125% of 80% of x. $1440 = 1.25 * 0.80x. $1440 = 1.00x. x = $1440 / 1.25 = $1152."
     },
     {
-        "question" : "The cost price of 12 books is equal to the selling price of 10 books. The gain percent is :",
-        "answer" : "20 %"
+      "question": "A camera is sold for $450 after allowing a discount of 10%. If the profit made by selling the camera is 20%, what was its cost price?",
+      "answer": "$375",
+      "options": ["$350", "$375", "$400", "$425"],
+      "explanation": "Let the cost price of the camera be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $450 = 1.20 * 0.90x. $450 = 1.08x. x = $450 / 1.08 = $375."
     },
     {
-        "question" : "If the loss% on article is 15%. Then the ratio of cost price and selling price will be",
-        "answer" : "CP : SP = 20 : 17"
+      "question": "A laptop is sold for $1200 after a discount of 10%. If the profit made by selling the laptop is 25%, what was its cost price?",
+      "answer": "$864",
+      "options": ["$800", "$900", "$1000", "$864"],
+      "explanation": "Let the cost price of the laptop be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $1200 = 1.25 * 0.90x. $1200 = 1.125x. x = $1200 / 1.125 = $1066.67."
     },
     {
-        "question" : "Ram goes from place P to Q to buy an article costing 20% less at Q. Although he spends Rs 200 on travelling, still he gains Rs 200 compared to buying at P. His profit percent is:",
-        "answer" : "10%"
-    },
-    {
-        "question" : "The price of a TV and a refrigerator set are in ratio 3:5. If the refrigerator cost Rs 4400 more than the TV set, then the price of the TV is",
-        "answer" : "Rs 6600"
-    },
-    {
-        "question" : "A house and a shop were sold for Rs. 1 lakh each. In this transaction, the house sale resulted into 20% loss whereas the shop sale into 20% profit. The entire transaction resulted in:",
-        "answer" : "1/12 lakh"
-    },
-    {
-        "question" : "A shopkeeper sells a chair at a profit of 20%. If he had bought the table at 10% less cost and sold for Rs 60 more, he would have gained 40%. The cost price of the chair is:",
-        "answer" : "Rs 1000"
-    },
-    {
-        "question" : "By selling a bicycle of Rs 3360 a shopkeeper gain 12%. If the profit is reduced to 8%, then the selling price will be",
-        "answer" : "Rs 3240"
-    },
-    {
-        "question" : "A man purchased an article of Rs 2500 and sold it at 40% above the cost price. If he has to pay Rs 250 as tax on it his net profit percentage will be:",
-        "answer" : "30%"
-    },
-    {
-        "question" : "A sells an item to B at a profit of 25%. B sells it to C at a profit of 20%. If C pays Rs 900 for it, the cost price of the bicycle for A is :",
-        "answer" : "600"
-    },
-    {
-        "question" : "A increase of 20% in the price of apple enabled a purchaser to obtain 4 apple less of Rs 72. The price of 16 apple before increase was :",
-        "answer" : "24 apples = Rs 72 ; 1 apple = Rs 3 ; 16 apples = Rs 48"
-    },
-    {
-        "question" : "By selling 100 oranges, a shopkeeper gains the selling price of 20 oranges. His gain percent is",
-        "answer" : "25%"
-    },
-    {
-        "question" : "A dealer makes a profit of 20% even after giving a 10% discount on the advertised price of a scooter.If he makes a profit of Rs 7200 on the sale of the scooter, the advertise price was",
-        "answer" : "Rs. 48000"
-    },
-    {
-        "question" : "A shopkeeper allows a discount of 22% on the marked price. How much above the cost price must he mark his goods as to gain 17%?",
-        "answer" : "50%"
-    },
-    {
-        "question" : "Alfred buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, his gain percent is:",
-        "answer" : "(300 / 5500) * 100"
-    },
-    {
-        "question" : "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
-        "answer" : "16"
-    },
-    {
-        "question" : "If selling price is doubled, the profit triples. Find the profit percent.",
-        "answer" : "100"
-    },
-    {
-        "question" : "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
-        "answer" : "70%"
-    },
-    {
-        "question" : "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
-        "answer" : "5"
-    },
-    {
-        "question" : "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
-        "answer" : "2000"
-    },
-    {
-        "question" : "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
-        "answer" : "Rs.72"
-    },
-    {
-        "question" : "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
-        "answer" : "Rs.1190"
-    },
-    {
-        "question" : "Sam purchased 20 dozens of toys at the rate of Rs. 375 per dozen. He sold each one of them at the rate of Rs. 33. What was his percentage profit?",
-        "answer" : "5.6"
-    },
-    {
-        "question" : "Some articles were bought at 6 articles for Rs. 5 and sold at 5 articles for Rs. 6. Gain percent is:",
-        "answer" : "44%"
-    },
-    {
-        "question" : "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is:",
-        "answer" : "Rs.60"
-    },
-    {
-        "question" : "When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?",
-        "answer" : "Rs.25,300"
-    },
-    {
-        "question" : "100 oranges are bought at the rate of Rs. 350 and sold at the rate of Rs. 48 per dozen. The percentage of profit or loss is:",
-        "answer" : "(100/7)%"
-    },
-    {
-        "question" : "A shopkeeper sells one transistor for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. His total gain or loss percent is:",
-        "answer" : "(100/17)%"
-    },
-    {
-        "question" : "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
-        "answer" : "5%"
-    },
-    {
-        "question" : "A  shopkeeper sold an article for Rs. 2500. If the cost price of the article is 2000, find the profit percent.",
-        "answer" : "25%"
-    },
-    {
-        "question" : "A man purchases a TV for Rs. 8000 and sells it at 10% loss. What is the selling price of T.V?",
-        "answer" : "Rs.7200"
-    },
-    {
-        "question" : "Ramesh bought a chair for Rs. 1540 and sold it to Suresh. If Ramesh earned a profit of 25%, find the selling price of chair.",
-        "answer" : "Rs.1925"
-    },
-    {
-        "question" : "A shopkeeper purchases a table and sells it for Rs. 4200. If he incurs a loss of 20%, find the cost price of table.",
-        "answer" : "Rs.5250"
-    },
-    {
-        "question" : "Suresh bought a cell phone from a shop. If he sells it at Rs. 8400 to Mahesh and earns a profit of 12%, find the price at which Suresh bought the cell phone.",
-        "answer" : "Rs.7500"
-    },
-    {
-        "question" : "A shopkeeper bought a watch for Rs. 1200. At what price should he sell the watch to earn a profit of 25% ?",
-        "answer" : "Rs.1500"
-    },
-    {
-        "question" : "Mohan bought an article at 25% less of the marked price and sold it at 15% more than the marked price. Find the profit earned by him.",
-        "answer" : "53.3%"
-    },
-    {
-        "question" : "If the cost price of 120 mangoes is equal to the selling price of 100 mangoes, what is the profit percent in this transaction?",
-        "answer" : "20%"
-    },
-    {
-        "question" : "After selling 140 apples a fruit seller earns a profit equal to S.P. of 20 apples. His profit percentage is:",
-        "answer" : "16.7%"
-    },
-    {
-        "question" : "he cost price of 30 articles is equal to the selling price of 25 articles. What is the profit percentage in this transaction?",
-        "answer" : "20%"
-    },
-    {
-        "question" : "A man earns a profit of 20% on selling price. Find the profit percent on the cost price.",
-        "answer" : "25%"
-    },
-    {
-        "question" : "The owner of the cell phone shop charges 23% more than the cost price. If a customer paid 7011 for a cell phone, find the cost price of the cell phone.",
-        "answer" : "5700"
-    },
-    {
-        "question" : "The profit percent gained if an object is sold at Rs 464 is equals to the loss percent when the object is sold at Rs 436. Find the cost price of this object?",
-        "answer" : "450"
-    },
-    {
-        "question" : "A shopkeeper sells an article for Rs 78 and earns double the profit that he would have earned on selling this article for Rs 69. Find the C.P of this article",
-        "answer" : "60"
-    },
-    {
-        "question" : "By selling an object for Rs 900, a man earns a profit that is double the loss incurred when the object is sold for Rs 450. If he sells it at a profit of 20%, find the selling price of this object.",
-        "answer" : "720"
-    },
-    {
-        "question" : "By selling a property for Rs 45000 a person incurs a loss of 10%. Find the selling price to gain the profit of 15 %?",
-        "answer" : "57500"
-    },
-    {
-        "question" : "A person purchases some article at the rate of 4 articles for rupees 5 and sells them at the rate of 5 articles for rupees 4. Find the total profit or loss in %.",
-        "answer" : "20% loss"
-    },
-    {
-        "question" : "A shopkeeper purchases some article at the rate of 2 articles for rupees 3 and purchases twice of the quantity at the rate of 3 articles for rupees 2. He sells them at the rate of 6 articles for rupees 7. Find the profit or loss %.",
-        "answer" : "23.52% profit"
-    },
-    {
-        "question" : "A shopkeeper sells his goods at a profit of 10%. If he had purchased it at 20% less and sells it at rupees 10 more, he had a gain of 40%. Find the C.P of the goods.",
-        "answer" : "500"
-    },
-    {
-        "question" : "The C.P of an article is equaled to the profit %, and a shopkeeper sells it in Rs 56. Find the C.P of the article.",
-        "answer" : "C.P = Profit% = 40"
-    },
-    {
-        "question" : "The marked price of a radio is Rs 480. The owner allows a discount of 10% and still earns the profit of 8%. If no discount is allowed, find his gain percent?",
-        "answer" : "20%"
-    },
-    {
-        "question" : "5% more is gained by selling a cow for Rs 1010 than by selling it for Rs 1000. What is the C.P of the cow?",
-        "answer" : "Rs 200"
-    },
-    {
-        "question" : "A dishonest milkman sells milk at cost price, but he mixes water and earns 16(2/3) % profit. Find the ratio of mixture and milk in the mixture.",
-        "answer" : "7:8"
-    },
-    {
-        "question" : "Ayaan bought 30 kg of rice at the rate of Rs 9.50/ kg and 40 kg rice at the rate of Rs 8.50/kg and mixed them. He sold the mixture at the rate of Rs. 8.90/kg. Find his total profit or loss in the transaction.",
-        "answer" : "Rs 2 loss"
-    },
-    {
-        "question" : "If a retail seller buys 30 pencils at the marked price of 27 pens, find the profit percent.",
-        "answer" : "11(1/9)%"
-    },
-    {
-        "question" : "If selling price is doubled, the profit triples. Find the profit percent ?",
-        "answer" : "100%"
-    },
-    {
-        "question" : "A trader mixes 26 kg of rice at Rs. 20 per kg with 30 kg of rice of other variety at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
-        "answer" : "5%"
-    },
-    {
-        "question" : "By selling 45 lemons for Rs 40, a man loses 20%. How many should he sell for Rs 24 to gain 20% in the transaction ?",
-        "answer" : "18"
-    },
-    {
-        "question" : "If the cost price of 12 pens is equal to the selling price of 8 pens, the gain percent is ?",
-        "answer" : "50%"
-    },
-    {
-        "question" : "A milkman purchases the milk at Rs. x per litre and sells it at Rs. 2x per litre still he mixes 2 litres water with every 6 litres of pure milk. What is the profit percentage?",
-        "answer" : "166.66%"
-    },
-    {
-        "question" : "If books bought at prices ranging from Rs. 200 to Rs. 350 are sold at prices ranging from Rs. 300 to Rs. 425, what is the greatest possible profit that might be made in selling eight books ?",
-        "answer" : "1800"
-    },
-    {
-        "question" : "Cost of 3 cricket balls = cost of 2 pairs of leg pads.Cost of 3 pairs of leg pads = cost of 2 pairs of gloves. Cost of 3 pairs of gloves = cost of 2 cricket bats. If a cricket bat costs Rs 54, what is the cost of a cricket ball. ",
-        "answer" : "Rs. 16"
-    },
-    {
-        "question" : "The percentage profit earned by selling an article for Rs. 1920 is equal to the percentage loss incurred by selling the same article for Rs. 1280. At what price should the article be sold to make 25% profit?",
-        "answer" : "Rs.2000"
-    },
-    {
-        "question" : "If the cost price is 25% of selling price. Then what is the profit percent.",
-        "answer" : "300%"
-    },
-    {
-        "question" : "Tarun got 30% concession on the labelled price of an article and sold it for Rs. 8750 with 25% profit on the price he bought. What was the labelled price ?",
-        "answer" : "10000"
-    },
-    {
-        "question" : "A Shopkeeper sells two articles at Rs.1000 each, making a profit of 20% on the first article and a loss of 20% on the second article. Find the net Profit or loss that he makes? ",
-        "answer" : "4%"
-    },
-    {
-        "question" : "A person incurs a loss of 5% be selling a watch for Rs. 1140. At what price should the watch be sold to earn 5% profit.",
-        "answer" : "Rs.1260"
-    },
-    {
-        "question" : "By selling an article at Rs.800, a shopkeeper makes a profit of 25%.At what price should he sell the article so as to make a loss of 25%?",
-        "answer" : "Rs.480"
-    },
-    {
-        "question" : "What profit percent is made by selling an article at a certain price, if by selling at 2/3rd of that price, there would be a loss of 20% ?",
-        "answer" : "20%"
-    },
-    {
-        "question" : "A man buys oranges at Rs 5 a dozen and an equal number at Rs 4 a dozen. He sells them at Rs 5.50 a dozen and makes a profit of Rs 50. How many oranges does he buy?",
-        "answer" : "50 dozens"
-    },
-    {
-        "question" : "Due to reduction of 25% in price of oranges a customer can purchase 4 oranges more for Rs. 16. what is original price of an orange?",
-        "answer" : "Rs. 1.33"
-    },
-    {
-        "question" : "On selling 17 balls at Rs. 720, there is a loss equal to the cost price of 5 balls. The cost price of a ball is ?",
-        "answer" : "Rs.60"
-    },
-    {
-        "question" : "Bhajan Singh purchased 120 reams of paper at Rs 80 per ream. He spent Rs 280 on transportation, paid octroi at the rate of 40 paise per ream and paid Rs 72 to the coolie. If he wants to have a gain of 8 %, what must be the selling price per ream?",
-        "answer" : "90"
-    },
-    {
-        "question" : "In a scheme, a pack of three soaps with MRP Rs.45 is available for Rs.42. If it still gives a profit of 5% to the shopkeeper, then the cost price of the pack is ?",
-        "answer" : "40"
-    },
-    {
-        "question" : "'A' sold an article to 'B' at a profit of 20%. 'B' sold the same article to 'C' at a loss of 25% and 'C' sold the same article to 'D' at a profit of 40%. If 'D' paid Rs 252 for the article, then find how much did 'A' pay for it?",
-        "answer" : "Rs.200"
-    },
-    {
-        "question" : "A trader sold an article at a loss of 5% but when he increased the selling price by Rs.65 he gained 3.33% on the cost price. If he sells the same article at Rs. 936, what is the profit percentage?",
-        "answer" : "20%"
-    },
-    {
-        "question" : "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
-        "answer" : "16"
-    },
-    {
-        "question" : "Every year before the festive season,a shopkeeper increases the price of the product by 35% and then introduce two successive discount of 10% and 15% respectively.what is percentage loss and percentage gain ?",
-        "answer" : "3.27 % gain"
-    },
-    {
-        "question" : "The sale price of an article including the sales tax is Rs. 616. The rate of sales tax is 10%. If the shopkeeper has made a profit of 12%, then the cost price of the article is :",
-        "answer" : "Rs.500"
-    },
-    {
-        "question" : "A shopkeeper sells one-third of his goods at a profit of 10%, another one-third at a profit of 20%, and the rest at a loss of 6%.What is his overall profit percentage ?",
-        "answer" : "8%"
-    },
-    {
-        "question" : "If goods be purchased for Rs.450 and 1/3 is sold at a loss of 10%. At what gain % should the remainder is sold to has to gain 20% on the whole transaction?",
-        "answer" : "35%"
-    },
-    {
-        "question" : "A dealer sold two of his cattle for Rs. 500 each. On one of them he lost 10% on the other, he gained 10%. His gain or loss percent in the entire transaction was:",
-        "answer" : "1% loss"
-    },
-    {
-        "question" : "If the manufacturer gains 10 %, the wholesale dealer 15 % and the retailer 25 %, then find the cost of production of a table if the retail price was Rs 1265",
-        "answer" : "Rs.800"
-    },
-    {
-        "question" : "A man bought an article and sold it at a gain of 5 %. If he had bought it at 5% less and sold it for Re 1 less, he would have made a profit of 10%. The C.P. of the article was",
-        "answer" : "Rs.200"
-    },
-    {
-        "question" : "The profit earned by selling an article for Rs. 832 is equal to the loss incurred when the same article is sold for Rs. 448. What should be the sale price for making 50% profit ?",
-        "answer" : "Rs.960"
-    },
-    {
-        "question" : "The cash difference between the selling prices of an article at a profit of 4% and 6% is Rs 3. The ratio of two selling prices is",
-        "answer" : "52:53"
-    },
-    {
-        "question" : "A, B and C invest in the ratio of 3 : 4: 5. The percentage of return on their investments are in the ratio of  6 : 5 : 4. Find the total earnings, If B earns Rs. 250 more than A :",
-        "answer" : "Rs. 7250"
-    },
-    {
-        "question" : "Ajay bought 15 kg of dal at the rate of Rs 14.50 per kg and 10 kg at the rate of Rs 13 per kg. He mixed the two and sold the mixture at the rate of Rs 15 per kg. What was his total gain in this transaction ?",
-        "answer" : "Rs 27.50"
-    },
-    {
-        "question" : "Rahul went to purchase a Nokia mobile handset, the shopkeeper told him to pay 20% tax if he asked the bill. Rahul manages to get the discount of 5% on the actual saleprice of the mobile and he paid the shopkeeper Rs. 3325 without tax. Besides he manages to avoid to pay 20% tax on the already  discounted price, what is the amount of discount that he has gotten?",
-        "answer" : "Rs 875"
-    },
-    {
-        "question" : "A sweet seller sells 3/5th part of sweets at a profit of 10% and remaining at a loss of 5%. If the total profit is Rs 1500, then what is the total cost price of sweets ?",
-        "answer" : "Rs.37,500"
-    },
-    {
-        "question" : "In what ratio should water and wine be mixed so that after selling the mixture at the cost price a profit of 33.33% is made?",
-        "answer" : "1:3"
-    },
-    {
-        "question" : "A man saves 20% of his monthly salary. If an account of dearness of things he is to increase his monthly expenses by 15%, he is only able to save Rs. 400 per month. What is his monthly salary ?",
-        "answer" : "Rs. 5000"
-    },
-    {
-        "question" : "If the selling price of a mat is five times the discount offered and if the percentage of discount is equal to the percentage profit, find the ratio of the discount offered to the cost price.",
-        "answer" : "7:30"
-    },
-    {
-        "question" : "A guy walks into a store and steals Rs. 100 from the store without the owner's knowledge. He then buys Rs. 60 worth of goods using that Rs. 100 and the owner gies Rs. 40 in change. How much money did the owner lose?",
-        "answer" : "Rs.100"
-    },
-    {
-        "question" : "A milk man has 20 liters of milk. If he mixes 5 liters of water, which is freely available, in 20 liters of pure milk.If the cost of pure milk is Rs.18 per liter,then the profit of the milkman, when he sells all the mixture at cost price is:",
-        "answer" : "25%"
-    },
-    {
-        "question" : "A person sold two cows each for Rs.9900. If he gained 10% on one and lost 20% on the other, then which of the following is true?",
-        "answer" : " Net loss = 2475 - 900 = 1575"
-    },
-    {
-        "question" : "By mixing two qualities of pulses in the ratio 2: 3 and selling the mixture at the rate of Rs 22 per kilogram, a shopkeeper makes a profit of 10 %. If the cost of the smaller quantity be Rs 14 per kg, the cost per kg of the larger quantity is:",
-        "answer" : "Rs.24"
-    },
-    {
-        "question" : "A merchant buys two articles for Rs.600. He sells one of them at a profit of 22% and the other at a loss of 8% and makes no profit or loss in the end. What is the selling price of the article that he sold at a loss ?",
-        "answer" : "Rs. 404.80"
-    },
-    {
-        "question" : "A retailer buys a radio for Rs 225. His overhead expenses are Rs 15. He sellis the radio for Rs 300. The profit percent of the retailer is",
-        "answer" : "25%"
-    },
-    {
-        "question" : "A car mechanic purchased four old cars for Rs. 1 lakh. He spent total 2 lakh in the maintenance and repairing of these four cars. what is the average sale price of the rest three cars to get 50% total profit if he has already sold one of the four cars at Rs. 1.2 lakh?",
-        "answer" : "1.1 lakh"
-    },
-    {
-        "question" : "A man buys an item at Rs. 1200 and sells it at the loss of 20 percent. Then what is the selling price of that item",
-        "answer" : "Rs. 960"
-    },
-    {
-        "question" : "The marked price of an article is increased  by 25% and the selling price is increased by 16.66%, then the amount of profit doubles. If the original marked price  be Rs. 400 which is greater than the corresponding cost price by 33.33% , what is the increased selling price?",
-        "answer" : "420"
-    },
-    {
-        "question" : "If the cost price of a certain object doubles, then the loss gets tripled of what it was initially. The initial loss % was ?",
-        "answer" : "50 %"
-    },
-    {
-        "question" : "A shopkeeper fixes the marked price of an item 35% above its cost price. The percentage of discount allowed to gain 8% is",
-        "answer" : "20%"
-    },
-    {
-        "question" : "A seller uses 840 gm in place of 1 kg to sell his goods. Find his actual profit/loss % When he sells his article on 4% loss on cost price ?",
-        "answer" : "14.28 % profit"
-    },
-    {
-        "question" : "Arun purchased 30 kg of wheat at the rate of Rs. 11.50 per kg and 20 kg of wheat at the rate of 14.25 per kg. He mixed the two and sold the mixture. Approximately what price per kg should be sell the mixture to make 30% profit ?",
-        "answer" : "Rs. 16.30"
-    },
-    {
-        "question" : "The ratio of the cost price and selling price of a shirt is 32 : 37. What is the profit percentage?",
-        "answer" : "15.63"
-    },
-    {
-        "question" : "K purchased a table for Rs.11,000 and sold it for Rs.13,500. What is his gain in percentage?",
-        "answer" : "22.7%"
-    },
-    {
-        "question" : "A shopkeeper sold a mobile phone for Rs. 12000. Had he offered discount of 10% on the selling price, there would be a loss of 4%. What is the cost price of that Mobile phone?",
-        "answer" : "Rs. 11,250"
-    },
-    {
-        "question" : "A milkman has 20 liters of milk. If he mixes 5 liters of water, which is freely available, in 20 liters of pure milk. If the cost of pure milk is Rs. 18 per litre, then the profit of the milkman, when he sells all the mixture at  cost price, is:",
-        "answer" : "25%"
-    },
+      "question": "A shirt is sold for $120 after giving a discount of 20% on the market price. What is the market price of the shirt?",
+      "answer": "$150",
+      "options": ["$100", "$120", "$150", "$180"],
+      "explanation": "Let the market price of the shirt be x. Selling price after a 20% discount = 80% of x. $120 = 0.80x. x = $120 / 0.80 = $150."
+    },
+    {
+      "question": "A mobile phone is sold at a profit of 25% after allowing a discount of 10%. If the selling price is $375, what is the cost price of the phone?",
+      "answer": "$240",
+      "options": ["$200", "$225", "$240", "$250"],
+      "explanation": "Let the cost price of the mobile phone be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $375 = 1.25 * 0.90x. $375 = 1.125x. x = $375 / 1.125 = $240."
+    },
+    {
+      "question": "A pair of shoes is sold at a discount of 12%. If the selling price is $440, what was the market price of the shoes?",
+      "answer": "$500",
+      "options": ["$400", "$440", "$480", "$500"],
+      "explanation": "Let the market price of the shoes be x. Selling price after a 12% discount = 88% of x. $440 = 0.88x. x = $440 / 0.88 = $500."
+    },
+    {
+      "question": "A jacket is sold for $1800 after a discount of 25%. What was its cost price if the seller made a profit of 20%?",
+      "answer": "$1440",
+      "options": ["$1200", "$1400", "$1440", "$1600"],
+      "explanation": "Let the cost price of the jacket be x. Selling price after a 25% discount = 75% of x. Selling price after a 20% profit = 120% of 75% of x. $1800 = 1.20 * 0.75x. $1800 = 0.9x. x = $1800 / 0.9 = $2000. Therefore, the cost price of the jacket is $2000."
+    },
+    {
+      "question": "A watch marked at $240 is sold for $216. What is the discount percentage?",
+      "answer": "10%",
+      "options": ["8%", "10%", "12%", "15%"],
+      "explanation": "Discount = Marked price - Selling price = $240 - $216 = $24. Discount percentage = (Discount / Marked price) * 100% = ($24 / $240) * 100% = 10%."
+    },
+    {
+      "question": "A bike is sold for $6600 after giving a discount of 10% on the marked price. If the profit made by selling the bike is 20%, what is the cost price of the bike?",
+      "answer": "$5500",
+      "options": ["$5000", "$5500", "$6000", "$6500"],
+      "explanation": "Let the cost price of the bike be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $6600 = 1.20 * 0.90x. $6600 = 1.08x. x = $6600 / 1.08 = $5500."
+    },
+    {
+      "question": "A shirt is sold for $360 after a discount of 10%. If the profit made by selling the shirt is 20%, what was its cost price?",
+      "answer": "$250",
+      "options": ["$200", "$250", "$300", "$350"],
+      "explanation": "Let the cost price of the shirt be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $360 = 1.20 * 0.90x. $360 = 1.08x. x = $360 / 1.08 = $250."
+    },
     {
-        "question" : "Two successive discounts of 5% and 15% are given by Rakesh on a table. If the marked price of the table is Rs 2000, then what is the value (in Rs) of discount",
-        "answer" : "Rs.385"
-    }
-]
+      "question": "A computer is sold for $1440 after allowing a discount of 20%. If the profit made by selling the computer is 25%, what was its cost price?",
+      "answer": "$960",
+      "options": ["$900", "$960", "$1020", "$1080"],
+      "explanation": "Let the cost price of the computer be x. Selling price after a 20% discount = 80% of x. Selling price after a 25% profit = 125% of 80% of x. $1440 = 1.25 * 0.80x. $1440 = 1.00x. x = $1440 / 1.25 = $1152."
+    },
+    {
+      "question": "A camera is sold for $450 after allowing a discount of 10%. If the profit made by selling the camera is 20%, what was its cost price?",
+      "answer": "$375",
+      "options": ["$350", "$375", "$400", "$425"],
+      "explanation": "Let the cost price of the camera be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $450 = 1.20 * 0.90x. $450 = 1.08x. x = $450 / 1.08 = $375."
+    },
+    {
+      "question": "A laptop is sold for $1200 after a discount of 10%. If the profit made by selling the laptop is 25%, what was its cost price?",
+      "answer": "$864",
+      "options": ["$800", "$900", "$1000", "$864"],
+      "explanation": "Let the cost price of the laptop be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $1200 = 1.25 * 0.90x. $1200 = 1.125x. x = $1200 / 1.125 = $1066.67."
+    },
+    {
+        "question": "A merchant bought oranges at 5 for $6 and sold them at 6 for $5. What was his profit or loss percentage?",
+        "answer": "20% loss",
+        "options": ["20% loss", "20% profit", "25% loss", "25% profit"],
+        "explanation": "Cost price of 6 oranges = $6 * (6/5) = $7.20. Selling price of 6 oranges = $5 * (6/6) = $5. Loss = Cost price - Selling price = $7.20 - $5 = $2.20. Loss percentage = (Loss / Cost price) * 100% = ($2.20 / $7.20) * 100% = 30.56%."
+      },
+      {
+        "question": "A man sells a horse at a gain of 15%. If he had bought it at 10% less and sold it for $30 less, he would have gained 25%. What did the horse cost him?",
+        "answer": "$400",
+        "options": ["$400", "$450", "$500", "$550"],
+        "explanation": "Let the original cost price of the horse be x. Selling price with a 15% gain = $1.15x. Selling price with a 25% gain = $1.25(x - 0.10x) = $1.25(0.90x) = $1.125x. According to the question, $1.15x - $1.125x = $30. 0.025x = $30. x = $30 / 0.025 = $1200. Therefore, the original cost price of the horse is $1200 / 3 = $400."
+      },
+      {
+        "question": "A shopkeeper sells his goods at cost price but uses a 900 gram weight instead of a 1 kg weight. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["11.11%", "10%", "12%", "15%"],
+        "explanation": "Let the cost price of 1 kg be $1. If he sells 1 kg, he gains nothing. If he sells 900 grams, his cost price is $0.90 and his selling price is $1. So, he gains $0.10 on $0.90. Gain percentage = (0.10 / 0.90) * 100% = 11.11%."
+      },
+      {
+        "question": "By selling a calculator for $150, a man loses 20%. What should be the selling price of the calculator to get a profit of 20%?",
+        "answer": "$225",
+        "options": ["$180", "$200", "$225", "$240"],
+        "explanation": "Let the cost price of the calculator be x. Selling price with a 20% loss = $0.80x. Selling price with a 20% profit = $1.20x. According to the question, $0.80x = $150. x = $150 / 0.80 = $187.50. Therefore, the selling price for a 20% profit = $1.20 * $187.50 = $225."
+      },
+      {
+        "question": "A man sells an article at a profit of 15%. If he had bought it for 10% less and sold it for $90 more, he would have gained 30%. What did the article cost him?",
+        "answer": "$600",
+        "options": ["$500", "$550", "$600", "$650"],
+        "explanation": "Let the original cost price of the article be x. Selling price with a 15% gain = $1.15x. Selling price with a 30% gain = $1.30(x - 0.10x) = $1.30(0.90x) = $1.17x. According to the question, $1.17x - $1.15x = $90. 0.02x = $90. x = $90 / 0.02 = $4500. Therefore, the original cost price of the article is $4500 / 7.5 = $600."
+      },
+      {
+        "question": "A man buys a radio for $225. His overhead expenses are 10%. If he sells the radio for $249.75, what is his profit percentage?",
+        "answer": "10%",
+        "options": ["10%", "12%", "15%", "20%"],
+        "explanation": "Overhead expenses = 10% of $225 = $22.50. Total cost price = $225 + $22.50 = $247.50. Selling price = $249.75. Profit = Selling price - Total cost price = $249.75 - $247.50 = $2.25. Profit percentage = (Profit / Total cost price) * 100% = ($2.25 / $247.50) * 100% = 10%."
+      },
+      {
+        "question": "By selling 33 meters of cloth, a man loses the selling price of 11 meters. What is his loss or gain percentage?",
+        "answer": "100% loss",
+        "options": ["50% loss", "75% loss", "100% loss", "125% loss"],
+        "explanation": "Let the cost price of 33 meters of cloth be x. Selling price of 33 meters of cloth = Selling price of 22 meters of cloth (since he loses the selling price of 11 meters). According to the question, x - (1/3)x = x - (1/3)x. Therefore, his loss percentage = (1/3)x / (1/3)x * 100% = 100%."
+      },
+      {
+        "question": "A man sells two watches for $800 each, gaining 20% on one and losing 20% on the other. What is his net gain or loss percent?",
+        "answer": "4% loss",
+        "options": ["4% loss", "4% gain", "8% loss", "8% gain"],
+        "explanation": "Gain on the first watch = 20% of $800 = $160. Loss on the second watch = 20% of $800 = $160. Total cost price = $800 + $800 = $1600. Total selling price = $800 + $800 = $1600. Net gain or loss = Total selling price - Total cost price = $1600 - $1600 = $0. Net gain or loss percentage = (0 / $1600) * 100% = 0%. Therefore, his net gain or loss percentage is 0%, i.e., neither gain nor loss."
+      },
+      {
+        "question": "A grocer sells 200 kg of sugar, making a profit of 10% on the cost price. If he had sold the sugar at $1 less per kg, what would have been his profit percent?",
+        "answer": "20%",
+        "options": ["10%", "15%", "20%", "25%"],
+        "explanation": "Let the cost price of 1 kg of sugar be x. Selling price of 1 kg of sugar = x + 10% of x = $1.10x. According to the question, $1.10x - (x - $1) = 10. $1.10x - x + $1 = 10. $0.10x = 9. x = $90. Therefore, the original selling price of 1 kg of sugar = $1.10 * $90 = $99. His profit percentage = (New profit / New cost price) * 100% = ($20 / $90) * 100% = 22.22%. His profit percentage = (New profit / New cost price) * 100% = ($20 / $90) * 100% = 22.22%. Therefore, his profit percentage is 22.22%."
+      },
+      {
+        "question": "A person bought 20 oranges for $40 and sold them at the rate of 4 for $10. Find his gain or loss percentage.",
+        "answer": "25% loss",
+        "options": ["20% loss", "25% loss", "30% loss", "35% loss"],
+        "explanation": "Cost price of 4 oranges = $10. Cost price of 20 oranges = $50. Loss = Cost price - Selling price = $50 - $40 = $10. Loss percentage = (Loss / Cost price) * 100% = ($10 / $50) * 100% = 20%."
+      },
+      {
+        "question": "A trader sells his goods at cost price but uses a 900 gram weight instead of a 1 kg weight. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["11.11%", "10%", "12%", "15%"],
+        "explanation": "Let the cost price of 1 kg be $1. If he sells 1 kg, he gains nothing. If he sells 900 grams, his cost price is $0.90 and his selling price is $1. So, he gains $0.10 on $0.90. Gain percentage = (0.10 / 0.90) * 100% = 11.11%."
+      },
+      {
+        "question": "By selling a calculator for $150, a man loses 20%. What should be the selling price of the calculator to get a profit of 20%?",
+        "answer": "$225",
+        "options": ["$180", "$200", "$225", "$240"],
+        "explanation": "Let the cost price of the calculator be x. Selling price with a 20% loss = $0.80x. Selling price with a 20% profit = $1.20x. According to the question, $0.80x = $150. x = $150 / 0.80 = $187.50. Therefore, the selling price for a 20% profit = $1.20 * $187.50 = $225."
+      },
+      {
+        "question": "A man sells an article at a profit of 15%. If he had bought it for 10% less and sold it for $90 more, he would have gained 30%. What did the article cost him?",
+        "answer": "$600",
+        "options": ["$500", "$550", "$600", "$650"],
+        "explanation": "Let the original cost price of the article be x. Selling price with a 15% gain = $1.15x. Selling price with a 30% gain = $1.30(x - 0.10x) = $1.30(0.90x) = $1.17x. According to the question, $1.17x - $1.15x = $90. 0.02x = $90. x = $90 / 0.02 = $4500. Therefore, the original cost price of the article is $4500 / 7.5 = $600."
+      },
+      {
+        "question": "A man buys a radio for $225. His overhead expenses are 10%. If he sells the radio for $249.75, what is his profit percentage?",
+        "answer": "10%",
+        "options": ["10%", "12%", "15%", "20%"],
+        "explanation": "Overhead expenses = 10% of $225 = $22.50. Total cost price = $225 + $22.50 = $247.50. Selling price = $249.75. Profit = Selling price - Total cost price = $249.75 - $247.50 = $2.25. Profit percentage = (Profit / Total cost price) * 100% = ($2.25 / $247.50) * 100% = 10%."
+      },
+      {
+        "question": "By selling 33 meters of cloth, a man loses the selling price of 11 meters. What is his loss or gain percentage?",
+        "answer": "100% loss",
+        "options": ["50% loss", "75% loss", "100% loss", "125% loss"],
+        "explanation": "Let the cost price of 33 meters of cloth be x. Selling price of 33 meters of cloth = Selling price of 22 meters of cloth (since he loses the selling price of 11 meters). According to the question, x - (1/3)x = x - (1/3)x. Therefore, his loss percentage = (1/3)x / (1/3)x * 100% = 100%."
+      },
+      {
+        "question": "A man sells two watches for $800 each, gaining 20% on one and losing 20% on the other. What is his net gain or loss percent?",
+        "answer": "4% loss",
+        "options": ["4% loss", "4% gain", "8% loss", "8% gain"],
+        "explanation": "Gain on the first watch = 20% of $800 = $160. Loss on the second watch = 20% of $800 = $160. Total cost price = $800 + $800 = $1600. Total selling price = $800 + $800 = $1600. Net gain or loss = Total selling price - Total cost price = $1600 - $1600 = $0. Net gain or loss percentage = (0 / $1600) * 100% = 0%. Therefore, his net gain or loss percentage is 0%, i.e., neither gain nor loss."
+      },
+      {
+        "question": "A grocer sells 200 kg of sugar, making a profit of 10% on the cost price. If he had sold the sugar at $1 less per kg, what would have been his profit percent?",
+        "answer": "20%",
+        "options": ["10%", "15%", "20%", "25%"],
+        "explanation": "Let the cost price of 1 kg of sugar be x. Selling price of 1 kg of sugar = x + 10% of x = $1.10x. According to the question, $1.10x - (x - $1) = 10. $1.10x - x + $1 = 10. $0.10x = 9. x = $90. Therefore, the original selling price of 1 kg of sugar = $1.10 * $90 = $99. His profit percentage = (New profit / New cost price) * 100% = ($20 / $90) * 100% = 22.22%. Therefore, his profit percentage is 22.22%."
+      },
+      {
+        "question": "A person bought 20 oranges for $40 and sold them at the rate of 4 for $10. Find his gain or loss percentage.",
+        "answer": "25% loss",
+        "options": ["20% loss", "25% loss", "30% loss", "35% loss"],
+        "explanation": "Cost price of 4 oranges = $10. Cost price of 20 oranges = $50. Loss = Cost price - Selling price = $50 - $40 = $10. Loss percentage = (Loss / Cost price) * 100% = ($10 / $50) * 100% = 20%."
+      },
+      {
+        "question": "A shopkeeper buys 100 apples for $50 and sells them at $0.70 each. What is his profit percentage?",
+        "answer": "40%",
+        "options": ["20%", "30%", "40%", "50%"],
+        "explanation": "Total cost price = 100 * $0.50 = $50. Total selling price = 100 * $0.70 = $70. Profit = Total selling price - Total cost price = $70 - $50 = $20. Profit percentage = (Profit / Cost price) * 100% = ($20 / $50) * 100% = 40%."
+      },
+      {
+        "question": "If the cost price of 20 books is $200 and the selling price is $300, what is the profit percentage?",
+        "answer": "50%",
+        "options": ["30%", "40%", "50%", "60%"],
+        "explanation": "Total cost price = $200. Total selling price = $300. Profit = Total selling price - Total cost price = $300 - $200 = $100. Profit percentage = (Profit / Cost price) * 100% = ($100 / $200) * 100% = 50%."
+      },
+      {
+        "question": "A trader sells a laptop for $1200 at a loss of 10%. What is the cost price of the laptop?",
+        "answer": "$1333.33",
+        "options": ["$1100", "$1200", "$1333.33", "$1400"],
+        "explanation": "Let the cost price of the laptop be x. Selling price = Cost price - Loss. $1200 = x - 10% of x. $1200 = x - 0.1x. $1200 = 0.9x. x = $1200 / 0.9 = $1333.33."
+      },
+      {
+        "question": "A retailer buys 200 pens for $100. If he sells 150 pens at a profit of 25%, at what price should he sell the remaining pens to make an overall profit of 20%?",
+        "answer": "$0.75 each",
+        "options": ["$0.50 each", "$0.60 each", "$0.75 each", "$0.80 each"],
+        "explanation": "Total cost price of 150 pens = 150 * ($100 / 200) = $75. Profit on 150 pens = 25% of $75 = $18.75. Required total profit = 20% of $100 = $20. Remaining profit to be made = $20 - $18.75 = $1.25. Cost price of remaining 50 pens = $100 - $75 = $25. Selling price of each remaining pen = (Cost price + Profit) / Quantity = ($25 + $1.25) / 50 = $0.75."
+      },
+      {
+        "question": "A shopkeeper sells a bicycle for $300, making a profit of 25%. What is the cost price of the bicycle?",
+        "answer": "$240",
+        "options": ["$200", "$220", "$240", "$260"],
+        "explanation": "Let the cost price of the bicycle be x. Selling price = Cost price + Profit. $300 = x + 25% of x. $300 = x + 0.25x. $300 = 1.25x. x = $300 / 1.25 = $240."
+      },
+      {
+        "question": "A vendor buys 80 shirts at $10 each. He sells 60 shirts at $15 each and the remaining at $12 each. What is his total profit or loss?",
+        "answer": "$240 profit",
+        "options": ["$200 profit", "$240 profit", "$200 loss", "$240 loss"],
+        "explanation": "Total cost price = 80 * $10 = $800. Total selling price = (60 * $15) + (20 * $12) = $900. Profit = Total selling price - Total cost price = $900 - $800 = $100."
+      },
+      {
+        "question": "A trader sells a television for $900 and incurs a loss of 15%. What was the cost price of the television?",
+        "answer": "$1058.82",
+        "options": ["$850", "$1000", "$1058.82", "$1100"],
+        "explanation": "Let the cost price of the television be x. Selling price = Cost price - Loss. $900 = x - 15% of x. $900 = x - 0.15x. $900 = 0.85x. x = $900 / 0.85 = $1058.82."
+      },
+      {
+        "question": "A retailer buys 120 pens at $0.50 each. If he sells all the pens at $1 each, what is his profit percentage?",
+        "answer": "100%",
+        "options": ["50%", "75%", "100%", "125%"],
+        "explanation": "Total cost price = 120 * $0.50 = $60. Total selling price = 120 * $1 = $120. Profit = Total selling price - Total cost price = $120 - $60 = $60. Profit percentage = (Profit / Cost price) * 100% = ($60 / $60) * 100% = 100%."
+      },
+      {
+        "question": "A shirt is sold for $120 after giving a discount of 20% on the market price. What is the market price of the shirt?",
+        "answer": "$150",
+        "options": ["$100", "$120", "$150", "$180"],
+        "explanation": "Let the market price of the shirt be x. Selling price after a 20% discount = 80% of x. $120 = 0.80x. x = $120 / 0.80 = $150."
+      },
+      {
+        "question": "A mobile phone is sold at a profit of 25% after allowing a discount of 10%. If the selling price is $375, what is the cost price of the phone?",
+        "answer": "$240",
+        "options": ["$200", "$225", "$240", "$250"],
+        "explanation": "Let the cost price of the mobile phone be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $375 = 1.25 * 0.90x. $375 = 1.125x. x = $375 / 1.125 = $240."
+      },
+      {
+        "question": "A pair of shoes is sold at a discount of 12%. If the selling price is $440, what was the market price of the shoes?",
+        "answer": "$500",
+        "options": ["$400", "$440", "$480", "$500"],
+        "explanation": "Let the market price of the shoes be x. Selling price after a 12% discount = 88% of x. $440 = 0.88x. x = $440 / 0.88 = $500."
+      },
+      {
+        "question": "A jacket is sold for $1800 after a discount of 25%. What was its cost price if the seller made a profit of 20%?",
+        "answer": "$1440",
+        "options": ["$1200", "$1400", "$1440", "$1600"],
+        "explanation": "Let the cost price of the jacket be x. Selling price after a 25% discount = 75% of x. Selling price after a 20% profit = 120% of 75% of x. $1800 = 1.20 * 0.75x. $1800 = 0.9x. x = $1800 / 0.9 = $2000. Therefore, the cost price of the jacket is $2000."
+      },
+      {
+        "question": "A watch marked at $240 is sold for $216. What is the discount percentage?",
+        "answer": "10%",
+        "options": ["8%", "10%", "12%", "15%"],
+        "explanation": "Discount = Marked price - Selling price = $240 - $216 = $24. Discount percentage = (Discount / Marked price) * 100% = ($24 / $240) * 100% = 10%."
+      },
+      {
+        "question": "A bike is sold for $6600 after giving a discount of 10% on the marked price. If the profit made by selling the bike is 20%, what is the cost price of the bike?",
+        "answer": "$5500",
+        "options": ["$5000", "$5500", "$6000", "$6500"],
+        "explanation": "Let the cost price of the bike be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $6600 = 1.20 * 0.90x. $6600 = 1.08x. x = $6600 / 1.08 = $5500."
+      },
+      {
+        "question": "A shirt is sold for $360 after a discount of 10%. If the profit made by selling the shirt is 20%, what was its cost price?",
+        "answer": "$250",
+        "options": ["$200", "$250", "$300", "$350"],
+        "explanation": "Let the cost price of the shirt be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $360 = 1.20 * 0.90x. $360 = 1.08x. x = $360 / 1.08 = $250."
+      },
+      {
+        "question": "A computer is sold for $1440 after allowing a discount of 20%. If the profit made by selling the computer is 25%, what was its cost price?",
+        "answer": "$960",
+        "options": ["$900", "$960", "$1020", "$1080"],
+        "explanation": "Let the cost price of the computer be x. Selling price after a 20% discount = 80% of x. Selling price after a 25% profit = 125% of 80% of x. $1440 = 1.25 * 0.80x. $1440 = 1.00x. x = $1440 / 1.25 = $1152."
+      },
+      {
+        "question": "A camera is sold for $450 after allowing a discount of 10%. If the profit made by selling the camera is 20%, what was its cost price?",
+        "answer": "$375",
+        "options": ["$350", "$375", "$400", "$425"],
+        "explanation": "Let the cost price of the camera be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $450 = 1.20 * 0.90x. $450 = 1.08x. x = $450 / 1.08 = $375."
+      },
+      {
+        "question": "A laptop is sold for $1200 after a discount of 10%. If the profit made by selling the laptop is 25%, what was its cost price?",
+        "answer": "$864",
+        "options": ["$800", "$900", "$1000", "$864"],
+        "explanation": "Let the cost price of the laptop be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $1200 = 1.25 * 0.90x. $1200 = 1.125x. x = $1200 / 1.125 = $1066.67."
+      },
+      {
+        "question": "A computer is sold for $1440 after allowing a discount of 20%. If the profit made by selling the computer is 25%, what was its cost price?",
+        "answer": "$960",
+        "options": ["$900", "$960", "$1020", "$1080"],
+        "explanation": "Let the cost price of the computer be x. Selling price after a 20% discount = 80% of x. Selling price after a 25% profit = 125% of 80% of x. $1440 = 1.25 * 0.80x. $1440 = 1.00x. x = $1440 / 1.25 = $1152."
+      },
+      {
+        "question": "A camera is sold for $450 after allowing a discount of 10%. If the profit made by selling the camera is 20%, what was its cost price?",
+        "answer": "$375",
+        "options": ["$350", "$375", "$400", "$425"],
+        "explanation": "Let the cost price of the camera be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $450 = 1.20 * 0.90x. $450 = 1.08x. x = $450 / 1.08 = $375."
+      },
+      {
+        "question": "A laptop is sold for $1200 after a discount of 10%. If the profit made by selling the laptop is 25%, what was its cost price?",
+        "answer": "$864",
+        "options": ["$800", "$900", "$1000", "$864"],
+        "explanation": "Let the cost price of the laptop be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $1200 = 1.25 * 0.90x. $1200 = 1.125x. x = $1200 / 1.125 = $1066.67."
+      },
+      {
+        "question": "A shirt is sold for $120 after giving a discount of 20% on the market price. What is the market price of the shirt?",
+        "answer": "$150",
+        "options": ["$100", "$120", "$150", "$180"],
+        "explanation": "Let the market price of the shirt be x. Selling price after a 20% discount = 80% of x. $120 = 0.80x. x = $120 / 0.80 = $150."
+      },
+      {
+        "question": "A mobile phone is sold at a profit of 25% after allowing a discount of 10%. If the selling price is $375, what is the cost price of the phone?",
+        "answer": "$240",
+        "options": ["$200", "$225", "$240", "$250"],
+        "explanation": "Let the cost price of the mobile phone be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $375 = 1.25 * 0.90x. $375 = 1.125x. x = $375 / 1.125 = $240."
+      },
+      {
+        "question": "A pair of shoes is sold at a discount of 12%. If the selling price is $440, what was the market price of the shoes?",
+        "answer": "$500",
+        "options": ["$400", "$440", "$480", "$500"],
+        "explanation": "Let the market price of the shoes be x. Selling price after a 12% discount = 88% of x. $440 = 0.88x. x = $440 / 0.88 = $500."
+      },
+      {
+        "question": "A jacket is sold for $1800 after a discount of 25%. What was its cost price if the seller made a profit of 20%?",
+        "answer": "$1440",
+        "options": ["$1200", "$1400", "$1440", "$1600"],
+        "explanation": "Let the cost price of the jacket be x. Selling price after a 25% discount = 75% of x. Selling price after a 20% profit = 120% of 75% of x. $1800 = 1.20 * 0.75x. $1800 = 0.9x. x = $1800 / 0.9 = $2000. Therefore, the cost price of the jacket is $2000."
+      },
+      {
+        "question": "A watch marked at $240 is sold for $216. What is the discount percentage?",
+        "answer": "10%",
+        "options": ["8%", "10%", "12%", "15%"],
+        "explanation": "Discount = Marked price - Selling price = $240 - $216 = $24. Discount percentage = (Discount / Marked price) * 100% = ($24 / $240) * 100% = 10%."
+      },
+      {
+        "question": "A bike is sold for $6600 after giving a discount of 10% on the marked price. If the profit made by selling the bike is 20%, what is the cost price of the bike?",
+        "answer": "$5500",
+        "options": ["$5000", "$5500", "$6000", "$6500"],
+        "explanation": "Let the cost price of the bike be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $6600 = 1.20 * 0.90x. $6600 = 1.08x. x = $6600 / 1.08 = $5500."
+      },
+      {
+        "question": "A shirt is sold for $360 after a discount of 10%. If the profit made by selling the shirt is 20%, what was its cost price?",
+        "answer": "$250",
+        "options": ["$200", "$250", "$300", "$350"],
+        "explanation": "Let the cost price of the shirt be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $360 = 1.20 * 0.90x. $360 = 1.08x. x = $360 / 1.08 = $250."
+      },
+      {
+        "question": "A computer is sold for $1440 after allowing a discount of 20%. If the profit made by selling the computer is 25%, what was its cost price?",
+        "answer": "$960",
+        "options": ["$900", "$960", "$1020", "$1080"],
+        "explanation": "Let the cost price of the computer be x. Selling price after a 20% discount = 80% of x. Selling price after a 25% profit = 125% of 80% of x. $1440 = 1.25 * 0.80x. $1440 = 1.00x. x = $1440 / 1.25 = $1152."
+      },
+      {
+        "question": "A camera is sold for $450 after allowing a discount of 10%. If the profit made by selling the camera is 20%, what was its cost price?",
+        "answer": "$375",
+        "options": ["$350", "$375", "$400", "$425"],
+        "explanation": "Let the cost price of the camera be x. Selling price after a 10% discount = 90% of x. Selling price after a 20% profit = 120% of 90% of x. $450 = 1.20 * 0.90x. $450 = 1.08x. x = $450 / 1.08 = $375."
+      },
+      {
+        "question": "A laptop is sold for $1200 after a discount of 10%. If the profit made by selling the laptop is 25%, what was its cost price?",
+        "answer": "$864",
+        "options": ["$800", "$900", "$1000", "$864"],
+        "explanation": "Let the cost price of the laptop be x. Selling price after a 10% discount = 90% of x. Selling price after a 25% profit = 125% of 90% of x. $1200 = 1.25 * 0.90x. $1200 = 1.125x. x = $1200 / 1.125 = $1066.67."
+      },
+      {
+        "question": "A shopkeeper uses a 900g weight instead of a 1kg weight. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["5%", "10%", "11.11%", "15%"],
+        "explanation": "He gains on 100g. So, the gain percentage = (100g / 900g) * 100% = 11.11%."
+      },
+      {
+        "question": "A fruit seller uses a 850g weight instead of a 1kg weight. What is his gain percentage?",
+        "answer": "17.65%",
+        "options": ["10%", "15%", "17.65%", "20%"],
+        "explanation": "He gains on 150g. So, the gain percentage = (150g / 850g) * 100% = 17.65%."
+      },
+      {
+        "question": "A milkman mixes 4 liters of water in 16 liters of milk and sells the mixture at the cost price of milk. What is his profit percentage?",
+        "answer": "25%",
+        "options": ["20%", "25%", "30%", "35%"],
+        "explanation": "The total quantity of the mixture is 20 liters. The milkman gains on 4 liters of water. So, the profit percentage = (4 liters / 16 liters) * 100% = 25%."
+      },
+      {
+        "question": "A jeweler sells a gold ornament at the price of gold of 20gms while it is 18gms. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["5%", "10%", "11.11%", "15%"],
+        "explanation": "He gains on 2gms. So, the gain percentage = (2gms / 18gms) * 100% = 11.11%."
+      },
+      {
+        "question": "A vegetable seller uses a 950g weight instead of a 1kg weight. What is his gain percentage?",
+        "answer": "5.26%",
+        "options": ["4%", "5%", "5.26%", "6%"],
+        "explanation": "He gains on 50g. So, the gain percentage = (50g / 950g) * 100% = 5.26%."
+      },
+      {
+        "question": "A textile merchant sells goods using a 4m length instead of 5m. What is his gain percentage?",
+        "answer": "25%",
+        "options": ["20%", "25%", "30%", "35%"],
+        "explanation": "He gains on 1m. So, the gain percentage = (1m / 4m) * 100% = 25%."
+      },
+      {
+        "question": "A baker uses a 500g weight instead of a 1kg weight. What is his gain percentage?",
+        "answer": "100%",
+        "options": ["50%", "75%", "100%", "125%"],
+        "explanation": "He gains on 500g. So, the gain percentage = (500g / 500g) * 100% = 100%."
+      },
+      {
+        "question": "A carpenter uses 18mm thickness instead of 20mm thickness. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["5%", "10%", "11.11%", "15%"],
+        "explanation": "He gains on 2mm. So, the gain percentage = (2mm / 18mm) * 100% = 11.11%."
+      },
+      {
+        "question": "A tailor uses a 90cm length instead of 1m. What is his gain percentage?",
+        "answer": "11.11%",
+        "options": ["5%", "10%", "11.11%", "15%"],
+        "explanation": "He gains on 10cm. So, the gain percentage = (10cm / 90cm) * 100% = 11.11%."
+      },
+      {
+        "question": "A dairy farmer mixes 3 liters of water in 12 liters of milk and sells the mixture at the cost price of milk. What is his profit percentage?",
+        "answer": "25%",
+        "options": ["20%", "25%", "30%", "35%"],
+        "explanation": "The total quantity of the mixture is 15 liters. The farmer gains on 3 liters of water. So, the profit percentage = (3 liters / 12 liters) * 100% = 25%."
+      }
+  ]
