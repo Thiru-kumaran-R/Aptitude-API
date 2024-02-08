@@ -264,126 +264,6 @@
         "explanation": "If today is Wednesday, after 3 weeks, it will still be Wednesday."
       },
       {
-        "question": "Is the year 2024 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2024 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2023 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2023 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2020 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2020 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2028 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2028 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2030 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2030 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2032 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2032 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2035 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2035 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2040 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2040 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2044 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2044 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2048 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2048 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2050 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2050 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2052 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2052 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2056 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2056 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2060 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2060 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2064 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2064 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2066 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2066 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2070 a leap year?",
-        "answer": "No",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2070 is not divisible by 4, it is not a leap year."
-      },
-      {
-        "question": "Is the year 2072 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2072 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2076 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2076 is divisible by 4, it is a leap year."
-      },
-      {
-        "question": "Is the year 2080 a leap year?",
-        "answer": "Yes",
-        "options": ["Yes", "No"],
-        "explanation": "A leap year is divisible by 4. Since 2080 is divisible by 4, it is a leap year."
-      },
-      {
         "question": "How many odd days are there in the century starting from 1901 to 2000?",
         "answer": "5",
         "options": ["4", "5", "6", "7"],
@@ -482,121 +362,221 @@
       {
         "question": "If today is Friday, what day of the week will it be after 5 days?",
         "answer": "Wednesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "If today is Friday, after 5 days, it will be Wednesday."
       },
       {
         "question": "If today is Sunday, what day of the week was it 3 days ago?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "If today is Sunday, 3 days ago, it was Thursday."
       },
       {
         "question": "If today is Tuesday, what day of the week will it be after 8 days?",
         "answer": "Wednesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "If today is Tuesday, after 8 days, it will be Wednesday."
       },
       {
         "question": "If today is Thursday, what day of the week will it be after 10 days?",
         "answer": "Saturday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday","Saturday", "Sunday"],
         "explanation": "If today is Thursday, after 10 days, it will be Saturday."
       },
       {
         "question": "If today is Monday, what day of the week was it 4 days ago?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday","Thursday", "Friday", "Saturday"],
         "explanation": "If today is Monday, 4 days ago, it was Thursday."
       },
       {
         "question": "If today is Wednesday, what day of the week will it be after 6 days?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "If today is Wednesday, after 6 days, it will be Tuesday."
       },
       {
         "question": "If today is Saturday, what day of the week was it 2 days ago?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Thursday", "Friday", "Saturday"],
         "explanation": "If today is Saturday, 2 days ago, it was Thursday."
       },
       {
         "question": "If today is Monday, what day of the week will it be after 3 days?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "If today is Monday, after 3 days, it will be Thursday."
       },
       {
         "question": "If today is Friday, what day of the week was it 5 days ago?",
         "answer": "Sunday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday","Saturday", "Sunday"],
         "explanation": "If today is Friday, 5 days ago, it was Sunday."
       },
       {
         "question": "If today is Sunday, what day of the week will it be after 7 days?",
         "answer": "Sunday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Sunday"],
         "explanation": "If today is Sunday, after 7 days, it will be Sunday."
       },
       {
         "question": "If 15th August 1947 was Monday, what day of the week was 15th August 1957?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "We know that there are 10 years between 1947 and 1957. Since 10 years have passed, the day will be 3 days ahead of Monday, which is Thursday."
       },
       {
         "question": "If 1st January 2020 was Wednesday, what day of the week will be 1st January 2025?",
         "answer": "Wednesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 5 years between 2020 and 2025. Since there is no leap year between these years, the same pattern of days will continue. So, 1st January 2025 will also be Wednesday."
       },
       {
         "question": "If 20th April 1999 was Tuesday, what day of the week was 20th April 2009?",
         "answer": "Monday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 10 years between 1999 and 2009. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
       },
       {
         "question": "If 30th March 2010 was Friday, what day of the week will be 30th March 2025?",
         "answer": "Monday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 15 years between 2010 and 2025. Since there are 3 complete cycles of 5 years, the day will be 3 days ahead of Friday, which is Monday."
       },
       {
         "question": "If 10th November 2000 was Thursday, what day of the week was 10th November 2010?",
         "answer": "Wednesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 10 years between 2000 and 2010. Since 10 years have passed, the day will be 1 day behind Thursday, which is Wednesday."
       },
       {
         "question": "If 5th May 2015 was Tuesday, what day of the week was 5th May 2020?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 5 years between 2015 and 2020. Since there is no leap year between these years, the same pattern of days will continue. So, 5th May 2020 will also be Tuesday."
       },
       {
         "question": "If 25th December 1990 was Tuesday, what day of the week was 25th December 2000?",
         "answer": "Monday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 10 years between 1990 and 2000. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
       },
       {
         "question": "If 8th September 2005 was Thursday, what day of the week was 8th September 2015?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 10 years between 2005 and 2015. Since 10 years have passed, the day will be 3 days ahead of Thursday, which is Tuesday."
       },
       {
         "question": "If 18th February 2012 was Saturday, what day of the week was 18th February 2022?",
         "answer": "Friday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Friday"],
         "explanation": "There are 10 years between 2012 and 2022. Since 10 years have passed, the day will be 1 day behind Saturday, which is Friday."
       },
       {
         "question": "If 12th July 1995 was Wednesday, what day of the week was 12th July 2005?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
         "explanation": "There are 10 years between 1995 and 2005. Since 10 years have passed, the day will be 1 day behind Wednesday, which is Tuesday."
+      },
+      {
+        "question": "If February 1, 2023, falls on a Wednesday, what day of the week will February 28, 2023, be?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If April 1, 2024, falls on a Saturday, what day of the week will April 30, 2024, be?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If June 1, 2022, falls on a Thursday, what day of the week will June 30, 2022, be?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If September 1, 2023, falls on a Friday, what day of the week will September 30, 2023, be?",
+        "answer": "Saturday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+      },
+      {
+        "question": "If November 1, 2021, falls on a Monday, what day of the week will November 30, 2021, be?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If March 1, 2024, falls on a Friday, what day of the week will March 31, 2024, be?",
+        "answer": "Sunday",
+        "options": ["Saturday", "Sunday", "Monday", "Tuesday"]
+      },
+      {
+        "question": "If May 1, 2023, falls on a Monday, what day of the week will May 31, 2023, be?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If July 1, 2022, falls on a Friday, what day of the week will July 31, 2022, be?",
+        "answer": "Sunday",
+        "options": ["Saturday", "Sunday", "Monday", "Tuesday"]
+      },
+      {
+        "question": "If October 1, 2024, falls on a Tuesday, what day of the week will October 31, 2024, be?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"]
+      },
+      {
+        "question": "If December 1, 2021, falls on a Wednesday, what day of the week will December 31, 2021, be?",
+        "answer": "Friday",
+        "options": ["Thursday", "Friday", "Saturday", "Sunday"]
+      },
+      {
+        "question": "If January 1, 2023, falls on a Sunday, what day of the week will January 31, 2023, be?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If March 1, 2024, falls on a Monday, what day of the week will March 31, 2024, be?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"]
+      },
+      {
+        "question": "If May 1, 2022, falls on a Sunday, what day of the week will May 31, 2022, be?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If July 1, 2023, falls on a Saturday, what day of the week will July 31, 2023, be?",
+        "answer": "Monday",
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+      },
+      {
+        "question": "If August 1, 2024, falls on a Thursday, what day of the week will August 31, 2024, be?",
+        "answer": "Saturday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+      },
+      {
+        "question": "If October 1, 2022, falls on a Saturday, what day of the week will October 31, 2022, be?",
+        "answer": "Monday",
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+      },
+      {
+        "question": "If December 1, 2023, falls on a Friday, what day of the week will December 31, 2023, be?",
+        "answer": "Monday",
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+      },
+      {
+        "question": "If February 1, 2024, falls on a Thursday, what day of the week will February 29, 2024, be?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+      },
+      {
+        "question": "If April 1, 2021, falls on a Thursday, what day of the week will April 30, 2021, be?",
+        "answer": "Friday",
+        "options": ["Thursday", "Friday", "Saturday", "Sunday"]
+      },
+      {
+        "question": "If June 1, 2023, falls on a Thursday, what day of the week will June 30, 2023, be?",
+        "answer": "Saturday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"]
       }
 ]
