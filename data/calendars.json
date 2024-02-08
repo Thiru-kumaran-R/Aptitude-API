@@ -1,474 +1,602 @@
 [
     {
-        "question" : "Today is Monday. After 68 days, it will be:",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "The last day of a century cannot be:",
-        "answer" : "Thursday"
-    },
-    {
-        "question" : "What day on 23.04.1990?",
-        "answer" : "Monday"
-    },
-    {
-        "question" : "What day of week was it on 1989/05/11, if it was Monday on 1988/04/04, given the dates are in format : yyyy/dd/mm ?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "If 01/04/2013 is Monday, then what is the day on 30/11/2013?",
-        "answer" : "we can compare it with 29/04/2013, as it also had monday on that day find the remainder with number of days%7 number of days in april =30-29 =1 number of days in may =31 %7 =3 number of days in june =30 %7 =2 number of days in july =31 %7 =3 number of days in august =31 %7 =3 number of days in september =30 %7 =2 number of days in october =31 %7 =3 number of days in november =30 %7 =2 total count=1+3+2+3+3+2+3+2 = 19 %7 =5 Now we add 5 days in monday then it will be saturday. "
-    },
-    {
-        "question" : "If January 1, 2016 was a Friday, what day of the week will be on January 1, 2017?",
-        "answer" : "The year 2016 is the leap year which has 366 days i.e. 52 weeks and 2 more days. After each week, the day starts repetition. So the day on January 1, 2017 will be 2 days beyond Friday. That is Sunday."
-    },
-    {
-        "question" : "What was the day of the week on January 30, 1948?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "What was the day of the week on January 1, 2001?",
-        "answer" : "Monday"
-    },
-    {
-        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
-        "answer" : "On 31st December, 2005 it was Saturday.vNumber of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days. On 31st December 2009, it was Thursday. Thus, on 1st Jan, 2010 it is Friday."
-    },
-    {
-        "question" : "What was the day of the week on 28th May, 2006?",
-        "answer" : "Given day is Sunday."
-    },
-    {
-        "question" : "What was the day of the week on 17th June, 1998?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "What will be the day of the week 15th August, 2010?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "Today is Monday. After 61 days, it will be:",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "On what dates of April, 2001 did Wednesday fall?",
-        "answer" : "4th, 11th, 18th, 25th"
-    },
-    {
-        "question" : "The last day of a century cannot be",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "January 1, 2008 is Tuesday. What day of the week lies on Jan 1, 2009?",
-        "answer" : "Thursday"
-    },
-    {
-        "question" : "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "What was the day on 15th august 1947 ?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "Today is Monday. After 61 days, it will be :",
-        "answer" : " Saturday"
-    },
-    {
-        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "The last day of a century cannot be",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "What was the day of the week on 28th May, 2006?",
-        "answer" : " Sunday"
-    },
-    {
-        "question" : "What was the day of the week on, 16th July, 1776?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "What will be the day of the week 15th August, 2010?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "How many weekends in a year?",
-        "answer" : "52"
-    },
-    {
-        "question" : "What was the day of the week on 17th June, 1998 ?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "On what dates of April, 2001 did Wednesday fall?",
-        "answer" : "4th,11th,18th,25th"
-    },
-    {
-        "question" : "How many days are there in x weeks x days?",
-        "answer" : "x weeks x days = (7x + x) days = 8x days."
-    },
-    {
-        "question" : "26 january 1950 which day of the week? A) Monday B) Wednesday C) Thursday D) Tuesday",
-        "answer" : "Thursday"
-    },
-    {
-        "question" : "How many leap years does 100 years have?",
-        "answer" : "24"
-    },
-    {
-        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "Which two months in a year have the same calendar?",
-        "answer" : "April, July"
-    },
-    {
-        "question" : "What is 90 days from today? Hints : Today is 20th January 2017, Sunday",
-        "answer" : "20th April, Saturday"
-    },
-    {
-        "question" : "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "The maximum gap between two successive leap year is?",
-        "answer" : "8"
-    },
-    {
-        "question" : "How many leap years do 300 years have?",
-        "answer" : "72"
-    },
-    {
-        "question" : "If today is Saturday, what will be the day 350 days from now  ?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "The calendar of the year 1897 can be used again in the year? A) 1908 B) 1901 C) 1903 D) 1926",
-        "answer" : "1903"
-    },
-    {
-        "question" : "The year next to 2005 will have the same calendar as that of the year 2005? A) 2016  B) 2022 C) 2011 D) None",
-        "answer" : "C) 2011"
-    },
-    {
-        "question" : "The second day of a month is Sunday, What will be the last day of the next month which has 31 days  ?",
-        "answer" : "Can't be determined"
-    },
-    {
-        "question" : "The calendar for the year 1993 will be same for the year",
-        "answer" : "1999"
-    },
-    {
-        "question" : "The calendar for the year 2007 will be the same for the year",
-        "answer" : "2018"
-    },
-    {
-        "question" : "The calendar for the year 2018 will be the same for the year",
-        "answer" : "2029"
-    },
-    {
-        "question" : "The day before yesterday, I was 25 years old, and next year I will turn 28. How is it possible?",
-        "answer" : "The day before yesterday(30 December 2016), I was 25 years old and next year(31 December 2018) I will be 28."
-    },
-    {
-        "question" : "On what dates of July.2004 did Monday fall?",
-        "answer" : "5th, 12th, 19th, 26th"
-    },
-    {
-        "question" : "Prove that any date in March of a year is the same day of the week corresponding date in November that year.",
-        "answer" : "Same day"
-    },
-    {
-        "question" : "If Aug 15th,2012 falls on Thursday then June 11th,2013 falls on which day ?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "If Feb 12th,1986 falls on Wednesday then Jan 1st,1987 falls on which day?",
-        "answer" : "Thursday"
-    },
-    {
-        "question" : "If Mar 18th,1994 falls on Friday then Feb 25th,1995 falls on which day?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "The calendar of the year 2024 can be used again in the year?",
-        "answer" : "2052"
-    },
-    {
-        "question" : "What was the day of the week on 16th August, 1947?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "If every seconds Saturday and all Sundays are holidays in a 30 days month beginning on Saturday, then how many working days are there in that month ? (Month starts from Saturday)",
-        "answer" : "23"
-    },
-    {
-        "question" : "The calendar for the year 1988 is same as which upcoming year ?",
-        "answer" : "2016"
-    },
-    {
-        "question" : "The year next to 2003 will have the same calendar as that of the year 2003?",
-        "answer" : "2014"
-    },
-    {
-        "question" : "If July 9th,2013 falls on Sunday then Jan 7th,2014 falls on which day?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "Given that on 9th August 2016 is Saturday. What was the day on 9th August 1616 ?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "Which year has 366 days?",
-        "answer" : "1200"
-    },
-    {
-        "question" : "If yesterday were tomorrow, then today would be Friday. What day is today?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "1.12.91 is the first Sunday. Which is the fourth Tuesday of December 91 ?",
-        "answer" : "24.12.91"
-    },
-    {
-        "question" : "Second & fourth Saturdays and every Sunday is a holiday. How many working days will be there in a month of 31 days beginning on a Friday ?",
-        "answer" : "24"
-    },
-    {
-        "question" : "On 17th March, 1997 Monday falls. What day of the week was it on 17th March, 1996?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "Suppose today is Friday, what day of the week will it be 65 days from now?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "If 5th March, 2005 is Monday, what was the day of the week on 5th March, 2004 ?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "The calendar of year 1989 was same as which year?",
-        "answer" : "1978"
-    },
-    {
-        "question" : "On 24th Nov, 2007 Thursday falls. What day of the week was it on 10th Nov, 2006 ?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "What was the day of the week on 28th May, 2006?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "How many seconds in 10 years?",
-        "answer" : "315360000 sec"
-    },
-    {
-        "question" : "The calendar of year 1939 is same as which year?",
-        "answer" : "1950"
-    },
-    {
-        "question" : "What was the day on 2nd Jan 1901 ?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "On what dates of April, 2001 did Wednesday fall ?",
-        "answer" : " 4th, 11th, 18th, 25th"
-    },
-    {
-        "question" : "Oct 1st 1994 falls on which day?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010 ?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "On 19th June, 1984 Monday falls. What day of the week was it on 19th June, 1985?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "How many days are there in k weeks k days ?",
-        "answer" : "k weeks k days = (7k + k) days = 8k days."
-    },
-    {
-        "question" : "What will be the day of the week 15th August, 2010?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "Aizaz was born on 5th January 2015, while Faiz was born 553days later. On which date was Faiz born?",
-        "answer" : "11th July 2016"
-    },
-    {
-        "question" : "If 4th december 1999 is Monday then what day is 3rd january 2000 ?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "What is two weeks from today? A) same day B) previous day C) next day D) None",
-        "answer" : "same day"
-    },
-    {
-        "question" : "On 1st Jan, 2005 Saturday falls. What day of the week was it on 1st Jan, 2006?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "What was the day on 16th June,1993?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "Which century year is a leap year? A) 1900 B) 1700 C) 1600 D) 1100",
-        "answer" : "C)  1600"
-    },
-    {
-        "question" : "1.12.91 is the first Tuesday. Which is the fourth Thursday of December 91  ?",
-        "answer" : "25.12.91"
-    },
-    {
-        "question" : "What day would it be on 1 September 2020?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "How old are you if you are born in 1995? Considering present year as 2018",
-        "answer" : "23"
-    },
-    {
-        "question" : "The calendar of the year 2006 was used before in the year? A) 1990 B) 1995 C) 2002 D) 2000",
-        "answer" : "B) 1995"
-    },
-    {
-        "question" : "In a year, Holi was enjoyed on 6th March 9 AM and Deepawali was celebrated on 11th November 8 PM. The total time interval (in hours) between the two was ?",
-        "answer" : "6011 hrs"
-    },
-    {
-        "question" : "What was the day on 31st Dec,2011 ?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006 ?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "How many days in 4 years?",
-        "answer" : "1460"
-    },
-    {
-        "question" : "The calendar for the year 2013 was the same as the year :",
-        "answer" : "2002"
-    },
-    {
-        "question" : "The calendar of year 1856 is same as which year?",
-        "answer" : "1884"
-    },
-    {
-        "question" : "What was the day on 9th May,2001?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "Which calendar was used again in the year 1856?",
-        "answer" : "1828"
-    },
-    {
-        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "What was the day of the week on 28th May, 2006?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "Which of the following years have 366 days?",
-        "answer" : "1984"
-    },
-    {
-        "question" : "What will be the day on 18th Feb,2016?",
-        "answer" : "Thursday"
-    },
-    {
-        "question" : "The last day of a century cannot be",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "What day would it be on 1 september 2020 ?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "How much does a clock lose per day, if its hands coincide ever 65 minutes ?",
-        "answer" : "1425/18 min"
-    },
-    {
-        "question" : "April 19th, 1986 falls on which day?",
-        "answer" : "Saturday"
-    },
-    {
-        "question" : "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "What was the day on 25th Jan,1981?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "From the following years,which is not a leap year ?",
-        "answer" : "1863"
-    },
-    {
-        "question" : "What was the day of the week on 17th June, 1998?",
-        "answer" : "Wednesday"
-    },
-    {
-        "question" : "Which year will have the same calendar as that of 2005? A) 2009 B) 2010 C) 2011 D) 2008" ,
-        "answer" : "2011"
-    },
-    {
-        "question" : "Which of the following year is a leap year? A) 2500 B) 1700 C) 1900 D) 2400",
-        "answer" : "2400"
-    },
-    {
-        "question" : "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
-        "answer" : "Sunday"
-    },
-    {
-        "question" : "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
-        "answer" : "Friday"
-    },
-    {
-        "question" : "What day of the week was 29 June 2010 ?",
-        "answer" : "Tuesday"
-    },
-    {
-        "question" : "The calendar for the year 2007 will be the same for the year ?",
-        "answer" : "2018"
-    },
-    {
-        "question" : "5th January 2018 was a Friday. Which of the following years will also have 5th January on a Friday?",
-        "answer" : "2024"
-    }
+        "question": "How many odd days are there in a normal year?",
+        "answer": "1",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "In a normal year, there is 1 odd day."
+      },
+      {
+        "question": "In which month do we have the least number of odd days?",
+        "answer": "February",
+        "options": ["January", "February", "March", "April"],
+        "explanation": "February has the least number of odd days, with 0 odd days in a non-leap year."
+      },
+      {
+        "question": "How many odd days are there in a leap year?",
+        "answer": "2",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "In a leap year, there are 2 odd days."
+      },
+      {
+        "question": "What is the total number of odd days in 15 years?",
+        "answer": "3",
+        "options": ["2", "3", "4", "5"],
+        "explanation": "15 years have 3 odd days."
+      },
+      {
+        "question": "How many odd days are there in 100 years?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "100 years have 5 odd days."
+      },
+      {
+        "question": "What is the day on 25th December 2023?",
+        "answer": "Monday",
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+        "explanation": "25th December 2023 falls on Monday."
+      },
+      {
+        "question": "How many odd days are there in 200 years?",
+        "answer": "3",
+        "options": ["2", "3", "4", "5"],
+        "explanation": "200 years have 3 odd days."
+      },
+      {
+        "question": "What day was it on 1st January 2000?",
+        "answer": "Saturday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "1st January 2000 was a Saturday."
+      },
+      {
+        "question": "What day will be on 1st January 2100?",
+        "answer": "Wednesday",
+        "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+        "explanation": "1st January 2100 will be a Wednesday."
+      },
+      {
+        "question": "How many odd days are there in 300 years?",
+        "answer": "1",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "300 years have 1 odd day."
+      },
+      {
+        "question": "What day was it on 1st January 1857?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "1st January 1857 was a Thursday."
+      },
+      {
+        "question": "How many odd days are there in 400 years?",
+        "answer": "0",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "400 years have 0 odd days."
+      },
+      {
+        "question": "What day will be on 1st January 2400?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "1st January 2400 will be a Thursday."
+      },
+      {
+        "question": "How many odd days are there in 500 years?",
+        "answer": "1",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "500 years have 1 odd day."
+      },
+      {
+        "question": "What day was it on 1st January 1800?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "1st January 1800 was a Thursday."
+      },
+      {
+        "question": "What day will be on 1st January 3000?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "1st January 3000 will be a Tuesday."
+      },
+      {
+        "question": "How many odd days are there in 600 years?",
+        "answer": "3",
+        "options": ["2", "3", "4", "5"],
+        "explanation": "600 years have 3 odd days."
+      },
+      {
+        "question": "What day was it on 1st January 1756?",
+        "answer": "Thursday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "1st January 1756 was a Thursday."
+      },
+      {
+        "question": "How many odd days are there in 700 years?",
+        "answer": "1",
+        "options": ["0", "1", "2", "3"],
+        "explanation": "700 years have 1 odd day."
+      },
+      {
+        "question": "What day will be on 1st January 3500?",
+        "answer": "Monday",
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+        "explanation": "1st January 3500 will be a Monday."
+      },
+      {
+        "question": "How many odd days are there in 800 years?",
+        "answer": "3",
+        "options": ["2", "3", "4", "5"],
+        "explanation": "800 years have 3 odd days."
+      },
+      {
+        "question": "What day was it on 1st January 1700?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "1st January 1700 was a Tuesday."
+      },
+      {
+        "question": "What day will be on 1st January 4000?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "1st January 4000 will be a Tuesday."
+      },
+      {
+        "question": "How many odd days are there in 900 years?",
+        "answer": "2",
+        "options": ["1", "2", "3", "4"],
+        "explanation": "900 years have 2 odd days."
+      },
+      {
+        "question": "If tomorrow is Wednesday, what day was it yesterday?",
+        "answer": "Monday",
+        "options": ["Monday", "Tuesday", "Thursday", "Friday"],
+        "explanation": "If tomorrow is Wednesday, then yesterday was Monday."
+      },
+      {
+        "question": "If today is Sunday, what day will it be after 3 days?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Sunday, after 3 days, it will be Wednesday."
+      },
+      {
+        "question": "If today is Friday, what day was it 5 days ago?",
+        "answer": "Sunday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Sunday"],
+        "explanation": "If today is Friday, 5 days ago, it was Sunday."
+      },
+      {
+        "question": "If today is Monday, what day will it be after 9 days?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Monday, after 9 days, it will be Wednesday."
+      },
+      {
+        "question": "If today is Tuesday, what day was it 2 days ago?",
+        "answer": "Sunday",
+        "options": ["Sunday", "Monday", "Wednesday", "Thursday"],
+        "explanation": "If today is Tuesday, 2 days ago, it was Sunday."
+      },
+      {
+        "question": "If today is Wednesday, what day was it 7 days ago?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Wednesday, 7 days ago, it was also Wednesday."
+      },
+      {
+        "question": "If today is Thursday, what day will it be after 4 days?",
+        "answer": "Monday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Thursday, after 4 days, it will be Monday."
+      },
+      {
+        "question": "If today is Friday, what day will it be after 1 week?",
+        "answer": "Friday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "If today is Friday, after 1 week, it will still be Friday."
+      },
+      {
+        "question": "If today is Saturday, what day was it 3 days ago?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Saturday, 3 days ago, it was Wednesday."
+      },
+      {
+        "question": "If today is Sunday, what day will it be after 6 days?",
+        "answer": "Saturday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Saturday"],
+        "explanation": "If today is Sunday, after 6 days, it will be Saturday."
+      },
+      {
+        "question": "If today is Monday, what day was it 3 days ago?",
+        "answer": "Friday",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "If today is Monday, 3 days ago, it was Friday."
+      },
+      {
+        "question": "If today is Tuesday, what day will it be after 1 week?",
+        "answer": "Tuesday",
+        "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+        "explanation": "If today is Tuesday, after 1 week, it will still be Tuesday."
+      },
+      {
+        "question": "If today is Wednesday, what day was it 4 days ago?",
+        "answer": "Saturday",
+        "options": ["Saturday", "Sunday", "Monday", "Tuesday"],
+        "explanation": "If today is Wednesday, 4 days ago, it was Saturday."
+      },
+      {
+        "question": "If today is Thursday, what day will it be after 2 days?",
+        "answer": "Saturday",
+        "options": ["Monday", "Tuesday", "Friday", "Saturday"],
+        "explanation": "If today is Thursday, after 2 days, it will be Saturday."
+      },
+      {
+        "question": "If today is Friday, what day was it 6 days ago?",
+        "answer": "Saturday",
+        "options": ["Sunday", "Monday", "Tuesday", "Saturday"],
+        "explanation": "If today is Friday, 6 days ago, it was Saturday."
+      },
+      {
+        "question": "If today is Saturday, what day will it be after 5 days?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "If today is Saturday, after 5 days, it will be Thursday."
+      },
+      {
+        "question": "If today is Sunday, what day was it 1 week ago?",
+        "answer": "Sunday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Sunday"],
+        "explanation": "If today is Sunday, 1 week ago, it was also Sunday."
+      },
+      {
+        "question": "If today is Monday, what day will it be after 5 days?",
+        "answer": "Saturday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "If today is Monday, after 5 days, it will be Saturday."
+      },
+      {
+        "question": "If today is Tuesday, what day was it 1 week ago?",
+        "answer": "Tuesday",
+        "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+        "explanation": "If today is Tuesday, 1 week ago, it was also Tuesday."
+      },
+      {
+        "question": "If today is Wednesday, what day will it be after 3 weeks?",
+        "answer": "Wednesday",
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "If today is Wednesday, after 3 weeks, it will still be Wednesday."
+      },
+      {
+        "question": "Is the year 2024 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2024 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2023 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2023 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2020 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2020 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2028 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2028 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2030 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2030 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2032 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2032 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2035 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2035 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2040 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2040 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2044 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2044 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2048 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2048 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2050 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2050 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2052 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2052 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2056 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2056 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2060 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2060 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2064 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2064 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2066 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2066 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2070 a leap year?",
+        "answer": "No",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2070 is not divisible by 4, it is not a leap year."
+      },
+      {
+        "question": "Is the year 2072 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2072 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2076 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2076 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "Is the year 2080 a leap year?",
+        "answer": "Yes",
+        "options": ["Yes", "No"],
+        "explanation": "A leap year is divisible by 4. Since 2080 is divisible by 4, it is a leap year."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1901 to 2000?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1801 to 1900?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1701 to 1800?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1601 to 1700?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1501 to 1600?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1401 to 1500?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1301 to 1400?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1201 to 1300?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1101 to 1200?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 1001 to 1100?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 901 to 1000?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 801 to 900?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 701 to 800?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 601 to 700?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 501 to 600?",
+        "answer": "6",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 6 odd days."
+      },
+      {
+        "question": "How many odd days are there in the century starting from 401 to 500?",
+        "answer": "5",
+        "options": ["4", "5", "6", "7"],
+        "explanation": "The number of odd days in a century can be calculated as (Number of years / 4). In this case, (100/4) = 25 with a remainder of 0, so there are 5 odd days."
+      },
+      {
+        "question": "If today is Friday, what day of the week will it be after 5 days?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Friday, after 5 days, it will be Wednesday."
+      },
+      {
+        "question": "If today is Sunday, what day of the week was it 3 days ago?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Sunday, 3 days ago, it was Thursday."
+      },
+      {
+        "question": "If today is Tuesday, what day of the week will it be after 8 days?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Tuesday, after 8 days, it will be Wednesday."
+      },
+      {
+        "question": "If today is Thursday, what day of the week will it be after 10 days?",
+        "answer": "Saturday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Thursday, after 10 days, it will be Saturday."
+      },
+      {
+        "question": "If today is Monday, what day of the week was it 4 days ago?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Monday, 4 days ago, it was Thursday."
+      },
+      {
+        "question": "If today is Wednesday, what day of the week will it be after 6 days?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Wednesday, after 6 days, it will be Tuesday."
+      },
+      {
+        "question": "If today is Saturday, what day of the week was it 2 days ago?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Saturday, 2 days ago, it was Thursday."
+      },
+      {
+        "question": "If today is Monday, what day of the week will it be after 3 days?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Monday, after 3 days, it will be Thursday."
+      },
+      {
+        "question": "If today is Friday, what day of the week was it 5 days ago?",
+        "answer": "Sunday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Friday, 5 days ago, it was Sunday."
+      },
+      {
+        "question": "If today is Sunday, what day of the week will it be after 7 days?",
+        "answer": "Sunday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "If today is Sunday, after 7 days, it will be Sunday."
+      },
+      {
+        "question": "If 15th August 1947 was Monday, what day of the week was 15th August 1957?",
+        "answer": "Thursday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "We know that there are 10 years between 1947 and 1957. Since 10 years have passed, the day will be 3 days ahead of Monday, which is Thursday."
+      },
+      {
+        "question": "If 1st January 2020 was Wednesday, what day of the week will be 1st January 2025?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 5 years between 2020 and 2025. Since there is no leap year between these years, the same pattern of days will continue. So, 1st January 2025 will also be Wednesday."
+      },
+      {
+        "question": "If 20th April 1999 was Tuesday, what day of the week was 20th April 2009?",
+        "answer": "Monday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 1999 and 2009. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+      },
+      {
+        "question": "If 30th March 2010 was Friday, what day of the week will be 30th March 2025?",
+        "answer": "Monday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 15 years between 2010 and 2025. Since there are 3 complete cycles of 5 years, the day will be 3 days ahead of Friday, which is Monday."
+      },
+      {
+        "question": "If 10th November 2000 was Thursday, what day of the week was 10th November 2010?",
+        "answer": "Wednesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 2000 and 2010. Since 10 years have passed, the day will be 1 day behind Thursday, which is Wednesday."
+      },
+      {
+        "question": "If 5th May 2015 was Tuesday, what day of the week was 5th May 2020?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 5 years between 2015 and 2020. Since there is no leap year between these years, the same pattern of days will continue. So, 5th May 2020 will also be Tuesday."
+      },
+      {
+        "question": "If 25th December 1990 was Tuesday, what day of the week was 25th December 2000?",
+        "answer": "Monday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 1990 and 2000. Since 10 years have passed, the day will be 1 day behind Tuesday, which is Monday."
+      },
+      {
+        "question": "If 8th September 2005 was Thursday, what day of the week was 8th September 2015?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 2005 and 2015. Since 10 years have passed, the day will be 3 days ahead of Thursday, which is Tuesday."
+      },
+      {
+        "question": "If 18th February 2012 was Saturday, what day of the week was 18th February 2022?",
+        "answer": "Friday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 2012 and 2022. Since 10 years have passed, the day will be 1 day behind Saturday, which is Friday."
+      },
+      {
+        "question": "If 12th July 1995 was Wednesday, what day of the week was 12th July 2005?",
+        "answer": "Tuesday",
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "There are 10 years between 1995 and 2005. Since 10 years have passed, the day will be 1 day behind Wednesday, which is Tuesday."
+      }
 ]
