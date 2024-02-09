@@ -482,101 +482,121 @@
       {
         "question": "If February 1, 2023, falls on a Wednesday, what day of the week will February 28, 2023, be?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "February has 28 days in a non-leap year. Since 28 is divisible by 7, the day remains the same as February 1, 2023, which is Wednesday. So, February 28, 2023, will be Tuesday."
       },
       {
         "question": "If April 1, 2024, falls on a Saturday, what day of the week will April 30, 2024, be?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "April has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Saturday gives us Tuesday."
       },
       {
         "question": "If June 1, 2022, falls on a Thursday, what day of the week will June 30, 2022, be?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "June has 30 days. Since 30 is divisible by 7, the day remains the same as June 1, 2022, which is Thursday. So, June 30, 2022, will be Thursday."
       },
       {
         "question": "If September 1, 2023, falls on a Friday, what day of the week will September 30, 2023, be?",
         "answer": "Saturday",
-        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "September has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Friday gives us Saturday."
       },
       {
         "question": "If November 1, 2021, falls on a Monday, what day of the week will November 30, 2021, be?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "November has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Monday gives us Tuesday."
       },
       {
         "question": "If March 1, 2024, falls on a Friday, what day of the week will March 31, 2024, be?",
         "answer": "Sunday",
-        "options": ["Saturday", "Sunday", "Monday", "Tuesday"]
+        "options": ["Saturday", "Sunday", "Monday", "Tuesday"],
+        "explanation": "March has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Sunday."
       },
       {
         "question": "If May 1, 2023, falls on a Monday, what day of the week will May 31, 2023, be?",
         "answer": "Wednesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "May has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Monday gives us Wednesday."
       },
       {
         "question": "If July 1, 2022, falls on a Friday, what day of the week will July 31, 2022, be?",
         "answer": "Sunday",
-        "options": ["Saturday", "Sunday", "Monday", "Tuesday"]
+        "options": ["Saturday", "Sunday", "Monday", "Tuesday"],
+        "explanation": "July has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Sunday."
       },
       {
         "question": "If October 1, 2024, falls on a Tuesday, what day of the week will October 31, 2024, be?",
         "answer": "Thursday",
-        "options": ["Wednesday", "Thursday", "Friday", "Saturday"]
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "October has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Tuesday gives us Thursday."
       },
       {
         "question": "If December 1, 2021, falls on a Wednesday, what day of the week will December 31, 2021, be?",
         "answer": "Friday",
-        "options": ["Thursday", "Friday", "Saturday", "Sunday"]
+        "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "December has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Wednesday gives us Friday."
       },
       {
         "question": "If January 1, 2023, falls on a Sunday, what day of the week will January 31, 2023, be?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "January has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Sunday gives us Tuesday."
       },
       {
         "question": "If March 1, 2024, falls on a Monday, what day of the week will March 31, 2024, be?",
         "answer": "Thursday",
-        "options": ["Wednesday", "Thursday", "Friday", "Saturday"]
+        "options": ["Wednesday", "Thursday", "Friday", "Saturday"],
+        "explanation": "March has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Monday gives us Thursday."
       },
       {
         "question": "If May 1, 2022, falls on a Sunday, what day of the week will May 31, 2022, be?",
         "answer": "Tuesday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "May has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Sunday gives us Tuesday."
       },
       {
         "question": "If July 1, 2023, falls on a Saturday, what day of the week will July 31, 2023, be?",
         "answer": "Monday",
-        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+        "explanation": "July has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Saturday gives us Monday."
       },
       {
         "question": "If August 1, 2024, falls on a Thursday, what day of the week will August 31, 2024, be?",
         "answer": "Saturday",
-        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "August has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Thursday gives us Saturday."
       },
       {
         "question": "If October 1, 2022, falls on a Saturday, what day of the week will October 31, 2022, be?",
         "answer": "Monday",
-        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+        "explanation": "October has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Saturday gives us Monday."
       },
       {
         "question": "If December 1, 2023, falls on a Friday, what day of the week will December 31, 2023, be?",
         "answer": "Monday",
-        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"]
+        "options": ["Sunday", "Monday", "Tuesday", "Wednesday"],
+        "explanation": "December has 31 days. Since 31 is 4 weeks and 3 days, adding 3 days to Friday gives us Monday."
       },
       {
         "question": "If February 1, 2024, falls on a Thursday, what day of the week will February 29, 2024, be?",
         "answer": "Thursday",
-        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+        "explanation": "February has 29 days in a leap year. Since 29 is divisible by 7, the day remains the same as February 1, 2024, which is Thursday. So, February 29, 2024, will be Thursday."
       },
       {
         "question": "If April 1, 2021, falls on a Thursday, what day of the week will April 30, 2021, be?",
         "answer": "Friday",
-        "options": ["Thursday", "Friday", "Saturday", "Sunday"]
+        "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+        "explanation": "April has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Thursday gives us Friday."
       },
       {
         "question": "If June 1, 2023, falls on a Thursday, what day of the week will June 30, 2023, be?",
         "answer": "Saturday",
-        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+        "options": ["Friday", "Saturday", "Sunday", "Monday"],
+        "explanation": "June has 30 days. Since 30 is 4 weeks and 2 days, adding 2 days to Thursday gives us Saturday."
       }
 ]

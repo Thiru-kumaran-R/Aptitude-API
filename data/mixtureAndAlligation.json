@@ -1,655 +1,566 @@
 [
     {
-        "question" : "There are two types of sugar. One is priced at Rs 62 per kg and the other is priced at Rs 72 per kg. If the two types are mixed together, the price of new mixture will be Rs 64.50 per kg. Find the ratio of the two types of sugar in this new mixture.",
-        "answer" : "3:1"
-    },
-    {
-        "question" : "A certain quantity of water is mixed with milk priced at Rs 12 per litre. The price of mixture is Rs 8 per litre. Find out the ratio of water and milk in the new mixture.",
-        "answer" : "1:2"
-    },
-    {
-        "question" : "A drum contains forty liters of whisky. Four liters of whisky is taken out and replaced by soda. This process is carried out twice further. How much whisky is now contained by the container?",
-        "answer" : "29.16 Lt"
-    },
-    {
-        "question" : "Rice of rate Rs. 126 per kg and Rs. 135 per kg and 3rd variety in the ratio 1 : 1 : 2. If the final mixture is worth Rs. 153 per kg, what is the rate of the third variety per kg?",
-        "answer" : "175.5"
-    },
-    {
-        "question" : "A sikanji vendor has two drums of sikanji. The first contains 75% of sikanji. The second contains 50% sikanji. How much sikanji should he mix from each of the drum so as to get twelve litres of sikanji such that the ratio of sikanji to soda is 5 : 3?",
-        "answer" : "6"
-    },
-    {
-        "question" : "There are two drums of vanaspati gee. One of them contains 25% of oil (and rest 75% gee) and the another contains 50% oil (and rest 50% gee). How much vanaspati gee (approx) should one mix from each of the drum so as to get 14 litres of vanaspati gee such that the ratio of gee to oil is 5 : 2?",
-        "answer" : "12 , 2"
-    },
-    {
-        "question" : "Two solutions S1 and S2 contain whisky and soda in the ratio 2 : 5 and 6 : 7 respectively. In what ratio these solutions be mixed to get a new solution S3,  containing whisky and soda in the ratio 5 : 8 ?",
-        "answer" : "7 : 9"
-    },
-    {
-        "question" : "8 liters of wine is replaced by water from a pot full of wine and repeated this two more times. The ratio of the wine:total left in pot is 8 : 27. How much wine was there in the pot originally?",
-        "answer" : "24"
-    },
-    {
-        "question" : "A vessel full of orange juice contains 40% orange pulp. A part of juice is replaced by another juice containing 19% orange pulp and now the percentage of orange pulp is found to be 26%. What quantity of juice is replaced?",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "How many kg of rice, of cost 9 Rs/kg must be mixed with 27 kg of rice of cost 7 Rs/kg get a gain of 10 % by selling the mixture at 9.24 Rs/kg?",
-        "answer" : "63"
-    },
-    {
-        "question" : "In what ratio should a kind of sugar at 8.70 Rs/kg be mixed with another kind of sugar at 9.70 Rs/kg so that the mixture be worth 9 Rs/kg?",
-        "answer" : "7:3"
-    },
-    {
-        "question" : "In what ratio must rice of one kind worth Rs. 50/kg be mixed with another kind of rice of worth Rs. 55/kg such that by selling the mixture at Rs. 57.20/kg, there can be a gain 10%?",
-        "answer" : "3:2"
-    },
-    {
-        "question" : "A drum filled with a mixture of two liquids l1 and l2 in the ratio 5:7. When 9 liters of mixture is taken out and the replaced by l1. Now the ratio of l1 and l2 is 9:7. How many liters of the liquid l1 were there in the drum initially?",
-        "answer" : "15"
-    },
-    {
-        "question" : "In what ratio a vendor should mix rice at Rs.60 per kg with rice at Rs. 68 per kg so that the final rice mixture must be of worth Rs. 63 per kg?",
-        "answer" : "3:1"
-    },
-    {
-        "question" : "A vessel is filled with a solution of, 3 parts soda and 5 parts rum. How much of the solution must be taken out and replaced with soda so that the solution contains equal amount of sod and rum?",
-        "answer" : "1/5"
-    },
-    {
-        "question" : "A grocer wishes to sell a mixture of two variety of pulses worth Rs.16 per kg. In what ratio must he mix the pulses to reach this selling price, when cost of one variety of pulses is Rs.14 per kg and the other is Rs.24 per kg?",
-        "answer" : "4:1"
-    },
-    {
-        "question" : "Cost of two types of pulses is Rs.15 and Rs, 20 per kg, respectively. If both the pulses are mixed together in the ratio 2:3, then what should be the price of mixed variety of pulses per kg?",
-        "answer" : "Rs. 18 per Kg"
-    },
-    {
-        "question" : "A dealer has 1000 kg sugar and he sells a part of it at 8% profit and the rest of it at 18% profit. The overall profit he earns is 14%. What is the quantity which is sold at 18% profit?",
-        "answer" : "60 Kg"
-    },
-    {
-        "question" : "How much coffee of variety A, costing Rs. 5 a kg should be added to 20 kg of Type B coffee at Rs. 12 a kg so that the cost of the two coffee variety mixture be worth Rs. 7 a kg?",
-        "answer" : "50 Kg"
-    },
-    {
-        "question" : "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
-        "answer" : "1/5"
-    },
-    {
-        "question" : "Tea worth Rs. 126 per kg and Rs. 135 per kg are mixed with a third variety in the ratio 1 : 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be:",
-        "answer" : "Rs. 175.50"
-    },
-    {
-        "question" : "A can contains a mixture of two liquids A and B is the ratio 7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
-        "answer" : "21"
-    },
-    {
-        "question" : "A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3 : 5?",
-        "answer" : "6 litres, 6 litres"
-    },
-    {
-        "question" : "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 kg?",
-        "answer" : "7:3"
-    },
-    {
-        "question" : "A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is:",
-        "answer" : "20%"
-    },
-    {
-        "question" : "How many kilogram of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per kg so that there may be a gain of 10% by selling the mixture at Rs. 9.24 per kg?",
-        "answer" : "63 Kg"
-    },
-    {
-        "question" : "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container?",
-        "answer" : "29.16 litres"
-    },
-    {
-        "question" : "A jar full of whisky contains 40% alcohol. A part of this whisky is replaced by another containing 19% alcohol and now the percentage of alcohol was found to be 26%. The quantity of whisky replaced is:",
-        "answer" : "2/3"
-    },
-    {
-        "question" : "In what ratio must water be mixed with milk to gain 16% on selling the mixture at cost price?",
-        "answer" : "1:6"
-    },
-    {
-        "question" : "Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg.",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "In what ratio must a grocer mix two varieties of tea worth Rs. 60 a kg and Rs. 65 a kg so that by selling the mixture at Rs. 68.20 a kg he may gain 10%?",
-        "answer" : "3:2"
-    },
-    {
-        "question" : "The cost of Type 1 rice is Rs. 15 per kg and Type 2 rice is Rs. 20 per kg. If both Type 1 and Type 2 are mixed in the ratio of 2 : 3, then the price per kg of the mixed variety of rice is:",
-        "answer" : "Rs. 18"
-    },
-    {
-        "question" : "8 litres are drawn from a cask full of wine and is then filled with water. This operation is performed three more times. The ratio of the quantity of wine now left in cask to that of water is 16 : 65. How much wine did the cask hold originally?",
-        "answer" : "24 litres"
-    },
-    {
-        "question" : "A merchant has 1000 kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. The quantity sold at 18% profit is:",
-        "answer" : "600 Kg"
-    },
-    {
-        "question" : "A vessel contains a mixture of P and Q in the ratio of 5 : 3. 16 liters of this mixture is taken out and 5 liters of P is poured in. The new mixture has a ratio of P to Q as 11 : 6. Find the total original quantity of mixture.",
-        "answer" : "96 liters"
-    },
-    {
-        "question" : "The ratio of milk and water in a solution is 20 : 7 and after adding 5 liters of water in it the ratio of milk and water becomes 5 : 3, then find the final amount of water in the final solution.",
-        "answer" : "12 litres."
-    },
-    {
-        "question" : "Two vessels of equal capacity contain juice and water in the ratio of 7 : 2 and 11 : 7 respectively. The mixture of both vessels is mixed and transferred into a bigger vessel. What is the ratio of juice and water in the new mixture?",
-        "answer" : "25 : 11"
-    },
-    {
-        "question" : " A butler stole wine from a butt of Rony which contained 40% of spirit and he replaced what he had stolen with wine containing only 16% spirit. The butt was then 24% strength only. How much of the butt did he steal?",
-        "answer" : "2/3"
-    },
-    {
-        "question" : "A shopkeeper mixed low-quality vegetable oil costing Rs. 40 per litre with sunflower refined oil costing Rs. 80 per litre in a ratio of 2 ∶ 3 respectively. If he sold the mixture at Rs. 100 per litre, find his profit percentage.",
-        "answer" : "56.25%"
-    },
-    {
-        "question" : "A bucket contains 64 liters of petrol. 16 liters of petrol is removed and replaced with kerosene. 16 liters of this mixture is removed and replaced with kerosene. How much kerosene (in liters) is present now?",
-        "answer" : "28 liters"
-    },
-    {
-        "question" : "A vessel is full of Petrol. 1/4th of the Petrol is taken out and replaced with kerosene oil. If the process is repeated 3 more times, 81 litres of Petrol is finally left in the vessel. Find the capacity of the vessel.",
-        "answer" : "256 L"
-    },
-    {
-        "question" : " 8L Cold drink was added to a 20L mixture of water and alcohol such that the ratio of alcohol to that of cold drink and water is 1 : 3. Find the amount of alcohol in the solution.",
-        "answer" : "7L of alcohol is present in the mixture."
-    },
-    {
-        "question" : "8 litres are drawn from a cask full of wine and is then filled with water. This operation is performed three more times. The ratio of the quantity of wine now left in cask to that of the water is 16 : 65. How much wine the cask hold originally?",
-        "answer" : "24 litres"
-    },
-    {
-        "question" : "A merchant has 1000 kg of sugar part of which he sells at 8% profit and the rest at 18% profit. He gains 14% on the whole. The Quantity sold at 18% profit is",
-        "answer" : "600 kg"
-    },
-    {
-        "question" : "Tea worth of Rs. 135/kg & Rs. 126/kg are mixed with a third variety in the ratio 1: 1 : 2. If the mixture is worth Rs. 153 per kg, the price of the third variety per kg will be",
-        "answer" : "Rs. 175.50 "
-    },
-    {
-        "question" : "How many kilograms of sugar costing Rs. 9 per kg must be mixed with 27 kg of sugar costing Rs. 7 per Kg so that there may be a gain of 10 % by selling the mixture at Rs. 9.24 per Kg ?",
-        "answer" : "63 Kg"
-    },
-    {
-        "question" : "The cost of Type 1 rice is Rs. 15 per kg and Type 2 rice is Rs.20 per kg. If both Type 1 and Type 2 are mixed in the ratio of 2 : 3, then the price per kg of the mixed variety of rice is",
-        "answer" : "Rs. 18"
-    },
-    {
-        "question" : "A can contains a mixture of two liquids A and B in the ratio  7 : 5. When 9 litres of mixture are drawn off and the can is filled with B, the ratio of A and B becomes 7 : 9. How many litres of liquid A was contained by the can initially?",
-        "answer" : "21"
-    },
-    {
-        "question" : "A mixture of 150 liters of wine and water contains 20% water. How much more water should be added so that water becomes 25% of the new mixture?",
-        "answer" : "10 litres"
-    },
-    {
-        "question" : "A vessel contains 20 liters of a mixture of milk and water in the ratio 3:2. 10 liters of the mixture are removed and replaced with an equal quantity of pure milk. If the process is repeated once more, find the ratio of milk and water in the final mixture obtained ?",
-        "answer" : "9:1 "
-    },
-    {
-        "question" : "Find the ratio in which rice at Rs. 7.20 a kg be mixed with rice at Rs. 5.70 a kg to produce a mixture worth Rs. 6.30 a kg.",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "A container contains 50 litres of milk. From that 8 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container ?",
-        "answer" : "29.63 litres "
-    },
-    {
-        "question" : "The ratio of petrol and kerosene in the container is 3:2 when 10 liters of the mixture is taken out and is replaced by the kerosene, the ratio become 2:3. Then total quantity of the mixture in the container is:",
-        "answer" : "30"
-    },
-    {
-        "question" : "The diluted wine contains only 8 liters of wine and the rest is water. A new mixture whose concentration is 30%, is to be  formed by replacing wine. How many liters of mixture shall be replaced with pure wine if there was initially 32 liters of water in the mixture ?",
-        "answer" : "5"
-    },
-    {
-        "question" : "The ratio of expenditure and savings is 3 : 2 . If the income increases by 15% and the savings increases by 6% , then by how much percent should his expenditure increases?",
-        "answer" : "21"
-    },
-    {
-        "question" : "From a container, 6 liters milk was drawn out and was replaced by water. Again 6 liters of mixture was drawn out and was replaced by the water. Thus the quantity of milk and water in the container after these two operations is 9:16. The quantity of mixture is:",
-        "answer" : "15"
-    },
-    {
-        "question" : "A milk man sells the milk at the cost price but he mixes the water in it and thus he gains 9.09%. The quantity of water in the mixture of 1 liter is :",
-        "answer" : "83.33 ml"
-    },
-    {
-        "question" : "In a mixture of milk and water the proportion of water by weight was 75%. If in 60 gm of mixture 15 gm water was added, what would be the percentage of water ? (Weight in gm)",
-        "answer" : "80%"
-    },
-    {
-        "question" : "A sum of Rs.118 was divided among 50 boys and girls such that each boy received Rs.2.60 and each girl Rs.1.80. Find the number of boys and girls ?",
-        "answer": "15"
-    },
-    {
-        "question" : "A jar was full with honey. A person  used to draw out 20% of the honey from the jar and replaced it with sugar solution. He has repeated  the same process 4 times and thus there was only 512 gm of honey left in the jar, the rest part of the jar was filled with the sugar  solution. The initial amount of honey in the jar was filled with the sugar solution. The initial amount of honey in the jar was:",
-        "answer": "1.25 kg"
-    },
-    {
-        "question" : "From  a container of wine, a thief has stolen 15 liters of wine and replaced it with same quantity of water.He again repeated the same process. Thus in three attempts the ratio of wine and water became 343:169. The  initial amount of wine in the container was:",
-        "answer": "120 liters"
-    },
-    {
-        "question" : "The average weight of boys in a class is 30 kg and the average weight of girls in the same class is 20kg. If the average weight of the whole class is 23.25 kg, what could be the possible strength of boys and girls respectively in the same class?",
-        "answer": "13 and 27"
-    },
-    {
-        "question" : "The ratio of water and alcohol in two different containers is 2:3 and 4:5. In what ratio we are required to mix the mixtures  of two containers in order to get the new mixture in which the ratio of alcohol and water be 7:5?",
-        "answer": "5:3 "
-    },
-    {
-        "question" : "In a pot, there is a mixture of milk and water in the ratio 4 : 5. If it is filled with an additional 8 litres of milk, the pot would be full and ratio of milk and water would become 6 : 5. Find the capacity of the pot ?",
-        "answer": "22 lit"
-    },
-    {
-        "question" : "n the 75 litres of mixture of milk and water, the ratio of milk and water is 4:1. The quantity of water required to make the ratio of milk and water 3:1 is ",
-        "answer": "5 litres"
-    },
-    {
-        "question" : "In a mixture of milk and water, there is only 26% water. After replacing the mixture with 7 liters of pure milk , the percentage of milk in the mixture  become 76%. The quantity of mixture is:",
-        "answer": "91 litres"
-    },
-    {
-        "question" : "A vessel is filled with liquid, 3 parts of which are water and 5 parts of syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
-        "answer": "1/5 "
-    },
-    {
-        "question" : "Equal quantities of three mixtures of milk and water are mixed in the ratio 1:2, 2:3 and 3:4. The ratio of water and milk in the mixture is ?",
-        "answer": "193 : 122"
-    },
-    {
-        "question" : "A mixture of 150 liters of wine and water contains 20% water. How much more water should be added so that water becomes 25% of the new mixture ?",
-        "answer": "10 lit"
-    },
-    {
-        "question" : "From a tank of petrol , which contains 200 liters of petrol, the seller replaces each time with kerosene when he sells 40 liters of petrol(or mixture). Everytime he sells out only 40 liters of petrol (pure or impure). After replacing the petrol with kerosene 4th time, the total amount of kerosene in the mixture is",
-        "answer": "118.08L"
-    },
-    {
-        "question" : " kg of a metal contains 1/5 copper and rest in Zinc. Another 5 kg of metal contains 1/6 copper and rest in Zinc.The ratio of Copper and Zinc  into the mixture of these two metals:",
-        "answer": "49 : 221"
-    },
-    {
-        "question" : "In what ratio should two varieties of sugar at Rs.18 per kg and Rs.24 Kg be mixed together to get a mixture whose cost is Rs.20 per kg ?",
-        "answer" : "2 : 1"
-    },
-    {
-        "question" : "A container contains 40 litres of milk.From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the container.",
-        "answer" : "29.16 litres"
-    },
-    {
-        "question" : "A man travelled a distance of 80 km in 7 hours partly on foot at the rate of 8 km per hour and partly on bicycle at 16 km /hr. Find the distance travelled on foot ?",
-        "answer" : "32 km"
-    },
-    {
-        "question" : "How many liters of oil at Rs.40 per liter should be mixed with 240 liters of a second variety of oil at Rs.60 per liter so as to get a maximum whose cost is Rs.52 per liter ?",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "Milk and water are mixed in a vessel A as 4:1 and in vessel B as 3:2. For vessel C, if one takes equal quantities from A and B, find the ratio of milk to water in C.",
-        "answer" : "7:3"
-    },
-    {
-        "question" : "One type of liquid contains 25 % of benzene, the other contains 30% of benzene. A can is filled with 6 parts of the first liquid and 4 parts of the second liquid. Find the percentage of benzene in the new mixture.",
-        "answer" : "27%"
-    },
-    {
-        "question" : "From the 50 liters of milk, 5 liters of milk is taken out and after it 5 liters of water is added to the rest amount of milk. Again 5 liters of milk and water is drawn out and it was replaced by 5 liters of water. If this process is continued  similarly for the third time, the amount of milk left after the third replacement: ",
-        "answer" : "36.45L"
-    },
-    {
-        "question" : "The amount of water (in ml) that should be added to reduce 9 ml lotion, containing 50% alcohol, to a lotion containing 30% alcohol is ?",
-        "answer" : "6 ml"
-    },
-    {
-        "question" : "The milk and water in two vessels A and B are in the ratio 4:3 and 2:3 respectively. In what ratio the liquids in both the vessels be mixed to obtain a new mixture in vessel c consisting half milk and half water?",
-        "answer" : "7:5"
-    },
-    {
-        "question" : "A milkman claims to sell milk at its cost price, still, he is making a profit of 30% since he has mixed some amount of water in the milk. What is the % of milk in the mixture?",
-        "answer" : "76.92%"
-    },
-    {
-        "question" : "In a 48 ltr mixture, the ratio of milk and water is 5:3. How much water should be added in the mixture so as the ratio will become 3:5 ?",
-        "answer" : "32 lit"
-    },
-    {
-        "question" : "A mixture of 70 litres of Fruit Juice and water contains 10% water. How many litres of water should be added to the mixture so that the mixture contains 12.5% water?",
-        "answer" : "2 lit"
-    },
-    {
-        "question" : "In a 40 litre mixture of alcohol & water, the ratio of alcohol and water is 5 : 3. If 20% of this mixture is taken out and the same amount of water is added then what will be the ratio of alcohol and water in final mixture?",
-        "answer" : "1:1"
-    },
-    {
-        "question" : "How much pepsi at Rs.6 a litre is added to 15 litre of 'dew' at Rs. 10 a litre so that the price of the mixture be Rs.9 a litre?",
-        "answer" : "5"
-    },
-    {
-        "question" : "In what ratio must wheat at Rs. 3.20/kg be mixed with wheat at Rs. 2.90/kg so that the mixture be worth Rs. 3/kg?",
-        "answer" : "2:1"
-    },
-    {
-        "question" : "There are two mixtures of honey and water in which the ratio of honey and water are as 1:3 and 3:1 respectively. Two litres are drawn from first mixture and 3 litres from second mixture, are mixed to form another mixture. What is the ratio of honey and water in it ?",
-        "answer" : "11:9"
-    },
-    {
-        "question" : "A man pays Rs. 6.40 per litre of milk. He adds water and sells the mixture at Rs. 8 per litre, thereby making 37.5% profit. The proportion of water to milk received by the customers is",
-        "answer" : "1:10"
-    },
-    {
-        "question" : "If a man buys 1 lt of milk for Rs.12 and mixes it with 20% water and sells it for Rs.15, then what is the percentage of gain ?",
-        "answer" : "25%"
-    },
-    {
-        "question" : "A tin a mixture of two liquids A and B in the proportion 4 : 1. If 45 litres of the mixture is replaced by 45 litres of liquid B, then the ratio of the two liquids becomes 2 : 5. How much of the liquid B was there in the tin? What quantity does the tin hold?",
-        "answer" : "50 L"
-    },
-    {
-        "question" : "From a tank of petrol, which contains 200 litres of petrol, the seller replaces each time with kerosene when he sells 40 litres of petrol(or its mixture). Everytime he sells out only 40 litres of petrol(pure or impure). After replacing the petrol with kerosen 4th time, the total amount of kerosene in the mixture is ",
-        "answer" : "118.08L"
-    },
-    {
-        "question" : "An alloy contains gold and silver in the ratio 5 : 8 and another alloy contains gold and silver in the ratio 5 : 3. If equal amount of both the alloys are melted together, then the ratio of gold and silver in the resulting alloy is ?",
-        "answer" : "105/103"
-    },
-    {
-        "question" : "From a container of wine, a thief has stolen 15 litres of wine and replaced it with same quantity of water. He again repeated the same process. Thus, in three attempts the ratio of wine and water became 343 : 169. The initial amount of wine in the container was:",
-        "answer" : "120 Litres"
-    },
-    {
-        "question" : "640 ml of a mixture contains milk and water in ratio 6:2. How much of the water is to be added to get a new mixture containing half milk and half water ?",
-        "answer" : "320 ml"
-    },
-    {
-        "question" : "In a mixture, the ratio of juice and water is 4 : 3. By adding 6 litre water the ratio of juice and water will be 8 : 7. What is the amount of juice in the original mixture ?",
-        "answer" : "48 lit"
-    },
-    {
-        "question" : "In what ratio should two varieties of tea at Rs. 60 per kg and Rs.120 per kg be mixed together so that by selling the mixture at Rs.96 per kg, a profit of Rs.20% is obtained ?",
-        "answer" : "2:1"
-    },
-    {
-        "question" : "A jar was full with honey. A person used to draw out 20% of the honey from the jar and replaced it with sugar solution. He has repeated the same process 4 times and thus there was only 512 gm of honey left in the jar, the rest part of the jar was filled with the sugar solution. The initial amount of honey in the jar was:",
-        "answer" : "1.25 Kg"
-    },
-    {
-        "question" : "Two bottles contains mixture of milk and water. First bottle contains 64% milk and second bottle contains 26% water. In what ratio these two mixtures are mixed so that new mixture contains 68% milk?",
-        "answer" : "3 : 2"
-    },
-    {
-        "question" : "Ratio of water and milk in a container is 2 : 3. If 40 liter mixture removed from the container and same quantity of milk is added to it then the ratio of water to milk becomes 1 : 4. Find the initial quantity of mixture ?",
-        "answer" : "80 lit"
-    },
-    {
-        "question" : "An alloy of copper and bronze weight 50g. It contains 80% Copper. How much copper should be added to the alloy so that percentage of copper is increased to 90%?",
-        "answer" : "50 gm"
-    },
-    {
-        "question" : "The concentration of glucose in three different mixtures (glucose and alcohol) is 12,35 and 45 respectively. If 2 litres, 3 litres and 1 litre are taken from these three different vessels and mixed. What is the ratio of glucose and alcohol in the new mixture?",
-        "answer" : "3:2"
-    },
-    {
-        "question" : "A mixture contains 25% milk and rest water. What percent of this mixture must taken out and replaced with milk so that in mixture milk and water may become equal. ",
-        "answer" : "33.33%"
-    },
-    {
-        "question" : "In a mixture of 240 lt. water is 20% and rest is Milk. What quantity of mixture should be taken out and replaced with water so that water becomes 40%?",
-        "answer" : "60 lit"
-    },
-    {
-        "question" : "In a 100 litre of mixture the ratio of milk and water is 6:4. How much milk must be added to the mixture in order to make the ratio 3 : 1?",
-        "answer" : "60"
-    },
-    {
-        "question" : "In what ratio must a merchant mix two varieties of oils worth Rs. 60/kg and Rs. 65/kg, so that by selling the mixture at Rs. 68.20/kg, he may gain 10% ?",
-        "answer" : "3:2"
-    },
-    {
-        "question" : "In what ratio salt costing Rs 13/kg mixed with another salt costing Rs 7/ kg to get a mixture costing Rs 9/kg?",
-        "answer" : "1:2"
-    },
-    {
-        "question" : "7 litres mixture of milk and water contains 30% water. 3.5 litres of milk is added to this mixture. What is the percentage of water in the new mixture?",
-        "answer" : "20"
-    },
-    {
-        "question" : "In an amalgam, mercury and silver are in the ratio of 3 : 7. In the second amalgam, the ratio of same elements is 1 : 9. If equal quantities of these two amalgam are mixed to form a new amalgam, then what will be the ratio of both of these elements in the new amalgam?",
-        "answer" : "1:4"
-    },
-    {
-        "question" : "In a mixture of 35 litres, the ratio of water and acid is 6 : 1. If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new  mixture?",
-        "answer" : "3:1"
-    },
-    {
-        "question" : "A mixture of 240 litres of juice and water contains 15% water. How much more water (in litres) should be added to this so that the strength of water will become 25% in the new mixture?",
-        "answer" : "32"
-    },
-    {
-        "question" : "A natural number, when divided by 5,6,7 or 8,leaves a remainder of 4 in each case. what is the smallest of all such numbers?",
-        "answer" : "844"
-    },
-    {
-        "question" : "Abdul prepared 42 lts of medicine and filled it in bottles of 280 ml each. Find how many bottles would be required?",
-        "answer" : "150"
-    },
-    {
-        "question" : "In what ratio must a mixture of 15% spirit strength be mixed with that of 25% spirit strength to get a mixture of 21% spirit strength?",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "Two water-squash mixtures, the first having a water-to-squash ratio of 4 : 1 and the other having a ratio of 3 : 1, are blended in the ratio 1 : 2. What is the water : squash ratio in the blend?",
-        "answer" : "23:7"
-    },
-    {
-        "question" : "In a mixture of 45 litres, the ratio of liquid A and liquid B is 7 : 2. If 11 litres of liquid B is added to the mixture, then what will be the ratio of liquid A and liquid B in the new mixture?",
-        "answer" : "5:3"
-    },
-    {
-        "question" : "In a mixture 25 liters, the ratio of milk and water is 4:1. How many liters of milk must be added to make the ratio 16:1?",
-        "answer" : "60"
-    },
-    {
-        "question" : "In a bucket, paint and oil are in the ratio 7 : 5. 24 litres of mixture is drawn off and 24 litres of oil is added. If the ratio of paint and oil becomes 1 : 1, then how many litres of paint was contained in the bucket initially?",
-        "answer" : "98"
-    },
-    {
-        "question" : "In what ratio rice costing Rs 14/kg mixed with another rice costing Rs 11/kg to get the mixture costing Rs 11.6/kg?",
-        "answer" : "1:5"
-    },
-    {
-        "question" : "In what ratio wheat costing Rs 17/kg mixed with another wheat costing Rs 12/kg to get a mixture costing Rs 13.5/ kg?",
-        "answer" : "3:7"
-    },
-    {
-        "question" : "A mixture contains liquid A and liquid B in the ratio of 5 : 4. If 2 litres of liquid B is added to it, then the ratio of liquid A and liquid B becomes 7 : 6. What is the quantity (in litres) of liquid A in the mixture?",
-        "answer" : "35"
-    },
-    {
-        "question" : "The ratio of spirit and water in the two vessels is 5 : 1 and 3 : 7 respectively. In what ratio the liquid of both the vessels should be mixed such that a new mixture containing half spirit and half water is obtained?",
-        "answer" : "3:5"
-    },
-    {
-        "question" : "Vipin adds 3 litres of liquid A in 6 litres of liquid B and Mohit adds 8 litres of liquid A in 15 litres of liquid B. What is the ratio of the percentage of liquid B in the two mixtures?",
-        "answer" : "46:45"
-    },
-    {
-        "question" : "In a mixture of 165 litres, the ratio of liquids X and Y is 6 : 5. If 5 litres of liquid Y is added in the mixture, then what is the ratio of X and Y in the new mixture?",
-        "answer" : "9:8"
-    },
-    {
-        "question" : "In what ratio must a mixture of 11% sugar strength be mixed with that of 25% sugar strength so as to get a new mixture of 13% sugar strength?",
-        "answer" : "6:1"
-    },
-    {
-        "question" : "Two water squash mixtures, the first with a water-to-squash ratio of 5:1 and the letter with a ratio of 3:1 are blended in the ratio 3:2. What is the final water : squash ratio in the blend?",
-        "answer" : "4:1"
-    },
-    {
-        "question" : "The ratio of sand to gravel in a mixture is 17 : 9 while that between gravel and cement is 6 : 17. What is the ratio of sand to cement in the mixture?",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "Two vessels of equal volume contain milk and water in the ratio 1:3 and 2:1. If they are mixed together, what is the new ratio?",
-        "answer" : "11:13"
-    },
-    {
-        "question" : "35% of an alloy was silver. If in the quantity of alloy there was 119 g of silver, what was the quantity of the elements in the alloy?",
-        "answer" : "221g"
-    },
-    {
-        "question" : "Rahul adds 2 litres of alcohol in 6 litres of water and Dinesh adds 1 litres of alcohol in 9 litres of water. What is the ratio of the percentage of alcohol in the two mixtures?",
-        "answer" : "5:2"
-    },
-    {
-        "question" : "In a mixture, ink and water are in the ratio of 8 : 5. If 24 litres of water is added to the mixture, then the new ratio becomes 8 : 11. What is the total quantity (in litres) of water in the new mixture?",
-        "answer" : "44"
-    },
-    {
-        "question" : "A mixture contains acid and water in the ratio of 7 : 3. If 4 litres of water is added to it, then the ratio of acid and water becomes 7 : 4. What is the quantity (in litres) of acid in the mixture?",
-        "answer" : "28"
-    },
-    {
-        "question" : "A mixture of alcohol and water contains 7% alcohol. How much mixture (in litres) is required to get 357 litres of alcohol?",
-        "answer" : "5100"
-    },
-    {
-        "question" : "25 litres of a mixture contains 30% of spirit and rest water. If 5 litres of water be mixed in it, the percentage of spirit in the new mixture is",
-        "answer" : "25%"
-    },
-    {
-        "question" : "Two vessels of equal capacity contains juice and water in the ratio of 5 : 1 and 5 : 7 respectively. The mixture of both the vessels are mixed and transferred into a bigger vessel. What is the ratio of juice and water in the new mixture?",
-        "answer" : "5:3"
-    },
-    {
-        "question" : "A shop keeper purchased 15 kg of sugar and 20 kg of wheat at Rs. 50 and Rs. 75 per kg respectively. On selling them, he gained 10% on sugar and 20% on wheat. What was the total sale vale?",
-        "answer" : "Rs. 2625"
-    },
-    {
-        "question" : "Ramesh uses a weight of 930 gm instead of 1 kg and sells sugar on its cost price. What will be his profit percentage on selling 15 kg sugar?",
-        "answer" : "7.53"
-    },
-    {
-        "question" : "In a mixture, sugar and milk are in the ratio 4 : 5. If 7 litres of milk is added to it, then the ratio of sugar and milk in the new mixture becomes 2 : 3. What is the total quantity (In litres) of sugar in new mixture?",
-        "answer" : "28"
-    },
-    {
-        "question" : "The initial ratio of sugar to flour in a dough was 2 : 7. To 9 kg of the dough John added more sugar to make the sugar to flour ratio 2 : 5. How much sugar did John later add?",
-        "answer" : "1.2 kg"
-    },
-    {
-        "question" : "The alcohol and water in a mixture are in the ratio of 7 : 8 respectively. If 11 litre water is added to it, then the ratio of alcohol and water in the new mixture becomes 3 : 5. What is the total quantity (in litres) of the alcohol in the new mixture?",
-        "answer" : "21"
-    },
-    {
-        "question" : "A mixture of 50 kg of cement and gravel contains 10% of gravel. How many kg of gravel must be added to make the gravel content 28% in the new mixture?",
-        "answer" : "12.5"
-    },
-    {
-        "question" : "Two mixtures have milk and water in the ratio 1 : 4 and 3 : 2 respectively. In what ratio two types of mixtures have to be mixed to get a new mixture having ratio of milk and water as 1 : 1?",
-        "answer" : "1:3"
-    },
-    {
-        "question" : "Wheat costing Rs 30/kg, Rs 35/kg and a third variety of wheat are mixed in the ratio of 3 : 4 : 2. If the mixture is costs Rs 34/kg, then what will be the cost (in Rs/kg) of the third variety of wheat?",
-        "answer" : "38"
-    },
-    {
-        "question" : "X and Y are two alloys which are prepared by mixing zinc and aluminium in the ratio of 1 : 4 and 11 : 8 respectively. If equal quantities of alloys are melted to form a third alloy Z then what is the ratio of zinc and aluminium in alloy Z?",
-        "answer" : "37:58"
-    },
-    {
-        "question" : "In an alloy, aluminium and tin are in the ratio of 4 : 5. In the second alloy, the ratio of same elements is 4 : 7. If equal quantities of these two alloys be mixed to form a new alloy, then what will be the ratio of both of these elements in the new alloy?",
-        "answer" : "40 :59"
-    },
-    {
-        "question" : "A mixture contains spirit and water in the ratio of 3 : 2. If it contains 3 litres more spirit than water, the quantity of spirit in the mixture is",
-        "answer" : "9 litres"
-    },
-    {
-        "question" : "In an alloy of German silver. the ratio of copper to zinc was 21 : 16 while that of nickel to zinc was 7 : 24. What was the ratio of copper to zinc to nickel in the alloy?",
-        "answer" : "63 : 48 : 14"
-    },
-    {
-        "question" : "An 80 litre mixture of water and acid contains 20% acid. How much acid should be added to make the acid 60% in the new mixture?",
-        "answer" : "80"
-    },
-    {
-        "question" : "In a mixture of 25 litres, the ratio of milk to water is 4:1. Another 3 litres of water is added to the mixture. The ratio of milk to water in the new mixture is",
-        "answer" : "5:2"
-    },
-    {
-        "question" : "In a mixture, water and milk are in the ratio of 3 : 5. In the second mixture, the ratio of water and milk is 9 : 11. If these two mixtures be mixed to form anew mixture in which water and milk are in ratio 5 : 7, then what is the ratio of these two mixtures in the new mixture?",
-        "answer" : "4:5"
-    },
-    {
-        "question" : "5 litres of honey contains 80% sugar. 3 litres of water is added to this honey. What is the percentage of sugar in the new mixture?",
-        "answer" : "50"
-    },
-    {
-        "question" : "The ratio of sand to gravel in a mixture is 17:8 while that between gravel and cement is 6:17. What is the ratio of sand to cement in the mixture?",
-        "answer" : "3:4"
-    },
-    {
-        "question" : "In a container, two types of liquids P and Q are in the ratio of 3 : 7. If 10 litres mixture is drawn off from the container and filled with 6 litres of liquid Q,then the ratio of P and Q becomes 1 : 3. What was the original quantity (in litres) of mixture?",
-        "answer" : "40"
-    },
-    {
-        "question" : "In what ratio should tea costing Rs 300/kg be mixed with tea costing Rs 200/kg so that the cost of the mixture is Rs 225/kg?",
-        "answer" : "1:3"
-    },
-    {
-        "question" : "A jar contains a blend of a fruit juice and water in the ratio 5 : x. When 1 litre of water is added to 4 litres of the blend the ratio of fruit juice to water becomes 1 : 1. What is the value of x?",
-        "answer" : "3"
-    },
-    {
-        "question" : "In a mixture, unbroken and broken rice grains are in the ratio 3 : 2. How much fraction of the mixture must be drawn off and substituted with broken grains, so that the ratio of unbroken and broken grains becomes 1 : 1?",
-        "answer" : "1/6"
-    },
-    {
-        "question" : "50 litre mixture of water and alcohol contains 10% alcohol. How much more alcohol must be added to make the strength of alcohol 40% in the new mixture?",
-        "answer" : "25"
-    },
-    {
-        "question" : "20 kg of a mixture of wheat and husk contains 5% husk. How many kg more of husk must be added to make the husk content 20% in the new mixture?",
-        "answer" : "3.75"
-    },
-    {
-        "question" : "The ratio of sand to gravel in a mixture is 7 : 8 while that between gravel and cement is 6 : 7. What is the ratio of sand to cement in the mixture?",
-        "answer" : "3:4"
-    },
-    {
-        "question" : "In a mixture of milk and water, there is 19% milk. If the quantity of milk in the mixture is 437 mililitres, then what is the total quantity (in millilitres) of mixture?",
-        "answer" : "2300"
-    },
-    {
-        "question" : "An alloy contains copper and tin in the ratio 3 : 2. If 250 gm of copper is added to this alloy then the copper in it becomes double the quantity of tin in it. What is the amount (in gm) of tin in the alloy?",
-        "answer" : "500"
-    },
-    {
-        "question" : "In two types of brass, the ratios of Copper to Zinc are 8:3 and 15:7 respectively. If the two types of brass be melted and mixed in the ratio 5:2 a new type of brass is obtained. The ratio of Copper to Zinc in this new type of brass is",
-        "answer" : "5:2"
-    },
-    {
-        "question" : "The milk and water in two vessels are in the ratio of 3 : 1 and 7 : 11 respectively. In what ratio should the liquid in both the vessels be mixed to obtaina new mixture containing half milk and half water?",
-        "answer" : "4:9"
-    },
-    {
-        "question" : "A milk merchant buys 50 litres of milk at the rate of Rs 40 per litre and mixes 5 litres of water in it. If he sells this mixture at the rate of Rs 42 per litre, then what is the profit percentage for the dealer?",
-        "answer" : "15.5"
-    }
-
+        "question": "In a 20-liter mixture of milk and water, the ratio of milk to water is 3:2. How many liters of water must be added to the mixture to make the ratio 3:4?",
+        "options": [" 2 liters", " 4 liters", " 6 liters", " 8 liters"],
+        "answer": " 6 liters",
+        "explanation": "The initial mixture contains 12 liters of milk and 8 liters of water. To make the ratio 3:4, we need to add 6 liters of water. So, the total amount of water in the new mixture will be 14 liters."
+      },
+      {
+        "question": "A container contains a mixture of milk and water in the ratio 5:3. If 20 liters of mixture is removed and replaced with 20 liters of water, what will be the final ratio of milk to water?",
+        "options": [" 5:3", " 5:4", " 2:3", " 3:5"],
+        "answer": " 3:5",
+        "explanation": "After removing 20 liters of the mixture, the remaining mixture will still have the same ratio of milk to water, which is 5:3. When 20 liters of water is added, the total amount of water becomes 20 liters more than before, hence the ratio becomes 3:5."
+      },
+      {
+        "question": "In a 40-liter solution of acid and water, the ratio of acid to water is 2:3. How many liters of water should be added to make the ratio 1:2?",
+        "options": [" 20 liters", " 25 liters", " 30 liters", " 35 liters"],
+        "answer": " 25 liters",
+        "explanation": "Initially, the solution contains 16 liters of acid and 24 liters of water. To make the ratio 1:2, there should be double the amount of water compared to acid. So, we need to add 25 liters of water."
+      },
+      {
+        "question": "A 15-liter mixture contains alcohol and water in the ratio 2:3. How much water should be added to make the ratio 1:2?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the mixture contains 6 liters of alcohol and 9 liters of water. To make the ratio 1:2, we need to add 10 liters of water to have a total of 19 liters of water in the mixture."
+      },
+      {
+        "question": "A container has 60 liters of milk. From this container, 6 liters of milk is taken out and replaced with water. This process is repeated once more. What will be the final quantity of milk in the container if the ratio of milk to water is 4:1?",
+        "options": [" 36 liters", " 39 liters", " 42 liters", " 45 liters"],
+        "answer": " 42 liters",
+        "explanation": "After the first replacement, there will be 54 liters of milk in the container. After the second replacement, there will be 48 liters of milk. Since the ratio of milk to water is 4:1, the total volume of liquid in the container will be 42 liters."
+      },
+      {
+        "question": "A mixture of 70 liters of milk and water contains 10% water. How much water should be added to make the percentage of water 20% in the mixture?",
+        "options": [" 5 liters", " 7 liters", " 10 liters", " 14 liters"],
+        "answer": " 7 liters",
+        "explanation": "Initially, the mixture contains 63 liters of milk and 7 liters of water. To make the percentage of water 20%, we need to add 7 liters more of water to have a total of 14 liters of water."
+      },
+      {
+        "question": "A mixture contains milk and water in the ratio 4:3. If 6 liters of milk is added to the mixture, the ratio becomes 2:1. What was the initial quantity of the mixture?",
+        "options": [" 12 liters", " 18 liters", " 24 liters", " 36 liters"],
+        "answer": " 24 liters",
+        "explanation": "Let the initial quantity of the mixture be x liters. After adding 6 liters of milk, the quantity of milk becomes (4x/7 + 6) liters, and the ratio becomes (4x/7 + 6)/(3x/7) = 2/1. Solving this equation gives x = 24."
+      },
+      {
+        "question": "A 30-liter solution contains milk and water in the ratio 5:2. How many liters of milk should be added to make the ratio 2:1?",
+        "options": [" 10 liters", " 12 liters", " 15 liters", " 18 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the solution contains 25 liters of milk and 10 liters of water. To make the ratio 2:1, there should be double the amount of milk compared to water. So, we need to add 15 liters of milk."
+      },
+      {
+        "question": "A container has 40 liters of liquid, in which the ratio of milk to water is 3:2. If 8 liters of mixture is removed and replaced with 8 liters of water, what will be the final ratio of milk to water?",
+        "options": [" 3:2", " 2:3", " 5:3", " 3:5"],
+        "answer": " 2:3",
+        "explanation": "After removing 8 liters of the mixture, there will be 24 liters of milk and 16 liters of water. When 8 liters of water is added, the total amount of water becomes 24 liters, hence the ratio becomes 2:3."
+      },
+      {
+        "question": "A mixture contains alcohol and water in the ratio 5:4. If 6 liters of alcohol is added to the mixture, the ratio becomes 2:1. What was the initial quantity of the mixture?",
+        "options": [" 18 liters", " 24 liters", " 30 liters", " 36 liters"],
+        "answer": " 24 liters",
+        "explanation": "Let the initial quantity of the mixture be x liters. After adding 6 liters of alcohol, the quantity of alcohol becomes (5x/9 + 6) liters, and the ratio becomes (5x/9 + 6)/(4x/9) = 2/1. Solving this equation gives x = 24."
+      },
+      {
+        "question": "A container has 40 liters of a solution containing milk and water in the ratio of 3:1. How much of the mixture must be taken out and replaced with water so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 15 liters",
+        "explanation": "Let's assume x liters of the mixture is taken out and replaced with water. After this operation, the ratio of milk to water remains the same. So, the amount of milk in the remaining solution is (3/4)*(40-x) liters. For the resulting mixture to have equal parts of milk and water, (3/4)*(40-x) should be equal to (1/2)*(40-x). Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 30-liter mixture of milk and water contains 20% water. How many liters of water must be added to make the water content 25%?",
+        "options": [" 2 liters", " 3 liters", " 4 liters", " 5 liters"],
+        "answer": " 4 liters",
+        "explanation": "Initially, the mixture contains 6 liters of water. Let's assume x liters of water is added. According to alligation, the ratio of milk to water is (20 - 25) : (25 - 0) = 5 : 25 = 1 : 5. So, 1 part of milk is equivalent to 5 parts of water in the new mixture. Since the amount of milk remains the same, the amount of water should be 5 times the amount of milk. Hence, 6 + 5x = 25% of the new mixture, which implies x = 4 liters."
+      },
+      {
+        "question": "In a 36-liter mixture of milk and water, the ratio of milk to water is 5:1. How much of the mixture must be taken out and replaced with milk so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 4 liters", " 6 liters", " 8 liters", " 10 liters"],
+        "answer": " 6 liters",
+        "explanation": "Initially, the mixture contains 30 liters of milk and 6 liters of water. Let's assume x liters of the mixture is taken out and replaced with milk. The ratio of milk to water after this operation is (30 - x) : (6 - x). According to alligation, the ratio of milk to water should be 1 : 1 for equal parts. So, (30 - x) / (6 - x) = 1. Solving this equation gives x = 6 liters."
+      },
+      {
+        "question": "A 20-liter mixture of milk and water contains milk and water in the ratio 3:1. How many liters of the mixture must be replaced with milk to make the ratio 2:1?",
+        "options": [" 2 liters", " 4 liters", " 6 liters", " 8 liters"],
+        "answer": " 6 liters",
+        "explanation": "Initially, the mixture contains 15 liters of milk and 5 liters of water. Let's assume x liters of the mixture is replaced with milk. After replacement, the amount of milk becomes (15 - x) and the total mixture remains 20 liters. According to alligation, the ratio of milk to water should be 2 : 1. So, (15 - x) / 5 = 2 / 1. Solving this equation gives x = 6 liters."
+      },
+      {
+        "question": "A 40-liter mixture of milk and water contains milk and water in the ratio 5:3. How much of the mixture must be replaced with water so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 25 liters of milk and 15 liters of water. Let's assume x liters of the mixture is replaced with water. After replacement, the amount of milk remains 25 liters, and the total mixture remains 40 liters. According to alligation, the ratio of milk to water should be 1 : 1. So, 25 / (15 + x) = 1 / 1. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 60-liter mixture of milk and water contains milk and water in the ratio 3:2. How much of the mixture must be replaced with milk so that the resulting mixture has milk and water in the ratio 4:3?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 36 liters of milk and 24 liters of water. Let's assume x liters of the mixture is replaced with milk. After replacement, the total mixture remains 60 liters. According to alligation, the ratio of milk to water should be 4 : 3. So, (36 + x) / (24 - x) = 4 / 3. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 50-liter mixture of milk and water contains milk and water in the ratio 4:1. How much of the mixture must be replaced with water so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 40 liters of milk and 10 liters of water. Let's assume x liters of the mixture is replaced with water. After replacement, the amount of milk remains 40 liters, and the total mixture remains 50 liters. According to alligation, the ratio of milk to water should be 1 : 1. So, 40 / (10 + x) = 1 / 1. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 25-liter mixture of milk and water contains milk and water in the ratio 3:2. How much of the mixture must be replaced with milk so that the resulting mixture has milk and water in the ratio 2:1?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 15 liters of milk and 10 liters of water. Let's assume x liters of the mixture is replaced with milk. After replacement, the total mixture remains 25 liters. According to alligation, the ratio of milk to water should be 2 : 1. So, (15 + x) / 10 = 2 / 1. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 30-liter mixture of milk and water contains milk and water in the ratio 3:1. How much of the mixture must be replaced with water so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 22.5 liters of milk and 7.5 liters of water. Let's assume x liters of the mixture is replaced with water. After replacement, the amount of milk remains 22.5 liters, and the total mixture remains 30 liters. According to alligation, the ratio of milk to water should be 1 : 1. So, 22.5 / (7.5 + x) = 1 / 1. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 60-liter mixture of milk and water contains milk and water in the ratio 3:2. How much of the mixture must be replaced with water so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 15 liters", " 20 liters", " 25 liters", " 30 liters"],
+        "answer": " 25 liters",
+        "explanation": "Initially, the mixture contains 36 liters of milk and 24 liters of water. Let's assume x liters of the mixture is replaced with water. After replacement, the amount of milk remains 36 liters, and the total mixture remains 60 liters. According to alligation, the ratio of milk to water should be 1 : 1. So, 36 / (24 + x) = 1 / 1. Solving this equation gives x = 25 liters."
+      },
+      {
+        "question": "A solution contains 20% salt. If 10 liters of water is added to 40 liters of the solution, what is the percentage of salt in the new solution?",
+        "options": [" 10%", " 12%", " 15%", " 18%"],
+        "answer": " 15%",
+        "explanation": "Initially, the solution contains 8 liters of salt and 32 liters of water. After adding 10 liters of water, the total volume becomes 50 liters, and the amount of salt remains 8 liters. So, the percentage of salt in the new solution is (8/50)*100% = 16%."
+      },
+      {
+        "question": "A solution contains 25% acid. How many liters of pure acid should be added to 20 liters of the solution to make it 40% acid?",
+        "options": [" 8 liters", " 10 liters", " 12 liters", " 15 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 5 liters of acid and 15 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 20 + x liters, and the amount of acid becomes 5 + x liters. According to the given condition, (5 + x) / (20 + x) = 40/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A mixture contains alcohol and water in the ratio 3:2. If 5 liters of water is added to the mixture, what will be the new ratio of alcohol to water?",
+        "options": [" 2:3", " 3:2", " 4:3", " 3:4"],
+        "answer": " 2:3",
+        "explanation": "Initially, let the mixture contain 3x liters of alcohol and 2x liters of water. After adding 5 liters of water, the new mixture contains 3x liters of alcohol and (2x + 5) liters of water. So, the new ratio of alcohol to water is 3x : (2x + 5) = 3 : (2 + 5/2x). As the quantity of water added is constant, the new ratio will be inversely proportional to the quantity of alcohol, giving a ratio of 2:3."
+      },
+      {
+        "question": "A 40-liter mixture of milk and water contains milk and water in the ratio 3:1. How much of the mixture must be taken out and replaced with milk so that the resulting mixture has equal parts of milk and water?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the mixture contains 30 liters of milk and 10 liters of water. Let x liters of the mixture be replaced with milk. After replacement, the total mixture remains 40 liters. According to alligation, the ratio of milk to water should be 1 : 1 for equal parts. So, (30 - x) / (10 + x) = 1. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A 30-liter solution contains milk and water in the ratio 7:3. How much water must be added to make the ratio 7:5?",
+        "options": [" 6 liters", " 8 liters", " 10 liters", " 12 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 21 liters of milk and 9 liters of water. To make the ratio 7:5, the amount of milk remains the same while the amount of water should be 5/7 times the amount of milk. So, 21*(5/7) = 15 liters of water should be added."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 40% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 7.5 liters",
+        "explanation": "Initially, the solution contains 2 liters of alcohol and 8 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 2 + x liters. According to the given condition, (2 + x) / (10 + x) = 40/100. Solving this equation gives x = 7.5 liters."
+      },
+      {
+        "question": "A 50-liter mixture contains alcohol and water in the ratio 3:2. How many liters of water must be added to make the ratio 2:3?",
+        "options": [" 10 liters", " 12.5 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the mixture contains 30 liters of alcohol and 20 liters of water. To make the ratio 2:3, the amount of alcohol remains the same while the amount of water should be 3/2 times the amount of alcohol. So, 30*(3/2) = 45 liters of water should be added."
+      },
+      {
+        "question": "A solution contains 40% alcohol. How many liters of pure alcohol must be added to 15 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 9 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 60/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 30% acid. How many liters of pure acid should be added to 20 liters of the solution to make it a 50% acid solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 6 liters of acid and 14 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 20 + x liters, and the amount of acid becomes 6 + x liters. According to the given condition, (6 + x) / (20 + x) = 50/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A 40-liter solution contains alcohol and water in the ratio 4:1. How many liters of alcohol must be added to make the ratio 3:1?",
+        "options": [" 4 liters", " 8 liters", " 12 liters", " 16 liters"],
+        "answer": " 8 liters",
+        "explanation": "Initially, the solution contains 32 liters of alcohol and 8 liters of water. To make the ratio 3:1, the amount of water remains the same while the amount of alcohol should be 3 times the amount of water. So, 8*(3/1) = 24 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 2 liters of alcohol and 8 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 2 + x liters. According to the given condition, (2 + x) / (10 + x) = 50/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 40% acid. How many liters of pure acid should be added to 15 liters of the solution to make it a 60% acid solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of acid and 9 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 15 + x liters, and the amount of acid becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 60/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 5 liters of alcohol and 15 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 5 + x liters. According to the given condition, (5 + x) / (20 + x) = 50/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 30% acid. How many liters of pure acid should be added to 10 liters of the solution to make it a 60% acid solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 3 liters of acid and 7 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 10 + x liters, and the amount of acid becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 60/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 20% acid. How many liters of pure acid should be added to 15 liters of the solution to make it a 40% acid solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 3 liters of acid and 12 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 15 + x liters, and the amount of acid becomes 3 + x liters. According to the given condition, (3 + x) / (15 + x) = 40/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A 30-liter solution contains milk and water in the ratio 2:3. How much water must be added to make the ratio 1:2?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 12 liters of milk and 18 liters of water. To make the ratio 1:2, the amount of milk remains the same while the amount of water should be double the amount of milk. So, 12*(2/1) = 24 liters of water should be added."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 14 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (20 + x) = 60/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 40% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 70% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 9 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 70/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A container has 20 liters of a solution containing milk and water in the ratio 4:1. How many liters of milk should be added to make the ratio 3:1?",
+        "options": [" 5 liters", " 8 liters", " 10 liters", " 12 liters"],
+        "answer": " 8 liters",
+        "explanation": "Initially, the container contains 16 liters of milk and 4 liters of water. To make the ratio 3:1, the amount of milk should be 3 times the amount of water. So, 4*(3/1) = 12 liters of milk should be added."
+      },
+      {
+        "question": "A mixture of 30 liters contains alcohol and water in the ratio 2:3. How many liters of water must be added to make the ratio 2:5?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the mixture contains 12 liters of alcohol and 18 liters of water. To make the ratio 2:5, the amount of alcohol remains the same while the amount of water should be 5/2 times the amount of alcohol. So, 12*(5/2) = 30 liters of water should be added."
+      },
+      {
+        "question": "A solution contains 25% salt. How many liters of pure water should be added to 20 liters of the solution to make it a 20% salt solution?",
+        "options": [" 5 liters", " 8 liters", " 10 liters", " 12 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 5 liters of salt and 15 liters of water. Let x be the amount of pure water added. After adding x liters of pure water, the total volume becomes 20 + x liters, and the amount of salt remains 5 liters. According to the given condition, (5 / (20 + x)) * 100 = 20%. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A container has 60 liters of a mixture of milk and water in the ratio 3:2. How many liters of milk should be added to make the ratio 2:1?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the container contains 36 liters of milk and 24 liters of water. To make the ratio 2:1, the amount of water remains the same while the amount of milk should be double the amount of water. So, 24*(2/1) = 48 liters of milk should be added."
+      },
+      {
+        "question": "A 30-liter mixture contains alcohol and water in the ratio 2:3. How many liters of alcohol should be added to make the ratio 3:2?",
+        "options": [" 5 liters", " 8 liters", " 10 liters", " 12 liters"],
+        "answer": " 8 liters",
+        "explanation": "Initially, the mixture contains 12 liters of alcohol and 18 liters of water. To make the ratio 3:2, the amount of water remains the same while the amount of alcohol should be 3/2 times the amount of water. So, 18*(3/2) = 27 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 3 liters of alcohol and 7 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 50/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 40% acid. How many liters of pure acid should be added to 15 liters of the solution to make it a 60% acid solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of acid and 9 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 15 + x liters, and the amount of acid becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 60/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 20% acid. How many liters of pure acid should be added to 20 liters of the solution to make it a 50% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 4 liters of acid and 16 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 20 + x liters, and the amount of acid becomes 4 + x liters. According to the given condition, (4 + x) / (20 + x) = 50/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 30% acid. How many liters of pure acid should be added to 10 liters of the solution to make it a 70% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 3 liters of acid and 7 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 10 + x liters, and the amount of acid becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 70/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A container has 40 liters of a mixture containing milk and water in the ratio 3:2. How many liters of milk should be added to make the ratio 3:1?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the container contains 24 liters of milk and 16 liters of water. To make the ratio 3:1, the amount of water should be tripled while keeping the amount of milk constant. So, 16*(3/1) = 48 liters of milk should be added."
+      },
+      {
+        "question": "A 20-liter mixture contains alcohol and water in the ratio 3:2. How many liters of alcohol should be added to make the ratio 4:3?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 7.5 liters",
+        "explanation": "Initially, the mixture contains 12 liters of alcohol and 8 liters of water. To make the ratio 4:3, the amount of water remains the same while the amount of alcohol should be 4/3 times the amount of water. So, 8*(4/3) = 32/3 ≈ 10.67 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 5 liters of alcohol and 15 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 5 + x liters. According to the given condition, (5 + x) / (20 + x) = 50/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 30% acid. How many liters of pure acid should be added to 10 liters of the solution to make it a 60% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 3 liters of acid and 7 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 10 + x liters, and the amount of acid becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 60/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 20% acid. How many liters of pure acid should be added to 20 liters of the solution to make it a 40% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 4 liters of acid and 16 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 20 + x liters, and the amount of acid becomes 4 + x liters. According to the given condition, (4 + x) / (20 + x) = 40/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 40% acid. How many liters of pure acid should be added to 15 liters of the solution to make it a 70% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 6 liters of acid and 9 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 15 + x liters, and the amount of acid becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 70/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A container has 40 liters of a mixture containing milk and water in the ratio 3:2. How many liters of milk should be added to make the ratio 2:1?",
+        "options": [" 10 liters", " 15 liters", " 20 liters", " 25 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the container contains 24 liters of milk and 16 liters of water. To make the ratio 2:1, the amount of water should be double the amount of milk. So, 24*(2/1) = 48 liters of milk should be added."
+      },
+      {
+        "question": "A 20-liter mixture contains alcohol and water in the ratio 3:2. How many liters of alcohol should be added to make the ratio 4:3?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 7.5 liters",
+        "explanation": "Initially, the mixture contains 12 liters of alcohol and 8 liters of water. To make the ratio 4:3, the amount of water remains the same while the amount of alcohol should be 4/3 times the amount of water. So, 8*(4/3) = 32/3 ≈ 10.67 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 5 liters of alcohol and 15 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 5 + x liters. According to the given condition, (5 + x) / (20 + x) = 50/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 30% acid. How many liters of pure acid should be added to 10 liters of the solution to make it a 60% acid solution?",
+        "options": [" 5 liters", "10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 3 liters of acid and 7 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 10 + x liters, and the amount of acid becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 60/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 20% acid. How many liters of pure acid should be added to 20 liters of the solution to make it a 40% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 4 liters of acid and 16 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 20 + x liters, and the amount of acid becomes 4 + x liters. According to the given condition, (4 + x) / (20 + x) = 40/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 40% acid. How many liters of pure acid should be added to 15 liters of the solution to make it a 70% acid solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 6 liters of acid and 9 liters of water. Let x be the amount of pure acid added. After adding x liters of pure acid, the total volume becomes 15 + x liters, and the amount of acid becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 70/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains alcohol and water in the ratio 2:3. How many liters of water must be added to make the ratio 1:2?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 2 parts of alcohol and 3 parts of water. To make the ratio 1:2, the amount of alcohol remains the same while the amount of water should be double the amount of alcohol. So, 3*(2/1) = 6 parts of water should be added."
+      },
+      {
+        "question": "A 40-liter solution contains alcohol and water in the ratio 4:1. How many liters of alcohol must be added to make the ratio 3:1?",
+        "options": [" 4 liters", " 8 liters", " 12 liters", " 16 liters"],
+        "answer": " 8 liters",
+        "explanation": "Initially, the solution contains 32 liters of alcohol and 8 liters of water. To make the ratio 3:1, the amount of water remains the same while the amount of alcohol should be 3 times the amount of water. So, 8*(3/1) = 24 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 2 liters of alcohol and 8 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 2 + x liters. According to the given condition, (2 + x) / (10 + x) = 50/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 40% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 9 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 60/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 5 liters of alcohol and 15 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 5 + x liters. According to the given condition, (5 + x) / (20 + x) = 50/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 3 liters of alcohol and 7 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 3 + x liters. According to the given condition, (3 + x) / (10 + x) = 60/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 40% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 3 liters of alcohol and 12 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 3 + x liters. According to the given condition, (3 + x) / (15 + x) = 40/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A 30-liter solution contains alcohol and water in the ratio 2:3. How many liters of alcohol should be added to make the ratio 3:2?",
+        "options": [" 5 liters", " 8 liters", " 10 liters", " 12 liters"],
+        "answer": " 8 liters",
+        "explanation": "Initially, the solution contains 12 liters of alcohol and 18 liters of water. To make the ratio 3:2, the amount of water remains the same while the amount of alcohol should be 3/2 times the amount of water. So, 18*(3/2) = 27 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 14 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (20 + x) = 60/100. Solving this equation gives x = 12.5 liters."
+      },
+      {
+        "question": "A solution contains 40% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 70% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 9 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 70/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 2.5 liters of alcohol and 7.5 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 2.5 + x liters. According to the given condition, (2.5 + x) / (10 + x) = 50/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 7.5 liters",
+        "explanation": "Initially, the solution contains 4.5 liters of alcohol and 10.5 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 4.5 + x liters. According to the given condition, (4.5 + x) / (15 + x) = 50/100. Solving this equation gives x = 7.5 liters."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 40% alcohol solution?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 4 liters of alcohol and 16 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 4 + x liters. According to the given condition, (4 + x) / (20 + x) = 40/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A 25-liter solution contains alcohol and water in the ratio 3:2. How many liters of alcohol should be added to make the ratio 4:3?",
+        "options": [" 5 liters", " 7.5 liters", " 10 liters", " 12.5 liters"],
+        "answer": " 12.5 liters",
+        "explanation": "Initially, the solution contains 15 liters of alcohol and 10 liters of water. To make the ratio 4:3, the amount of water remains the same while the amount of alcohol should be 4/3 times the amount of water. So, 10*(4/3) = 40/3 ≈ 13.33 liters of alcohol should be added."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 70% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 14 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (20 + x) = 70/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 40% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 80% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the solution contains 6 liters of alcohol and 9 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 6 + x liters. According to the given condition, (6 + x) / (15 + x) = 80/100. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A solution contains 25% alcohol. How many liters of pure alcohol should be added to 10 liters of the solution to make it a 60% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 20 liters",
+        "explanation": "Initially, the solution contains 2.5 liters of alcohol and 7.5 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 10 + x liters, and the amount of alcohol becomes 2.5 + x liters. According to the given condition, (2.5 + x) / (10 + x) = 60/100. Solving this equation gives x = 20 liters."
+      },
+      {
+        "question": "A solution contains 30% alcohol. How many liters of pure alcohol should be added to 15 liters of the solution to make it a 50% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 10 liters",
+        "explanation": "Initially, the solution contains 4.5 liters of alcohol and 10.5 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 15 + x liters, and the amount of alcohol becomes 4.5 + x liters. According to the given condition, (4.5 + x) / (15 + x) = 50/100. Solving this equation gives x = 10 liters."
+      },
+      {
+        "question": "A solution contains 20% alcohol. How many liters of pure alcohol should be added to 20 liters of the solution to make it a 40% alcohol solution?",
+        "options": [" 5 liters", " 10 liters", " 15 liters", " 20 liters"],
+        "answer": " 15 liters",
+        "explanation": "Initially, the solution contains 4 liters of alcohol and 16 liters of water. Let x be the amount of pure alcohol added. After adding x liters of pure alcohol, the total volume becomes 20 + x liters, and the amount of alcohol becomes 4 + x liters. According to the given condition, (4 + x) / (20 + x) = 40/100. Solving this equation gives x = 15 liters."
+      },
+      {
+        "question": "A trader mixes two varieties of rice costing $2.50/kg and $3/kg, respectively. What is the cost price per kg of the mixture if the trader mixes the two in the ratio 2:3?",
+        "options": [" $2.60", " $2.70", " $2.80", " $2.90"],
+        "answer": " $2.80",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (2.50*2 + 3*3) / (2 + 3) = x. Solving this equation gives x = $2.80."
+      },
+      {
+        "question": "A shopkeeper blends tea costing $4/kg with another variety costing $5/kg. If he sells the mixture at $4.80/kg making a profit of 20%, what is the ratio of the two varieties mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 3:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the profit percentage, (4.80 - x) / x = 20/100. Solving this equation gives x = $4.00. Now, the ratio of the two varieties can be found using the rule of allegation as (5 - 4) : (4.80 - 5) = 1:0.2 = 5:1 = 5:1 * 1/5 = 1:1/5 = 5:1."
+      },
+      {
+        "question": "A dealer mixes two types of sugar, one costing $40/kg and the other $50/kg, to make a mixture worth $45/kg. What is the ratio in which the two types of sugar are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (50 - 45) : (45 - 40) = 5:5 = 1:1. Therefore, the two types of sugar are mixed in the ratio 1:1. Since the required ratio is $5 away from each of the individual prices, for a total of $10, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A chemist mixes two solutions, one containing 25% alcohol and the other containing 35% alcohol. What proportion of the first solution must be mixed with the second solution to prepare 12 liters of a solution containing 30% alcohol?",
+        "options": [" 2:3", " 3:2", " 4:3", " 3:4"],
+        "answer": " 2:3",
+        "explanation": "Let x be the volume of the 25% alcohol solution and y be the volume of the 35% alcohol solution. According to the given conditions, (0.25x + 0.35y) / 12 = 0.30. Also, x + y = 12. Solving these equations gives x:y = 2:3."
+      },
+      {
+        "question": "A trader mixes two types of wheat, one costing $2/kg and the other $3/kg, to make a mixture worth $2.40/kg. What is the ratio in which the two types of wheat are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 3:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (3 - 2.40) : (2.40 - 2) = 0.60 : 0.40 = 3:2."
+      },
+      {
+        "question": "A shopkeeper mixes two types of tea, one costing $5/kg and the other $6/kg, to make a mixture worth $5.40/kg. What is the ratio in which the two types of tea are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (6 - 5.40) : (5.40 - 5) = 0.60 : 0.40 = 3:2 = 3:2 * 1/3 = 1:2."
+      },
+      {
+        "question": "A grocer mixes tea costing $5/kg with another variety costing $6/kg. If he sells the mixture at $5.20/kg making a profit of 8%, what is the ratio of the two varieties mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 2:1",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the profit percentage, (5.20 - x) / x = 8/100. Solving this equation gives x = $5.00. Now, the ratio of the two varieties can be found using the rule of allegation as (6 - 5) : (5.20 - 6) = 1:0.80 = 5:4 = 5:4 * 1/5 = 1:4/5 = 5:1 * 1/5 = 1:1/5 = 5:1."
+      },
+      {
+        "question": "A merchant blends two types of coffee, one costing $7/kg and the other $8/kg, to make a mixture worth $7.50/kg. What is the ratio in which the two types of coffee are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (8 - 7.50) : (7.50 - 7) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A retailer mixes two types of flour, one costing $2/kg and the other $3/kg, to make a mixture worth $2.40/kg. What is the ratio in which the two types of flour are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 3:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (3 - 2.40) : (2.40 - 2) = 0.60 : 0.40 = 3:2."
+      },
+      {
+        "question": "A shopkeeper mixes two types of pulses, one costing $3/kg and the other $4/kg, to make a mixture worth $3.50/kg. What is the ratio in which the two types of pulses are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (4 - 3.50) : (3.50 - 3) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A trader blends two types of rice, one costing $4/kg and the other $5/kg, to make a mixture worth $4.50/kg. What is the ratio in which the two types of rice are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (5 - 4.50) : (4.50 - 4) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A grocer mixes two types of sugar, one costing $30/kg and the other $40/kg, to make a mixture worth $35/kg. What is the ratio in which the two types of sugar are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 1:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (40 - 35) : (35 - 30) = 5:5 = 1:1. Therefore, the two types of sugar are mixed in the ratio 1:1. Since the required ratio is $5 away from each of the individual prices, for a total of $10, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A shopkeeper blends two types of flour, one costing $2/kg and the other $3/kg, to make a mixture worth $2.50/kg. What is the ratio in which the two types of flour are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 2:1",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (3 - 2.50) : (2.50 - 2) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A dealer mixes two types of wheat, one costing $4/kg and the other $5/kg, to make a mixture worth $4.50/kg. What is the ratio in which the two types of wheat are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 2:1",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (5 - 4.50) : (4.50 - 4) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      },
+      {
+        "question": "A retailer mixes two types of pulses, one costing $2/kg and the other $3/kg, to make a mixture worth $2.40/kg. What is the ratio in which the two types of pulses are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 2:1",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (3 - 2.40) : (2.40 - 2) = 0.60 : 0.40 = 3:2."
+      },
+      {
+        "question": "A grocer blends two types of sugar, one costing $3/kg and the other $4/kg, to make a mixture worth $3.50/kg. What is the ratio in which the two types of sugar are mixed?",
+        "options": [" 1:2", " 2:1", " 3:2", " 2:3"],
+        "answer": " 3:2",
+        "explanation": "Let x be the cost price per kg of the mixture. According to the given ratio, (4 - 3.50) : (3.50 - 3) = 0.50 : 0.50 = 1:1 = 1:1 * 1/1 = 1:1. Since the required ratio is $0.50 away from each of the individual prices, for a total of $1, the required ratio would be half of this, which is 1:2."
+      }
 ]

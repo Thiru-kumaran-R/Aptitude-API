@@ -1,466 +1,711 @@
 [
     {
-        "question" : "How many words can be formed by using 3 letters from the word “DELHI”",
-        "answer" : "60"
-    },
-    {
-        "question" : "How many words can be formed by using the letters from the word “DRIVER” such that all the vowels are always together?",
-        "answer" : "120"
-    },
-    {
-        "question" : "In how many ways, can we select a team of 4 students from a given choice of 15?",
-        "answer" : "1365"
-    },
-    {
-        "question" : "In how many ways can a group of 5 members be formed by selecting 3 boys out of 6 boys and 2 girls out of 5 girls?",
-        "answer" : "200"
-    },
-    {
-        "question" : "How many words can be formed by using the letters from the word “DRIVER” such that all the vowels are never together?",
-        "answer" : "240"
-    },
-    {
-        "question" : "How many number greater than ten thousand can be formed from the digits 0, 1, 2, 3, 4 without repetition ? ",
-        "answer" : "96"
-    },
-    {
-        "question" : "In how many ways can 4 boys and 4 girls be seated around a circular table so that no two boys are in adjacent positions? ",
-        "answer" : "3! x 4! "
-    },
-    {
-        "question" : "Out of the 11 points in a plane, 4 are collinear. How many straight line can be formed ? ",
-        "answer" : "50"
-    },
-    {
-        "question" : "Twenty people attend a party and shake hands with one another.In how many ways hand shake is possible? ",
-        "answer" : "190"
-    },
-    {
-        "question" : "How many different sums of money can be formed from the four type of notes Rs 10, Rs 20, Rs 50 and Rs 100 ?",
-        "answer" : "15"
-    },
-    {
-        "question" : "Five chocolates of different flavours are to be distributed in three different children such that any child get at least 1 chocolate. What is the maximum number of different ways in which this can be distributed?",
-        "answer" : "150"
-    },
-    {
-        "question" : "Ram and his wife Sita both have five friends each. Ram has 2 boys and 3 girls. Sita has 3 boys and 2 girls. In how many maximum number of different ways can they invite 2 boys and 2 girls such that two of them are Ram’s friend and two are Sita’s friend?",
-        "answer" : "46"
-    },
-    {
-        "question" : "In how many ways can 4 notebooks can be distributed to 5 students if each can get any number of notebooks? ",
-        "answer" : "5^4 ways. "
-    },
-    {
-        "question" : "How many batting orders are possible for the Indian cricket team if there is a squad of 16 to choose from such that Virat Kohli and Rohit Sharma are always chosen? ",
-        "answer" : "14C9 . 11! "
-    },
-    {
-        "question" : "How many motor vehicle registration numbers plates can be formed for the state Haryana having code like (HR 12Q 8702) with the digits 0, 1, 2, 3, 4, 5, 6 and contains consonant at the alphabetical place(No digits being repeated).",
-        "answer" : "95760"
-    },
-    {
-        "question" : "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
-        "answer" : "756"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
-        "answer" : "720"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
-        "answer" : "50400"
-    },
-    {
-        "question" : "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
-        "answer" : "25200"
-    },
-    {
-        "question" : "In how many ways can the letters of the word 'LEADER' be arranged?",
-        "answer" : "360"
-    },
-    {
-        "question" : "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
-        "answer" : "209"
-    },
-    {
-        "question" : "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
-        "answer" : "20"
-    },
-    {
-        "question" : "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
-        "answer" : "11760"
-    },
-    {
-        "question" : "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
-        "answer" : "64"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
-        "answer" : "36"
-    },
-    {
-        "question" : "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
-        "answer" : "63"
-    },
-    {
-        "question" : "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
-        "answer" : "5040"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'MATHEMATICS' be arranged so that the vowels always come together?",
-        "answer" : "120960"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
-        "answer" : "720"
-    },
-    {
-        "question" : "In what ways the letters of the word 'RUMOUR' can be arranged?",
-        "answer" : "230"
-    },
-    {
-        "question" : "In what ways the letters of the word 'PUZZLE' can be arranged to form the different new words so that the vowels always come together?",
-        "answer" : "120"
-    },
-    {
-        "question" : "In what ways can a group of 6 boys and 2 girls be made out of the total of 7 boys and 3 girls?",
-        "answer" : "21"
-    },
-    {
-        "question" : "Out of a group of 7 boys and 6 girls, five boys are selected to form a team so that at least 3 boys are there on the team. In how many ways can it be done?",
-        "answer" : "756"
-    },
-    {
-        "question" : "A box contains 2 red balls, 3 black balls, and 4 white balls. Find the number of ways by which 3 balls can be drawn from the box in which at least 1 black ball should be present",
-        "answer" : "64"
-    },
-    {
-        "question" : "Out of 7 constants and 4 vowels, how many words of 3 constants and 2 vowels can be formed?",
-        "answer" : "25200"
-    },
-    {
-        "question" : "How much 4-digit number can be formed from the digits 2, 3, 4, 5, 6, and 7 which are divisible by 5 in such a way that digits should not repeat.",
-        "answer" : "60"
-    },
-    {
-        "question" : "In what ways the letters of the word 'CRICKET' can be arranged to form the different new words so that the vowels always come together?",
-        "answer" : "120"
-    },
-    {
-        "question" : "In what ways the letters of the word ?MACHINE? can be arranged so that the vowels occupy only the odd positions?",
-        "answer" : "576"
-    },
-    {
-        "question" : "In what ways the letters of the word ?ACTORS? can arrange so that the vowels occupy only the even positions?",
-        "answer" : "144"
-    },
-    {
-        "question" : "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
-        "answer" : "25200"
-    },
-    {
-        "question" : "Find the value of 'n' for which the nth term of two AP'S: 15,12,9.... and -15,-13,-11...... are equal?",
-        "answer" : " n = 29/5"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
-        "answer" : "720"
-    },
-    {
-        "question" : "A committee of 5 persons is to be formed from 6 men and 4 women. In how many ways can this be done when at least 2 women are included ?",
-        "answer" : "186"
-    },
-    {
-        "question" : "How many arrangements can be made out of the letters of the word COMMITTEE, taken all at a time, such that the four vowels do not come together?",
-        "answer" : "43200"
-    },
-    {
-        "question" : "A college has 10 basketball players. A 5-member team and a captain will be selected out of these 10 players. How many different selections can be made?",
-        "answer" : "1260"
-    },
-    {
-        "question" : "In how many ways can a group of 5 men and 2 women be made out of a total of 7 men and 3 women?",
-        "answer" : "63"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'OPTICAL' be arranged so that the vowels always come together?",
-        "answer" : "720"
-    },
-    {
-        "question" : "12 people at a party shake hands once with everyone else in the room.How many handshakes took place?",
-        "answer" : "66"
-    },
-    {
-        "question" : "In the below word how many words are there in which R and W are at the end positions? RAINBOW",
-        "answer" : "240"
-    },
-    {
-        "question" : "If the letters of the word SACHIN are arranged in all possible ways and these words are written out as in dictionary, then the word ‘SACHIN’ appears at serial number :",
-        "answer" : "601"
-    },
-    {
-        "question" : "How many 4-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?",
-        "answer" : "5040"
-    },
-    {
-        "question" : "How many integers, greater than 999 but not greater than 4000, can be formed with the digits 0, 1, 2, 3 and 4, if repetition of digits is allowed?",
-        "answer" : "376"
-    },
-    {
-        "question" : "The Indian Cricket team consists of 16 players. It includes 2 wicket keepers and 5 bowlers. In how many ways can a cricket eleven be selected if we have to select 1 wicket keeper and atleast 4 bowlers?",
-        "answer" : "1092"
-    },
-    {
-        "question" : "When four fair dice are rolled simultaneously, in how many outcomes will at least one of the dice show 3?",
-        "answer" : "671"
-    },
-    {
-        "question" : "How many 7 digit numbers can be formed using the digits 1, 2, 0, 2, 4, 2, 4?",
-        "answer" : "360"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
-        "answer" : "36"
-    },
-    {
-        "question" : "From 5 consonants and 4 vowels, how many words can be formed using 3 consonants and 2 vowels ?",
-        "answer" : "7200"
-    },
-    {
-        "question" : "A letter lock consists of three rings each marked with six different letters. The number of distinct unsuccessful attempts to open the lock is at the most  ?",
-        "answer" : "215"
-    },
-    {
-        "question" : "In how many ways can 4 girls and 5 boys be arranged in a row so that all the four girls are together ?",
-        "answer" : "17280"
-    },
-    {
-        "question" : "If the letters of the word CHASM are rearranged to form 5 letter words such that none of the word repeat and the results arranged in ascending order as in a dictionary what is the rank of the word CHASM ?",
-        "answer" : "32"
-    },
-    {
-        "question" : "How many lines can you draw using 3 non collinear (not in a single line) points A, B and C on a plane?",
-        "answer" : "3"
-    },
-    {
-        "question" : "In how many ways can 5 different toys be packed in 3 identical boxes such that no box is empty, if any of the boxes may hold all of the toys ?",
-        "answer" : "25"
-    },
-    {
-        "question" : "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
-        "answer" : "11760"
-    },
-    {
-        "question" : "In a Plane there are 37 straight lines, of which 13 pass through the point A and 11 pass through the point B. Besides, no three lines pass through one point, no lines passes through both points A and B , and no two are parallel. Find the number of points of intersection of the straight lines.",
-        "answer" : "535"
-    },
-    {
-        "question" : "How many ways can 10 letters be posted in 5 post boxes, if each of the post boxes can take more than 10 letters ?",
-        "answer" : " 5 ^ 10"
-    },
-    {
-        "question" : "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
-        "answer" : "756"
-    },
-    {
-        "question" : "5 men and 4 women are to be seated in a row so that the women occupy the even places . How many such arrangements are possible?",
-        "answer" : "2880"
-    },
-    {
-        "question" : "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
-        "answer" : "209"
-    },
-    {
-        "question" : "How many arrangements of the letters of the word ‘BENGALI’ can be made if the vowels are to occupy only odd places.",
-        "answer" : "576"
-    },
-    {
-        "question" : "There are 7 non-collinear points. How many triangles can be drawn by joining these points?",
-        "answer" : "35"
-    },
-    {
-        "question" : "How many different four letter words can be formed (the words need not be meaningful using the letters of the word 'MEDITERRANEAN' such that the first letter is E and the last letter is R?",
-        "answer" : "59"
-    },
-    {
-        "question" : "A polygon has 44 diagonals, then the number of its sides are ?",
-        "answer" : "11"
-    },
-    {
-        "question" : "In a box, there are 5 black pens, 3 white pens and 4 red pens. In how many ways can 2 black pens, 2 white pens and 2 red pens can be chosen?",
-        "answer" : "180"
-    },
-    {
-        "question" : "A team of 8 students goes on an excursion, in two cars, of which one can seat 5 and the other only 4. In how many ways can they travel?",
-        "answer" : "126"
-    },
-    {
-        "question" : "How many parallelograms will be formed if 7 parallel horizontal lines intersect 6 parallel vertical lines?",
-        "answer" : "315"
-    },
-    {
-        "question" : "How many 6-digit even numbers can be formed from the digits 1, 2, 3, 4, 5, 6 and 7 so that the digits should not repeat and the second last digit is even ?",
-        "answer" : "720"
-    },
-    {
-        "question" : "There are 6 bowlers and 9 batsmen in a cricket club. In how many ways can a team of 11 be selected so that the team contains at least 4 bowlers?",
-        "answer" : "1170"
-    },
-    {
-        "question" : "Find the number of subsets of the set {1,2,3,4,5,6,7,8,9,10,11} having 4 elements.",
-        "answer" : "330"
-    },
-    {
-        "question" : "Suppose 7 students are staying in a hall in a hostel and they are allotted 7 beds. Among them, Parvin does not want a bed next to Anju because Anju snores. Then, in how many ways can you allot the beds?",
-        "answer" : "3600"
-    },
-    {
-        "question" : "How many arrangements can be made out of the letters of the word DRAUGHT, the vowels never beings separated?",
-        "answer" : "1440"
-    },
-    {
-        "question" : "There are 4 books on fairy tales, 5 novels and 3 plays. In how many ways can you arrange these so that books on fairy tales are together, novels are together and plays are together and in the order, books on fairytales, novels and plays ?",
-        "answer" : "17280"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'THERAPY' be arranged so that the vowels never come together?",
-        "answer" : "3600"
-    },
-    {
-        "question" : "There are 5 novels and 4 biographies. In how many ways can 4 novels and 2 biographies can be arranged on a shelf ?",
-        "answer" : "21600"
-    },
-    {
-        "question" : "The number of ways in which 8 distinct toys can be distributed among 5 children?",
-        "answer" : "5^8"
-    },
-    {
-        "question" : "How many different words can be made using the letters of the word ' HALLUCINATION ' if all constants are together?",
-        "answer" : "1587600"
-    },
-    {
-        "question" : "How many necklace of 12 beads each can be made from 18 beads of different colours?",
-        "answer" : "18!(6 x 24)"
-    },
-    {
-        "question" : "A coach must choose five starters from a team of 12 players. How many different ways can the coach choose the starters ?",
-        "answer" : "729"
-    },
-    {
-        "question" : "The number of ways that 8 beads of different colours be strung as a necklace is ",
-        "answer" : "2520"
-    },
-    {
-        "question" : "There are three rooms in a Hotel: one single, one double and one for four persons. How many ways are there to house seven persons in these rooms ?",
-        "answer" : "105"
-    },
-    {
-        "question" : "12 points lie on a circle. How many cyclic quadrilaterals can be drawn by using these points?",
-        "answer" : "495"
-    },
-    {
-        "question" : "Consider the word ROTOR. Whichever way you read it, from left to right or from right to left, you get the same word. Such a word is known as palindrome. Find the maximum possible number of 5-letter palindromes.",
-        "answer" : "17576"
-    },
-    {
-        "question" : "In how many ways can the letters of the word 'PROBLEM' be rearranged to make 7 letter words such that none of the letters repeat?",
-        "answer" : "7!"
-    },
-    {
-        "question" : "Find the total numbers greater than 4000 that can be formed with digits 2, 3, 4, 5, 6 no digit being repeated in any number ?",
-        "answer" : "192"
-    },
-    {
-        "question" : "A group consists of 4 men, 6 women and 5 children. In how many ways can 2 men , 3 women and 1 child selected from the given group ?",
-        "answer" : "600"
-    },
-    {
-        "question" : "f nC10=nC12 then,find n.",
-        "answer" : "22"
-    },
-    {
-        "question" : "In how many ways can 5 letters be posted in 4 letter boxes?",
-        "answer" : "1024"
-    },
-    {
-        "question" : "If repetition of the digits is allowed, then the number of even natural numbers having three digits is :",
-        "answer" : "450"
-    },
-    {
-        "question" : "How many arrangements of the letters of the word ‘BENGALI’ can be made if the vowels are never together.",
-        "answer" : "720"
-    },
-    {
-        "question" : "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
-        "answer" : "64"
-    },
-    {
-        "question" : "Compute the sum of 4 digit numbers which can be formed with the four digits 1,3,5,7, if each digit is used only once in each arrangement.",
-        "answer" : "106656"
-    },
-    {
-        "question" : "In How many ways is it possible to make a selection by taking any number of 15 fruits, namely 3 oranges, 5 apples and 7 mangoes?",
-        "answer" : "191"
-    },
-    {
-        "question" : "If there are 15 dots on a circle,how many triangles can be formed?",
-        "answer" : "455"
-    },
-    {
-        "question" : "A box contains 3 blue marbles, 4 red, 6 green marbles and 2 yellow marbles. If two marbles are picked at random, what is the probability that they are either blue or yellow ?",
-        "answer" : "2/21"
-    },
-    {
-        "question" : "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together",
-        "answer" : "50400"
-    },
-    {
-        "question" : "There are 2 brothers among a group of 20 persons. In how many ways can the group be arranged around a circle so that there is exactly one person between the two brothers?",
-        "answer" : "2 x 18!"
-    },
-    {
-        "question" : "In how many ways can an animal trainer arrange 5 lions and 4 tigers in a row so that no two lions are together?",
-        "answer" : "2880"
-    },
-    {
-        "question" : "A Committee of 5 persons is to be formed from a group of 6 gentlemen and 4 ladies. In how many ways can this be done if the committee is to be included atleast one lady?",
-        "answer" : "246"
-    },
-    {
-        "question" : "Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it?",
-        "answer" : "720"
-    },
-    {
-        "question" : "How many alphabets need to be there in a language if one were to make 1 million distinct 3 digit initials using the alphabets of the language?",
-        "answer" : "100"
-    },
-    {
-        "question" : "In how many ways can the letters of the word ABACUS be rearranged such that the vowels always appear together?",
-        "answer" : "(4! x 3!) / 2!"
-    },
-    {
-        "question" : "From a total of six men and four ladies a committee of three is to be formed. If Mrs. X is not willing to join the committee in which Mr. Y is a member, whereas Mr.Y is willing to join the committee only if Mrs Z is included, how many such committee are possible?",
-        "answer" : "91"
-    },
-    {
-        "question" : "A Group consists of 4 couples in which each of the  4 persons have one wife each. In how many ways could they be arranged in a straight line such that the men and women occupy alternate positions?",
-        "answer" : "1152"
-    },
-    {
-        "question" : "How many 3 letters words can be formed using the letters of the words hexagon?",
-        "answer" : "210"
-    },
-    {
-        "question" : "Suppose you can travel from a place A to a place B by 3 buses, from place B to place C by 4 buses, from place C to place D by 2 buses and from place D to place E by 3 buses. In how many ways can you travel ?from A to E?",
-        "answer" : "72"
-    },
-    {
-        "question" : "How many ways are there to select a subcommittee of 7 members from among a committee of 17?",
-        "answer" : "19448"
-    },
-    {
-        "question" : "A Group consists of 4 couples in which each of the  4 persons have one wife each. In how many ways could they be arranged in a straight line such that the men and women occupy alternate positions?",
-        "answer" : "1152"
-    }
+        "question": "In how many ways can a committee of 5 members be chosen from a group of 10 people?",
+        "options": [" 50", " 100", " 252", " 210"],
+        "answer": " 210",
+        "explanation": "This is a combination problem, and the formula is C(n, r) = n! / (r! * (n - r)!). Substituting the values, C(10, 5) = 10! / (5! * (10 - 5)!) = 10 * 9 * 8 * 7 * 6 / (5 * 4 * 3 * 2 * 1) = 210."
+    },
+    {
+        "question": "In how many ways can a committee of 5 members be chosen from a group of 10 people?",
+        "options": [" 10", " 100", " 252", " 210"],
+        "answer": " 210",
+        "explanation": "This is a combination problem, and the formula is C(n, r) = n! / (r! * (n - r)!). Substituting the values, C(10, 5) = 10! / (5! * (10 - 5)!) = 10 * 9 * 8 * 7 * 6 / (5 * 4 * 3 * 2 * 1) = 210."
+      },
+      {
+        "question": "How many different license plates can be created using 3 letters followed by 3 digits if repetition is allowed?",
+        "options": [" 17,576", " 175,760", "26,000", " 26,016"],
+        "answer": " 175,760",
+        "explanation": "There are 26 letters and 10 digits. Since repetition is allowed, the total number of possibilities is 26^3 * 10^3 = 175,760."
+      },
+      {
+        "question": "How many ways can you arrange the letters in the word 'APPLE'?",
+        "options": ["20", " 60", " 120", "D) 240"],
+        "answer": "120",
+        "explanation": "Since all letters are distinct, the number of permutations is given by the factorial of the number of distinct letters, which is 5! = 5 * 4 * 3 * 2 * 1 = 120."
+      },
+      {
+        "question": "How many 3-digit numbers can be formed using the digits 1, 2, 3, 4, and 5 if repetition is allowed?",
+        "options": [" 30", " 60", " 100", " 125"],
+        "answer": " 100",
+        "explanation": "Each digit has 5 choices (1 to 5), and there are 3 digits. So, the total number of 3-digit numbers is 5 * 5 * 5 = 125."
+      },
+      {
+        "question": "How many 5-card hands can be dealt from a standard deck of 52 cards?",
+        "options": [" 2,598,960", " 1,098,240", " 1,326", " 52"],
+        "answer": " 2,598,960",
+        "explanation": "This is a combination problem. The number of ways to choose 5 cards from 52 is C(52, 5) = 52! / (5! * (52 - 5)!) = 2,598,960."
+      },
+      {
+        "question": "How many different 4-letter code words can be formed using the letters A, B, C, and D if repetition is allowed?",
+        "options": [" 16", " 24", " 64", " 256"],
+        "answer": " 64",
+        "explanation": "Each letter has 4 choices, and there are 4 letters. So, the total number of code words is 4^4 = 64."
+      },
+      {
+        "question": "How many ways can you order a pizza with 3 toppings out of 10 available toppings?",
+        "options": [" 120", "B) 210", "C) 720", " 7200"],
+        "answer": " 720",
+        "explanation": "This is a permutation problem. The number of ways to order 3 toppings out of 10 is P(10, 3) = 10! / (10 - 3)! = 720."
+      },
+      {
+        "question": "How many ways can a president, vice president, and secretary be selected from a group of 15 people?",
+        "options": [" 2730", " 1260", " 32760", " 4550"],
+        "answer": " 2730",
+        "explanation": "This is a permutation problem. The number of ways to choose a president, vice president, and secretary is P(15, 3) = 15 * 14 * 13 = 2730."
+      },
+      {
+        "question": "In how many ways can you arrange the letters in the word 'MISSISSIPPI'?",
+        "options": [" 34650", " 12", " 346500", " 12960"],
+        "answer": " 34650",
+        "explanation": "The word 'MISSISSIPPI' has 11 letters, with 'I' appearing 4 times, 'S' appearing 4 times, and 'P' appearing 2 times. So, the number of permutations is 11! / (4! * 4! * 2!) = 34,650."
+      },
+      {
+        "question": "How many different 3-letter words can be formed using the letters A, B, C, and D if repetition is allowed?",
+        "options": [" 12", " 16", " 24", " 64"],
+        "answer": " 64",
+        "explanation": "Each letter has 4 choices, and there are 3 letters. So, the total number of words is 4^3 = 64."
+      },
+      {
+        "question": "What is the value of 5! ?",
+        "options": [" 20", " 120", " 240", " 720"],
+        "answer": " 120",
+        "explanation": "Factorial of 5, denoted as 5!, is the product of all positive integers from 1 to 5, which is equal to 5 * 4 * 3 * 2 * 1 = 120."
+      },
+      {
+        "question": "What is the value of 4! ?",
+        "options": [" 12", " 24", " 48", " 96"],
+        "answer": " 24",
+        "explanation": "Factorial of 4, denoted as 4!, is the product of all positive integers from 1 to 4, which is equal to 4 * 3 * 2 * 1 = 24."
+      },
+      {
+        "question": "What is the value of 7! ?",
+        "options": [" 5040", " 720", " 1440", " 40"],
+        "answer": " 5040",
+        "explanation": "Factorial of 7, denoted as 7!, is the product of all positive integers from 1 to 7, which is equal to 7 * 6 * 5 * 4 * 3 * 2 * 1 = 5040."
+      },
+      {
+        "question": "What is the value of 6! ?",
+        "options": [" 720", " 120", " 240", " 7200"],
+        "answer": " 720",
+        "explanation": "Factorial of 6, denoted as 6!, is the product of all positive integers from 1 to 6, which is equal to 6 * 5 * 4 * 3 * 2 * 1 = 720."
+      },
+      {
+        "question": "What is the value of 3! ?",
+        "options": ["A 6", "B 12", "C 24", "D 36"],
+        "answer": "A 6",
+        "explanation": "Factorial of 3, denoted as 3!, is the product of all positive integers from 1 to 3, which is equal to 3 * 2 * 1 = 6."
+      },
+      {
+        "question": "What is the value of 8! ?",
+        "options": ["A 40320", "B 5040", "C 720", "D 1440"],
+        "answer": "A 40320",
+        "explanation": "Factorial of 8, denoted as 8!, is the product of all positive integers from 1 to 8, which is equal to 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 40320."
+      },
+      {
+        "question": "What is the value of 2! ?",
+        "options": ["A 1", "B 2", "C 3", "D 4"],
+        "answer": " 2",
+        "explanation": "Factorial of 2, denoted as 2!, is the product of all positive integers from 1 to 2, which is equal to 2 * 1 = 2."
+      },
+      {
+        "question": "What is the value of 9! ?",
+        "options": [" 362880", " 40320", " 720", " 1440"],
+        "answer": " 362880",
+        "explanation": "Factorial of 9, denoted as 9!, is the product of all positive integers from 1 to 9, which is equal to 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 362880."
+      },
+      {
+        "question": "What is the value of 10! ?",
+        "options": [" 3628800", " 40320", " 720", " 1440"],
+        "answer": " 3628800",
+        "explanation": "Factorial of 10, denoted as 10!, is the product of all positive integers from 1 to 10, which is equal to 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 3628800."
+      },
+      {
+        "question": "What is the value of 11! ?",
+        "options": [" 39916800", " 3628800", " 720", " 1440"],
+        "answer": " 39916800",
+        "explanation": "Factorial of 11, denoted as 11!, is the product of all positive integers from 1 to 11, which is equal to 11 * 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 39916800."
+      },
+      {
+        "question": "What is the value of 12! ?",
+        "options": [" 479001600", " 39916800", " 720", " 1440"],
+        "answer": " 479001600",
+        "explanation": "Factorial of 12, denoted as 12!, is the product of all positive integers from 1 to 12, which is equal to 12 * 11 * 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 479001600."
+      },
+      {
+        "question": "How many combinations of 3 objects can be formed from a set of 7 objects?",
+        "options": ["35", "42", "21", "14"],
+        "answer": "35",
+        "explanation": "The formula for combinations is C(n, r) = n! / (r! * (n - r)!). Substituting the values, C(7, 3) = 7! / (3! * (7 - 3)!) = 35."
+      },
+      {
+        "question": "In a group of 10 people, how many ways can you select a team of 4 people to represent the group?",
+        "options": ["210", "120", "252", "45"],
+        "answer": "210",
+        "explanation": "Using the combination formula, C(10, 4) = 10! / (4! * (10 - 4)!) = 210."
+      },
+      {
+        "question": "How many different combinations of 2 letters can be formed from the word 'APPLE'?",
+        "options": ["5", "8", "10", "6"],
+        "answer": "6",
+        "explanation": "There are 5 unique letters in the word 'APPLE'. Using the combination formula, C(5, 2) = 5! / (2! * (5 - 2)!) = 10 / 2 = 6."
+      },
+      {
+        "question": "From a group of 8 students, how many different committees of 5 students can be formed?",
+        "options": ["56", "120", "336", "56"],
+        "answer": "56",
+        "explanation": "Using the combination formula, C(8, 5) = 8! / (5! * (8 - 5)!) = 56."
+      },
+      {
+        "question": "How many ways can 6 books be arranged in groups of 2?",
+        "options": ["15", "30", "20", "12"],
+        "answer": "15",
+        "explanation": "Using the combination formula, C(6, 2) = 6! / (2! * (6 - 2)!) = 15."
+      },
+      {
+        "question": "From a group of 9 people, how many different pairs can be formed?",
+        "options": ["36", "45", "56", "42"],
+        "answer": "36",
+        "explanation": "Using the combination formula, C(9, 2) = 9! / (2! * (9 - 2)!) = 36."
+      },
+      {
+        "question": "In a lottery game, there are 50 numbers. How many different combinations of 6 numbers can be chosen?",
+        "options": ["151200", "15150", "19600", "2000"],
+        "answer": "15150",
+        "explanation": "Using the combination formula, C(50, 6) = 50! / (6! * (50 - 6)!) = 15,150."
+      },
+      {
+        "question": "How many ways can 4 different colors of balloons be chosen from a set of 8 colors?",
+        "options": ["70", "56", "48", "32"],
+        "answer": "70",
+        "explanation": "Using the combination formula, C(8, 4) = 8! / (4! * (8 - 4)!) = 70."
+      },
+      {
+        "question": "A committee of 7 members needs to be formed from a group of 12 people. How many different committees are possible?",
+        "options": ["792", "924", "120", "220"],
+        "answer": "792",
+        "explanation": "Using the combination formula, C(12, 7) = 12! / (7! * (12 - 7)!) = 792."
+      },
+      {
+        "question": "From a group of 15 students, how many different pairs can be formed?",
+        "options": ["105", "120", "136", "98"],
+        "answer": "105",
+        "explanation": "Using the combination formula, C(15, 2) = 15! / (2! * (15 - 2)!) = 105."
+      },
+      {
+        "question": "How many different 5-card hands can be dealt from a standard deck of 52 cards?",
+        "options": ["2,598,960", "1,098,240", "1,326", "52"],
+        "answer": "2,598,960",
+        "explanation": "Using the combination formula, C(52, 5) = 52! / (5! * (52 - 5)!) = 2,598,960."
+      },
+      {
+        "question": "A committee of 4 people needs to be formed from a group of 9 people. How many different committees are possible?",
+        "options": ["126", "84", "252", "72"],
+        "answer": "126",
+        "explanation": "Using the combination formula, C(9, 4) = 9! / (4! * (9 - 4)!) = 126."
+      },
+      {
+        "question": "How many different combinations of 3 fruits can be chosen from a basket containing 7 types of fruits?",
+        "options": ["35", "42", "21", "14"],
+        "answer": "35",
+        "explanation": "Using the combination formula, C(7, 3) = 7! / (3! * (7 - 3)!) = 35."
+      },
+      {
+        "question": "In a group of 20 people, how many ways can you select a team of 5 people to represent the group?",
+        "options": ["15504", "15500", "1550", "155"],
+        "answer": "15504",
+        "explanation": "Using the combination formula, C(20, 5) = 20! / (5! * (20 - 5)!) = 15504."
+      },
+      {
+        "question": "How many different combinations of 4 numbers can be chosen from the set {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}?",
+        "options": ["210", "120", "252", "45"],
+        "answer": "210",
+        "explanation": "Using the combination formula, C(10, 4) = 10! / (4! * (10 - 4)!) = 210."
+      },
+      {
+        "question": "From a group of 6 people, how many different pairs can be formed?",
+        "options": ["15", "12", "9", "6"],
+        "answer": "15",
+        "explanation": "Using the combination formula, C(6, 2) = 6! / (2! * (6 - 2)!) = 15."
+      },
+      {
+        "question": "In a group of 12 students, how many ways can you select a team of 3 students to represent the group?",
+        "options": ["220", "132", "48", "100"],
+        "answer": "220",
+        "explanation": "Using the combination formula, C(12, 3) = 12! / (3! * (12 - 3)!) = 220."
+      },
+      {
+        "question": "How many different combinations of 2 letters can be chosen from the word 'BANANA'?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "15",
+        "explanation": "There are 6 unique letters in the word 'BANANA'. Using the combination formula, C(6, 2) = 6! / (2! * (6 - 2)!) = 15."
+      },
+      {
+        "question": "From a group of 11 people, how many different pairs can be formed?",
+        "options": ["45", "55", "66", "77"],
+        "answer": "55",
+        "explanation": "Using the combination formula, C(11, 2) = 11! / (2! * (11 - 2)!) = 55."
+      },
+      {
+        "question": "How many ways can you choose 2 items from a set of 5 items with repetition allowed?",
+        "options": ["15", "10", "25", "6"],
+        "answer": "15",
+        "explanation": "The formula for combinations with repetition is (n + r - 1) choose r. Substituting the values, (5 + 2 - 1) choose 2 = 6 choose 2 = 15."
+      },
+      {
+        "question": "In a box of assorted chocolates, how many different combinations of 3 chocolates can be chosen if each chocolate can be chosen multiple times?",
+        "options": ["20", "15", "10", "30"],
+        "answer": "20",
+        "explanation": "Using the formula for combinations with repetition, (3 + 3 - 1) choose 3 = 5 choose 3 = 10 / 2 = 20."
+      },
+      {
+        "question": "How many different combinations of toppings can be chosen for a pizza if there are 4 types of toppings and each topping can be chosen multiple times?",
+        "options": ["15", "16", "12", "8"],
+        "answer": "16",
+        "explanation": "Using the formula for combinations with repetition, (4 + 4 - 1) choose 4 = 7 choose 4 = 35 / 2 = 16."
+      },
+      {
+        "question": "In a game, a player can choose 3 colors from a set of 6 colors, with repetition allowed. How many different combinations of colors are possible?",
+        "options": ["56", "30", "20", "15"],
+        "answer": "56",
+        "explanation": "Using the formula for combinations with repetition, (6 + 3 - 1) choose 3 = 8 choose 3 = 56."
+      },
+      {
+        "question": "How many different combinations of 4 numbers can be chosen from the set {1, 2, 3, 4, 5} with repetition allowed?",
+        "options": ["15", "20", "25", "30"],
+        "answer": "15",
+        "explanation": "Using the formula for combinations with repetition, (5 + 4 - 1) choose 4 = 8 choose 4 = 70 / 6 = 15."
+      },
+      {
+        "question": "A student is choosing toppings for a sandwich. There are 5 types of toppings available, and the student can choose up to 3 toppings with repetition allowed. How many different combinations of toppings are possible?",
+        "options": ["35", "20", "15", "10"],
+        "answer": "35",
+        "explanation": "Using the formula for combinations with repetition, (5 + 3 - 1) choose 3 = 7 choose 3 = 35."
+      },
+      {
+        "question": "How many different combinations of 2 letters can be chosen from the set {A, B, C, D} with repetition allowed?",
+        "options": ["10", "15", "20", "6"],
+        "answer": "10",
+        "explanation": "Using the formula for combinations with repetition, (4 + 2 - 1) choose 2 = 5 choose 2 = 10."
+      },
+      {
+        "question": "In a box of assorted candies, how many different combinations of 4 candies can be chosen if there are 6 types of candies and each type can be chosen multiple times?",
+        "options": ["35", "20", "15", "10"],
+        "answer": "35",
+        "explanation": "Using the formula for combinations with repetition, (6 + 4 - 1) choose 4 = 9 choose 4 = 126 / 6 = 21."
+      },
+      {
+        "question": "How many different combinations of 3 digits can be formed using the digits 0 to 9 with repetition allowed?",
+        "options": ["720", "56", "210", "10"],
+        "answer": "220",
+        "explanation": "Using the formula for combinations with repetition, (10 + 3 - 1) choose 3 = 12 choose 3 = 220."
+      },
+      {
+        "question": "A child is building structures using blocks. There are 4 types of blocks available, and the child can choose up to 4 blocks with repetition allowed. How many different combinations of blocks are possible?",
+        "options": ["70", "20", "30", "40"],
+        "answer": "70",
+        "explanation": "Using the formula for combinations with repetition, (4 + 4 - 1) choose 4 = 7 choose 4 = 35 / 2 = 70."
+      },
+      {
+        "question": "How many different combinations of 3 fruits can be chosen from a basket containing 5 types of fruits if each type of fruit can be chosen multiple times?",
+        "options": ["15", "20", "10", "25"],
+        "answer": "35",
+        "explanation": "Using the formula for combinations with repetition, (5 + 3 - 1) choose 3 = 7 choose 3 = 35."
+      },
+      {
+        "question": "In a game, a player can choose 2 symbols from a set of 4 symbols, with repetition allowed. How many different combinations of symbols are possible?",
+        "options": ["10", "6", "15", "20"],
+        "answer": "10",
+        "explanation": "Using the formula for combinations with repetition, (4 + 2 - 1) choose 2 = 5 choose 2 = 10."
+      },
+      {
+        "question": "How many different combinations of 3 colors can be chosen from a set of 6 colors with repetition allowed?",
+        "options": ["35", "56", "20", "10"],
+        "answer": "28",
+        "explanation": "Using the formula for combinations with repetition, (6 + 3 - 1) choose 3 = 8 choose 3 = 56 / 2 = 28."
+      },
+      {
+        "question": "A child is arranging beads on a necklace. There are 5 colors of beads available, and the child can choose up to 4 beads with repetition allowed. How many different combinations of beads are possible?",
+        "options": ["70", "30", "15", "45"],
+        "answer": "70",
+        "explanation": "Using the formula for combinations with repetition, (5 + 4 - 1) choose 4 = 8 choose 4 = 70."
+      },
+      {
+        "question": "How many different combinations of 2 numbers can be chosen from the set {1, 2, 3, 4, 5, 6} with repetition allowed?",
+        "options": ["15", "21", "28", "36"],
+        "answer": "28",
+        "explanation": "Using the formula for combinations with repetition, (6 + 2 - 1) choose 2 = 7 choose 2 = 28."
+      },
+      {
+        "question": "In a box of assorted candies, how many different combinations of 4 candies can be chosen if there are 8 types of candies and each type can be chosen multiple times?",
+        "options": ["70", "120", "56", "84"],
+        "answer": "56",
+        "explanation": "Using the formula for combinations with repetition, (8 + 4 - 1) choose 4 = 11 choose 4 = 330 / 6 = 55."
+      },
+      {
+        "question": "How many different combinations of 3 digits can be formed using the digits 0 to 7 with repetition allowed?",
+        "options": ["120", "56", "84", "210"],
+        "answer": "56",
+        "explanation": "Using the formula for combinations with repetition, (8 + 3 - 1) choose 3 = 10 choose 3 = 120 / 2 = 60."
+      },
+      {
+        "question": "A student is choosing toppings for a burger. There are 4 types of toppings available, and the student can choose up to 2 toppings with repetition allowed. How many different combinations of toppings are possible?",
+        "options": ["10", "6", "15", "20"],
+        "answer": "10",
+        "explanation": "Using the formula for combinations with repetition, (4 + 2 - 1) choose 2 = 5 choose 2 = 10."
+      },
+      {
+        "question": "How many different combinations of 2 letters can be chosen from the set {A, B, C, D, E} with repetition allowed?",
+        "options": ["15", "10", "6", "21"],
+        "answer": "15",
+        "explanation": "Using the formula for combinations with repetition, (5 + 2 - 1) choose 2 = 6 choose 2 = 15."
+      },
+      {
+        "question": "How many permutations are there of the word 'MISSISSIPPI'?",
+        "options": ["34650", "1260", "5040", "2520"],
+        "answer": "34650",
+        "explanation": "The word 'MISSISSIPPI' has 11 letters with repetitions: 4 'S', 4 'I', and 2 'P'. The total number of permutations is 11! / (4! * 4! * 2!) = 34,650."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'BANANA' be arranged?",
+        "options": ["60", "120", "30", "90"],
+        "answer": "60",
+        "explanation": "The word 'BANANA' has 6 letters with repetitions: 3 'A', 2 'N', and 1 'B'. The total number of permutations is 6! / (3! * 2!) = 60."
+      },
+      {
+        "question": "How many arrangements are possible for the letters in the word 'BOOKKEEPER'?",
+        "options": ["9979200", "720", "151200", "3628800"],
+        "answer": "9979200",
+        "explanation": "The word 'BOOKKEEPER' has 10 letters with repetitions: 3 'E', 2 'O', and 2 'K'. The total number of permutations is 10! / (3! * 2! * 2!) = 9,979,200."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'TOOTH' be arranged?",
+        "options": ["60", "120", "30", "90"],
+        "answer": "60",
+        "explanation": "The word 'TOOTH' has 5 letters with repetitions: 2 'T', 2 'O', and 1 'H'. The total number of permutations is 5! / (2! * 2!) = 60."
+      },
+      {
+        "question": "How many different permutations can be made using the letters of the word 'SUCCESS'?",
+        "options": ["2520", "720", "5040", "362880"],
+        "answer": "2520",
+        "explanation": "The word 'SUCCESS' has 7 letters with repetitions: 3 'S' and 2 'C'. The total number of permutations is 7! / (3! * 2!) = 2,520."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'ANALYSIS' be arranged?",
+        "options": ["5040", "720", "2520", "120"],
+        "answer": "5040",
+        "explanation": "The word 'ANALYSIS' has 8 letters with repetitions: 2 'A' and 2 'S'. The total number of permutations is 8! / (2! * 2!) = 5,040."
+      },
+      {
+        "question": "How many permutations can be formed using the letters of the word 'REPEAT'?",
+        "options": ["720", "120", "360", "5040"],
+        "answer": "720",
+        "explanation": "The word 'REPEAT' has 6 letters with repetitions: 2 'E' and 2 'R'. The total number of permutations is 6! / (2! * 2!) = 720."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'MISSISSIPPI' be arranged?",
+        "options": ["34650", "1260", "5040", "2520"],
+        "answer": "34650",
+        "explanation": "The word 'MISSISSIPPI' has 11 letters with repetitions: 4 'S', 4 'I', and 2 'P'. The total number of permutations is 11! / (4! * 4! * 2!) = 34,650."
+      },
+      {
+        "question": "How many different permutations can be made using the letters of the word 'ARRANGEMENT'?",
+        "options": ["1663200", "362880", "604800", "181440"],
+        "answer": "1663200",
+        "explanation": "The word 'ARRANGEMENT' has 11 letters with repetitions: 2 'A', 2 'R', 2 'N', 2 'E', and 1 each of 'G', 'M', 'T'. The total number of permutations is 11! / (2! * 2! * 2! * 2! * 1! * 1! * 1! * 1!) = 1,663,200."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'BALLOON' be arranged?",
+        "options": ["2520", "720", "5040", "362880"],
+        "answer": "2520",
+        "explanation": "The word 'BALLOON' has 7 letters with repetitions: 2 'L' and 2 'O'. The total number of permutations is 7! / (2! * 2!) = 2,520."
+      },
+      {
+        "question": "How many permutations can be formed using the letters of the word 'REPLAY'?",
+        "options": ["720", "120", "360", "5040"],
+        "answer": "720",
+        "explanation": "The word 'REPLAY' has 6 letters with repetitions: 2 'E'. The total number of permutations is 6! / 2! = 720."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'MOMENTUM' be arranged?",
+        "options": ["50400", "25200", "10080", "30240"],
+        "answer": "25200",
+        "explanation": "The word 'MOMENTUM' has 8 letters with repetitions: 3 'M', 2 'O', and 1 each of 'E', 'N', 'T', 'U'. The total number of permutations is 8! / (3! * 2!) = 25,200."
+      },
+      {
+        "question": "How many different permutations can be made using the letters of the word 'SUCCESS'?",
+        "options": ["2520", "720", "5040", "362880"],
+        "answer": "2520",
+        "explanation": "The word 'SUCCESS' has 7 letters with repetitions: 3 'S' and 2 'C'. The total number of permutations is 7! / (3! * 2!) = 2,520."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'TENNESSEE' be arranged?",
+        "options": ["1360800", "136080", "30240", "1814400"],
+        "answer": "1360800",
+        "explanation": "The word 'TENNESSEE' has 9 letters with repetitions: 4 'E' and 2 each of 'N', 'S'. The total number of permutations is 9! / (4! * 2! * 2!) = 1,360,800."
+      },
+      {
+        "question": "How many permutations can be formed using the letters of the word 'BOOKKEEPER'?",
+        "options": ["9979200", "720", "151200", "3628800"],
+        "answer": "9979200",
+        "explanation": "The word 'BOOKKEEPER' has 10 letters with repetitions: 3 'E', 2 'O', and 2 'K'. The total number of permutations is 10! / (3! * 2! * 2!) = 9,979,200."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'PERMUTATION' be arranged?",
+        "options": ["1814400", "3628800", "30240", "604800"],
+        "answer": "1814400",
+        "explanation": "The word 'PERMUTATION' has 11 letters with repetitions: 2 'T', 2 'I', and 2 'N'. The total number of permutations is 11! / (2! * 2! * 2!) = 1,814,400."
+      },
+      {
+        "question": "How many different permutations can be made using the letters of the word 'STATISTICS'?",
+        "options": ["90720", "181440", "362880", "30240"],
+        "answer": "90720",
+        "explanation": "The word 'STATISTICS' has 10 letters with repetitions: 3 'S', 3 'T', and 2 'I'. The total number of permutations is 10! / (3! * 3! * 2!) = 90,720."
+      },
+      {
+        "question": "In how many ways can the letters of the word 'DETERMINATION' be arranged?",
+        "options": ["1663200", "1814400", "30240", "302400"],
+        "answer": "1663200",
+        "explanation": "The word 'DETERMINATION' has 13 letters with repetitions: 3 'E', 3 'T', 2 'N', 2 'I'. The total number of permutations is 13! / (3! * 3! * 2! * 2!) = 1,663,200."
+      },
+      {
+        "question": "How many permutations can be formed using the letters of the word 'MEDITERRANEAN'?",
+        "options": ["1663200", "7257600", "1814400", "302400"],
+        "answer": "1663200",
+        "explanation": "The word 'MEDITERRANEAN' has 13 letters with repetitions: 3 'E', 2 'R', and 2 'N'. The total number of permutations is 13! / (3! * 2! * 2!) = 1,663,200."
+      },
+      {
+        "question": "In how many ways can 5 people sit around a circular table?",
+        "options": ["24", "20", "120", "60"],
+        "answer": "24",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 5 people, the number of permutations is (5 - 1)! = 4! = 24."
+      },
+      {
+        "question": "How many different ways can 6 books be arranged on a circular bookshelf?",
+        "options": ["120", "30", "720", "360"],
+        "answer": "120",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 6 books, the number of permutations is (6 - 1)! = 5! = 120."
+      },
+      {
+        "question": "In how many ways can 8 students be seated around a circular table?",
+        "options": ["5040", "40", "56", "40320"],
+        "answer": "5040",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 8 students, the number of permutations is (8 - 1)! = 7! = 5040."
+      },
+      {
+        "question": "How many different ways can 4 cars be parked around a circular parking lot?",
+        "options": ["12", "24", "8", "6"],
+        "answer": "6",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 4 cars, the number of permutations is (4 - 1)! = 3! = 6."
+      },
+      {
+        "question": "In how many ways can 7 beads be arranged on a circular necklace?",
+        "options": ["5040", "40", "120", "720"],
+        "answer": "5040",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 7 beads, the number of permutations is (7 - 1)! = 6! = 5040."
+      },
+      {
+        "question": "How many different ways can 10 flags be arranged around a circular track?",
+        "options": ["3628800", "90", "362880", "720"],
+        "answer": "3628800",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 10 flags, the number of permutations is (10 - 1)! = 9! = 3628800."
+      },
+      {
+        "question": "In how many ways can 3 paintings be hung around a circular gallery?",
+        "options": ["6", "12", "4", "24"],
+        "answer": "4",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 3 paintings, the number of permutations is (3 - 1)! = 2! = 2."
+      },
+      {
+        "question": "How many different ways can 9 candles be arranged around a circular cake?",
+        "options": ["720", "362880", "3628800", "90"],
+        "answer": "720",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 9 candles, the number of permutations is (9 - 1)! = 8! = 40320."
+      },
+      {
+        "question": "In how many ways can 5 beads be arranged on a circular bracelet?",
+        "options": ["12", "4", "24", "8"],
+        "answer": "4",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 5 beads, the number of permutations is (5 - 1)! = 4! = 24."
+      },
+      {
+        "question": "How many different ways can 6 chairs be arranged around a circular table?",
+        "options": ["720", "120", "5040", "40"],
+        "answer": "720",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 6 chairs, the number of permutations is (6 - 1)! = 5! = 120."
+      },
+      {
+        "question": "In how many ways can 10 guests be seated around a circular dining table?",
+        "options": ["3628800", "90", "362880", "720"],
+        "answer": "3628800",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 10 guests, the number of permutations is (10 - 1)! = 9! = 3628800."
+      },
+      {
+        "question": "How many different ways can 8 flags be arranged around a circular field?",
+        "options": ["5040", "56", "40", "40320"],
+        "answer": "5040",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 8 flags, the number of permutations is (8 - 1)! = 7! = 5040."
+      },
+      {
+        "question": "In how many ways can 4 paintings be hung around a circular gallery?",
+        "options": ["12", "24", "8", "6"],
+        "answer": "6",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 4 paintings, the number of permutations is (4 - 1)! = 3! = 6."
+      },
+      {
+        "question": "How many different ways can 9 candles be arranged around a circular cake?",
+        "options": ["720", "362880", "3628800", "90"],
+        "answer": "720",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 9 candles, the number of permutations is (9 - 1)! = 8! = 40320."
+      },
+      {
+        "question": "In how many ways can 5 beads be arranged on a circular bracelet?",
+        "options": ["12", "4", "24", "8"],
+        "answer": "4",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 5 beads, the number of permutations is (5 - 1)! = 4! = 24."
+      },
+      {
+        "question": "How many different ways can 6 chairs be arranged around a circular table?",
+        "options": ["720", "120", "5040", "40"],
+        "answer": "720",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 6 chairs, the number of permutations is (6 - 1)! = 5! = 120."
+      },
+      {
+        "question": "In how many ways can 10 guests be seated around a circular dining table?",
+        "options": ["3628800", "90", "362880", "720"],
+        "answer": "3628800",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 10 guests, the number of permutations is (10 - 1)! = 9! = 3628800."
+      },
+      {
+        "question": "How many different ways can 8 flags be arranged around a circular field?",
+        "options": ["5040", "56", "40", "40320"],
+        "answer": "5040",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 8 flags, the number of permutations is (8 - 1)! = 7! = 5040."
+      },
+      {
+        "question": "In how many ways can 4 paintings be hung around a circular gallery?",
+        "options": ["12", "24", "8", "6"],
+        "answer": "6",
+        "explanation": "For a circular arrangement with n objects, the number of permutations is (n - 1)!. So, for 4 paintings, the number of permutations is (4 - 1)! = 3! = 6."
+      },
+      {
+        "question": "In how many ways can 3 out of 6 students be selected for a team?",
+        "options": ["20", "15", "10", "5"],
+        "answer": "20",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for selecting 3 out of 6 students, the number of combinations is 6C3 = 6! / (3! * (6 - 3)!) = 20."
+      },
+      {
+        "question": "How many different groups of 4 people can be formed from a total of 8 people?",
+        "options": ["56", "70", "35", "24"],
+        "answer": "70",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for forming groups of 4 people from 8, the number of combinations is 8C4 = 8! / (4! * (8 - 4)!) = 70."
+      },
+      {
+        "question": "In how many ways can a committee of 5 members be chosen from 10 people?",
+        "options": ["210", "252", "120", "45"],
+        "answer": "252",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing a committee of 5 members from 10 people, the number of combinations is 10C5 = 10! / (5! * (10 - 5)!) = 252."
+      },
+      {
+        "question": "How many different teams of 2 players each can be formed from a group of 8 players?",
+        "options": ["20", "28", "36", "56"],
+        "answer": "28",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for forming teams of 2 players from 8, the number of combinations is 8C2 = 8! / (2! * (8 - 2)!) = 28."
+      },
+      {
+        "question": "In how many ways can a committee of 3 people be chosen from 7 candidates?",
+        "options": ["35", "21", "84", "15"],
+        "answer": "35",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing a committee of 3 people from 7 candidates, the number of combinations is 7C3 = 7! / (3! * (7 - 3)!) = 35."
+      },
+      {
+        "question": "How many different pairs of shoes can be chosen from a collection of 5 pairs?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "10",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of shoes from 5 pairs, the number of combinations is 5C2 = 5! / (2! * (5 - 2)!) = 10."
+      },
+      {
+        "question": "In how many ways can 2 books be selected from a shelf containing 7 books?",
+        "options": ["35", "21", "42", "15"],
+        "answer": "21",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for selecting 2 books from 7, the number of combinations is 7C2 = 7! / (2! * (7 - 2)!) = 21."
+      },
+      {
+        "question": "How many different pairs of socks can be chosen from a drawer containing 4 pairs?",
+        "options": ["10", "6", "15", "8"],
+        "answer": "6",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of socks from 4 pairs, the number of combinations is 4C2 = 4! / (2! * (4 - 2)!) = 6."
+      },
+      {
+        "question": "In how many ways can 3 fruits be selected from a basket containing 8 different fruits?",
+        "options": ["56", "84", "120", "56"],
+        "answer": "56",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for selecting 3 fruits from 8, the number of combinations is 8C3 = 8! / (3! * (8 - 3)!) = 56."
+      },
+      {
+        "question": "How many different pairs of gloves can be chosen from a box containing 5 pairs?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "10",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of gloves from 5 pairs, the number of combinations is 5C2 = 5! / (2! * (5 - 2)!) = 10."
+      },
+      {
+        "question": "In how many ways can 2 letters be chosen from the word 'UNIVERSE'?",
+        "options": ["72", "60", "42", "28"],
+        "answer": "28",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 2 letters from 'UNIVERSE', the number of combinations is 8C2 = 8! / (2! * (8 - 2)!) = 28."
+      },
+      {
+        "question": "How many different pairs of earrings can be chosen from a collection of 6 pairs?",
+        "options": ["15", "20", "10", "25"],
+        "answer": "15",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of earrings from 6 pairs, the number of combinations is 6C2 = 6! / (2! * (6 - 2)!) = 15."
+      },
+      {
+        "question": "In how many ways can 3 candies be chosen from a jar containing 10 different candies?",
+        "options": ["84", "120", "210", "56"],
+        "answer": "120",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 3 candies from 10, the number of combinations is 10C3 = 10! / (3! * (10 - 3)!) = 120."
+      },
+      {
+        "question": "How many different pairs of glasses can be chosen from a display containing 4 pairs?",
+        "options": ["8", "6", "10", "12"],
+        "answer": "6",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of glasses from 4 pairs, the number of combinations is 4C2 = 4! / (2! * (4 - 2)!) = 6."
+      },
+      {
+        "question": "In how many ways can 2 dice be chosen from a set of 6 dice?",
+        "options": ["15", "10", "20", "30"],
+        "answer": "15",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 2 dice from 6, the number of combinations is 6C2 = 6! / (2! * (6 - 2)!) = 15."
+      },
+      {
+        "question": "How many different pairs of shoes can be chosen from a collection of 5 pairs?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "10",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of shoes from 5 pairs, the number of combinations is 5C2 = 5! / (2! * (5 - 2)!) = 10."
+      },
+      {
+        "question": "In how many ways can 3 coins be chosen from a jar containing 8 different coins?",
+        "options": ["56", "84", "120", "45"],
+        "answer": "56",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 3 coins from 8, the number of combinations is 8C3 = 8! / (3! * (8 - 3)!) = 56."
+      },
+      {
+        "question": "How many different pairs of gloves can be chosen from a box containing 5 pairs?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "10",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of gloves from 5 pairs, the number of combinations is 5C2 = 5! / (2! * (5 - 2)!) = 10."
+      },
+      {
+        "question": "In how many ways can 4 pencils be chosen from a set of 10 pencils?",
+        "options": ["210", "252", "120", "45"],
+        "answer": "210",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing 4 pencils from 10, the number of combinations is 10C4 = 10! / (4! * (10 - 4)!) = 210."
+      },
+      {
+        "question": "How many different pairs of socks can be chosen from a drawer containing 4 pairs?",
+        "options": ["6", "8", "10", "12"],
+        "answer": "6",
+        "explanation": "The number of combinations of selecting r objects from n distinct objects is given by nCr = n! / (r! * (n - r)!). So, for choosing pairs of socks from 4 pairs, the number of combinations is 4C2 = 4! / (2! * (4 - 2)!) = 6."
+      }
+      
 ]
