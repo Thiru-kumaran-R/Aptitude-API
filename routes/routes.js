@@ -14,7 +14,7 @@ router.get("/Age" , aptitudeController.getAge);
 
 router.get("/PermutationAndCombination", aptitudeController.getPermutationAndCombination);
 
-router.get("/SpeedTimeDistance", aptitudeController.getSpeedTimeDistance);
+router.get("/SimpleInterest", aptitudeController.getSpeedTimeDistance);
 
 router.get("/SimpleInterest", aptitudeController.getSimpleInterest);
 

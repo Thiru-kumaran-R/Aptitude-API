@@ -21,22 +21,14 @@ const questionSchema = new Schema({
     }
 })
 
-const ageSchema = mongoose.model('AgeQuestions', questionSchema);
-const calendarSchema = mongoose.model('CalendarQuestions', questionSchema);
-const mixtureSchema = mongoose.model('MixtureAndAlligationQuestions', questionSchema);
-const PermutationSchema = mongoose.model('PermutationAndCombinationQuestions', questionSchema);
-const PipesSchema = mongoose.model('PipesAndCisternQuestions', questionSchema);
-const ProfitSchema = mongoose.model('ProfitAndLossQuestions', questionSchema);
-const SimpleSchema = mongoose.model('SimpleInterestQuestions', questionSchema);
-const SpeedSchema = mongoose.model('SpeedTimeDistanceQuestions', questionSchema);
+const Age = mongoose.model('Age', questionSchema);
+const Calendar = mongoose.model('Calendar', questionSchema);
+const Mixture = mongoose.model('MixtureAndAlligation', questionSchema);
+const Permutation = mongoose.model('PermutationAndCombination', questionSchema);
+const PipesAndCistern = mongoose.model('PipesAndCistern', questionSchema);
+const ProfitAndLoss = mongoose.model('ProfitAndLoss', questionSchema);
+const SimpleAndInterest = mongoose.model('SimpleInterest', questionSchema);
+const SpeedTimeDistance = mongoose.model('SpeedTimeDistance', questionSchema);
+const Random = mongoose.model('Random', questionSchema);
 
-modules.export = {
-    ageSchema,
-    calendarSchema,
-    mixtureSchema,
-    PermutationSchema,
-    PipesSchema,
-    ProfitSchema,
-    SimpleSchema,
-    SpeedSchema
-}
+module.exports = { Age, Calendar, Mixture, Permutation, PipesAndCistern, ProfitAndLoss, SimpleAndInterest, SpeedTimeDistance, Random };

@@ -1,454 +1,686 @@
 [
-   {
-        "question" : "Find the SI on rupees 10000 deposited for 3 years at 5% per annum.",
-        "answer" : "Interest earn is rupees 1,500"
-    },
     {
-        "question" : " Rajesh takes a loan of Rs 20000 from a bank for a period of 1 year. The rate of interest is 10% per annum. Find the simple interest and the total amount he has to pay at the end of a year.",
-        "answer" : "Rs 22,000"
-    },
-    {
-        "question" : "A person borrowed Rs 60,000 for 4 years at the rate of 2.5% per annum. Find the interest accumulated at the end of 4 years.",
-        "answer" : "Rs 6000 "
-    },
-    {
-        "question" : "A person pays Rs 8000 as an amount on the sum of Rs 6000 that he had borrowed for 3 years. What will be the rate of interest?",
-        "answer" : "Rate of interest R is 11.11 %"
-    },
-    {
-        "question" : " If the principal is Rs 50,000, and the rate of interest is 10% per annum for a period of 4 years. What will be the total amount?",
-        "answer" : "Rs 70000"
-    },
-    {
-        "question" : "If the principal amount is Rs 5000 and the time is 2 years and the simple interest is Rs 4000 what will be the rate of interest?",
-        "answer" : "Rate of Interest is 40 %."
-    },
-    {
-        "question" : "A sum amounts to Rs 1065 at simple interest rate of 7.5% per annum after 3 years. Find the sum.",
-        "answer" : "869.38"
-    },
-    {
-        "question" : "James deposits a sum of Rs 800 that will amount to Rs 920 in 3 years. However, the bank decides to increase the interest rate by 4%. What amount will he receive now?",
-        "answer" : "Rs 1016"
-    },
-    {
-        "question" : "What will be the simple interest on Rs 70,000 at 50/3 % per annum after 9 months?",
-        "answer" : "Rs 8750"
-    },
-    {
-        "question" : "Find out the simple interest if Harry invests an amount of Rs 15800 for 9 months at the rate of 25/4 % per annum. ",
-        "answer" : "Rs 740.63"
-    },
-    {
-        "question" : "After lending out an amount of Rs.9600 at a rate of 9/2 % per annum for a 1 year and 9 months, what was the S.I earned ? ",
-        "answer" : "756"
-    },
-    {
-        "question" : "Find the amount of S.I received by Ram after getting Rs.3360 at 25/4 % per annum for 9 months.",
-        "answer" : "157.5"
-    },
-    {
-        "question" : "Ram has an amount of Rs. 9000. How much time will it take to earn 1620 as S.I at a rate of 4.5% per annum?",
-        "answer" : "4"
-    },
-    {
-        "question" : "At what rate of SI, a sum of Rs.7000 amounts to Rs.7700 in 2 years?",
-        "answer" : "5%"
-    },
-    {
-        "question" : "Find the simple interest on Rs.300 for 6 months at 10% per annum.",
-        "answer" : "15"
-    },
-    {
-        "question" : "In what time will Rs.8500 pay an amount of Rs. 7267.50 as S.I at 4.5 per cent per annum?",
-        "answer" : "19"
-    },
-    {
-        "question" : "The SI on a sum is 1/4th of the principal, and the duration(in years) is equal to the rate per cent per annum. Find the rate per cent.",
-        "answer" : "5"
-    },
-    {
-        "question" : "The rate of interest for the first 2 yrs is 3% per annum, for the next 3 years is 8% per annum and for the period beyond 5 years 10% per annum. A person deposited some money 6 years back. Now he earns an interest of RS. 1520. What money did he deposit?",
-        "answer" : "3800"
-    },
-    {
-        "question" : "A sum of money doubles itself in 6 years at simple interest. What is the rate of interest?",
-        "answer" : "16.66"
-    },
-    {
-        "question" : "A certain amount was lent at a rate R for 2 yrs at SI. If it been put at 3% higher rate, it would have fetched Rs 300 more. Find the amount?",
-        "answer" : "5000"
-    },
-    {
-        "question" : "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
-        "answer" : "Rs. 698"
-    },
-    {
-        "question" : "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
-        "answer" : "Rs. 6400"
-    },
-    {
-        "question" : "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
-        "answer" : "Rs. 8925"
-    },
-    {
-        "question" : "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
-        "answer" : "4 years"
-    },
-    {
-        "question" : "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
-        "answer" : "6"
-    },
-    {
-        "question" : "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest?",
-        "answer" : "6%"
-    },
-    {
-        "question" : "An automobile financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 10%, the effective rate of interest becomes:",
-        "answer" : "10.25%"
-    },
-    {
-        "question" : "A lent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
-        "answer" : "10%"
-    },
-    {
-        "question" : "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
-        "answer" : " 3.46%"
-    },
-    {
-        "question" : "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
-        "answer" : "Rs. 15,000"
-    },
-    {
-        "question" : "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
-        "answer" : "12%"
-    },
-    {
-        "question" : "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
-        "answer" : "2 : 3"
-    },
-    {
-        "question" : "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
-        "answer" : "Since the principal is not given, so data is inadequate."
-    },
-    {
-        "question" : "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6% p.a for 2 years. Find his gain in the transaction per year.",
-        "answer" : "Rs. 112.50"
-    },
-    {
-        "question" : "Rs. 800 becomes Rs. 956 in 3 years at a certain rate of simple interest. If the rate of interest is increased by 4%, what amount will Rs. 800 become in 3 years",
-        "answer" : "1052"
-    },
-    {
-        "question" : "In how many years Rs 150 will produce the same interest at 8% as Rs. 800 produce in 3 years at 9/2%",
-        "answer" : "9"
-    },
-    {
-        "question" : "A sum of money amounts to Rs 9800 after 5 years and Rs 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is",
-        "answer" : "12%"
-    },
-    {
-        "question" : "The rate of interest for the first 2 years is 4% per annum, for the next 3 years is 7.5% per annum and for the period beyond 5 years 12.5% per annum. If a man gets Rs 1075 as a simple interest for 6 years, how much money did he deposit?",
-        "answer" : "3000"
-    },
-    {
-        "question" : "Thiru took a loan at 10% p.a. S.I. After 4 years, he returned the principal along with the interest. If he returns in all Rs. 3500, what is the principal amount?",
-        "answer" : "2500"
-    },
-    {
-        "question" : "Find the simple interest on Rs 7000 at 50/3 % for 9 months",
-        "answer" : "875"
-    },
-    {
-        "question" : "Find the simple interest on the Rs. 2000 at 25/4% per annum for the period from 4th Feb 2005 to 18th April 2005",
-        "answer" : "25"
-    },
-    {
-        "question" : "If A lends Rs. 3500 to B at 10% p.a. and B lends the same sum to C at 11.5% p.a., then the gain of B (in Rs.) in a period of 3 years is",
-        "answer" : "157.5"
-    },
-    {
-        "question" : "At what rate percent per annum will the simple interest on a sum of money be 2/5 of the amount in 10 years",
-        "answer" : "4"
-    },
-    {
-        "question" : "A sum becomes five times of itself in 20 years. It will become 7 times itself in how many years?",
-        "answer" : "30"
-    },
-    {
-        "question" : "Some amount out of Rs. 7,000 was lent at 6% per annum and the remaining at 4% per annum. If the total simple interest from both the fractions in 5 years was Rs. 1600, the sum lent at 6% per annum was:",
-        "answer" : "2000"
-    },
-    {
-        "question" : "Thiru has invested Rs. 5000 for 2 years at the rate of 8%. How much more money he should invest at the rate of 15% to get the overall interest of 10%? (Assume Simple interest)",
-        "answer" : "2000"
-    },
-    {
-        "question" : "A sum of Rs. 1550 was lent partially at 5% and partially at 8% per annum simple interest. The total interest received after 4 years was Rs. 400. The ratio of the money lent at 5% to that lent at 8% is:",
-        "answer" : "16:15"
-    },
-    {
-        "question" : "What annual payment will discharge a debt of Rs.6450 due in 4 years at 5% simple interest?",
-        "answer" : "Rs.1500"
-    },
-    {
-        "question" : "A sum of Rs.6450 is borrowed at 5% simple interest and is paid back in 4 equal annual installments. What is amount of each installment?",
-        "answer" : "Rs.1800"
-    },
-    {
-        "question" : "What will be the simple interest on Rs. 80,000 at 16(2/3) % per annum for 9 months?",
-        "answer" : "10,000"
-    },
-    {
-        "question" : "Find the simple interest on Rs. 5000 at 6 % per annum for the period from 5th Feb to 19th April, 2015.",
-        "answer" : " Rs. 60"
-    },
-    {
-        "question" : "Suresh borrows Rs. 10,000 for 2 years at 4 % p.a. simple interest. He lends it to Ramesh at 6 % p.a. for 2 years. Find his gain in this transaction per year.",
-        "answer" : "Rs. 200"
-    },
-    {
-        "question" : "At what rate percent per annum will sum of money double in 20 years?",
-        "answer" : " 5 %"
-    },
-    {
-        "question" : "John took a loan of Rs. 1500 with simple interest for as many years as the rate of interest. If he paid Rs. 540 as interest at the end of loan period, what was the rate of interest?",
-        "answer" : "6 %"
-    },
-    {
-        "question" : " A sum of Rs. 12,000 amounts to Rs. 15,000 in 4 years at the rate of simple interest. Find the rate of interest.",
-        "answer" : "6.25 %"
-    },
-    {
-        "question" : "Nikhil borrowed some money at the rate of interest 5 % p.a. for first 2 years, 8 % p.a. for next 5 years and 10 % p.a. for a period beyond 7 years. If he pays total interest of Rs. 8000 at the end of 10 years, then find the money Nikhil borrowed.",
-        "answer" : " Rs. 10,000"
-    },
-    {
-        "question" : " A sum was put at simple interest at a certain rate for 2 years. Had it been put at 2 % higher rate, it would have fetched Rs. 400 more. Find the sum.",
-        "answer" : "10000"
-    },
-    {
-        "question" : "The S.I. on a certain sum of money for 4 years at 15 % per annum is Rs. 180 more than S.I. on same sum for 5 years at 10 % per annum. Find the sum.",
-        "answer" : " 1800"
-    },
-    {
-        "question" : "The difference between two numbers is 1550. If 8 % of one number is 10 % of the other number, then find the two numbers",
-        "answer" : "6200, 7750"
-    },
-    {
-        "question" : "Two numbers P and Q are such that, the sum of 2 % of P and Sum of 2 % of Q is two-third of the sum of 2 % of P and 6 % of Q. Find the ratio of P and Q.",
-        "answer" : "3 : 1"
-    },
-    {
-        "question" : "50 % of a number is 18 less than two-third of that number. Find the number.",
-        "answer" : "108"
-    },
-    {
-        "question" : "When 35 is subtracted from a number; it reduces to its 80 %. Find the four-fifth of that number.",
-        "answer" : "140"
-    },
-    {
-        "question" : "The value of lathe machine depreciates at the rate of 10 % per annum. If the cost of machine at present is Rs. 160,000, then what will be its worth after 2 years?",
-        "answer" : " Rs. 129,600"
-    },
-    {
-        "question" : "The value of Xerox machine depreciates at the rate of 10 % per annum. If the cost of machine at present is Rs. 75,000 then what was the value of machine before 2 years?",
-        "answer" : "Rs. 92,600"
-    },
-    {
-        "question" : "The current birth rate per thousand is 30, whereas corresponding death rate is 10 per thousand. Find the net growth rate in terms of population increase in percent.",
-        "answer" : "2 %"
-    },
-    {
-        "question" : "The total population of a city is 6500.The number of males and females increases by 5 % and 10 % respectively and consequently the population becomes 7000. Find the number of males in the village.",
-        "answer" : "3000"
-    },
-    {
-        "question" : "The present population of a country is 10 crores. If it rises to 17.28 crores during next 3 years, then find uniform rate of growth in population.",
-        "answer" : "20 %"
-    },
-    {
-        "question" : "The population of different trees in a field increased by 10 % in first year, increased by 8 % in second year and decreased by 10 % in third year. If at present the number of trees is 26730, then find the number of tress in the beginning.",
-        "answer" : "25000"
-    },
-    {
-        "question" : "The price of diesel increases by 50 %. Find by how much percent a truck owner must reduce his consumption in order to maintain the same budget?",
-        "answer" : "33.33 %"
-    },
-    {
-        "question" : "The price of rice falls by 15 %. By what percentage a person can increase the consumption of rice so that his overall budget does not change?",
-        "answer" : "17.64 %"
-    },
-    {
-        "question" : "In an examination, P scored 30 % marks and failed by 15 marks. Q scored 40 % marks and obtained 35 marks more than those required to pass. Find the pass percentage.",
-        "answer" : "33 %"
-    },
-    {
-        "question" : " In a science examination, the average obtained by entire class was 80 marks. If 10 % of students scored 92 marks and 20 % of students scored 90 marks, then what was the average of remaining students?",
-        "answer" : " 75.43"
-    },
-    {
-        "question" : "A student attempts x number of questions. He answers 15 correctly out of first 20 questions and of the remaining questions, he answers 1/3 correctly. If all questions have same credit and the student gets 50 % marks, then find the value of x.",
-        "answer" : "50"
-    },
-    {
-        "question" : "A man took loan from a bank at the rate of 12% p.a. simple interest. After 3 years he had to pay Rs. 5400 interest only for the period. The principal amount borrowed by him was:",
-        "answer" : "Rs.15000"
-    },
-    {
-        "question" : "At what rate percent per annum will a sum of money double in 8 years.",
-        "answer" : "12.5%"
-    },
-    {
-        "question" : "How much time will take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest  ?",
-        "answer" : "4 years"
-    },
-    {
-        "question" : "A certain sum of money amounts to Rs 1008 in 2 years and to Rs 1164 in 3 ½  years. Find the sum and the rate of interest.",
-        "answer" : "800, 13%"
-    },
-    {
-        "question" : "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
-        "answer" : "698"
-    },
-    {
-        "question" : "What annual instalment will discharge a debt of Rs 1092 due in 3 years at 12% simple interest?",
-        "answer" : "Rs.325"
-    },
-    {
-        "question" : "A person borrows Rs. 5000 for 2 years at 4% p.a. simple interest. He immediately lends it to another person at 6(1/4) p.a for 2 years. Find his gain in the transaction per year",
-        "answer" : "Rs. 112.50"
-    },
-    {
-        "question" : "A sum was put at simple interest at a certain rate for 3 years. Had it been put at 2% higher rate, it would have fetched Rs 360 more. Find the sum.",
-        "answer" : " Rs.6000"
-    },
-    {
-        "question" : "Simple interest on a certain sum is 16/25 of the sum. Find the rate percent and time, If both are numerically equal.",
-        "answer" : "Rate = 8% and Time = 8 years."
-    },
-    {
-        "question" : "A father left a will of Rs.35 lakhs between his two daughters aged 8.5 and 16 such that they may get equal amounts when each of them reach the age of 21 years. The original amount of Rs.35 lakhs has been instructed to be invested at 10% p.a. simple interest. How much did the elder daughter get at the time of the will?",
-        "answer" : "21 lakhs"
-    },
-    {
-        "question" : "A sum of Rs.1550 was lent partly at 8% p.a. simple interest. The total interest received after 3 years was Rs.300. The ratio of the money lent at 5% to that lent at 8% is :",
-        "answer" : "16:15"
-    },
-    {
-        "question" : "In how many years will a sum of Rs.800 at 10% per annum compounded semi annually become Rs.926.10",
-        "answer" : "1.5"
-    },
-    {
-        "question" : "At what rate of compound interest per annum will a sum of rs.1200 becomes rs.1348.32 in 2 years",
-        "answer" : "66%"
-    },
-    {
-        "question" : "A certain amount earns simple interest of Rs. 1750 after 7 years. Had the interest been 2% more, how much more interest would it have earned?",
-        "answer" : "We need to know the S.I, principal and time to find the rate. Since the principal is not given, so data is inadequate."
-    },
-    {
-        "question" : "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both the loans. What was the original rate of interest?",
-        "answer" : "3.46%"
-    },
-    {
-        "question" : "Find: S.l. on Rs 6250 at 14% per annum for 146 days.",
-        "answer" : " Rs.350"
-    },
-    {
-        "question" : "A sum of money becomes 7/6 of itself in 3 years at a certain rate of simple interest. The rate per annum is ?",
-        "answer" : "50/9 %"
-    },
-    {
-        "question" : "A Certain sum of money an amounts to Rs 2500 in a span Of 5 years and further to Rs.3000 in a span of 7 years at simple interest The sum is ?",
-        "answer" : "Rs. 1250"
-    },
-    {
-        "question" : "A sum of Rs. 12,500 amounts to Rs. 15,500 in 4 years at the rate of simple interest. What is the rate of interest",
-        "answer" : " 6%"
-    },
-    {
-        "question" : "The difference between the simple interest received from two different sources on Rs.1500 for 3 years is Rs.13.50. The difference between their rates of interest is",
-        "answer" : "0.3%"
-    },
-    {
-        "question" : "A man borrowed Rs 24000 from two money lenders. For one loan, he paid 15% per annum and for the other 18% per annum. At the end of one year, he paid Rs 4050. How much did he borrow at each rate ?",
-        "answer" : "Rs.15000"
-    },
-    {
-        "question" : "How long will it take for a sum of money to grow from Rs.1250 to Rs.10,000, if it is invested at 12.5% p.a simple interest?",
-        "answer" : "56years"
-    },
-    {
-        "question" : "A sum was put at simple interest at a certain rate for 10 years . Had it been put at 5% higher rate , it would have fetched Rs.600 more. What was the Sum?",
-        "answer" : " Rs.1200"
-    },
-    {
-        "question" : "The interest on a certain deposit at 4.5% p.a. is Rs. 202.50 in one year. How much will the additional interest in one year be on the same deposit at 5% p.a.  ?",
-        "answer" : "Rs. 22.5"
-    },
-    {
-        "question" : "A sum of money amounts to Rs. 9800 after 5 years and Rs. 12005 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
-        "answer" : " 12%"
-    },
-    {
-        "question" : "A person takes a loan of Rs. 200 at 5% simple interest. He returns Rs.100 at the end of one year. In order clear his dues at the end of 2 years, he would pay : ",
-        "answer" : "Rs. 115"
-    },
-    {
-        "question" : "Rs.1500 is divided into two parts such that if one part is invested at 6% and the other at 5% the whole annual interest from both the sum is Rs.85. How much was lent at 5% ?",
-        "answer" : "Rs. 500"
-    },
-    {
-        "question" : "A sum of money invested for a certain number of years at 8% p.a. simple interest grows to Rs.180. The same sum of money invested for the same number of years at 4% p.a. simple interest grows to Rs.120 only. For how many years was the sum invested?",
-        "answer" : "25years"
-    },
-    {
-        "question" : "If the C.I. on a sum for 2 years at 12 1/2 % per annum is Rs. 510, the S.I. on the same sum at the same rate for the same period of time is   ?",
-        "answer" : "Rs. 480"
-    },
-    {
-        "question" : "A sum of money triples itself in 8 years simple interest. Find the rate of percent per annum?",
-        "answer" : "25%"
-    },
-    {
-        "question" : "The simple interest on Rs. 25 for 4 months at the rate of 3 paise per rupee per month is :",
-        "answer" : " Rs. 3"
-    },
-    {
-        "question" : "The simple interest on Rs.10 for 4 months at the rate of 3 paise per month is",
-        "answer" : " 1.2 Paise"
-    },
-    {
-        "question" : "The simple interest on a sum of money will be Rs.600 after 10 years. If the principal is trebled after 5 years what will be the total interest at the end of the tenth year ?",
-        "answer" : " Rs. 1200"
-    },
-    {
-        "question" : "What will be the ratio of simple interest earned by certain amount at the same rate of interest for 6 years and that for 9 years?",
-        "answer" : "2:3"
-    },
-    {
-        "question" : "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
-        "answer" : "4 years"
-    },
-    {
-        "question" : "An automobile financier claims to be lending money at S.I., but he includes the interest every six months for calculating the principal. If he is charging an interest of 8%, the effective rate of interest becomes ?",
-        "answer" : "8.16 %"
-    },
-    {
-        "question" : "An automobile financier claims to be lending money at simple interest, but he includesthe interest every six months for calculating the principal. If he is charging an interest of10%, the effective rate of interest becomes:",
-        "answer" : "10.25%"
-    },
-    {
-        "question" : "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of Interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
-        "answer" : "6"
-    },
-    {
-        "question" : "A Rent Rs. 5000 to B for 2 years and Rs. 3000 to C for 4 years on simple interest at the same rate of interest and received Rs. 2200 in all from both of them as interest. The rate of interest per annum is:",
-        "answer" : "10%"
-    },
-    {
-        "question" : "In what time will Rs. 1860 amount to Rs. 2641.20 at simple interest 12% per annum?",
-        "answer" : "3.5 years"
-    }
+        "question": "What is the formula for calculating simple interest?",
+        "options": ["I = PRT", "I = P + RT", "I = PT", "I = PR/T"],
+        "answer": "I = PRT",
+        "explanation": "The formula for calculating simple interest is: Interest (I) = Principal (P) × Rate (R) × Time (T)"
+      },
+      {
+        "question": "If the principal amount is $1000, the rate of interest is 5% per annum, and the time period is 2 years, what is the simple interest?",
+        "options": ["$100", "$200", "$250", "$500"],
+        "answer": "$100",
+        "explanation": "Using the formula I = PRT, we have I = 1000 × 0.05 × 2 = $100"
+      },
+      {
+        "question": "What does the principal represent in the context of simple interest?",
+        "options": ["The initial amount of money borrowed or invested", "The amount of interest earned", "The rate of interest", "The time period"],
+        "answer": "The initial amount of money borrowed or invested",
+        "explanation": "The principal represents the initial amount of money borrowed or invested."
+      },
+      {
+        "question": "If the principal amount is $500, the simple interest is $50, and the time period is 2 years, what is the rate of interest?",
+        "options": ["5%", "8%", "10%", "12%"],
+        "answer": "10%",
+        "explanation": "Using the formula I = PRT, we have 50 = 500 × R × 2. Solving for R, we get R = 50 / (500 × 2) = 0.1 or 10%"
+      },
+      {
+        "question": "What does the rate of interest represent in the context of simple interest?",
+        "options": ["The percentage increase in the principal amount", "The time period for which interest is calculated", "The annual interest rate expressed as a percentage", "The total amount of interest earned"],
+        "answer": "The annual interest rate expressed as a percentage",
+        "explanation": "The rate of interest represents the annual interest rate expressed as a percentage."
+      },
+      {
+        "question": "If the principal amount is $800, the rate of interest is 6% per annum, and the simple interest is $96, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula I = PRT, we have 96 = 800 × 0.06 × T. Solving for T, we get T = 96 / (800 × 0.06) = 2 years."
+      },
+      {
+        "question": "What does the time period represent in the context of simple interest?",
+        "options": ["The duration for which the principal is invested", "The frequency of interest calculation", "The time taken to double the principal", "The duration for which interest is calculated"],
+        "answer": "The duration for which interest is calculated",
+        "explanation": "The time period represents the duration for which interest is calculated."
+      },
+      {
+        "question": "If the rate of interest is 8% per annum, the time period is 3 years, and the simple interest is $240, what is the principal amount?",
+        "options": ["$750", "$800", "$900", "$1000"],
+        "answer": "$900",
+        "explanation": "Using the formula I = PRT, we have 240 = P × 0.08 × 3. Solving for P, we get P = 240 / (0.08 × 3) = $900."
+      },
+      {
+        "question": "If the principal amount is $1200, the rate of interest is 10% per annum, and the time period is 1 year, what is the simple interest?",
+        "options": ["$10", "$100", "$110", "$120"],
+        "answer": "$120",
+        "explanation": "Using the formula I = PRT, we have I = 1200 × 0.10 × 1 = $120."
+      },
+      {
+        "question": "If the simple interest is $80, the rate of interest is 4% per annum, and the time period is 5 years, what is the principal amount?",
+        "options": ["$800", "$1000", "$1200", "$2000"],
+        "answer": "$1000",
+        "explanation": "Using the formula I = PRT, we have 80 = P × 0.04 × 5. Solving for P, we get P = 80 / (0.04 × 5) = $1000."
+      },
+      {
+        "question": "If the principal amount is $1500, the simple interest is $375, and the time period is 5 years, what is the rate of interest?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "answer": "5%",
+        "explanation": "Using the formula I = PRT, we have 375 = 1500 × R × 5. Solving for R, we get R = 375 / (1500 × 5) = 0.05 or 5%."
+      },
+      {
+        "question": "What is the total amount when the principal is $2000, the rate of interest is 8% per annum, and the time period is 2 years?",
+        "options": ["$2080", "$2160", "$2240", "$2320"],
+        "answer": "$2240",
+        "explanation": "Total Amount = Principal + Simple Interest. Using the formula I = PRT, we have I = 2000 × 0.08 × 2 = $320. So, Total Amount = 2000 + 320 = $2240."
+      },
+      {
+        "question": "If the principal amount is $2500, the rate of interest is 6% per annum, and the simple interest is $900, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula I = PRT, we have 900 = 2500 × 0.06 × T. Solving for T, we get T = 900 / (2500 × 0.06) = 3 years."
+      },
+      {
+        "question": "What is the rate of interest if the principal is $3000, the time period is 4 years, and the simple interest is $960?",
+        "options": ["4%", "6%", "8%", "10%"],
+        "answer": "4%",
+        "explanation": "Using the formula I = PRT, we have 960 = 3000 × R × 4. Solving for R, we get R = 960 / (3000 × 4) = 0.04 or 4%."
+      },
+      {
+        "question": "If the rate of interest is 12% per annum, the time period is 2 years, and the simple interest is $720, what is the principal amount?",
+        "options": ["$2000", "$2500", "$3000", "$3500"],
+        "answer": "$3000",
+        "explanation": "Using the formula I = PRT, we have 720 = P × 0.12 × 2. Solving for P, we get P = 720 / (0.12 × 2) = $3000."
+      },
+      {
+        "question": "If the principal amount is $4000, the rate of interest is 5% per annum, and the time period is 3 years, what is the simple interest?",
+        "options": ["$600", "$800", "$900", "$1200"],
+        "answer": "$600",
+        "explanation": "Using the formula I = PRT, we have I = 4000 × 0.05 × 3 = $600."
+      },
+      {
+        "question": "If the simple interest is $150, the rate of interest is 6% per annum, and the time period is 5 years, what is the principal amount?",
+        "options": ["$2500", "$2000", "$1800", "$1500"],
+        "answer": "$2500",
+        "explanation": "Using the formula I = PRT, we have 150 = P × 0.06 × 5. Solving for P, we get P = 150 / (0.06 × 5) = $2500."
+      },
+      {
+        "question": "If the principal amount is $6000, the rate of interest is 8% per annum, and the simple interest is $1920, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "4 years",
+        "explanation": "Using the formula I = PRT, we have 1920 = 6000 × 0.08 × T. Solving for T, we get T = 1920 / (6000 × 0.08) = 4 years."
+      },
+      {
+        "question": "What is the rate of interest if the principal amount is $800, the time period is 3 years, and the simple interest is $120?",
+        "options": ["2%", "3%", "4%", "5%"],
+        "answer": "5%",
+        "explanation": "Using the formula I = PRT, we have 120 = 800 × R × 3. Solving for R, we get R = 120 / (800 × 3) = 0.05 or 5%."
+      },
+      {
+        "question": "What is the formula for calculating simple interest?",
+        "options": ["I = PRT", "I = P + RT", "I = PT", "I = PR/T"],
+        "answer": "I = PRT",
+        "explanation": "The formula for calculating simple interest is: Interest (I) = Principal (P) × Rate (R) × Time (T)"
+      },
+      {
+        "question": "In the formula I = PRT, what does 'I' represent?",
+        "options": ["Principal", "Rate", "Interest", "Time"],
+        "answer": "Interest",
+        "explanation": "In the formula I = PRT, 'I' represents the interest earned or charged."
+      },
+      {
+        "question": "In the formula I = PRT, what does 'P' represent?",
+        "options": ["Principal", "Rate", "Interest", "Time"],
+        "answer": "Principal",
+        "explanation": "In the formula I = PRT, 'P' represents the principal amount (the initial amount of money)."
+      },
+      {
+        "question": "In the formula I = PRT, what does 'R' represent?",
+        "options": ["Principal", "Rate", "Interest", "Time"],
+        "answer": "Rate",
+        "explanation": "In the formula I = PRT, 'R' represents the rate of interest per time period."
+      },
+      {
+        "question": "In the formula I = PRT, what does 'T' represent?",
+        "options": ["Principal", "Rate", "Interest", "Time"],
+        "answer": "Time",
+        "explanation": "In the formula I = PRT, 'T' represents the time period for which interest is calculated."
+      },
+      {
+        "question": "What is the formula to find the principal amount in simple interest?",
+        "options": ["P = I / (RT)", "P = I / (R + T)", "P = I - RT", "P = I / (R × T)"],
+        "answer": "P = I / (RT)",
+        "explanation": "The formula to find the principal amount in simple interest is: Principal (P) = Interest (I) / (Rate (R) × Time (T))"
+      },
+      {
+        "question": "What is the formula to find the rate of interest in simple interest?",
+        "options": ["R = I / (PT)", "R = I / (P + T)", "R = I - PT", "R = I / (P × T)"],
+        "answer": "R = I / (PT)",
+        "explanation": "The formula to find the rate of interest in simple interest is: Rate (R) = Interest (I) / (Principal (P) × Time (T))"
+      },
+      {
+        "question": "What is the formula to find the time period in simple interest?",
+        "options": ["T = I / (PR)", "T = I / (P + R)", "T = I - PR", "T = I / (P × R)"],
+        "answer": "T = I / (PR)",
+        "explanation": "The formula to find the time period in simple interest is: Time (T) = Interest (I) / (Principal (P) × Rate (R))"
+      },
+      {
+        "question": "If the principal amount is $1000, the rate of interest is 5% per annum, and the simple interest is $100, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 100 / (1000 × 0.05) = 2 years."
+      },
+      {
+        "question": "If the principal amount is $1500, the rate of interest is 8% per annum, and the simple interest is $240, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 240 / (1500 × 0.08) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 10% per annum, the time period is 3 years, and the simple interest is $300, what is the principal amount?",
+        "options": ["$800", "$1000", "$1500", "$2000"],
+        "answer": "$1000",
+        "explanation": "Using the formula P = I / (RT), we have P = 300 / (0.10 × 3) = $1000."
+      },
+      {
+        "question": "If the principal amount is $2000, the time period is 4 years, and the simple interest is $640, what is the rate of interest?",
+        "options": ["4%", "6%", "8%", "10%"],
+        "answer": "4%",
+        "explanation": "Using the formula R = I / (PT), we have R = 640 / (2000 × 4) = 0.08 or 8%. "
+      },
+      {
+        "question": "If the rate of interest is 12% per annum, the time period is 2 years, and the simple interest is $480, what is the principal amount?",
+        "options": ["$1600", "$2000", "$2400", "$3000"],
+        "answer": "$2000",
+        "explanation": "Using the formula P = I / (RT), we have P = 480 / (0.12 × 2) = $2000."
+      },
+      {
+        "question": "If the principal amount is $3000, the rate of interest is 6% per annum, and the simple interest is $540, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 540 / (3000 × 0.06) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 8% per annum, the time period is 3 years, and the simple interest is $720, what is the principal amount?",
+        "options": ["$2000", "$2400", "$2700", "$3000"],
+        "answer": "$3000",
+        "explanation": "Using the formula P = I / (RT), we have P = 720 / (0.08 × 3) = $3000."
+      },
+      {
+        "question": "If the principal amount is $4000, the rate of interest is 5% per annum, and the simple interest is $1000, what is the time period?",
+        "options": ["4 years", "5 years", "6 years", "7 years"],
+        "answer": "5 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 1000 / (4000 × 0.05) = 5 years."
+      },
+      {
+        "question": "If the rate of interest is 7% per annum, the time period is 2 years, and the simple interest is $420, what is the principal amount?",
+        "options": ["$1500", "$1800", "$2000", "$2400"],
+        "answer": "$3000",
+        "explanation": "Using the formula P = I / (RT), we have P = 420 / (0.07 × 2) = $3000."
+      },
+      {
+        "question": "If the principal amount is $2500, the rate of interest is 4% per annum, and the simple interest is $400, what is the time period?",
+        "options": ["4 years", "5 years", "6 years", "7 years"],
+        "answer": "4 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 400 / (2500 × 0.04) = 4 years."
+      },
+      {
+        "question": "If the principal amount is $2000, the rate of interest is 8% per annum, and the time period is 3 years, what is the simple interest?",
+        "options": ["$480", "$540", "$640", "$720"],
+        "answer": "$480",
+        "explanation": "Using the formula I = PRT, we have I = 2000 × 0.08 × 3 = $480."
+      },
+      {
+        "question": "If the principal amount is $3000, the rate of interest is 6% per annum, and the simple interest is $540, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 540 / (3000 × 0.06) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 10% per annum, the time period is 5 years, and the simple interest is $500, what is the principal amount?",
+        "options": ["$750", "$1000", "$1500", "$2000"],
+        "answer": "$1000",
+        "explanation": "Using the formula P = I / (RT), we have P = 500 / (0.10 × 5) = $1000."
+      },
+      {
+        "question": "If the principal amount is $4000, the time period is 2 years, and the simple interest is $640, what is the rate of interest?",
+        "options": ["4%", "6%", "8%", "10%"],
+        "answer": "4%",
+        "explanation": "Using the formula R = I / (PT), we have R = 640 / (4000 × 2) = 0.04 or 4%."
+      },
+      {
+        "question": "If the rate of interest is 12% per annum, the time period is 3 years, and the simple interest is $1080, what is the principal amount?",
+        "options": ["$2000", "$2500", "$3000", "$3500"],
+        "answer": "$2500",
+        "explanation": "Using the formula P = I / (RT), we have P = 1080 / (0.12 × 3) = $2500."
+      },
+      {
+        "question": "If the principal amount is $5000, the rate of interest is 7% per annum, and the simple interest is $2450, what is the time period?",
+        "options": ["3 years", "4 years", "5 years", "6 years"],
+        "answer": "5 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 2450 / (5000 × 0.07) = 5 years."
+      },
+      {
+        "question": "If the rate of interest is 9% per annum, the time period is 4 years, and the simple interest is $720, what is the principal amount?",
+        "options": ["$1000", "$1500", "$2000", "$2500"],
+        "answer": "$2000",
+        "explanation": "Using the formula P = I / (RT), we have P = 720 / (0.09 × 4) = $2000."
+      },
+      {
+        "question": "If the principal amount is $6000, the rate of interest is 8% per annum, and the simple interest is $1440, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 1440 / (6000 × 0.08) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 6% per annum, the time period is 3 years, and the simple interest is $360, what is the principal amount?",
+        "options": ["$1000", "$1200", "$1400", "$1600"],
+        "answer": "$1000",
+        "explanation": "Using the formula P = I / (RT), we have P = 360 / (0.06 × 3) = $1000."
+      },
+      {
+        "question": "If the principal amount is $8000, the rate of interest is 5% per annum, and the simple interest is $2000, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "5 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 2000 / (8000 × 0.05) = 5 years."
+      },
+      {
+        "question": "If the rate of interest is 7% per annum, the time period is 2 years, and the simple interest is $280, what is the principal amount?",
+        "options": ["$1000", "$1200", "$1400", "$1600"],
+        "answer": "$2000",
+        "explanation": "Using the formula P = I / (RT), we have P = 280 / (0.07 × 2) = $2000."
+      },
+      {
+        "question": "If the principal amount is $4000, the rate of interest is 4% per annum, and the simple interest is $640, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "4 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 640 / (4000 × 0.04) = 4 years."
+      },
+      {
+        "question": "If the rate of interest is 10% per annum, the time period is 3 years, and the simple interest is $900, what is the principal amount?",
+        "options": ["$2500", "$3000", "$3500", "$4000"],
+        "answer": "$3000",
+        "explanation": "Using the formula P = I / (RT), we have P = 900 / (0.10 × 3) = $3000."
+      },
+      {
+        "question": "If the principal amount is $5000, the rate of interest is 6% per annum, and the simple interest is $750, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 750 / (5000 × 0.06) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 8% per annum, the time period is 2 years, and the simple interest is $320, what is the principal amount?",
+        "options": ["$1000", "$1200", "$1400", "$1600"],
+        "answer": "$1000",
+        "explanation": "Using the formula P = I / (RT), we have P = 320 / (0.08 × 2) = $1000."
+      },
+      {
+        "question": "If the principal amount is $6000, the rate of interest is 5% per annum, and the simple interest is $1500, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "5 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 1500 / (6000 × 0.05) = 5 years."
+      },
+      {
+        "question": "If the rate of interest is 9% per annum, the time period is 4 years, and the simple interest is $1080, what is the principal amount?",
+        "options": ["$2000", "$2500", "$3000", "$3500"],
+        "answer": "$2000",
+        "explanation": "Using the formula P = I / (RT), we have P = 1080 / (0.09 × 4) = $2000."
+      },
+      {
+        "question": "If the principal amount is $7000, the rate of interest is 7% per annum, and the simple interest is $980, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 980 / (7000 × 0.07) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 8% per annum, the time period is 3 years, and the simple interest is $1200, what is the principal amount?",
+        "options": ["$1500", "$2000", "$2500", "$3000"],
+        "answer": "$2000",
+        "explanation": "Using the formula P = I / (RT), we have P = 1200 / (0.08 × 3) = $2000."
+      },
+      {
+        "question": "If the principal amount is $8000, the rate of interest is 6% per annum, and the simple interest is $960, what is the time period?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 960 / (8000 × 0.06) = 2 years."
+      },
+      {
+        "question": "If the principal amount is $2000, the rate of interest is 8% per annum, and the simple interest is $320, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 320 / (2000 × 0.08) = 1 year."
+      },
+      {
+        "question": "If the principal amount is $3000, the rate of interest is 6% per annum, and the simple interest is $450, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 450 / (3000 × 0.06) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 10% per annum, the principal amount is $2500, and the simple interest is $500, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 500 / (2500 × 0.10) = 2 years."
+      },
+      {
+        "question": "If the principal amount is $4000, the rate of interest is 4% per annum, and the simple interest is $480, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 480 / (4000 × 0.04) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 8% per annum, the principal amount is $5000, and the simple interest is $800, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 800 / (5000 × 0.08) = 1 year."
+      },
+      {
+        "question": "If the principal amount is $6000, the rate of interest is 5% per annum, and the simple interest is $900, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 900 / (6000 × 0.05) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 7% per annum, the principal amount is $7000, and the simple interest is $980, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 980 / (7000 × 0.07) = 1 year."
+      },
+      {
+        "question": "If the principal amount is $8000, the rate of interest is 6% per annum, and the simple interest is $960, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 960 / (8000 × 0.06) = 2 years."
+      },
+      {
+        "question": "If the rate of interest is 9% per annum, the principal amount is $2000, and the simple interest is $360, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 360 / (2000 × 0.09) = 2 years."
+      },
+      {
+        "question": "If the principal amount is $3000, the rate of interest is 8% per annum, and the simple interest is $720, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "3 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 720 / (3000 × 0.08) = 3 years."
+      },
+      {
+        "question": "If the rate of interest is 5% per annum, the principal amount is $4000, and the simple interest is $1000, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "5 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 1000 / (4000 × 0.05) = 5 years."
+      },
+      {
+        "question": "If the principal amount is $5000, the rate of interest is 7% per annum, and the simple interest is $350, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "0.5 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 350 / (5000 × 0.07) = 0.5 year."
+      },
+      {
+        "question": "If the rate of interest is 6% per annum, the principal amount is $6000, and the simple interest is $720, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 720 / (6000 × 0.06) = 1 year."
+      },
+      {
+        "question": "If the principal amount is $7000, the rate of interest is 9% per annum, and the simple interest is $630, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "0.5 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 630 / (7000 × 0.09) = 0.5 year."
+      },
+      {
+        "question": "If the rate of interest is 4% per annum, the principal amount is $8000, and the simple interest is $1600, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "2 years",
+        "explanation": "Using the formula T = I / (PR), we have T = 1600 / (8000 × 0.04) = 2 years."
+      },
+      {
+        "question": "If the principal amount is $9000, the rate of interest is 3% per annum, and the simple interest is $810, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 810 / (9000 × 0.03) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 2% per annum, the principal amount is $10000, and the simple interest is $200, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 200 / (10000 × 0.02) = 1 year."
+      },
+      {
+        "question": "If the principal amount is $11000, the rate of interest is 1% per annum, and the simple interest is $110, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 110 / (11000 × 0.01) = 1 year."
+      },
+      {
+        "question": "If the rate of interest is 10% per annum, the principal amount is $12000, and the simple interest is $1200, what is the time period?",
+        "options": ["1 year", "2 years", "3 years", "4 years"],
+        "answer": "1 year",
+        "explanation": "Using the formula T = I / (PR), we have T = 1200 / (12000 × 0.10) = 1 year."
+      },
+      {
+        "question": "A shopkeeper marks an item for $2000 and offers a discount of 20%. What is the discounted price?",
+        "options": ["$1600", "$1800", "$1900", "$2000"],
+        "answer": "$1600",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $2000 - (20% of $2000) = $2000 - $400 = $1600."
+      },
+      {
+        "question": "A shirt is marked for $50 and sold at a discount of 10%. What is the selling price?",
+        "options": ["$40", "$42", "$45", "$48"],
+        "answer": "$45",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $50 - (10% of $50) = $50 - $5 = $45."
+      },
+      {
+        "question": "A camera is marked for $800 and sold at a discount of 25%. What is the discounted price?",
+        "options": ["$600", "$650", "$700", "$750"],
+        "answer": "$600",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $800 - (25% of $800) = $800 - $200 = $600."
+      },
+      {
+        "question": "A book is marked for $30 and sold at a discount of 15%. What is the selling price?",
+        "options": ["$25", "$26", "$27", "$28"],
+        "answer": "$25",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $30 - (15% of $30) = $30 - $4.5 = $25."
+      },
+      {
+        "question": "A toy is marked for $120 and sold at a discount of 30%. What is the discounted price?",
+        "options": ["$84", "$90", "$96", "$100"],
+        "answer": "$84",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $120 - (30% of $120) = $120 - $36 = $84."
+      },
+      {
+        "question": "A laptop is marked for $1500 and sold at a discount of 12%. What is the selling price?",
+        "options": ["$1320", "$1360", "$1400", "$1440"],
+        "answer": "$1320",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $1500 - (12% of $1500) = $1500 - $180 = $1320."
+      },
+      {
+        "question": "A watch is marked for $80 and sold at a discount of 20%. What is the discounted price?",
+        "options": ["$64", "$68", "$72", "$76"],
+        "answer": "$64",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $80 - (20% of $80) = $80 - $16 = $64."
+      },
+      {
+        "question": "A mobile phone is marked for $500 and sold at a discount of 15%. What is the selling price?",
+        "options": ["$425", "$435", "$450", "$475"],
+        "answer": "$425",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $500 - (15% of $500) = $500 - $75 = $425."
+      },
+      {
+        "question": "A table is marked for $250 and sold at a discount of 20%. What is the discounted price?",
+        "options": ["$200", "$210", "$220", "$230"],
+        "answer": "$200",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $250 - (20% of $250) = $250 - $50 = $200."
+      },
+      {
+        "question": "A bicycle is marked for $180 and sold at a discount of 25%. What is the selling price?",
+        "options": ["$135", "$140", "$145", "$150"],
+        "answer": "$135",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $180 - (25% of $180) = $180 - $45 = $135."
+      },
+      {
+        "question": "A refrigerator is marked for $1200 and sold at a discount of 10%. What is the discounted price?",
+        "options": ["$1080", "$1100", "$1120", "$1150"],
+        "answer": "$1080",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $1200 - (10% of $1200) = $1200 - $120 = $1080."
+      },
+      {
+        "question": "A sofa set is marked for $2000 and sold at a discount of 25%. What is the discounted price?",
+        "options": ["$1500", "$1600", "$1700", "$1800"],
+        "answer": "$1500",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $2000 - (25% of $2000) = $2000 - $500 = $1500."
+      },
+      {
+        "question": "A television is marked for $600 and sold at a discount of 15%. What is the selling price?",
+        "options": ["$510", "$520", "$530", "$540"],
+        "answer": "$510",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $600 - (15% of $600) = $600 - $90 = $510."
+      },
+      {
+        "question": "A pair of shoes is marked for $80 and sold at a discount of 20%. What is the discounted price?",
+        "options": ["$64", "$66", "$68", "$70"],
+        "answer": "$64",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $80 - (20% of $80) = $80 - $16 = $64."
+      },
+      {
+        "question": "A jacket is marked for $150 and sold at a discount of 30%. What is the selling price?",
+        "options": ["$105", "$110", "$115", "$120"],
+        "answer": "$105",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $150 - (30% of $150) = $150 - $45 = $105."
+      },
+      {
+        "question": "A laptop is marked for $1200 and sold at a discount of 10%. What is the discounted price?",
+        "options": ["$1080", "$1100", "$1120", "$1150"],
+        "answer": "$1080",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $1200 - (10% of $1200) = $1200 - $120 = $1080."
+      },
+      {
+        "question": "A smartphone is marked for $500 and sold at a discount of 20%. What is the selling price?",
+        "options": ["$400", "$420", "$450", "$480"],
+        "answer": "$400",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $500 - (20% of $500) = $500 - $100 = $400."
+      },
+      {
+        "question": "A wristwatch is marked for $100 and sold at a discount of 25%. What is the discounted price?",
+        "options": ["$75", "$80", "$85", "$90"],
+        "answer": "$75",
+        "explanation": "Discounted price = Marked price - (Discount % of Marked price)\nDiscounted price = $100 - (25% of $100) = $100 - $25 = $75."
+      },
+      {
+        "question": "A refrigerator is marked for $800 and sold at a discount of 15%. What is the selling price?",
+        "options": ["$680", "$700", "$720", "$750"],
+        "answer": "$680",
+        "explanation": "Selling price = Marked price - (Discount % of Marked price)\nSelling price = $800 - (15% of $800) = $800 - $120 = $680."
+      },
+      {
+        "question": "If the principal amount is $2000, the rate of interest is 10% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$420", "$440", "$460", "$480"],
+        "answer": "$420",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 2000(1 + 10/100)^2 - 2000\nCompound Interest = 2000(1.1)^2 - 2000\nCompound Interest = $2200 - $2000 = $420."
+      },
+      {
+        "question": "If the principal amount is $3000, the rate of interest is 8% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$774.4", "$784.8", "$794.2", "$804.6"],
+        "answer": "$784.8",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 3000(1 + 8/100)^3 - 3000\nCompound Interest = 3000(1.08)^3 - 3000\nCompound Interest ≈ $3784.8 - $3000 ≈ $784.8."
+      },
+      {
+        "question": "If the principal amount is $4000, the rate of interest is 12% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$960", "$990", "$1020", "$1050"],
+        "answer": "$960",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 4000(1 + 12/100)^2 - 4000\nCompound Interest = 4000(1.12)^2 - 4000\nCompound Interest = $4480 - $4000 = $960."
+      },
+      {
+        "question": "If the principal amount is $5000, the rate of interest is 6% per annum, and the time period is 4 years, what is the compound interest?",
+        "options": ["$1364.48", "$1374.56", "$1384.64", "$1394.72"],
+        "answer": "$1374.56",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 5000(1 + 6/100)^4 - 5000\nCompound Interest = 5000(1.06)^4 - 5000\nCompound Interest ≈ $6374.56 - $5000 ≈ $1374.56."
+      },
+      {
+        "question": "If the principal amount is $6000, the rate of interest is 15% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$3435", "$3480", "$3525", "$3570"],
+        "answer": "$3570",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 6000(1 + 15/100)^3 - 6000\nCompound Interest = 6000(1.15)^3 - 6000\nCompound Interest ≈ $9570 - $6000 ≈ $3570."
+      },
+      {
+        "question": "If the principal amount is $7000, the rate of interest is 9% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$1323", "$1356", "$1392", "$1428"],
+        "answer": "$1428",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 7000(1 + 9/100)^2 - 7000\nCompound Interest = 7000(1.09)^2 - 7000\nCompound Interest ≈ $7928 - $7000 ≈ $1428."
+      },
+      {
+        "question": "If the principal amount is $8000, the rate of interest is 7% per annum, and the time period is 5 years, what is the compound interest?",
+        "options": ["$3515", "$3560", "$3605", "$3650"],
+        "answer": "$3560",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 8000(1 + 7/100)^5 - 8000\nCompound Interest = 8000(1.07)^5 - 8000\nCompound Interest ≈ $11560 - $8000 ≈ $3560."
+      },
+      {
+        "question": "If the principal amount is $9000, the rate of interest is 10% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$2700", "$2800", "$2900", "$3000"],
+        "answer": "$2700",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 9000(1 + 10/100)^3 - 9000\nCompound Interest = 9000(1.10)^3 - 9000\nCompound Interest ≈ $11700 - $9000 ≈ $2700."
+      },
+      {
+        "question": "If the principal amount is $10000, the rate of interest is 8% per annum, and the time period is 4 years, what is the compound interest?",
+        "options": ["$3418.4", "$3472.8", "$3527.2", "$3581.6"],
+        "answer": "$3581.6",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 10000(1 + 8/100)^4 - 10000\nCompound Interest = 10000(1.08)^4 - 10000\nCompound Interest ≈ $13581.6 - $10000 ≈ $3581.6."
+      },
+      {
+        "question": "If the principal amount is $11000, the rate of interest is 12% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$4465.6", "$4532.8", "$4600", "$4667.2"],
+        "answer": "$4532.8",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 11000(1 + 12/100)^3 - 11000\nCompound Interest = 11000(1.12)^3 - 11000\nCompound Interest ≈ $15532.8 - $11000 ≈ $4532.8."
+      },
+      {
+        "question": "If the principal amount is $12000, the rate of interest is 6% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$1440", "$1480", "$1520", "$1560"],
+        "answer": "$1440",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 12000(1 + 6/100)^2 - 12000\nCompound Interest = 12000(1.06)^2 - 12000\nCompound Interest ≈ $12744 - $12000 ≈ $1440."
+      },
+      {
+        "question": "If the principal amount is $13000, the rate of interest is 9% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$4095", "$4185", "$4275", "$4365"],
+        "answer": "$4185",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 13000(1 + 9/100)^3 - 13000\nCompound Interest = 13000(1.09)^3 - 13000\nCompound Interest ≈ $17185 - $13000 ≈ $4185."
+      },
+      {
+        "question": "If the principal amount is $14000, the rate of interest is 11% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$3364", "$3432", "$3500", "$3568"],
+        "answer": "$3364",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 14000(1 + 11/100)^2 - 14000\nCompound Interest = 14000(1.11)^2 - 14000\nCompound Interest ≈ $17564 - $14000 ≈ $3364."
+      },
+      {
+        "question": "If the principal amount is $15000, the rate of interest is 8% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$4368", "$4464", "$4560", "$4656"],
+        "answer": "$4464",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 15000(1 + 8/100)^3 - 15000\nCompound Interest = 15000(1.08)^3 - 15000\nCompound Interest ≈ $19464 - $15000 ≈ $4464."
+      },
+      {
+        "question": "If the principal amount is $16000, the rate of interest is 10% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$3200", "$3300", "$3400", "$3500"],
+        "answer": "$3200",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 16000(1 + 10/100)^2 - 16000\nCompound Interest = 16000(1.10)^2 - 16000\nCompound Interest ≈ $17600 - $16000 ≈ $3200."
+      },
+      {
+        "question": "If the principal amount is $17000, the rate of interest is 12% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$6804", "$6936", "$7068", "$7200"],
+        "answer": "$6936",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 17000(1 + 12/100)^3 - 17000\nCompound Interest = 17000(1.12)^3 - 17000\nCompound Interest ≈ $23936 - $17000 ≈ $6936."
+      },
+      {
+        "question": "If the principal amount is $18000, the rate of interest is 7% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$2520", "$2592", "$2664", "$2736"],
+        "answer": "$2520",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 18000(1 + 7/100)^2 - 18000\nCompound Interest = 18000(1.07)^2 - 18000\nCompound Interest ≈ $19224 - $18000 ≈ $2520."
+      },
+      {
+        "question": "If the principal amount is $19000, the rate of interest is 9% per annum, and the time period is 3 years, what is the compound interest?",
+        "options": ["$6859", "$6984", "$7110", "$7235"],
+        "answer": "$6984",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 19000(1 + 9/100)^3 - 19000\nCompound Interest = 19000(1.09)^3 - 19000\nCompound Interest ≈ $25984 - $19000 ≈ $6984."
+      },
+      {
+        "question": "If the principal amount is $20000, the rate of interest is 11% per annum, and the time period is 2 years, what is the compound interest?",
+        "options": ["$4840", "$4920", "$5000", "$5080"],
+        "answer": "$4840",
+        "explanation": "Compound Interest = P(1 + r/100)^n - P\nCompound Interest = 20000(1 + 11/100)^2 - 20000\nCompound Interest = 20000(1.11)^2 - 20000\nCompound Interest ≈ $24840 - $20000 ≈ $4840."
+      }
 ]

@@ -1,458 +1,656 @@
 [
     {
-        "question" : " A runner can complete a 750 m race in two and a half minutes. Will he be able to beat another runner who runs at 17.95 km/hr? ",
-        "answer" : "Speed of the first runner = 18 km / hr . Also, we are given that the speed of the second runner is 17.95 km/hr. Therefore, the first runner can beat the second runner."
+    "question": "Two cars are moving towards each other. One is moving at 50 km/h and the other at 40 km/h. In how many seconds will they meet?",
+    "options": ["1500 seconds", "1800 seconds", "2000 seconds", "2250 seconds"],
+    "answer": "1500 seconds",
+    "explanation": "Relative speed = 50 + 40 = 90 km/h\nTime taken = Distance / Relative speed\nTime taken = (0 + 0) / 90 * 3600 = 1500 seconds."
     },
     {
-        "question" : "A man decided to cover a distance of 6 km in 84 minutes. He decided to cover two-thirds of the distance at 4 km/hr and the remaining at some different speed. Find the speed after the two-third distance has been covered.",
-        "answer" : "5 km / hr "
+    "question": "Two trains are moving towards each other. One is moving at 60 km/h and the other at 45 km/h. In how many seconds will they meet if they are 500 km apart?",
+    "options": ["4500 seconds", "5000 seconds", "5500 seconds", "6000 seconds"],
+    "answer": "4500 seconds",
+    "explanation": "Relative speed = 60 + 45 = 105 km/h\nTime taken = Distance / Relative speed\nTime taken = 500 / 105 * 3600 = 4500 seconds."
     },
     {
-        "question" : " A postman traveled from his post office to a village in order to distribute mail. He started on his bicycle from the post office at a speed of 25 km/hr. But, when he was about to return, a thief stole his bicycle. As a result, he had to walk back to the post office on foot at the speed of 4 km/hr. If the traveling part of his day lasted for 2 hours and 54 minutes, find the distance between the post office and the village.",
-        "answer" : "10km"
+    "question": "Two cyclists start from the same point and ride in opposite directions. One rides at 15 km/h and the other at 20 km/h. How far apart will they be after 2 hours?",
+    "options": ["70 km", "80 km", "90 km", "100 km"],
+    "answer": "70 km",
+    "explanation": "Relative speed = 15 + 20 = 35 km/h\nDistance = Speed * Time\nDistance = 35 * 2 = 70 km."
     },
     {
-        "question" : "Walking at the speed of 5 km/hr from his home, a geek misses his train by 7 minutes. Had he walked 1 km/hr faster, he would have reached the station 5 minutes before the actual departure time of the train. Find the distance between his home and the station. ",
-        "answer" : "6 km"
+    "question": "Two boats are moving towards each other. One moves at 10 km/h in still water, and the other moves at 15 km/h. If they meet after 2 hours, what is the speed of the stream?",
+    "options": ["2.5 km/h", "3 km/h", "3.5 km/h", "4 km/h"],
+    "answer": "2.5 km/h",
+    "explanation": "Relative speed = 10 + 15 = 25 km/h\nDistance = Relative speed * Time\nDistance = 25 * 2 = 50 km\nSince they are moving towards each other, their relative speed is equal to the sum of their speeds in still water, plus the speed of the stream. So, 25 = (10 + 15) + 2 * speed of stream. Solving this, speed of stream = 2.5 km/h."
     },
     {
-        "question" : "Two stations B and M are 465 km distant. A train starts from B towards M at 10 AM with a speed of 65 km/hr. Another train leaves from M towards B at 11 AM at a speed of 35 km/hr. Find the time when both trains meet. ",
-        "answer" : "Thus, the trains meet at 4 hours after 11 AM, i.e., 3 PM. "
+    "question": "Two trains travel in the same direction. One train travels at 45 km/h and the other at 30 km/h. If the faster train passes a man sitting in the slower train in 6 seconds, find the length of the faster train.",
+    "options": ["120 meters", "135 meters", "150 meters", "165 meters"],
+    "answer": "120 meters",
+    "explanation": "Relative speed = 45 - 30 = 15 km/h = 15 * 5 / 18 m/s = 25/6 m/s\nDistance = Relative speed * Time\nDistance = (25/6) * 6 = 25 meters\nLength of the faster train = Distance = 25 meters."
     },
     {
-        "question" : "A policeman sighted a robber from a distance of 300 m. The robber also noticed the policeman and started running at 8 km/hr. The policeman also started running after him at the speed of 10 km/hr. Find the distance that the robber would run before being caught.",
-        "answer" : "Distance run by the robber = 8 x 0.15 = 1.2 km "
+    "question": "Two cars start from the same point and travel in the same direction. One car travels at 40 km/h and the other at 50 km/h. If the faster car passes the slower car in 3 hours, find the distance between the two cars when the faster car overtakes the slower one.",
+    "options": ["150 km", "160 km", "170 km", "180 km"],
+    "answer": "150 km",
+    "explanation": "Relative speed = 50 - 40 = 10 km/h\nTime taken = 3 hours\nDistance = Relative speed * Time\nDistance = 10 * 3 = 30 km\nThe faster car overtakes the slower car after traveling 30 km. So, the distance between them when the faster car overtakes the slower one = 30 km + 120 km = 150 km."
     },
     {
-        "question" : "To cover a certain distance, a geek had two options, either to ride a horse or to walk. If he walked one side and rode back the other side, it would have taken 4 hours. If he had walked both ways, it would have taken 6 hours. How much time will he take if he rode the horse both ways?",
-        "answer" : "2 hours "
+    "question": "Two buses start from the same point and travel towards each other. One bus travels at 30 km/h and the other at 40 km/h. If they meet after 2 hours, find the distance between their starting points.",
+    "options": ["130 km", "140 km", "150 km", "160 km"],
+    "answer": "130 km",
+    "explanation": "Relative speed = 30 + 40 = 70 km/h\nTime taken = 2 hours\nDistance = Relative speed * Time\nDistance = 70 * 2 = 140 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both buses. So, the distance between their starting points = 140 km."
     },
     {
-        "question" : "A train running at a speed of 36 km/hr and 100 meter long. Find the time in which it passes a man standing near the railway line is : ",
-        "answer" : "36 km/hr "
+    "question": "Two cyclists start from the same point and ride in opposite directions. One rides at 10 km/h and the other at 15 km/h. After how much time will they be 50 km apart?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "answer": "3 hours",
+    "explanation": "Relative speed = 10 + 15 = 25 km/h\nDistance = 50 km\nTime taken = Distance / Relative speed\nTime taken = 50 / 25 = 2 hours."
     },
     {
-        "question" : "If an employee walks 10 km at a speed of 3 km/hr, he will be late by 20 minutes. If he walks at 4 km/hr, how early from the fixed time he will reach ? ",
-        "answer" : "30 minutes"
+    "question": "Two trains start from the same point and travel towards each other. One train travels at 60 km/h and the other at 45 km/h. If they meet after 4 hours, find the distance between their starting points.",
+    "options": ["360 km", "400 km", "450 km", "480 km"],
+    "answer": "450 km",
+    "explanation": "Relative speed = 60 + 45 = 105 km/h\nTime taken = 4 hours\nDistance = Relative speed * Time\nDistance = 105 * 4 = 420 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both trains. So, the distance between their starting points = 420 km."
     },
     {
-        "question" : "The diameter of each wheel of a truck is 140 cm, If each wheel rotates 300 times per minute then the speed of the truck (in km/hr) (take pi=22/7) ",
-        "answer" : "79.2 km/hr "
+    "question": "Two boats start from the same point and travel towards each other. One boat travels at 12 km/h and the other at 18 km/h. If they meet after 2 hours, find the distance between their starting points.",
+    "options": ["30 km", "36 km", "42 km", "48 km"],
+    "answer": "42 km",
+    "explanation": "Relative speed = 12 + 18 = 30 km/h\nTime taken = 2 hours\nDistance = Relative speed * Time\nDistance = 30 * 2 = 60 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both boats. So, the distance between their starting points = 60 km."
     },
     {
-        "question" : "A man drives at the rate of 18 km/hr, but stops at red light for 6 minutes at the end of every 7 km. The time that he will take to cover a distance of 90 km is ",
-        "answer" : "6 hour 12 minute "
+    "question": "Two cyclists start from the same point and ride towards each other. One rides at 15 km/h and the other at 20 km/h. After how much time will they meet if they are 45 km apart initially?",
+    "options": ["1.5 hours", "2 hours", "2.5 hours", "3 hours"],
+    "answer": "2 hours",
+    "explanation": "Relative speed = 15 + 20 = 35 km/h\nDistance = 45 km\nTime taken = Distance / Relative speed\nTime taken = 45 / 35 = 1.5 hours."
     },
     {
-        "question" : "Two jeep start from a police station with a speed of 20 km/hr at intervals of 10 minutes.A man coming from opposite direction towards the police station meets the jeep at an interval of 8 minutes.Find the speed of the man. ",
-        "answer" : "5 km/hr"
+    "question": "Two buses start from the same point and travel towards each other. One bus travels at 40 km/h and the other at 50 km/h. If they meet after 2.5 hours, find the distance between their starting points.",
+    "options": ["225 km", "250 km", "275 km", "300 km"],
+    "answer": "250 km",
+    "explanation": "Relative speed = 40 + 50 = 90 km/h\nTime taken = 2.5 hours\nDistance = Relative speed * Time\nDistance = 90 * 2.5 = 225 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both buses. So, the distance between their starting points = 225 km."
     },
     {
-        "question" : "Two city A and B are 27 km away. Two buses start from A and B in the same direction with speed 24 km/hr and 18 km/hr respectively. Both meet at point C beyond B. Find the distance BC. ",
-        "answer" : " 81 km "
+    "question": "Two trains start from the same point and travel towards each other. One train travels at 70 km/h and the other at 50 km/h. If they meet after 2 hours, find the distance between their starting points.",
+    "options": ["120 km", "140 km", "160 km", "180 km"],
+    "answer": "120 km",
+    "explanation": "Relative speed = 70 + 50 = 120 km/h\nTime taken = 2 hours\nDistance = Relative speed * Time\nDistance = 120 * 2 = 240 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both trains. So, the distance between their starting points = 240 km."
     },
     {
-        "question" : "A man travels 800 km by train at 80 km/hr, 420 km by car at 60 km/hr and 200 km by cycle at 20 km/hr. What is the average speed of the journey? ",
-        "answer" : "1420/27 km/hr "
+    "question": "Two cars start from the same point and travel in the same direction. One car travels at 60 km/h and the other at 45 km/h. If the faster car overtakes the slower car in 4 hours, find the distance between the two cars when the faster car overtakes the slower one.",
+    "options": ["180 km", "200 km", "220 km", "240 km"],
+    "answer": "180 km",
+    "explanation": "Relative speed = 60 - 45 = 15 km/h\nTime taken = 4 hours\nDistance = Relative speed * Time\nDistance = 15 * 4 = 60 km\nThe faster car overtakes the slower car after traveling 60 km. So, the distance between them when the faster car overtakes the slower one = 60 km."
     },
     {
-        "question" : "Ram and Shyam start at the same with speed 10 km/hr and 11 km/hr respectively. ",
-        "answer" : "88 km "
+    "question": "Two cyclists start from the same point and ride in opposite directions. One rides at 12 km/h and the other at 18 km/h. After how much time will they be 72 km apart?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "answer": "2 hours",
+    "explanation": "Relative speed = 12 + 18 = 30 km/h\nDistance = 72 km\nTime taken = Distance / Relative speed\nTime taken = 72 / 30 = 2.4 hours."
     },
     {
-        "question" : "A person covered a certain distance at some speed. Had he moved 4 km/hr faster, he would have taken 30 minutes less. If he had moved 3 km/hr slower, he would have taken 30 minutes more. Find the distance (in km) ",
-        "answer" : "84 km "
+    "question": "Two trains start from the same point and travel towards each other. One train travels at 65 km/h and the other at 50 km/h. If they meet after 3 hours, find the distance between their starting points.",
+    "options": ["285 km", "295 km", "305 km", "315 km"],
+    "answer": "315 km",
+    "explanation": "Relative speed = 65 + 50 = 115 km/h\nTime taken = 3 hours\nDistance = Relative speed * Time\nDistance = 115 * 3 = 345 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both trains. So, the distance between their starting points = 345 km."
     },
     {
-        "question" : "Ram and Shyam start from the same place P at same time towards Q, which are 60km apart. Ram’s speed is 4 km/hr more than that of Shyam.Ram turns back after reaching Q and meet Shyam at 12 km distance from Q.Find the speed of Shyam. ",
-        "answer" : "8 km/hr"
+    "question": "Two boats start from the same point and travel towards each other. One boat travels at 16 km/h and the other at 24 km/h. If they meet after 1.5 hours, find the distance between their starting points.",
+    "options": ["30 km", "36 km", "42 km", "48 km"],
+    "answer": "36 km",
+    "explanation": "Relative speed = 16 + 24 = 40 km/h\nTime taken = 1.5 hours\nDistance = Relative speed * Time\nDistance = 40 * 1.5 = 60 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both boats. So, the distance between their starting points = 60 km."
     },
     {
-        "question" : "A and B run a kilometre and A wins by 20 second. A and C run a kilometre and A wins by 250 m. When B and C run the same distance, B wins by 25 second. The time taken by A to run a kilometre is ",
-        "answer" : "2 min 15 second"
+    "question": "Two cyclists start from the same point and ride towards each other. One rides at 18 km/h and the other at 24 km/h. After how much time will they meet if they are 54 km apart initially?",
+    "options": ["1.5 hours", "2 hours", "2.5 hours", "3 hours"],
+    "answer": "2 hours",
+    "explanation": "Relative speed = 18 + 24 = 42 km/h\nDistance = 54 km\nTime taken = Distance / Relative speed\nTime taken = 54 / 42 ≈ 1.2857 hours ≈ 1.286 hours ≈ 2 hours (approx)."
     },
     {
-        "question" : "A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?",
-        "answer" : "7.2"
+    "question": "Two buses start from the same point and travel towards each other. One bus travels at 45 km/h and the other at 60 km/h. If they meet after 1.5 hours, find the distance between their starting points.",
+    "options": ["112.5 km", "120 km", "127.5 km", "135 km"],
+    "answer": "112.5 km",
+    "explanation": "Relative speed = 45 + 60 = 105 km/h\nTime taken = 1.5 hours\nDistance = Relative speed * Time\nDistance = 105 * 1.5 = 157.5 km\nSince they are moving towards each other, the distance between their starting points is equal to the sum of the distances traveled by both buses. So, the distance between their starting points = 157.5 km."
     },
     {
-        "question" : "An aeroplane covers a certain distance at a speed of 240 kmph in 5 hours. To cover the same distance in 1(2/3)hours, it must travel at a speed of:",
-        "answer" : "720 kmph"
+    "question": "A car travels 240 km at a speed of 60 km/h and then 180 km at a speed of 45 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["50 km/h", "52.5 km/h", "55 km/h", "57.5 km/h"],
+    "answer": "52.5 km/h",
+    "explanation": "Total distance = 240 + 180 = 420 km\nTotal time taken = (240 / 60) + (180 / 45) = 4 + 4 = 8 hours\nAverage speed = Total distance / Total time taken = 420 / 8 = 52.5 km/h."
     },
     {
-        "question" : "If a person walks at 14 km/hr instead of 10 km/hr, he would have walked 20 km more. The actual distance travelled by him is:",
-        "answer" : "50 km"
+    "question": "A person cycles 30 km at a speed of 10 km/h and then 50 km at a speed of 15 km/h. What is the average speed of the person for the entire journey?",
+    "options": ["12.5 km/h", "13 km/h", "13.5 km/h", "14 km/h"],
+    "answer": "13 km/h",
+    "explanation": "Total distance = 30 + 50 = 80 km\nTotal time taken = (30 / 10) + (50 / 15) = 3 + 3.33 ≈ 6.33 hours\nAverage speed = Total distance / Total time taken = 80 / 6.33 ≈ 12.62 km/h ≈ 13 km/h."
     },
     {
-        "question" : "A train can travel 50% faster than a car. Both start from point A at the same time and reach point B 75 kms away from A at the same time. On the way, however, the train lost about 12.5 minutes while stopping at the stations. The speed of the car is:",
-        "answer" : "120 kmph"
+    "question": "A train travels 300 km at a speed of 60 km/h and then 150 km at a speed of 75 km/h. What is the average speed of the train for the entire journey?",
+    "options": ["64 km/h", "66 km/h", "68 km/h", "70 km/h"],
+    "answer": "66 km/h",
+    "explanation": "Total distance = 300 + 150 = 450 km\nTotal time taken = (300 / 60) + (150 / 75) = 5 + 2 = 7 hours\nAverage speed = Total distance / Total time taken = 450 / 7 = 64.28 km/h ≈ 66 km/h."
     },
     {
-        "question" : "Excluding stoppages, the speed of a bus is 54 kmph and including stoppages, it is 45 kmph. For how many minutes does the bus stop per hour?",
-        "answer" : "10"
+    "question": "A car travels 120 km at a speed of 40 km/h and then 180 km at a speed of 60 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["50 km/h", "52 km/h", "54 km/h", "56 km/h"],
+    "answer": "52 km/h",
+    "explanation": "Total distance = 120 + 180 = 300 km\nTotal time taken = (120 / 40) + (180 / 60) = 3 + 3 = 6 hours\nAverage speed = Total distance / Total time taken = 300 / 6 = 50 km/h."
     },
     {
-        "question" : "In a flight of 600 km, an aircraft was slowed down due to bad weather. Its average speed for the trip was reduced by 200 km/hr and the time of flight increased by 30 minutes. The duration of the flight is:",
-        "answer" : "1 hour"
+    "question": "A cyclist covers 40 km at a speed of 20 km/h and then 60 km at a speed of 30 km/h. What is the average speed of the cyclist for the entire journey?",
+    "options": ["24 km/h", "25 km/h", "26 km/h", "27 km/h"],
+    "answer": "24 km/h",
+    "explanation": "Total distance = 40 + 60 = 100 km\nTotal time taken = (40 / 20) + (60 / 30) = 2 + 2 = 4 hours\nAverage speed = Total distance / Total time taken = 100 / 4 = 25 km/h."
     },
     {
-        "question" : "A man complete a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and second half at the rate of 24 km/hr. Find the total journey in km.",
-        "answer" : "224 km"
+    "question": "A bus travels 180 km at a speed of 60 km/h and then 240 km at a speed of 80 km/h. What is the average speed of the bus for the entire journey?",
+    "options": ["66 km/h", "68 km/h", "70 km/h", "72 km/h"],
+    "answer": "66 km/h",
+    "explanation": "Total distance = 180 + 240 = 420 km\nTotal time taken = (180 / 60) + (240 / 80) = 3 + 3 = 6 hours\nAverage speed = Total distance / Total time taken = 420 / 6 = 70 km/h."
     },
     {
-        "question" : "The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:",
-        "answer" : "87.5 km/hr"
+    "question": "A car travels 150 km at a speed of 50 km/h and then 200 km at a speed of 80 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["58 km/h", "60 km/h", "62 km/h", "64 km/h"],
+    "answer": "60 km/h",
+    "explanation": "Total distance = 150 + 200 = 350 km\nTotal time taken = (150 / 50) + (200 / 80) = 3 + 2.5 = 5.5 hours\nAverage speed = Total distance / Total time taken = 350 / 5.5 = 63.64 km/h ≈ 64 km/h."
     },
     {
-        "question" : "A man on tour travels first 160 km at 64 km/hr and the next 160 km at 80 km/hr. The average speed for the first 320 km of the tour is:",
-        "answer" : "71.11 km/hr"
+    "question": "A train travels 250 km at a speed of 75 km/h and then 300 km at a speed of 100 km/h. What is the average speed of the train for the entire journey?",
+    "options": ["82 km/h", "84 km/h", "86 km/h", "88 km/h"],
+    "answer": "82 km/h",
+    "explanation": "Total distance = 250 + 300 = 550 km\nTotal time taken = (250 / 75) + (300 / 100) = 3.33 + 3 = 6.33 hours\nAverage speed = Total distance / Total time taken = 550 / 6.33 ≈ 86.85 km/h ≈ 87 km/h."
     },
     {
-        "question" : "A car travelling with 5/7 of its actual speed covers 42 km in 1 hr 40 min 48 sec. Find the actual speed of the car.",
-        "answer" : "35 km/hr"
+    "question": "A car travels 120 km at a speed of 40 km/h and then 200 km at a speed of 60 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["48 km/h", "50 km/h", "52 km/h", "54 km/h"],
+    "answer": "50 km/h",
+    "explanation": "Total distance = 120 + 200 = 320 km\nTotal time taken = (120 / 40) + (200 / 60) = 3 + 3.33 ≈ 6.33 hours\nAverage speed = Total distance / Total time taken = 320 / 6.33 ≈ 50.47 km/h ≈ 50 km/h."
     },
     {
-        "question" : "The ratio between the speeds of two trains is 7 : 8. If the second train runs 400 km in 4 hours, then the speed of the first train is:",
-        "answer" : "87.5 km/hr"
+    "question": "A cyclist covers 80 km at a speed of 25 km/h and then 120 km at a speed of 30 km/h. What is the average speed of the cyclist for the entire journey?",
+    "options": ["27 km/h", "28 km/h", "29 km/h", "30 km/h"],
+    "answer": "28 km/h",
+    "explanation": "Total distance = 80 + 120 = 200 km\nTotal time taken = (80 / 25) + (120 / 30) = 3.2 + 4 = 7.2 hours\nAverage speed = Total distance / Total time taken = 200 / 7.2 ≈ 27.78 km/h ≈ 28 km/h."
     },
     {
-        "question" : "In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay's speed is:",
-        "answer" : "5 kmph"
+    "question": "A train travels 180 km at a speed of 60 km/h and then 240 km at a speed of 80 km/h. What is the average speed of the train for the entire journey?",
+    "options": ["66 km/h", "68 km/h", "70 km/h", "72 km/h"],
+    "answer": "66 km/h",
+    "explanation": "Total distance = 180 + 240 = 420 km\nTotal time taken = (180 / 60) + (240 / 80) = 3 + 3 = 6 hours\nAverage speed = Total distance / Total time taken = 420 / 6 = 70 km/h."
     },
     {
-        "question" : "Robert is travelling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
-        "answer" : "12 kmph"
+    "question": "A car travels 150 km at a speed of 50 km/h and then 200 km at a speed of 80 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["58 km/h", "60 km/h", "62 km/h", "64 km/h"],
+    "answer": "60 km/h",
+    "explanation": "Total distance = 150 + 200 = 350 km\nTotal time taken = (150 / 50) + (200 / 80) = 3 + 2.5 = 5.5 hours\nAverage speed = Total distance / Total time taken = 350 / 5.5 = 63.64 km/h ≈ 64 km/h."
     },
     {
-        "question" : "It takes eight hours for a 600 km journey, if 120 km is done by train and the rest by car. It takes 20 minutes more, if 200 km is done by train and the rest by car. The ratio of the speed of the train to that of the cars is:",
-        "answer" : "3 : 4"
+    "question": "A cyclist covers 80 km at a speed of 25 km/h and then 120 km at a speed of 30 km/h. What is the average speed of the cyclist for the entire journey?",
+    "options": ["27 km/h", "28 km/h", "29 km/h", "30 km/h"],
+    "answer": "28 km/h",
+    "explanation": "Total distance = 80 + 120 = 200 km\nTotal time taken = (80 / 25) + (120 / 30) = 3.2 + 4 = 7.2 hours\nAverage speed = Total distance / Total time taken = 200 / 7.2 ≈ 27.78 km/h ≈ 28 km/h."
     },
     {
-        "question" : "A farmer travelled a distance of 61 km in 9 hours. He travelled partly on foot @ 4 km/hr and partly on bicycle @ 9 km/hr. The distance travelled on foot is:",
-        "answer" : "16 km"
+    "question": "A train travels 180 km at a speed of 60 km/h and then 240 km at a speed of 80 km/h. What is the average speed of the train for the entire journey?",
+    "options": ["66 km/h", "68 km/h", "70 km/h", "72 km/h"],
+    "answer": "66 km/h",
+    "explanation": "Total distance = 180 + 240 = 420 km\nTotal time taken = (180 / 60) + (240 / 80) = 3 + 3 = 6 hours\nAverage speed = Total distance / Total time taken = 420 / 6 = 70 km/h."
     },
     {
-        "question" : "A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is:",
-        "answer" : "40"
+    "question": "A car travels 150 km at a speed of 50 km/h and then 200 km at a speed of 80 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["58 km/h", "60 km/h", "62 km/h", "64 km/h"],
+    "answer": "60 km/h",
+    "explanation": "Total distance = 150 + 200 = 350 km\nTotal time taken = (150 / 50) + (200 / 80) = 3 + 2.5 = 5.5 hours\nAverage speed = Total distance / Total time taken = 350 / 5.5 = 63.64 km/h ≈ 64 km/h."
     },
     {
-        "question" : "A person travels from one place to another at 30 km/hr and returns at 120 km/hr. If the total time taken is 5 hours, then find the Distance.",
-        "answer" : "120 km"
+    "question": "A cyclist covers 80 km at a speed of 25 km/h and then 120 km at a speed of 30 km/h. What is the average speed of the cyclist for the entire journey?",
+    "options": ["27 km/h", "28 km/h", "29 km/h", "30 km/h"],
+    "answer": "28 km/h",
+    "explanation": "Total distance = 80 + 120 = 200 km\nTotal time taken = (80 / 25) + (120 / 30) = 3.2 + 4 = 7.2 hours\nAverage speed = Total distance / Total time taken = 200 / 7.2 ≈ 27.78 km/h ≈ 28 km/h."
     },
     {
-        "question" : "Traveling at 3/4th of the original Speed a train is 10 minutes late. Find the usual Time taken by the train to complete the journey?",
-        "answer" : "30 minutes."
+    "question": "A train travels 180 km at a speed of 60 km/h and then 240 km at a speed of 80 km/h. What is the average speed of the train for the entire journey?",
+    "options": ["66 km/h", "68 km/h", "70 km/h", "72 km/h"],
+    "answer": "66 km/h",
+    "explanation": "Total distance = 180 + 240 = 420 km\nTotal time taken = (180 / 60) + (240 / 80) = 3 + 3 = 6 hours\nAverage speed = Total distance / Total time taken = 420 / 6 = 70 km/h."
     },
     {
-        "question" : "After traveling 50km, a train meets with an accident and travels at (3/4)th of the usual Speed and reaches 45 min late. Had the accident happened 10km further on it would have reached 35 min late. Find the usual Speed?",
-        "answer" : "20 km/hr"
+    "question": "A car travels 150 km at a speed of 50 km/h and then 200 km at a speed of 80 km/h. What is the average speed of the car for the entire journey?",
+    "options": ["58 km/h", "60 km/h", "62 km/h", "64 km/h"],
+    "answer": "60 km/h",
+    "explanation": "Total distance = 150 + 200 = 350 km\nTotal time taken = (150 / 50) + (200 / 80) = 3 + 2.5 = 5.5 hours\nAverage speed = Total distance / Total time taken = 350 / 5.5 = 63.64 km/h ≈ 64 km/h."
     },
     {
-        "question" : "A man travels from his home to office at 4km/hr and reaches his office 20 min late. If the Speed had been 6 km/hr he would have reached 10 min early. Find the distance from his home to office.",
-        "answer" : "6 km"
+    "question": "A car travels a distance of 360 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "6 hours", "8 hours", "10 hours"],
+    "answer": "4 hours",
+    "explanation": "Time = Distance / Speed = 360 km / 90 km/h = 4 hours."
     },
     {
-        "question" : "Ram can row a boat in still water at 10 kmph. He decides to go boating in a river. To row upstream he takes 2 hours and to row downstream he takes 1 ½ hours. Find the Speed of the river.",
-        "answer" : "10/7 kmph"
+    "question": "A train travels a distance of 500 km at a speed of 100 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "5 hours", "6 hours", "7 hours"],
+    "answer": "5 hours",
+    "explanation": "Time = Distance / Speed = 500 km / 100 km/h = 5 hours."
     },
     {
-        "question" : "Ram and Shyam are standing at two ends of a room with a width of 30 m. They start walking towards each other along the width of the room with a Speed of 2 m/s and 1 m/s, respectively. Find the total distance travelled by Ram when he meets Shyam for the third time.",
-        "answer" : "400m"
+    "question": "A cyclist covers a distance of 240 km at a speed of 30 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 240 km / 30 km/h = 8 hours."
     },
     {
-        "question" : "A man decided to cover a distance of 6 km in 84 minutes. He decided to cover two thirds of the distance at 4 km / hr and the remaining at some different speed. Find the speed after the two third distance has been covered.",
-        "answer" : "5 kmph"
+    "question": "A car travels a distance of 450 km at a speed of 75 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "6 hours", "8 hours", "10 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 450 km / 75 km/h = 6 hours."
     },
     {
-        "question" : "While going to office, Ramesh travels at a speed of 30 kmph and on his way back, he travels at a speed of 45 kmph. What is his average speed of the whole journey?",
-        "answer" : "36 kmph"
+    "question": "A bus travels a distance of 720 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["10 hours", "12 hours", "14 hours", "16 hours"],
+    "answer": "12 hours",
+    "explanation": "Time = Distance / Speed = 720 km / 60 km/h = 12 hours."
     },
     {
-        "question" : "A person crosses a 600 m long street in 5 minutes, What is his speed in km per hour?",
-        "answer" : "7.2"
+    "question": "A train travels a distance of 600 km at a speed of 75 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 600 km / 75 km/h = 8 hours."
     },
     {
-        "question" : "The speed of a car increases by 2 kms after every one hour. If the distance travelling in the first one hour was 35 kms. what was the total distance travelled in 12 hours?",
-        "answer" : "552 kms"
+    "question": "A cyclist covers a distance of 360 km at a speed of 40 km/h. How long does it take to cover this distance?",
+    "options": ["8 hours", "9 hours", "10 hours", "12 hours"],
+    "answer": "9 hours",
+    "explanation": "Time = Distance / Speed = 360 km / 40 km/h = 9 hours."
     },
     {
-        "question" : "A thief is noticed by a policeman from a distance of 200 m. The thief starts running and the policeman chases him. The thief and the policeman run at the rate of 10 km and 11 km per hour respectively. What is the distance between them after 6 minutes?",
-        "answer" : "100 m"
+    "question": "A car travels a distance of 540 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "6 hours", "8 hours", "10 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 540 km / 90 km/h = 6 hours."
     },
     {
-        "question" : "A man on tour travels first 160 km at 64 km/hr and the next 160 km at 80 km/hr. The average speed for the first 320 km of the tour is",
-        "answer" : "71.11 km/hr"
+    "question": "A bus travels a distance of 960 km at a speed of 80 km/h. How long does it take to cover this distance?",
+    "options": ["10 hours", "12 hours", "14 hours", "16 hours"],
+    "answer": "12 hours",
+    "explanation": "Time = Distance / Speed = 960 km / 80 km/h = 12 hours."
     },
     {
-        "question" : "Two trains A and B start simultaneously in the opposite direction from two points P and Q and arrive at their destinations 16 and 9 hours respectively after their meeting each other. At what speed does the second train B travel if the first train travels at 120 km/h",
-        "answer" : "160 km/h"
+    "question": "A train travels a distance of 720 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 720 km / 90 km/h = 8 hours."
     },
     {
-        "question" : "A man reaches his office 20 min late, if he walks from his home at 3 km per hour and reaches 30 min early if he walks 4 km per hour. How far is his office from his house ?",
-        "answer" : "10 km"
+    "question": "A cyclist covers a distance of 480 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["8 hours", "9 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 480 km / 60 km/h = 8 hours."
     },
     {
-        "question" : "Two horses start trotting towards each other, one from A to B and another from B to A. They cross each other after one hour and the first horse reaches B, 5/6 hour before the second horse reaches A. If the distance between A and B is 50 km. what is the speed of the slower horse?",
-        "answer" : "20 km/h"
+    "question": "A car travels a distance of 630 km at a speed of 70 km/h. How long does it take to cover this distance?",
+    "options": ["9 hours", "10 hours", "11 hours", "12 hours"],
+    "answer": "9 hours",
+    "explanation": "Time = Distance / Speed = 630 km / 70 km/h = 9 hours."
     },
     {
-        "question" : "The ratio between the speeds of two trains is 7: 8. If the second train runs 400 kms in 4 hours, then the speed of the first train is ?",
-        "answer" : " 87.5 km/hr"
+    "question": "A bus travels a distance of 840 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["12 hours", "14 hours", "16 hours", "18 hours"],
+    "answer": "14 hours",
+    "explanation": "Time = Distance / Speed = 840 km / 60 km/h = 14 hours."
     },
     {
-        "question" : "How long will a boy take to run round a square field of side 35 meters, If he runs at the rate of 9 km/hr?",
-        "answer" : "56 sec"
+    "question": "A train travels a distance of 900 km at a speed of 75 km/h. How long does it take to cover this distance?",
+    "options": ["10 hours", "12 hours", "14 hours", "16 hours"],
+    "answer": "12 hours",
+    "explanation": "Time = Distance / Speed = 900 km / 75 km/h = 12 hours."
     },
     {
-        "question" : "The distance of the college and home of Rajeev is 80km. One day he was late by 1 hour than the normal time to leave for the college, so he increased his speed by 4km/h and thus he reached  to college  at the normal time. What is the changed (or increased) speed of Rajeev?",
-        "answer" : "20 km/h"
+    "question": "A cyclist covers a distance of 400 km at a speed of 50 km/h. How long does it take to cover this distance?",
+    "options": ["8 hours", "9 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 400 km / 50 km/h = 8 hours."
     },
     {
-        "question" : "A man walking at the rate of 5 km/hr crosses a bridge in 15 minutes. The length of the bridge (in metres) is",
-        "answer" : "1250"
+    "question": "A car travels a distance of 450 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "5 hours", "6 hours", "7 hours"],
+    "answer": "5 hours",
+    "explanation": "Time = Distance / Speed = 450 km / 90 km/h = 5 hours."
     },
     {
-        "question" : "Akash leaves mumbai at 6 am and reaches Bangalore  at  10 am . Prakash leaves Bangalore at 8 am and reaches Mumbai at 11:30 am. At what time do they cross each other?",
-        "answer" : "8:56 am"
+    "question": "A bus travels a distance of 720 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["10 hours", "12 hours", "14 hours", "16 hours"],
+    "answer": "12 hours",
+    "explanation": "Time = Distance / Speed = 720 km / 60 km/h = 12 hours."
     },
     {
-        "question" : "A man traveled from the village to the post-office at the rate of 25 kmph and walked back at the rate of 4 kmph. If the whole journey took 5 hours 48 minutes, find the distance of the post-office from the village ?",
-        "answer" : "20 km"
+    "question": "A train travels a distance of 600 km at a speed of 75 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 600 km / 75 km/h = 8 hours."
     },
     {
-        "question" : "A man walks 6 km at a speed of 1(1/2) kmph, runs 8 km at a speed of 2 kmph and goes by bus another 32 km. Speed of the bus is 8 kmph. Find the average speed of the man in kmph.",
-        "answer" : "54/13 kmph"
+    "question": "A train travels a distance of 300 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "5 hours", "6 hours", "7 hours"],
+    "answer": "5 hours",
+    "explanation": "Time = Distance / Speed = 300 km / 60 km/h = 5 hours."
     },
     {
-        "question" : "If Deepesh had walked 20 km/h faster he woulh have saved 1 hour in the distance of 60km. what is the usual speed of Deepesh?",
-        "answer" : "100"
+    "question": "A train travels a distance of 450 km at a speed of 75 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "6 hours", "8 hours", "10 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 450 km / 75 km/h = 6 hours."
     },
     {
-        "question" : "Two trains starting at the same time from two stations 200 km apart and going in opposite directions cross each other at a distance of 110 km from one of the stations. What is the ratio of their speeds?",
-        "answer" : " 11 : 9"
+    "question": "A train travels a distance of 240 km at a speed of 80 km/h. How long does it take to cover this distance?",
+    "options": ["3 hours", "4 hours", "5 hours", "6 hours"],
+    "answer": "3 hours",
+    "explanation": "Time = Distance / Speed = 240 km / 80 km/h = 3 hours."
     },
     {
-        "question" : "A man takes 6 hours 15 minutes in walking a distance and riding back to the starting place. He could walk both ways in 7 hours 45 minutes. The time taken by him to ride both ways, is ",
-        "answer" : " 4 hours 45 minutes"
+    "question": "A train travels a distance of 600 km at a speed of 100 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 600 km / 100 km/h = 6 hours."
     },
     {
-        "question" : "Two persons start running simultaneously around a circular track of length 300 m from the same point at speeds of 15 km/hr and 25 km/hr. When will they meet for the first time any where on the track if they are moving in opposite directions  ?",
-        "answer" : " 27 sec"
+    "question": "A train travels a distance of 480 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 480 km / 60 km/h = 8 hours."
     },
     {
-        "question" : "A man covers half of his journey by train at 60 km/hr, half of the remaining by bus at 30 km/hr and the rest by cycle at 10 km/hr. Find his average speed during the entire journey?",
-        "answer" : "24 kmph"
+    "question": "A train travels a distance of 400 km at a speed of 80 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "5 hours", "6 hours", "7 hours"],
+    "answer": "5 hours",
+    "explanation": "Time = Distance / Speed = 400 km / 80 km/h = 5 hours."
     },
     {
-        "question" : "An employee may claim Rs. 7.00 for each km when he travels by taxi and Rs. 6.00 for each km if he drives his own car. If in one week he claimed Rs. 595 for traveling 90 km. How many kms did he travel by taxi ?",
-        "answer" : "55 kms"
+    "question": "A train travels a distance of 720 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 720 km / 90 km/h = 8 hours."
     },
     {
-        "question" : "With an average speed of 40 km/hr, a train reaches its destination in time. If it goes with an average speed of 35 km/hr, it is late by 15 minutes. Find the length of the total journey?",
-        "answer" : "70 kms"
+    "question": "A train travels a distance of 360 km at a speed of 120 km/h. How long does it take to cover this distance?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "answer": "3 hours",
+    "explanation": "Time = Distance / Speed = 360 km / 120 km/h = 3 hours."
     },
     {
-        "question" : "In a one km race A gives B a start of 100m and in a one km race B gives a start of 80 m to C. In a 1 km race who will win and by how much distance from the worst performer between two losers?",
-        "answer" : "172 m"
+    "question": "A train travels a distance of 540 km at a speed of 90 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "8 hours", "10 hours", "12 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 540 km / 90 km/h = 6 hours."
     },
     {
-        "question" : "A train overtakes two girls who are walking in the  opposite direction in which the train  is going at the rate of 3 km/h and 6km/h and passes them completely in 36 seconds and 30 seconds respectively. The length of the train is:",
-        "answer" : " 150m"
+    "question": "A train travels a distance of 300 km at a speed of 50 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 300 km / 50 km/h = 6 hours."
     },
     {
-        "question" : "The distance between two cities A and B is 330 Km. A train starts from A at 8 a.m. and travel towards B at 60 km/hr. Another train starts from B at 9 a.m and travels towards A at 75 Km/hr. At what time do they meet?",
-        "answer" : "11 a.m"
+    "question": "A train travels a distance of 480 km at a speed of 80 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 480 km / 80 km/h = 6 hours."
     },
     {
-        "question" : "A thief goes away with a MARUTHI car at a speed of 40 kmph. The theft has been discovered after half an hour and the owner sets off in a bike at 50 kmph when will the owner over take the thief from the start ?",
-        "answer" : "2 hrs"
+    "question": "A train travels a distance of 600 km at a speed of 100 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 600 km / 100 km/h = 6 hours."
     },
     {
-        "question" : "Two boys starting from the same place walk at a rate of 5kmph and 5.5kmph respectively. What time will they take to be 8.5km apart, if they walk in the same direction?",
-        "answer" : "17 hours"
+    "question": "A train travels a distance of 420 km at a speed of 70 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 420 km / 70 km/h = 6 hours."
     },
     {
-        "question" : "A person takes 20 minutes more to cover a certain distance by decreasing his speed by 20%. What is the time taken to cover the distance at his original speed ?",
-        "answer" : "1 hr 20 min"
+    "question": "A train travels a distance of 480 km at a speed of 80 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 480 km / 80 km/h = 6 hours."
     },
     {
-        "question" : "A person goes to his office at 1/3rd of the speed at which he returns from his office. If the average speed during the whole trip is 12 m /h . what is the speed of the person while he was going to his office?",
-        "answer" : "8"
+    "question": "A train travels a distance of 600 km at a speed of 120 km/h. How long does it take to cover this distance?",
+    "options": ["4 hours", "5 hours", "6 hours", "7 hours"],
+    "answer": "5 hours",
+    "explanation": "Time = Distance / Speed = 600 km / 120 km/h = 5 hours."
     },
     {
-        "question" : "The number of degrees that the hour hand of a clock moves through between noon and 2.30 in the afternoon of the same day is",
-        "answer" : " 75"
+    "question": "A train travels a distance of 480 km at a speed of 60 km/h. How long does it take to cover this distance?",
+    "options": ["8 hours", "9 hours", "10 hours", "12 hours"],
+    "answer": "8 hours",
+    "explanation": "Time = Distance / Speed = 480 km / 60 km/h = 8 hours."
     },
     {
-        "question" : "A man covers a distance of 1200 km in 70 days resting 9 hours a day, if he rests 10 hours a day and walks with speed 1½ times of the previous in how many days will he cover 840 km ?",
-        "answer" : "35 days"
+    "question": "A train travels a distance of 360 km at a speed of 120 km/h. How long does it take to cover this distance?",
+    "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+    "answer": "3 hours",
+    "explanation": "Time = Distance / Speed = 360 km / 120 km/h = 3 hours."
     },
     {
-        "question" : "A man whose speed is 4.5 kmph in still water rows to a certain upstream point and back to the starting point in a river which flows at 1.5 kmph, find his average speed for the total journey ?",
-        "answer" : "4 kmph"
+    "question": "A train travels a distance of 420 km at a speed of 70 km/h. How long does it take to cover this distance?",
+    "options": ["6 hours", "7 hours", "8 hours", "9 hours"],
+    "answer": "6 hours",
+    "explanation": "Time = Distance / Speed = 420 km / 70 km/h = 6 hours."
     },
     {
-        "question" : "The distance from town A to town B is five miles. C is six miles from B. Which of the following could be the maximum distance from A to C?",
-        "answer" : "11"
+    "question": "A boat travels upstream a distance of 24 km in 4 hours. If the speed of the stream is 2 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat upstream = (x - 2) km/h\nDistance = 24 km, Time = 4 hours\n24 = 4(x - 2)\n=> x - 2 = 6\n=> x = 8 km/h."
     },
     {
-        "question" : "Two bike riders ride in opposite directions around a circular track, starting at the same time from the same point. Biker A rides at a speed of 16 kmph and biker B rides at a speed of 14 kmph. If the track has a diameter of 40 km, after how much time (in hours) will the two bikers meet?",
-        "answer" : " 4.18"
+    "question": "A boat takes 5 hours to travel 30 km downstream and return upstream. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 4) km/h\nSpeed of boat upstream = (x - 4) km/h\nDistance = 30 km, Time = 5 hours\nDownstream: 30 = 5(x + 4)\nUpstream: 30 = 5(x - 4)\nSolving, x = 8 km/h."
     },
     {
-        "question" : "Excluding stoppages, the average speed of a bus is 60 km/hr and including stoppages, the average speed of the bus is 40 km/hr. For how many minutes does the bus stop per hour ?",
-        "answer" : "20 min"
+    "question": "A boat takes 6 hours to travel 36 km downstream and return upstream. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"],
+    "answer": "9 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 3) km/h\nSpeed of boat upstream = (x - 3) km/h\nDistance = 36 km, Time = 6 hours\nDownstream: 36 = 6(x + 3)\nUpstream: 36 = 6(x - 3)\nSolving, x = 9 km/h."
     },
     {
-        "question" : "A Person X started at 3 hours earlier  at 40km/h from a place P, then another person Y followed him at 60km/h. Started his journey at 3 O'clock, afternoon. What is the diference in time when X was30 km ahead of Y and when Y was 30 km ahead of X?",
-        "answer" : "3h"
+    "question": "A boat travels upstream a distance of 48 km in 8 hours. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["10 km/h", "12 km/h", "14 km/h", "16 km/h"],
+    "answer": "10 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat upstream = (x - 4) km/h\nDistance = 48 km, Time = 8 hours\n48 = 8(x - 4)\n=> x - 4 = 6\n=> x = 10 km/h."
     },
     {
-        "question" : "P is faster than Q. P and Q each walk 24 km. The sum of their speeds is 7 km/hr and the sum of times taken by them is 14 hours. Then, P's speed is equal to ?",
-        "answer" : " 4 km/hr"
+    "question": "A boat takes 4 hours to travel 32 km downstream and return upstream. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 3) km/h\nSpeed of boat upstream = (x - 3) km/h\nDistance = 32 km, Time = 4 hours\nDownstream: 32 = 4(x + 3)\nUpstream: 32 = 4(x - 3)\nSolving, x = 8 km/h."
     },
     {
-        "question" : "Two men A and B start from place X walking at 4 ½ kmph and 5 ¾ kmph respectively. How many km apart they are at the end of 3 ½ hours if they are walking in the same direction ?",
-        "answer" : "35/8 km"
+    "question": "A boat travels downstream a distance of 40 km in 5 hours. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"],
+    "answer": "9 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 3) km/h\nDistance = 40 km, Time = 5 hours\n40 = 5(x + 3)\n=> x + 3 = 8\n=> x = 9 km/h."
     },
     {
-        "question" : "A train of length 250 m crosses a bridge of length 150m in 20 seconds. What is the speed of train?",
-        "answer" : "72 km/h"
+    "question": "A boat takes 7 hours to travel 28 km downstream and return upstream. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 4) km/h\nSpeed of boat upstream = (x - 4) km/h\nDistance = 28 km, Time = 7 hours\nDownstream: 28 = 7(x + 4)\nUpstream: 28 = 7(x - 4)\nSolving, x = 8 km/h."
     },
     {
-        "question" : "A train covers a distance in 50 minutes, if it runs at a speed of 48kmph on an average. Find the speed at which the train must run to reduce the time of journey to 40 minutes.",
-        "answer" : "60 km/hr"
+    "question": "A boat travels downstream a distance of 36 km in 6 hours. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"],
+    "answer": "9 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 3) km/h\nDistance = 36 km, Time = 6 hours\n36 = 6(x + 3)\n=> x + 3 = 6\n=> x = 9 km/h."
     },
     {
-        "question" : "A man in a train notices that he can count 41 telephone posts in one minute. If they are known to be 50 metres apart, then at what speed is the train travelling?",
-        "answer" : "120 km/hr"
+    "question": "A boat takes 8 hours to travel 48 km downstream and return upstream. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["10 km/h", "12 km/h", "14 km/h", "16 km/h"],
+    "answer": "10 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 4) km/h\nSpeed of boat upstream = (x - 4) km/h\nDistance = 48 km, Time = 8 hours\nDownstream: 48 = 8(x + 4)\nUpstream: 48 = 8(x - 4)\nSolving, x = 10 km/h."
     },
     {
-        "question" : "A son and father goes for boating in river upstream . After rowing for 1 mile son notices the hat of his father falling in the river. After 5 min he tells his father that his hat has fallen. So they turn round and are able to pick the hat at the point from where they began boating after 5min. Find the speed of river  in miles/hours ?",
-        "answer" : "6 mile/hr"
+    "question": "A boat travels upstream a distance of 56 km in 8 hours. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["10 km/h", "12 km/h", "14 km/h", "16 km/h"],
+    "answer": "10 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat upstream = (x - 4) km/h\nDistance = 56 km, Time = 8 hours\n56 = 8(x - 4)\n=> x - 4 = 7\n=> x = 10 km/h."
     },
     {
-        "question" : "Jagan went to another town covering 240 km by car moving at 60 kmph. Then he covered 400km by train moving at 100 kmph and then rest 200 km he covered by a bus moving at 50 kmph. The average speed during the whole journey was ?",
-        "answer" : "70 kmph"
+    "question": "A boat takes 6 hours to travel 36 km downstream and return upstream. If the speed of the stream is 3 km/h, what is the speed of the boat in still water?",
+    "options": ["9 km/h", "12 km/h", "15 km/h", "18 km/h"],
+    "answer": "9 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 3) km/h\nSpeed of boat upstream = (x - 3) km/h\nDistance = 36 km, Time = 6 hours\nDownstream: 36 = 6(x + 3)\nUpstream: 36 = 6(x - 3)\nSolving, x = 9 km/h."
     },
     {
-        "question" : "Shahrukh starts from Barabanki to Fatehpur , 1 hour after Ajay starts. Shahrukh meets Kajol 1.5 hours after Shahrukh starts. If the speed of Shahrukh is at least 20km/h faster than the speed of Kajol. What is the minimum speed of Shahrukh to overtake Ajay, before he meets Kajol?",
-        "answer" : "67.5 km/h "
+    "question": "A boat travels downstream a distance of 24 km in 3 hours. If the speed of the stream is 2 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 2) km/h\nDistance = 24 km, Time = 3 hours\n24 = 3(x + 2)\n=> x + 2 = 8\n=> x = 6 km/h."
     },
     {
-        "question" : "Ashwin fires two bullets from the same place at an interval of 15 minutes but Rahul sitting in a bus approaching the place hears the second sound 14 minutes 30 seconds after the first. If sound travels at the speed of 330 meter per second, what is the approximate speed of bus?",
-        "answer" : " 330/29 m/s"
+    "question": "A boat takes 9 hours to travel 45 km downstream and return upstream. If the speed of the stream is 5 km/h, what is the speed of the boat in still water?",
+    "options": ["10 km/h", "12 km/h", "14 km/h", "16 km/h"],
+    "answer": "10 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 5) km/h\nSpeed of boat upstream = (x - 5) km/h\nDistance = 45 km, Time = 9 hours\nDownstream: 45 = 9(x + 5)\nUpstream: 45 = 9(x - 5)\nSolving, x = 10 km/h."
     },
     {
-        "question" : "Arjun and Bhishma are running on a circular track of length 600m. Speed of Arjun is 30 m/s and that of Bhishma is 20 m/s .They start fro the same point at the same time in the same direction. When will they meet again for the first time?",
-        "answer" : " 60 sec."
+    "question": "A boat travels upstream a distance of 40 km in 8 hours. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat upstream = (x - 4) km/h\nDistance = 40 km, Time = 8 hours\n40 = 8(x - 4)\n=> x - 4 = 5\n=> x = 9 km/h."
     },
     {
-        "question" : "A and B runs around a circular track. A beats B by one round or 10 minutes. In this race, they had completed 4 rounds. If the race was only of one round, find the A's time over the course:",
-        "answer" : "7.5 min"
+    "question": "A boat takes 7 hours to travel 49 km downstream and return upstream. If the speed of the stream is 7 km/h, what is the speed of the boat in still water?",
+    "options": ["14 km/h", "16 km/h", "18 km/h", "20 km/h"],
+    "answer": "14 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 7) km/h\nSpeed of boat upstream = (x - 7) km/h\nDistance = 49 km, Time = 7 hours\nDownstream: 49 = 7(x + 7)\nUpstream: 49 = 7(x - 7)\nSolving, x = 14 km/h."
     },
     {
-        "question" : "Two persons start running simultaneously around a circular track of length 600 m from the same point at speeds of 25 kmph and 35 kmph. When will they meet for the first time any where on the track  ?",
-        "answer" : "36 sec"
+    "question": "A boat travels downstream a distance of 40 km in 5 hours. If the speed of the stream is 8 km/h, what is the speed of the boat in still water?",
+    "options": ["12 km/h", "14 km/h", "16 km/h", "18 km/h"],
+    "answer": "12 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 8) km/h\nDistance = 40 km, Time = 5 hours\n40 = 5(x + 8)\n=> x + 8 = 8\n=> x = 12 km/h."
     },
     {
-        "question" : "A man walks at a speed of 2 km/hr and runs at a speed of 6 km/hr. How much time will the man require to cover a distance of 20 1/2 km, if he completes half of the distance, i.e., (10 1/4) km on foot and the other half by running ?",
-        "answer" : " 11.9 hrs"
+    "question": "A boat takes 6 hours to travel 30 km downstream and return upstream. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat downstream = (x + 4) km/h\nSpeed of boat upstream = (x - 4) km/h\nDistance = 30 km, Time = 6 hours\nDownstream: 30 = 6(x + 4)\nUpstream: 30 = 6(x - 4)\nSolving, x = 8 km/h."
     },
     {
-        "question" : "Ali travels a distance of 300 m in 2 minutes and 30 seconds. What is his speed in Kmph?",
-        "answer" : " 7.2"
+    "question": "A boat travels upstream a distance of 32 km in 8 hours. If the speed of the stream is 4 km/h, what is the speed of the boat in still water?",
+    "options": ["8 km/h", "10 km/h", "12 km/h", "14 km/h"],
+    "answer": "8 km/h",
+    "explanation": "Let the speed of the boat in still water be x km/h.\nSpeed of boat upstream = (x - 4) km/h\nDistance = 32 km, Time = 8 hours\n32 = 8(x - 4)\n=> x - 4 = 4\n=> x = 8 km/h."
     },
     {
-        "question" : "Vipin crosses a 450 metres wide road in 9 seconds. What is his speed (in km/hr)?",
-        "answer" : " 180"
+    "question": "A runner completes a circular track of circumference 500 meters in 50 seconds. What is his speed in meters per second?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 500 meters / 50 seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "A machine puts c caps on bottles in m minutes. How many hours will it take to put caps on b bottles",
-        "answer" : "bm/60c"
+    "question": "A cyclist completes a circular track of circumference 1000 meters in 2 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1000 meters / (2 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "A man covered a certain distance at some speed. Had he moved 3 kmph faster, he would have taken 40 minutes less. If he had moved 2 kmph slower, he would have taken 40 minutes more. The distance (in km) is ",
-        "answer" : " 40"
+    "question": "A car completes a circular track of circumference 1500 meters in 3 minutes. What is its speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1500 meters / (3 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "Running 3/4th of his usual rate, a man is 15min late. Find his usual time in hours  ?",
-        "answer" : "3/4 hrs"
+    "question": "A runner completes a circular track of circumference 600 meters in 2 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 600 meters / (2 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "A man is riding a bike with front and back wheel circumference of 40 inches and 70 inches respectively. If the man rides the bike on a straight road without slippage, how many inches will the man have travelled when the front wheel has made 15 revolutions more than the back wheel?",
-        "answer" : "1400"
+    "question": "A cyclist completes a circular track of circumference 800 meters in 1 minute. What is his speed in meters per second?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 800 meters / (1 * 60) seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "A bus covers its journey at the speed of 80km/hr in 10hours. If the same distance is to be covered in 4 hours, by how much the speed of bus will have to increase ?",
-        "answer" : "120 km/hr"
+    "question": "A car completes a circular track of circumference 1200 meters in 4 minutes. What is its speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1200 meters / (4 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "P, Q and R start simultaneously from A to B. P reaches B, turns back and meet Q at a distance of 11 km from B. Q reached B, turns back and meet R at a distance of 9 km from B. If the ratio of the speeds of P and R is 3:2, what is the distance between A and B ?",
-        "answer" : "99"
+    "question": "A runner completes a circular track of circumference 900 meters in 3 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 900 meters / (3 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "Mr. Karthik drives to work at an average speed of 48 km/hr. Time taken to cover the first 60% of the distance is 20 minutes more than the time taken to cover the remaining distance. Then how far is his office ?",
-        "answer" : "80 km"
+    "question": "A cyclist completes a circular track of circumference 1200 meters in 2 minutes. What is his speed in meters per second?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1200 meters / (2 * 60) seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "Two motor bikes cover the same distance at the speed of 60 and 64 kmps respectively. Find the distance traveled by them if the slower bike takes 1 hour more than the faster bike ?",
-        "answer" : "960 km"
+    "question": "A car completes a circular track of circumference 1800 meters in 3 minutes. What is its speed in meters per second?",
+    "options": ["10 m/s", "15 m/s", "20 m/s", "25 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1800 meters / (3 * 60) seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "K and L starts walking towards each other at 4 pm at speed of 3 km/hr and 4 km/hr respectively. They were initially 17.5 km apart. At what time do they meet ?",
-        "answer" : " 6:30 pm"
+    "question": "A runner completes a circular track of circumference 700 meters in 1 minute. What is his speed in meters per second?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 700 meters / (1 * 60) seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "Buses start from a bus terminal with a speed of 20 km/hr at intervals of 10 minutes. What is the speed of a man coming from the opposite direction towards the bus terminal if he meets the buses at intervals of 8 minutes?",
-        "answer" : "5 kmph"
+    "question": "A cyclist completes a circular track of circumference 1000 meters in 3 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1000 meters / (3 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "If Hema walks at 12 km/hr instead of 8 km/hr, she would have walked 20 km more. The actual distance travelled by Hema is ?",
-        "answer" : "40 kms"
+    "question": "A car completes a circular track of circumference 1500 meters in 5 minutes. What is its speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1500 meters / (5 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "A person travels from K to L a speed of 50 km/hr and returns by increasing his speed by 50%. What is his average speed for both the trips ?",
-        "answer" : " 60 kmph"
+    "question": "A runner completes a circular track of circumference 800 meters in 2 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 800 meters / (2 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : " A train covers 180 km distance in 5 hours. Another train covers the same distance in 1 hour less. What is the difference in the distances covered by these trains in one hour if they are moving in the same direction?",
-        "answer" : "9 kms"
+    "question": "A cyclist completes a circular track of circumference 1200 meters in 4 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1200 meters / (4 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "In what time a 360 m. long train moving at the speed of 44 km/hr will cross a 140 m. long bridge ?",
-        "answer" : "41 sec"
+    "question": "A car completes a circular track of circumference 1800 meters in 6 minutes. What is its speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1800 meters / (6 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "Two trains start from same place at same time at right angles to each other. Their speeds are 36km/hr and 48km/hr respectively. After 30 seconds the distance between them will be ?",
-        "answer" : "500 mts"
+    "question": "A runner completes a circular track of circumference 600 meters in 1 minute. What is his speed in meters per second?",
+    "options": ["10 m/s", "12 m/s", "14 m/s", "16 m/s"],
+    "answer": "10 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 600 meters / (1 * 60) seconds\nSpeed = 10 meters per second."
     },
     {
-        "question" : "Robert is traveling on his cycle and has calculated to reach point A at 2 p.m. if he travels at 10 km/hr; he will reach there at 12 noon if he travels at 15 km/hr. At what speed must he travel to reach A at 1 p.m. ?",
-        "answer" : "12 kmph"
+    "question": "A cyclist completes a circular track of circumference 900 meters in 3 minutes. What is his speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 900 meters / (3 * 60) seconds\nSpeed = 5 meters per second."
     },
     {
-        "question" : "Two stations A and B are 200 km apart on a straight track. One train starts from A at 7 a.m. and travels towards B at 20 kmph. Another train starts from B at 8 a.m. and travels towards A at a speed of 25 kmph. At what time will they meet?",
-        "answer" : "12 p.m."
-    },
-    {
-        "question" : "If a girl cycles at 10 kmph, then she arrives at a certain place at 1 p.m. If she cycles at 15 kmph, she will arrive at the same place at 11 a.m. At what speed must she cycle to get there at noon?",
-        "answer" : "12 kmph"
-    },
-    {
-        "question" : "Two trains 85 m and 75 m long are running in same direction with speeds of 62 km/hr and 44 km/hr respectively. In what time will the first train cross the second train ?",
-        "answer" : "32 sec"
-    },
-    {
-        "question" : "A 200 m long train passes a motorcycler, running in the same direction at 12 km/hr, in 15 second and a jeep travelling in the same direction in 20 s. At what speed is the car travelling (length of both the motorcycler and jeep is negligible)?",
-        "answer" : " 24 kmph"
-    },
-    {
-        "question" : "In a race of 800m Kaushik gives Piyush a start of 200m and then loses the race by 20 seconds. What is the speed of Piyush and Kaushik respectively ? If the ratio of respective speeds be 3:2",
-        "answer" : "20 m/s"
-    },
-    {
-        "question" : "You drive to the store at 20 kmph and return by the same route at 30 kmph. Discounting the time spent at the store, what was your average speed ?",
-        "answer" : "24 kmph"
+    "question": "A car completes a circular track of circumference 1500 meters in 5 minutes. What is its speed in meters per second?",
+    "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+    "answer": "5 m/s",
+    "explanation": "Speed = Distance / Time\nSpeed = 1500 meters / (5 * 60) seconds\nSpeed = 5 meters per second."
     }
 ]
