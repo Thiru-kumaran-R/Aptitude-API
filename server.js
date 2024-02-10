@@ -3,6 +3,8 @@ const bodyParser = require("body-parser");
 const path = require("path");
 const mongoose = require('mongoose')
 
+const MONGODB_URI = 'mongodb+srv://thiru:jjhtrF0HFn55rhrI@firstproject.27hr6ge.mongodb.net/questions'
+
 const aptQuestion = require("./routes/routes")
 
 const app = express();
@@ -18,7 +20,7 @@ app.get("/", (req, res, next) => {
 app.use("/", aptQuestion);
 
 mongoose
-    .connect('mongodb+srv://thiru:jjhtrF0HFn55rhrI@firstproject.27hr6ge.mongodb.net/questions')
+    .connect(MONGODB_URI)
     .then(result => {
         app.listen(port, () => `Server running on port ${port}` )
     })
