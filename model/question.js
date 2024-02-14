@@ -31,4 +31,14 @@ const SimpleAndInterest = mongoose.model('SimpleInterest', questionSchema);
 const SpeedTimeDistance = mongoose.model('SpeedTimeDistance', questionSchema);
 const Random = mongoose.model('Random', questionSchema);
 
-module.exports = { Age, Calendar, Mixture, Permutation, PipesAndCistern, ProfitAndLoss, SimpleAndInterest, SpeedTimeDistance, Random };
+module.exports = { 
+    Age, 
+    Calendar, 
+    Mixture, 
+    Permutation, 
+    PipesAndCistern,
+    ProfitAndLoss, 
+    SimpleAndInterest, 
+    SpeedTimeDistance, 
+    Random 
+};

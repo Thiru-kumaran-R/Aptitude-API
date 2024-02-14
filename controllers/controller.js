@@ -1,3 +1,5 @@
+const { validationResult } = require('express-validator');
+
 const Model = require('../model/question');
 
 exports.getAge = (req, res, next) => {
@@ -10,6 +12,33 @@ exports.getAge = (req, res, next) => {
             res.status(200).json(doc[0])
         })
         .catch(err => {
+            next(err)
+        })
+}
+
+exports.postAge = (req, res, next) => {
+    const question = req.body.question;
+    const answer = req.body.answer;
+    const options = req.body.options;
+    const explanation = req.body.explanation;
+
+    const age = new Model.Age({
+        question : question,
+        answer : answer,
+        options : options,
+        explanation : explanation
+    })
+    return age.save()
+        .then(result => {
+            res.status(201).json({
+                message : 'Question created successfully',
+                postedQuestion : age
+             })
+        })
+        .catch(err => {
+            if(!err.statusCode){
+                err.statusCode = 500;
+            }
             next(err)
         })
 }
@@ -27,6 +56,33 @@ exports.getRandom = (req, res, next) => {
             next(err)
         })
 };
+
+exports.postRandom = (req, res, next) => {
+    const question = req.body.question;
+    const answer = req.body.answer;
+    const options = req.body.options;
+    const explanation = req.body.explanation;
+
+    const random = new Model.Random({
+        question : question,
+        answer : answer,
+        options : options,
+        explanation : explanation
+    })
+    return random.save()
+        .then(result => {
+            res.status(201).json({
+                message : 'Question created successfully',
+                postedQuestion : random
+             })
+        })
+        .catch(err => {
+            if(!err.statusCode){
+                err.statusCode = 500;
+            }
+            next(err)
+        })
+}
 
 exports.getMixtureAndAlligation = (req, res, next) => {
     return Model.Mixture
