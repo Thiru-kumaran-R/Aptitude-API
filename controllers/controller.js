@@ -30,7 +30,12 @@ exports.postAge = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : age
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -71,7 +76,12 @@ exports.postRandom = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : random
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -112,7 +122,12 @@ exports.postMixtureAndAlligation = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : mixture
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -153,7 +168,12 @@ exports.postProfitAndLoss = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : profitAndLoss
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -194,7 +214,12 @@ exports.postPermutationAndCombination = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : permutationAndCombination
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -235,7 +260,12 @@ exports.postSpeedTimeDistance = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : speedTimeDistance
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -276,7 +306,12 @@ exports.postSimpleInterest = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : simpleInterest
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -317,7 +352,12 @@ exports.postCalendar = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : calendar
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
@@ -358,7 +398,12 @@ exports.postPipesAndCisterns = (req, res, next) => {
         .then(result => {
             res.status(201).json({
                 message : 'Question created successfully',
-                postedQuestion : pipesAndCistern
+                postedQuestion : {
+                    question : question,
+                    answer : answer,
+                    options : options,
+                    explanation : explanation
+                }
              })
         })
         .catch(err => {
