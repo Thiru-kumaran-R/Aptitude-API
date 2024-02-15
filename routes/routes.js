@@ -6,9 +6,9 @@ const validation = require('../validation/validation');
 const aptitudeController = require("../controllers/controller");
 
 //random routes
-router.get("/random", aptitudeController.getRandom);
+router.get("/Random", aptitudeController.getRandom);
 
-router.post('/random',validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postRandom);
+router.post('/Random',validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postRandom);
 
 //mixture and alligations routes
 router.get("/MixtureAndAlligation", aptitudeController.getMixtureAndAlligation);
@@ -41,8 +41,18 @@ router.get("/Calendar", aptitudeController.getCalendar);
 router.post("/Calendar",validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postCalendar);
 
 //Pipes and Cisterns routes
-router.get("/PipesAndCisterns", aptitudeController.getPipesAndCistern);
+router.get("/PipesAndCistern", aptitudeController.getPipesAndCistern);
 
-router.post("/PipesAndCisterns",validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postPipesAndCisterns);
+router.post("/PipesAndCistern",validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postPipesAndCisterns);
+
+// Speed Time Distance routes
+router.get('/SpeedTimeDistance', aptitudeController.getSpeedTimeDistance);
+
+router.post('/SpeedTimeDistance',validation.validateQuestion ,validation.handleValidationErrors, aptitudeController.postSpeedTimeDistance);
+
+//delete questions routes
+router.delete('/:model', aptitudeController.deleteQuestion);
+
+//modify questions routes
 
 module.exports = router;

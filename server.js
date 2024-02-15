@@ -23,9 +23,9 @@ app.use((error, req, res, next) => {
     const message = error.message;
     const statusCode = error.statusCode;
     if(error.field){
-        return res.json({message : message, statusCode : statusCode, field : error.field});
+        return res.status(statusCode).json({message : message, statusCode : statusCode, field : error.field});
     }
-    return res.json({message : message, statusCode : statusCode});
+    return res.status(statusCode).json({message : message, statusCode : statusCode});
 });
 
 mongoose

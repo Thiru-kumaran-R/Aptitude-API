@@ -1,3 +1,4 @@
+const mongoose = require('mongoose');
 const Model = require('../model/question');
 
 exports.getAge = (req, res, next) => {
@@ -93,7 +94,7 @@ exports.postRandom = (req, res, next) => {
 }
 
 exports.getMixtureAndAlligation = (req, res, next) => {
-    return Model.Mixture
+    return Model.MixtureAndAlligation
     .aggregate([
         { $sample : { size : 1 } },
         {$project : { _id : 0, _v : 0} }
@@ -112,7 +113,7 @@ exports.postMixtureAndAlligation = (req, res, next) => {
     const options = req.body.options;
     const explanation = req.body.explanation;
 
-    const mixture = new Model.Mixture({
+    const mixture = new Model.MixtureAndAlligation({
         question : question,
         answer : answer,
         options : options,
@@ -185,7 +186,7 @@ exports.postProfitAndLoss = (req, res, next) => {
 }
 
 exports.getPermutationAndCombination = (req, res, next) => {
-    return Model.Permutation
+    return Model.PermutationAndCombination
         .aggregate([
             { $sample : { size : 1 } },
             {$project : { _id : 0, _v : 0} }
@@ -204,7 +205,7 @@ exports.postPermutationAndCombination = (req, res, next) => {
     const options = req.body.options;
     const explanation = req.body.explanation;
 
-    const permutationAndCombination = new Model.Permutation({
+    const permutationAndCombination = new Model.PermutationAndCombination({
         question : question,
         answer : answer,
         options : options,
@@ -277,7 +278,7 @@ exports.postSpeedTimeDistance = (req, res, next) => {
 }
 
 exports.getSimpleInterest = (req, res, next) => {
-    return Model.SimpleAndInterest
+    return Model.SimpleInterest
         .aggregate([
             { $sample : { size : 1 } },
             {$project : { _id : 0, _v : 0} }
@@ -296,7 +297,7 @@ exports.postSimpleInterest = (req, res, next) => {
     const options = req.body.options;
     const explanation = req.body.explanation;
 
-    const simpleInterest = new Model.SimpleAndInterest({
+    const simpleInterest = new Model.SimpleInterest({
         question : question,
         answer : answer,
         options : options,
@@ -412,4 +413,34 @@ exports.postPipesAndCisterns = (req, res, next) => {
             }
             next(err)
         })
+}
+
+exports.deleteQuestion = (req, res, next) => {
+    const model = req.params.model;
+    const question = req.body.question;
+    if(model){
+       mongoose.model(model).findOneAndDelete({question : question})
+        .then(doc => {
+            if(!doc){
+                const error = new Error("Question not found");
+                error.statusCode = 404;
+                throw error;
+            }
+            res.json({
+                message : 'Question deleted successfully',
+                deletedQuestion : {
+                    question : doc.question,
+                    answer : doc.answer,
+                    options : doc.options,
+                    explanation : doc.explanation
+                }
+            });    
+        })
+        .catch(err => {
+            if(!err.statusCode){
+                err.statusCode = 500
+            }
+            next(err)
+        }); 
+    }
 }
