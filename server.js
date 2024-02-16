@@ -11,7 +11,7 @@ const app = express();
 
 const port = 3000;
 
-app.use(bodyParser.urlencoded({extended : true}))
+app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static(__dirname + '/public'));
 
 app.get("/", (req, res, next) => {
@@ -23,9 +23,9 @@ app.use((error, req, res, next) => {
     const message = error.message;
     const statusCode = error.statusCode;
     if(error.field){
-        return res.status(statusCode).json({message : message, statusCode : statusCode, field : error.field});
+        return res.json({message : message, statusCode : statusCode, field : error.field});
     }
-    return res.status(statusCode).json({message : message, statusCode : statusCode});
+    return res.json({message : message, statusCode : statusCode});
 });
 
 mongoose

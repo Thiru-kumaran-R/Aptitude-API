@@ -54,6 +54,6 @@ router.post('/SpeedTimeDistance',validation.validateQuestion ,validation.handleV
 router.delete('/:model', aptitudeController.deleteQuestion);
 
 //modify questions routes
-router.patch('/:model')
+router.patch('/:model', aptitudeController.updateQuestion);
 
 module.exports = router;

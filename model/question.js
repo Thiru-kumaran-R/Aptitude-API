@@ -13,7 +13,10 @@ const questionSchema = new Schema({
     },
     options : {
         type : [String],
-        required : true
+        required : true,
+        unique : true,
+        sparse : true,
+        index : true
     },
     explanation : {
         type : String,
