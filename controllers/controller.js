@@ -21,7 +21,6 @@ exports.postAge = async (req, res, next) => {
 
   try {
     const doc = await Model.Age.exists({ question: question });
-    console.log(doc);
     if (doc) {
       const error = new Error("Question Already exists");
       error.statusCode = 409;
@@ -33,8 +32,6 @@ exports.postAge = async (req, res, next) => {
       options: options,
       explanation: explanation,
     });
-    // age = JSON.parse(age);
-    console.log(age);
     await age.save();
     res.status(201).json({
       message: "Question created successfully",
@@ -73,7 +70,6 @@ exports.postRandom = async (req, res, next) => {
 
   try {
     const doc = await Model.Random.exists({ question: question });
-    console.log(doc);
     if (doc) {
       const error = new Error("Question Already exists");
       error.statusCode = 409;
@@ -511,6 +507,7 @@ exports.updateQuestion = async (req, res, next) => {
   try {
     const doc = await model.exists({ question: questionToBeUpdated });
     if (!doc) {
+      console.log(doc)
       const error = new Error("Question does not exists.");
       error.statusCode = 404;
       throw error;
