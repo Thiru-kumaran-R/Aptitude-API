@@ -1,169 +1,190 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style.css" />
     <title>Aptitude API</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <nav> 
-            <ul>
-                <a href="#overview"><li> Overview </li></a>
-                <a href="#guide"><li> Documentation </li></a>
-                <a href="#contribution"><li> Contribution </li></a>
-            </ul>
-
-        </nav>
+      <nav>
+        <ul>
+          <a href="#overview"><li>Overview</li></a>
+          <a href="#guide"><li>Documentation</li></a>
+          <a href="#contribution"><li>Contribution</li></a>
+        </ul>
+      </nav>
     </header>
 
-    
     <section id="overview">
-        <h1>APTITUDE API</h1>
-        <p>
-            Aptitude API is a free and open source API that generates aptitude questions based on your choice or randomly for each call. The topics that are currently available are : <span>Mixture and Alligation</span>
-            ,  <span>Profit and Loss</span> , <span>Pipes and Cisterns </span> , <span>Age</span> ,  <span>Permutation and Combination </span> , <span> Speed Time Distance</span> , <span>Simple Interest </span> , <span>Calendars</span>.
-            Each topic in this API contains <span>100+</span> questions.
-        </p>
+      <h1>APTITUDE API</h1>
+      <p>
+        Aptitude API is a free and open source API that generates aptitude
+        questions based on your choice or randomly for each call. The topics
+        that are currently available are : <span>Mixture and Alligation</span> ,
+        <span>Profit and Loss</span> , <span>Pipes and Cisterns </span> ,
+        <span>Age</span> , <span>Permutation and Combination </span> ,
+        <span> Speed Time Distance</span> , <span>Simple Interest </span> ,
+        <span>Calendars</span>. Each topic in this API contains
+        <span>100+</span> questions.
+      </p>
 
-        <div class="cmdline">
-            <a href="https://github.com/thirukumaran05/Aptitude-API">GITHUB</a> 
+      <div class="cmdline">
+        <a href="https://github.com/thirukumaran05/Aptitude-API">GITHUB</a>
 
-            <code> https://github.com/thirukumaran05/Aptitude-API </code>
-        </div>
-
+        <code> https://github.com/thirukumaran05/Aptitude-API </code>
+      </div>
     </section>
 
-
     <section id="guide">
+      <section id="api-endpoint">
+        <h2>API ENDPOINTS</h2>
 
-        <section id="api-endpoint">
-            <h2>API ENDPOINTS</h2>
-    
-            <div class="endpoints">
-                <button>GET</button>
-    
-                <p class="multiText"></p>
-            </div>
+        <div class="endpoints">
+          <button>GET</button>
 
-            <div class="endpoints">
-                <button>URL</button>
-    
-                <span> https://aptitude-api.vercel.app<p class="multiTexts"></p> </span>
-            </div>
-    
-        </section>
+          <p class="multiText"></p>
+        </div>
 
-        <section id="documentation">
+        <div class="endpoints">
+          <button>URL</button>
 
-            <div class="request">
+          <span>
+            https://aptitude-api.vercel.app
+            <p class="multiTexts"></p>
+          </span>
+        </div>
+      </section>
 
-                <div class="top-bar">
-                    <div class="red"></div>
-                    <div class="yellow"></div>
-                    <div class="green"></div>
-                </div>
+      <section id="documentation">
+        <div class="request">
+          <div class="top-bar">
+            <div class="red"></div>
+            <div class="yellow"></div>
+            <div class="green"></div>
+          </div>
 
-                <hr>
+          <hr />
 
-                <code>
-                        fetch('url')
-                        .then(response => {
-                            <br>&nbsp;&nbsp;&nbsp;//handle response            
-                            &nbsp;&nbsp;&nbsp;console.log(response);
-                        <br/>})
-                        .then(data => {
-                            <br>&nbsp;&nbsp;&nbsp;//handle data
-                            &nbsp;&nbsp;&nbsp;console.log(data);
-                            <br/>})
-                        .catch(error => {
-                            <br>&nbsp;&nbsp;&nbsp;//handle error
-                            <br/>});
-                </code>
+          <code>
+            fetch('url') .then(response => {
+            <br />&nbsp;&nbsp;&nbsp;//handle response
+            &nbsp;&nbsp;&nbsp;console.log(response); <br />}) .then(data => {
+            <br />&nbsp;&nbsp;&nbsp;//handle data
+            &nbsp;&nbsp;&nbsp;console.log(data); <br />}) .catch(error => {
+            <br />&nbsp;&nbsp;&nbsp;//handle error <br />});
+          </code>
+        </div>
 
-            </div>
+        <div class="response">
+          <div class="top-bar">
+            <div class="red"></div>
+            <div class="yellow"></div>
+            <div class="green"></div>
+          </div>
 
-            <div class="response">
+          <hr />
 
-                <div class="top-bar">
-                    <div class="red"></div>
-                    <div class="yellow"></div>
-                    <div class="green"></div>
-                </div>
-
-                <hr>
-
-                <code>
-                    {
-                        <br>
-                        "question" : "If Thiru was one-third as old as Raja 5 years back and Thiru is 17 years old now, How old is Raja now?",
-                        <br>
-                        
-                        "answer" : "41"
-                        <br>
-                    }
-                </code>
-
-            </div>
-        </section>
-
+          <code>
+            {
+            <br />
+            question: "The sum of ages of A and B is 45 years. If the ratio of
+            their ages is 5:3, what is B's age?",
+            <br />
+            answer: "18 years",
+            <br />
+            options: ["15 years", "18 years", "20 years", "25 years"],
+            <br />
+            explanation: "Let the ages of A and B be 5x and 3x, respectively.
+            Given that 5x + 3x = 45. Solving this equation gives x = 5. Hence,
+            B's age = 3 * 5 = 15 years."
+            <br />
+            }
+          </code>
+        </div>
+      </section>
     </section>
 
     <section id="contribution">
-
-        <section class="contribution-details">
-
-            <h2>Contribution</h2>
+      <section class="contribution-details">
+        <h2>Contribution</h2>
 
         <div class="fork">
-            <h3>Fork this Repository</h3>
+          <h3>
+            Questions can be contributed via post request to specific Aptitute
+            Topic
+          </h3>
 
-            <div class="cmd-line">
-                <code>gh repo fork https://github.com/thirukumaran05/Aptitude-API.git</code>
-            </div>
+          <div class="cmd-line">
+            <code>
+            Post Route : https://aptitude-api.vercel.app/[APTITUDE TOPIC]
+            </code>
+          </div>
         </div>
 
-        <br>
+        <!-- <br />
 
         <h3>After adding new question or Fixing Errors</h3>
 
-        <br>
+        <br /> -->
 
-        <div class="pull">
-            <h3>Pull this Repository</h3>
+        <!-- <div class="pull">
+          <h3>Pull this Repository</h3>
 
-            <div class="cmd-line">
-                <code>hub pull-request -b original-repo:main -h your-username:new-feature-branch -m "Description of your changes"</code>
-            </div>
-        </div>
-
-        </section>
-
+          <div class="cmd-line">
+            <code
+              >hub pull-request -b original-repo:main -h
+              your-username:new-feature-branch -m "Description of your
+              changes"</code
+            >
+          </div>
+        </div> -->
+      </section>
     </section>
 
     <footer>
-        <p>Made with&nbsp;&nbsp; <span>🤍</span> &nbsp;&nbsp;by Thirukumaran</p>
+      <p>Made with&nbsp;&nbsp; <span>🤍</span> &nbsp;&nbsp;by Thirukumaran</p>
     </footer>
-    
+
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 
     <script>
-        var typingEffect = new Typed(".multiText", {
-            strings : ["/Age", "/Calendars", "/MixtureAndAlligation", "/PermutationAndCombination", "/PipesAndCisterns", "/ProfitAndLoss", "/random", "/SimpleInterest", "/SpeedTimeDistance"] ,
-            loop : true,
-            typeSpeed : 200,
-            backSpeed : 200,
-            backDelay : 1900
-        })
+      var typingEffect = new Typed(".multiText", {
+        strings: [
+          "/Age",
+          "/Calendars",
+          "/MixtureAndAlligation",
+          "/PermutationAndCombination",
+          "/PipesAndCisterns",
+          "/ProfitAndLoss",
+          "/Random",
+          "/SimpleInterest",
+          "/SpeedTimeDistance",
+        ],
+        loop: true,
+        typeSpeed: 200,
+        backSpeed: 200,
+        backDelay: 1900,
+      });
 
-        var typingEffect = new Typed(".multiTexts", {
-            strings : ["/Age", "/Calendars", "/MixtureAndAlligation", "/PermutationAndCombination", "/PipesAndCisterns", "/ProfitAndLoss", "/random", "/SimpleInterest", "/SpeedTimeDistance"] ,
-            loop : true,
-            typeSpeed : 200,
-            backSpeed : 200,
-            backDelay : 1900
-        })
+      var typingEffect = new Typed(".multiTexts", {
+        strings: [
+          "/Age",
+          "/Calendars",
+          "/MixtureAndAlligation",
+          "/PermutationAndCombination",
+          "/PipesAndCisterns",
+          "/ProfitAndLoss",
+          "/Random",
+          "/SimpleInterest",
+          "/SpeedTimeDistance",
+        ],
+        loop: true,
+        typeSpeed: 200,
+        backSpeed: 200,
+        backDelay: 1900,
+      });
     </script>
-</body>
+  </body>
 </html>
