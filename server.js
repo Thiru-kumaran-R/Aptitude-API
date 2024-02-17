@@ -37,7 +37,7 @@ app.use((error, req, res, next) => {
 mongoose
     .connect(MONGODB_URI)
     .then(result => {
-        app.listen(port, () => `Server running on port ${port}` )
+        app.listen(process.env.PORT || 3000, () => `Server running on port ${process.env.PORT || 3000}` )
     })
     .catch(err => {
         console.log(err);
