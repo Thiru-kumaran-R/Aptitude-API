@@ -19,7 +19,7 @@ Aptitude API is a free API that generates aptitude questions based on your choic
 #### Get all aptitude questions
 
 ```bash
- https://aptitude-api.vercel.app/random
+ https://aptitude-api.vercel.app/Random
 ```
 
 #### Get questions only on Mixture and Alligation topic
