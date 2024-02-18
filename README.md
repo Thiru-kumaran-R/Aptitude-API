@@ -1,6 +1,9 @@
 # APTITUDE API 
 
-Aptitude API is a free and open source API that generates aptitude questions based on your choice for each call. The topics that are currently available are :
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/thirukumaran05/Aptitude-API?tab=MIT-1-ov-file)
+
+Aptitude API is a free API that generates aptitude questions based on your choice for each call. Each topic in this Aptitude API has more than 100 questions. Topics that are currently available in this API are :
+
 * Mixture and Alligation
 * Profit and Loss
 * Pipes and Cisterns
@@ -10,107 +13,108 @@ Aptitude API is a free and open source API that generates aptitude questions bas
 * Simple Interest
 * Calendars
 
-## API Servers
-
-```bash
-  https://aptitude-hc9zllp5h-thirukumarans-projects.vercel.app/
-```
-
     
 ## API Reference
 
-#### Get all aptitude questions
+| END POINT (GET, POST, PATCH, DELETE)                      | DESCRIPTION                                                    |
+| :---------------------------------------------------------|:-------------------------------------------------------------- |
+|https://aptitude-api.vercel.app/Age                        | Provides Age related Aptitude Question                         |
+|https://aptitude-api.vercel.app/Random                     |Provides random Aptitude Question                               |
+|https://aptitude-api.vercel.app/Calendar                   |Provides Calendar related Aptitude Question                     |
+|https://aptitude-api.vercel.app/ProfitAndLoss              |Provides Profit and Loss related Aptitude Question              |
+|https://aptitude-api.vercel.app/SimpleInterest             |Provides Simple Interest related Aptitude Question              |
+|https://aptitude-api.vercel.app/PipesAndCistern            |Provides Pipes And Cistern related Aptitude Question            |
+|https://aptitude-api.vercel.app/SpeedTimeDistance          |Provides Aptitude Question based on Speed,Time and Distance     |
+|https://aptitude-api.vercel.app/MixtureAndAlligation       |Provides Aptitude Question based on Mixture and Alligation      |
+|https://aptitude-api.vercel.app/PermutationAndCombination  |Provides Aptitude Question based on Permutation and combination |
 
-```bash
- https://aptitude-api.vercel.app/random
+## Documentation
+
+For more reference follow this [Documentation](https://aptitude-api.vercel.app/)
+
+
+## Examples
+
+### GET
+
+```javascript
+fetch('https://aptitude-api.vercel.app/Age')
+  .then(response => {
+    console.log(response.json());
+  });
 ```
 
-#### Get questions only on Mixture and Alligation topic
+### POST
 
-```bash
-  https://aptitude-api.vercel.app/MixtureAndAlligation
+```javascript
+fetch('https://aptitude-api.vercel.app/Age', {
+  method : 'POST',
+  body : JSON.stringify({
+      question: "The sum of ages of A and B is 45 years. If the ratio of their ages is 5:3, what is B's age?",
+      answer: "18 years",
+      options: ["15 years", "18 years", "20 years", "25 years"],
+      explanation: "Let the ages of A and B be 5x and 3x, respectively. Given that 5x + 3x = 45. Solving this equation gives x = 5. Hence, B's age = 3 * 5 = 15 years."
+    }),
+  headers : {
+    'Content-Type' : 'application/json ; charset=UTF-8'
+  }
+})
+  .then(response => {
+    console.log(response.json());
+  })
 ```
 
+### PATCH
 
-#### Get questions only on Age topic
-
-```bash
-  https://aptitude-api.vercel.app/Age
+```javascript
+fetch('https://aptitude-api.vercel.app/Age', {
+  method : 'PATCH',
+  body : JSON.stringify({
+      questionToBeUpdated : "The sum of ages of B and A is 45 years. If the ratio of their ages is 5:3, what is B's age?",
+      question: "The sum of ages of A and B is 45 years. If the ratio of their ages is 5:3, what is B's age?",
+      answer: "18 years",
+      options: ["15 years", "18 years", "20 years", "25 years"],
+      explanation: "Let the ages of A and B be 5x and 3x, respectively. Given that 5x + 3x = 45. Solving this equation gives x = 5. Hence, B's age = 3 * 5 = 15 years."
+    }),
+  headers : {
+    'Content-Type' : 'application/json ; charset=UTF-8'
+  }
+})
+  .then(response => {
+    console.log(response.json());
+  })
 ```
 
-#### Get questions only on Permutation and Combination topic
+### DELETE
 
-```bash
-  https://aptitude-api.vercel.app/PermutationAndCombination
+```javascript
+fetch('https://aptitude-api.vercel.app/Age', {
+  method : 'DELETE',
+  body : JSON.stringify({
+      question: "The sum of ages of A and B is 45 years. If the ratio of their ages is 5:3, what is B's age?"
+    });
+})
+  .then(response => {
+    console.log(response.json());
+  })
 ```
-
-
-#### Get questions only on Profit and Loss topic
-
-```bash
-  https://aptitude-api.vercel.app/ProfitAndLoss
-```
-
-#### Get questions only on Pipes and Cisterns topic
-
-```bash
-  https://aptitude-api.vercel.app/PipesAndCisterns
-```
-#### Get questions only on Speed Time Distance topic
-
-```bash
-  https://aptitude-api.vercel.app/SpeedTimeDistance
-```
-#### Get questions only on Calendars topic
-
-```bash
-  https://aptitude-api.vercel.app/Calendar
-```
-#### Get questions only on Simple Interest topic
-
-```bash
-  https://aptitude-api.vercel.app/SimpleInterest
-```
-
-
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/thirukumaran05/Aptitude-API.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-
-
-## Screenshots
-![App Screenshot](https://github.com/thirukumaran05/Aptitude-API/blob/main/images/demo.png)
 
 
 ## Contributing
 
 Contributions are always welcome!
 
-* Fork the Repository
+You can contribute aptitude questions by submitting a post request to that route on a certain topic.The following format should be used for each question.
 
-* Add new Questions/Fix Errors
+```javascript
+ {
+    question: "If Alice is 5 years older than Bob, and the sum of their ages is 35, how old is Alice?",
+    answer: "20",
+    options: ["20", "25", "30", "35"],
+    explanation: "Let Bob's age be x. Then Alice's age is x + 5. Given that x + (x + 5) = 35. Solving this equation, we find x = 15, so Alice is x + 5 = 20 years old."
+  }
+```
+Make sure to verify the clarity of the explanation and the query.
 
-* Submit Pull request
+## Screenshots
+![App Screenshot](https://github.com/thirukumaran05/Aptitude-API/blob/main/images/demo.png)
