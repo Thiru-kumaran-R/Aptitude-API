@@ -14,19 +14,60 @@ Aptitude API is a free API that generates aptitude questions based on your choic
 * Calendars
 
     
-## API Reference
+## End Points
 
-| END POINT (GET, POST, PATCH, DELETE)                      | DESCRIPTION                                                    |
-| :---------------------------------------------------------|:-------------------------------------------------------------- |
-|https://aptitude-api.vercel.app/Age                        | Provides Age related Aptitude Question                         |
-|https://aptitude-api.vercel.app/Random                     |Provides random Aptitude Question                               |
-|https://aptitude-api.vercel.app/Calendar                   |Provides Calendar related Aptitude Question                     |
-|https://aptitude-api.vercel.app/ProfitAndLoss              |Provides Profit and Loss related Aptitude Question              |
-|https://aptitude-api.vercel.app/SimpleInterest             |Provides Simple Interest related Aptitude Question              |
-|https://aptitude-api.vercel.app/PipesAndCistern            |Provides Pipes And Cistern related Aptitude Question            |
-|https://aptitude-api.vercel.app/SpeedTimeDistance          |Provides Aptitude Question based on Speed,Time and Distance     |
-|https://aptitude-api.vercel.app/MixtureAndAlligation       |Provides Aptitude Question based on Mixture and Alligation      |
-|https://aptitude-api.vercel.app/PermutationAndCombination  |Provides Aptitude Question based on Permutation and combination |
+#### Get all aptitude questions
+
+```bash
+ https://aptitude-api.vercel.app/random
+```
+
+#### Get questions only on Mixture and Alligation topic
+
+```bash
+  https://aptitude-api.vercel.app/MixtureAndAlligation
+```
+
+
+#### Get questions only on Age topic
+
+```bash
+  https://aptitude-api.vercel.app/Age
+```
+
+#### Get questions only on Permutation and Combination topic
+
+```bash
+  https://aptitude-api.vercel.app/PermutationAndCombination
+```
+
+
+#### Get questions only on Profit and Loss topic
+
+```bash
+  https://aptitude-api.vercel.app/ProfitAndLoss
+```
+
+#### Get questions only on Pipes and Cisterns topic
+
+```bash
+  https://aptitude-api.vercel.app/PipesAndCisterns
+```
+#### Get questions only on Speed Time Distance topic
+
+```bash
+  https://aptitude-api.vercel.app/SpeedTimeDistance
+```
+#### Get questions only on Calendars topic
+
+```bash
+  https://aptitude-api.vercel.app/Calendar
+```
+#### Get questions only on Simple Interest topic
+
+```bash
+  https://aptitude-api.vercel.app/SimpleInterest
+```
 
 ## Documentation
 
