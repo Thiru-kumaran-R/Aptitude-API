@@ -507,7 +507,7 @@ exports.updateQuestion = async (req, res, next) => {
   try {
     const doc = await model.exists({ question: questionToBeUpdated });
     if (!doc) {
-      console.log(doc)
+      console.log(doc);
       const error = new Error("Question does not exists.");
       error.statusCode = 404;
       throw error;
