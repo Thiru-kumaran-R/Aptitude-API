@@ -51,7 +51,7 @@ Aptitude API is a free API that generates aptitude questions based on your choic
 #### Get questions only on Pipes and Cisterns topic
 
 ```bash
-  https://aptitude-api.vercel.app/PipesAndCisterns
+  https://aptitude-api.vercel.app/PipesAndCistern
 ```
 #### Get questions only on Speed Time Distance topic
 
