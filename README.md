@@ -126,19 +126,7 @@ fetch('https://aptitude-api.vercel.app/Age', {
   })
 ```
 
-### DELETE
 
-```javascript
-fetch('https://aptitude-api.vercel.app/Age', {
-  method : 'DELETE',
-  body : JSON.stringify({
-      question: "The sum of ages of A and B is 45 years. If the ratio of their ages is 5:3, what is B's age?"
-    });
-})
-  .then(response => {
-    console.log(response.json());
-  })
-```
 
 
 ## Contributing
