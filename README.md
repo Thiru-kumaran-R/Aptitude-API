@@ -19,59 +19,59 @@ Aptitude API is a free API that generates aptitude questions based on your choic
 #### Get all aptitude questions
 
 ```bash
- https://aptitude-api.vercel.app/Random
+ https://aptitude-gold.vercel.app/Random
 ```
 
 #### Get questions only on Mixture and Alligation topic
 
 ```bash
-  https://aptitude-api.vercel.app/MixtureAndAlligation
+  https://aptitude-gold.vercel.app/MixtureAndAlligation
 ```
 
 
 #### Get questions only on Age topic
 
 ```bash
-  https://aptitude-api.vercel.app/Age
+  https://aptitude-gold.vercel.app/Age
 ```
 
 #### Get questions only on Permutation and Combination topic
 
 ```bash
-  https://aptitude-api.vercel.app/PermutationAndCombination
+  https://aptitude-gold.vercel.app/PermutationAndCombination
 ```
 
 
 #### Get questions only on Profit and Loss topic
 
 ```bash
-  https://aptitude-api.vercel.app/ProfitAndLoss
+  https://aptitude-gold.vercel.app/ProfitAndLoss
 ```
 
 #### Get questions only on Pipes and Cisterns topic
 
 ```bash
-  https://aptitude-api.vercel.app/PipesAndCistern
+  https://aptitude-gold.vercel.app/PipesAndCistern
 ```
 #### Get questions only on Speed Time Distance topic
 
 ```bash
-  https://aptitude-api.vercel.app/SpeedTimeDistance
+  https://aptitude-gold.vercel.app/SpeedTimeDistance
 ```
 #### Get questions only on Calendars topic
 
 ```bash
-  https://aptitude-api.vercel.app/Calendar
+  https://aptitude-gold.vercel.app/Calendar
 ```
 #### Get questions only on Simple Interest topic
 
 ```bash
-  https://aptitude-api.vercel.app/SimpleInterest
+  https://aptitude-gold.vercel.app/SimpleInterest
 ```
 
 ## Documentation
 
-For more reference follow this [Documentation](https://aptitude-api.vercel.app/)
+For more reference follow this [Documentation](https://aptitude-gold.vercel.app)
 
 
 ## Examples
@@ -79,7 +79,7 @@ For more reference follow this [Documentation](https://aptitude-api.vercel.app/)
 ### GET
 
 ```javascript
-fetch('https://aptitude-api.vercel.app/Age')
+fetch('https://aptitude-gold.vercel.app/Age')
   .then(response => {
     console.log(response.json());
   });
@@ -88,7 +88,7 @@ fetch('https://aptitude-api.vercel.app/Age')
 ### POST
 
 ```javascript
-fetch('https://aptitude-api.vercel.app/Age', {
+fetch('https://aptitude-gold.vercel.app/Age', {
   method : 'POST',
   body : JSON.stringify({
       question: "The sum of ages of A and B is 45 years. If the ratio of their ages is 5:3, what is B's age?",
@@ -108,7 +108,7 @@ fetch('https://aptitude-api.vercel.app/Age', {
 ### PATCH
 
 ```javascript
-fetch('https://aptitude-api.vercel.app/Age', {
+fetch('https://aptitude-gold.vercel.app/Age', {
   method : 'PATCH',
   body : JSON.stringify({
       questionToBeUpdated : "The sum of ages of B and A is 45 years. If the ratio of their ages is 5:3, what is B's age?",
